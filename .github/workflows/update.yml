@@ -1,0 +1,46 @@
+name: Update AI report
+
+on:
+  schedule:
+    - cron: "0 6 * * *"    # daily 06:00 UTC — refreshes daily top story + news
+    - cron: "0 7 * * 1"    # Mondays 07:00 UTC — weekly report emphasis
+  workflow_dispatch: {}     # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-report
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install deps
+        run: npm install --no-audit --no-fund
+
+      - name: Generate report
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
+          REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+        run: npm run generate
+
+      - name: Commit data
+        run: |
+          git config user.name "ai-report-bot"
+          git config user.email "actions@github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "data: update $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
