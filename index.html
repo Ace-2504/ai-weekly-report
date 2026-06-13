@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AI Weekly Report — India & International</title>
+<meta name="description" content="Daily top AI story (global & India) and an auto-generated weekly AI report, with a section for students." />
+<style>
+  :root{
+    --bg:#0b0e14; --panel:#11151f; --panel-2:#161b27; --border:#222a3a;
+    --text:#e7ecf3; --muted:#8b97ad; --accent:#6c8cff; --accent-soft:#1d2540;
+    --india:#ff9d3c; --india-soft:#2a1f12; --radius:14px; --maxw:960px;
+  }
+  @media (prefers-color-scheme: light){
+    :root{ --bg:#f6f7fb; --panel:#ffffff; --panel-2:#f1f3f9; --border:#e3e7f0;
+      --text:#1a2233; --muted:#5b6678; --accent:#3a5bdc; --accent-soft:#e8edff;
+      --india:#c2660a; --india-soft:#fff1e0; }
+  }
+  *{box-sizing:border-box} html,body{margin:0;padding:0}
+  body{background:var(--bg); color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Helvetica,Arial,sans-serif;
+    line-height:1.55; -webkit-font-smoothing:antialiased;}
+  .wrap{max-width:var(--maxw); margin:0 auto; padding:28px 20px 80px}
+  header.site{display:flex; align-items:baseline; justify-content:space-between; gap:16px; flex-wrap:wrap; margin-bottom:6px}
+  .brand{display:flex; align-items:center; gap:11px}
+  .logo{width:34px;height:34px;border-radius:9px;background:linear-gradient(135deg,var(--accent),var(--india));display:flex;align-items:center;justify-content:center;font-weight:700;color:#fff;font-size:18px}
+  h1{font-size:20px; margin:0; letter-spacing:-0.01em}
+  .sub{color:var(--muted); font-size:13px; margin:2px 0 0}
+  .updated{color:var(--muted); font-size:12px; white-space:nowrap}
+  .stats{display:grid; grid-template-columns:repeat(4,1fr); gap:10px; margin:22px 0 26px}
+  .stat{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:13px 14px}
+  .stat .n{font-size:22px; font-weight:700; letter-spacing:-0.02em}
+  .stat .l{font-size:11px; color:var(--muted); text-transform:uppercase; letter-spacing:0.06em; margin-top:2px}
+  @media (max-width:640px){ .stats{grid-template-columns:repeat(2,1fr)} }
+  .section-label{font-size:12px; text-transform:uppercase; letter-spacing:0.08em; color:var(--muted); margin:26px 0 10px; font-weight:600}
+  .heroes{display:grid; grid-template-columns:1fr 1fr; gap:16px}
+  @media (max-width:720px){ .heroes{grid-template-columns:1fr} }
+  .hero{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:20px 20px 18px; position:relative; overflow:hidden}
+  .hero::before{content:""; position:absolute; inset:0 auto 0 0; width:4px; background:var(--accent)}
+  .hero.india::before{background:var(--india)}
+  .hero .badge{display:inline-block; font-size:11px; font-weight:600; letter-spacing:0.06em; text-transform:uppercase; color:var(--accent); background:var(--accent-soft); padding:4px 9px; border-radius:999px; margin-bottom:11px}
+  .hero.india .badge{color:var(--india); background:var(--india-soft)}
+  .hero h2{font-size:19px; line-height:1.28; margin:0 0 9px; letter-spacing:-0.01em}
+  .hero h2 a{color:inherit; text-decoration:none} .hero h2 a:hover{text-decoration:underline}
+  .hero p{margin:0 0 12px; color:var(--text); font-size:14px}
+  .hero .meta{font-size:12px; color:var(--muted)} .hero .meta a{color:var(--accent); text-decoration:none}
+  .grid-2{display:grid; grid-template-columns:1.15fr 0.85fr; gap:20px; align-items:start}
+  @media (max-width:760px){ .grid-2{grid-template-columns:1fr} }
+  .panel-card{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:20px 22px}
+  .report .rsec{margin-bottom:18px}
+  .report h3{font-size:15px; margin:0 0 8px; letter-spacing:-0.01em}
+  .report h3 .flag{font-size:11px; color:var(--india); margin-left:6px}
+  .report .item{padding:10px 0; border-top:1px solid var(--border)}
+  .report .item:first-of-type{border-top:none}
+  .report .item .t{font-size:14px; font-weight:600; margin:0}
+  .report .item .t a{color:var(--text); text-decoration:none} .report .item .t a:hover{color:var(--accent)}
+  .report .item .d{font-size:13px; color:var(--muted); margin:3px 0 0}
+  .report .item .s{font-size:11.5px; color:var(--muted); margin-top:4px}
+  .feed .row{display:block; padding:12px 0; border-top:1px solid var(--border); text-decoration:none; color:inherit}
+  .feed .row:first-child{border-top:none}
+  .feed .row .ft{font-size:13.5px; font-weight:600; margin:0; line-height:1.35}
+  .feed .row:hover .ft{color:var(--accent)}
+  .feed .row .fm{font-size:11.5px; color:var(--muted); margin-top:4px; display:flex; gap:8px}
+  .feed .row .src{color:var(--accent)}
+  .intro{color:var(--muted); font-size:14px; margin:0 0 4px}
+  /* Student section */
+  .student{border:1px solid var(--border); border-radius:var(--radius); background:var(--panel); padding:22px}
+  .student .res{display:grid; grid-template-columns:repeat(2,1fr); gap:10px; margin-top:6px}
+  @media (max-width:640px){ .student .res{grid-template-columns:1fr} }
+  .res a{display:block; text-decoration:none; color:inherit; border:1px solid var(--border); border-radius:11px; padding:12px 13px; background:var(--panel-2)}
+  .res a:hover{border-color:var(--accent)}
+  .res .rn{font-size:13.5px; font-weight:600}
+  .res .rd{font-size:12px; color:var(--muted); margin-top:3px}
+  .res .pill{display:inline-block; font-size:10px; font-weight:600; letter-spacing:0.04em; text-transform:uppercase; padding:2px 7px; border-radius:999px; margin-top:8px; color:var(--accent); background:var(--accent-soft)}
+  .res .pill.India{color:var(--india); background:var(--india-soft)}
+  .res .pill.Tools{color:var(--muted); background:var(--panel)}
+  .student .news{margin-top:16px}
+  .student .news h4{font-size:13px; text-transform:uppercase; letter-spacing:0.06em; color:var(--muted); margin:0 0 6px}
+  footer{margin-top:40px; padding-top:18px; border-top:1px solid var(--border); color:var(--muted); font-size:12.5px; display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap}
+  footer a{color:var(--accent); text-decoration:none}
+  .loading{color:var(--muted); font-size:14px; padding:8px 0}
+  .err{color:#ff8585; font-size:13px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="site">
+    <div class="brand">
+      <div class="logo">AI</div>
+      <div><h1>AI Weekly Report</h1><p class="sub">India &amp; international AI news &middot; updated daily &middot; built for students</p></div>
+    </div>
+    <div class="updated" id="updated">&mdash;</div>
+  </header>
+
+  <section class="stats" id="stats">
+    <div class="stat"><div class="n" id="st-days">&mdash;</div><div class="l">Days Tracked</div></div>
+    <div class="stat"><div class="n" id="st-week">&mdash;</div><div class="l">Items This Week</div></div>
+    <div class="stat"><div class="n" id="st-india">&mdash;</div><div class="l">India Items</div></div>
+    <div class="stat"><div class="n" id="st-update">&mdash;</div><div class="l">Last Update</div></div>
+  </section>
+
+  <p class="section-label">Top AI story of the day</p>
+  <div class="heroes">
+    <div class="hero" id="hero-global"><div class="loading">Loading global headline&hellip;</div></div>
+    <div class="hero india" id="hero-india"><div class="loading">Loading India headline&hellip;</div></div>
+  </div>
+
+  <p class="section-label">This week's AI report</p>
+  <div class="grid-2">
+    <div class="panel-card report" id="report"><div class="loading">Loading weekly report&hellip;</div></div>
+    <div class="panel-card feed" id="feed"><div class="loading">Loading news&hellip;</div></div>
+  </div>
+
+  <p class="section-label">For students</p>
+  <div class="student" id="student"><div class="loading">Loading student resources&hellip;</div></div>
+
+  <footer>
+    <span>Auto-updated by GitHub Actions &middot; global + Indian sources (TechCrunch, The Verge, arXiv, Analytics India Mag, Inc42, ET Tech &amp; more)</span>
+    <span><a id="src-link" href="#" target="_blank" rel="noopener">View source</a></span>
+  </footer>
+</div>
+
+<script>
+const DATA="./data"; const bust=()=>"?t="+Date.now();
+async function getJSON(p){ const r=await fetch(`${DATA}/${p}${bust()}`,{cache:"no-store"}); if(!r.ok) throw new Error(p+" "+r.status); return r.json(); }
+function fmtDate(iso){ if(!iso) return "—"; try{return new Date(iso).toLocaleDateString(undefined,{month:"short",day:"numeric"});}catch(e){return iso;} }
+function timeAgo(iso){ if(!iso) return "—"; const s=(Date.now()-new Date(iso).getTime())/1000;
+  if(s<3600) return Math.max(1,Math.round(s/60))+"m ago"; if(s<86400) return Math.round(s/3600)+"h ago"; return Math.round(s/86400)+"d ago"; }
+function esc(t){const d=document.createElement("div");d.textContent=t==null?"":t;return d.innerHTML;}
+
+function heroHTML(t,label){
+  if(!t) return `<span class="badge">${label}</span><div class="loading">No story yet.</div>`;
+  return `<span class="badge">${label}</span>
+    <h2>${t.url?`<a href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.title)}</a>`:esc(t.title)}</h2>
+    <p>${esc(t.summary||"")}</p>
+    <div class="meta">${esc(t.source||"")}${t.published?" · "+esc(fmtDate(t.published)):""} ${t.url?`· <a href="${esc(t.url)}" target="_blank" rel="noopener">Read ↗</a>`:""}</div>`;
+}
+
+async function loadStats(){
+  try{ const s=await getJSON("index.json");
+    document.getElementById("st-days").textContent=s.daysTracked ?? "—";
+    document.getElementById("st-week").textContent=s.itemsThisWeek ?? "—";
+    document.getElementById("st-india").textContent=s.indiaThisWeek ?? "—";
+    document.getElementById("st-update").textContent=timeAgo(s.lastUpdate);
+    document.getElementById("updated").textContent="Updated "+timeAgo(s.lastUpdate);
+    if(s.repoUrl) document.getElementById("src-link").href=s.repoUrl;
+  }catch(e){}
+}
+async function loadDaily(){
+  const g=document.getElementById("hero-global"), i=document.getElementById("hero-india"), feed=document.getElementById("feed");
+  try{ const d=await getJSON("daily.json");
+    g.innerHTML=heroHTML(d.top, "🌐 Global · "+fmtDate(d.date));
+    i.innerHTML=heroHTML(d.topIndia, "🇮🇳 India · "+fmtDate(d.date));
+    const items=(d.headlines||[]).slice(0,12);
+    feed.innerHTML=items.length?items.map(h=>`
+      <a class="row" href="${esc(h.url)}" target="_blank" rel="noopener">
+        <p class="ft">${esc(h.title)}</p>
+        <div class="fm"><span class="src">${esc(h.source||"")}</span><span>${esc(fmtDate(h.published))}</span></div>
+      </a>`).join(""):`<div class="loading">No headlines yet.</div>`;
+  }catch(e){
+    g.innerHTML=`<div class="err">Data populates on the first scheduled run.</div>`; i.innerHTML=""; feed.innerHTML="";
+  }
+}
+async function loadWeekly(){
+  const el=document.getElementById("report");
+  try{ const w=await getJSON("weekly.json"); let html="";
+    if(w.weekOf) html+=`<p class="intro">Week of ${esc(w.weekOf)}</p>`;
+    if(w.intro) html+=`<p class="intro">${esc(w.intro)}</p>`;
+    (w.sections||[]).forEach(sec=>{
+      if(!sec.items||!sec.items.length) return;
+      const india=/india/i.test(sec.heading);
+      html+=`<div class="rsec"><h3>${esc(sec.heading)}${india?'<span class="flag">🇮🇳</span>':''}</h3>`;
+      sec.items.forEach(it=>{ html+=`<div class="item">
+        <p class="t">${it.url?`<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>`:esc(it.title)}</p>
+        ${it.summary?`<p class="d">${esc(it.summary)}</p>`:""}
+        ${it.source?`<div class="s">${esc(it.source)}</div>`:""}</div>`; });
+      html+=`</div>`;
+    });
+    el.innerHTML=html||`<div class="loading">No report generated yet.</div>`;
+    loadStudent(w.student);
+  }catch(e){ el.innerHTML=`<div class="err">Weekly report not generated yet.</div>`; loadStudent(null); }
+}
+function loadStudent(st){
+  const el=document.getElementById("student");
+  const res=(st&&st.resources)||[];
+  let html=`<p class="intro">Free, hand-picked learning resources (global &amp; India) plus this week's student-relevant news.</p>`;
+  html+=`<div class="res">`+res.map(r=>`
+    <a href="${esc(r.url)}" target="_blank" rel="noopener">
+      <div class="rn">${esc(r.name)}</div><div class="rd">${esc(r.desc)}</div>
+      <span class="pill ${esc(r.tag)}">${esc(r.tag)}</span>
+    </a>`).join("")+`</div>`;
+  const news=(st&&st.news)||[];
+  if(news.length){
+    html+=`<div class="news"><h4>Student-relevant news this week</h4>`+news.map(n=>`
+      <a class="row" href="${esc(n.url)}" target="_blank" rel="noopener" style="display:block;padding:9px 0;border-top:1px solid var(--border);text-decoration:none;color:inherit">
+        <p class="ft" style="font-size:13.5px;font-weight:600;margin:0">${esc(n.title)}</p>
+        <div class="fm" style="font-size:11.5px;color:var(--muted);margin-top:3px"><span class="src" style="color:var(--accent)">${esc(n.source||"")}</span> · ${esc(fmtDate(n.published))}</div>
+      </a>`).join("")+`</div>`;
+  }
+  el.innerHTML=html;
+}
+loadStats(); loadDaily(); loadWeekly();
+</script>
+</body>
+</html>
