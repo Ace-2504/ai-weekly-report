@@ -1,0 +1,13 @@
+{
+  "name": "ai-weekly-report",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A daily top AI news headline and an auto-generated weekly AI report. Static site + GitHub Actions.",
+  "scripts": {
+    "generate": "node scripts/generate.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
