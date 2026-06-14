@@ -1,11 +1,17 @@
 {
-  "weekOf": "2026-06-07 to 2026-06-13",
-  "generated": "2026-06-13T17:07:58.585Z",
-  "intro": "100 AI items this week (71 India-relevant) across 9 sources.",
+  "weekOf": "2026-06-08 to 2026-06-14",
+  "generated": "2026-06-14T04:22:50.999Z",
+  "intro": "98 AI items this week (68 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
+        {
+          "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+          "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+        },
         {
           "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
           "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
@@ -81,6 +87,18 @@
       "heading": "Industry & Research",
       "items": [
         {
+          "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+          "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+          "source": "TechCrunch AI",
+          "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
+        },
+        {
+          "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+          "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+          "source": "TechCrunch AI",
+          "summary": "Once again, AI proves to be an unreliable source of information about AI."
+        },
+        {
           "title": "OpenAI faces investigation from state attorneys general",
           "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
           "source": "TechCrunch AI",
@@ -103,18 +121,6 @@
           "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
           "source": "TechCrunch AI",
           "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt."
-        },
-        {
-          "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-          "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-          "source": "TechCrunch AI",
-          "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
-        },
-        {
-          "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-          "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-          "source": "TechCrunch AI",
-          "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public ma…"
         }
       ]
     },
@@ -122,10 +128,34 @@
       "heading": "India & Subcontinent",
       "items": [
         {
+          "title": "Nvidia begins Vera CPU sales pitch to Chinese clients, sources say",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-begins-vera-cpu-sales-pitch-to-chinese-clients-sources-say/articleshow/131715081.cms",
+          "source": "ET Tech",
+          "summary": "The outreach underscores how the world's most valuable company is quickly pivoting to the new product to revive its rapidly declining fortunes in China, as shipments of its second-most powerful AI chip, the H200, to the country have stalled for months."
+        },
+        {
+          "title": "Mag 7? MANGOS? SpaceX forces name rethink on Wall Street's tech-stock moniker",
+          "url": "https://economictimes.indiatimes.com/tech/technology/mag-7-mangos-spacex-forces-name-rethink-on-wall-streets-tech-stock-moniker/articleshow/131715005.cms",
+          "source": "ET Tech",
+          "summary": "The IPO, the biggest in US history, vaulted SpaceX's value above two Mag 7 members: CEO Elon ‌Musk's other company, Tesla , ⁠and ⁠Meta Platforms. With trillion-dollar contenders such as OpenAI and Anthropic waiting in the IPO wings, the club may soon need a name change, analys…"
+        },
+        {
+          "title": "US ban on Anthropic's Fable 5 &amp; Mythos 5 to put Indian IT services firms at competitive disadvantage",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-ban-on-anthropics-fable-5-mythos-5-to-put-indian-it-services-firms-at-competitive-disadvantage/articleshow/131709776.cms",
+          "source": "ET Tech",
+          "summary": "US restrictions on foreign access to Anthropic's advanced AI models, Mythos and Fable 5, are creating a significant competitive disadvantage for Indian enterprises and IT service providers. This exclusion, particularly from Fable 5's coding capabilities, raises concerns about …"
+        },
+        {
+          "title": "Project Glasswing melts: US government suspends early access to Anthropic's Fable 5, Mythos 5 within days of rollout",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/project-glasswing-melts-us-government-suspends-early-access-to-anthropics-fable-5-mythos-5-within-days-of-rollout/articleshow/131709066.cms",
+          "source": "ET Tech",
+          "summary": "India's brief access to advanced AI models from Anthropic has ended. A US government directive halted local access to Mythos 5 and Fable 5. This development signals a new AI export control regime. Governments now view frontier AI as strategic assets. India's engagement on tech…"
+        },
+        {
           "title": "Amazon CEO raised concerns about Anthropic AI models before Trump crackdown: Report",
           "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-ceo-raised-concerns-about-anthropic-ai-models-before-trump-crackdown-report/articleshow/131708526.cms",
           "source": "ET Tech",
-          "summary": "Amazon CEO raised concerns about Anthropic AI models before Trump crackdown, the Information reports"
+          "summary": "Jassy's involvement sheds light on the extraordinary move by Anthropic on Friday to shut down its latest models globally in response to national security orders from the Trump administration."
         },
         {
           "title": "Anthropic’s Fable 5, Mythos 5 Access Suspension Rekindles Sovereign AI Debate",
@@ -144,30 +174,6 @@
           "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-orders-anthropic-to-disable-fable-5-and-mythos-ai-models-india-inc-sounds-alarm/videoshow/131701050.cms",
           "source": "ET Tech",
           "summary": ""
-        },
-        {
-          "title": "Marc Andreessen critiques AI regulation debate after Anthropic model shutdown",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/marc-andreessen-critiques-ai-regulation-debate-after-anthropic-model-shutdown/articleshow/131699477.cms",
-          "source": "ET Tech",
-          "summary": "Marc Andreessen, a cofounder of Andreessen Horowitz, has voiced strong opinions on artificial intelligence regulation. His comments follow the US government's order to suspend access to Anthropic's advanced AI models, citing national security. Andreessen views strict rules as …"
-        },
-        {
-          "title": "You might not be able to use Anthropic’s Claude Fable 5. Here’s why",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/you-might-not-be-able-to-use-anthropics-fable-5-heres-why-10737580/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "Anthropic’s Fable 5 takedown triggers India Inc push for AI self-reliance",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-fable-5-takedown-triggers-india-inc-push-for-ai-self-reliance/articleshow/131698077.cms",
-          "source": "ET Tech",
-          "summary": "A US directive suspending access to Anthropic's AI models has spurred India Inc's push for self-reliance in AI infrastructure. Technology leaders are calling for domestic R&D, open-source models, and semiconductor design to ensure national sovereignty and avoid dependence on e…"
-        },
-        {
-          "title": "Beyond AI buzzwords: What employers are really looking for in 2026",
-          "url": "https://yourstory.com/2026/06/beyond-ai-buzzwords-what-employers-are-really-looking-for-in-2026-toast-zoho-corp",
-          "source": "YourStory",
-          "summary": "At DevSparks Bengaluru 2026, leaders from Toast and Zoho Corp share why judgment, adaptability, and real-world problem-solving matter more than tool proficiency."
         }
       ]
     }
