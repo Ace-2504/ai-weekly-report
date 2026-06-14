@@ -97,12 +97,13 @@ async function llmJSON(system, user){
       headers: { "Authorization": `Bearer ${OPENROUTER_API_KEY}`, "Content-Type": "application/json",
         "HTTP-Referer": REPO_URL, "X-Title": "AI Weekly Report" },
       body: JSON.stringify({ model: OPENROUTER_MODEL, temperature: 0.3,
-        messages: [{ role: "system", content: system }, { role: "user", content: user }],
-        response_format: { type: "json_object" } }),
+        messages: [{ role: "system", content: system }, { role: "user", content: user }] }),
     });
     if(!r.ok){ console.error("! OpenRouter " + r.status); return null; }
     const j = await r.json();
-    return JSON.parse(j.choices?.[0]?.message?.content || "");
+    const txt = j.choices?.[0]?.message?.content || "";
+    const m = txt.match(/\{[\s\S]*\}/);
+    return JSON.parse(m ? m[0] : txt);
   }catch(e){ console.error("! LLM error: " + e.message); return null; }
 }
 
