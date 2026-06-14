@@ -9,11 +9,11 @@
       "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
     },
     "topIndia": {
-      "title": "Nvidia begins Vera CPU sales pitch to Chinese clients, sources say",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-begins-vera-cpu-sales-pitch-to-chinese-clients-sources-say/articleshow/131715081.cms",
-      "source": "ET Tech",
-      "published": "2026-06-14T03:28:35.000Z",
-      "summary": "The outreach underscores how the world's most valuable company is quickly pivoting to the new product to revive its rapidly declining fortunes in China, as shipments of its second-most powerful AI chip, the H200, to the country have stalled for months."
+      "title": "How Zoho Labs pivoted to inference engineering",
+      "url": "https://yourstory.com/2026/06/devsparks-2026-zoho-labs-inference-engineering-open-weight-models-ramprakash-ramamoorthy",
+      "source": "YourStory",
+      "published": "2026-06-14T07:00:00.000Z",
+      "summary": "At DevSparks 2026 in Bengaluru, Ramprakash Ramamoorthy, Director of AI Research at Zoho Corp, explained how open-weight models forced a rethink of what an in-house AI lab is actually for, and why inference engineering became Zoho Labs' answer."
     },
     "headlines": [
       {
@@ -92,8 +92,8 @@
   },
   "weekly": {
     "weekOf": "2026-06-08 to 2026-06-14",
-    "generated": "2026-06-14T04:35:41.662Z",
-    "intro": "97 AI items this week (67 India-relevant) across 9 sources.",
+    "generated": "2026-06-14T07:31:05.950Z",
+    "intro": "101 AI items this week (72 India-relevant) across 9 sources.",
     "sections": [
       {
         "heading": "Large Language Models",
@@ -220,6 +220,42 @@
         "heading": "India & Subcontinent",
         "items": [
           {
+            "title": "How Zoho Labs pivoted to inference engineering",
+            "url": "https://yourstory.com/2026/06/devsparks-2026-zoho-labs-inference-engineering-open-weight-models-ramprakash-ramamoorthy",
+            "source": "YourStory",
+            "summary": "At DevSparks 2026 in Bengaluru, Ramprakash Ramamoorthy, Director of AI Research at Zoho Corp, explained how open-weight models forced a rethink of what an in-house AI lab is actually for, and why inference engineering became Zoho Labs' answer."
+          },
+          {
+            "title": "KPMG retracts agentic AI study after researchers flag hallucinations, fake citations",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/kpmg-retracts-ai-study-hallucinations-fake-citations-10738768/",
+            "source": "Indian Express Tech",
+            "summary": ""
+          },
+          {
+            "title": "Why Jayant Chaudhary sees AI as India's open door, not its threat",
+            "url": "https://yourstory.com/2026/06/jayant-chaudhary-ai-india-skilling-opportunity-skill-india-assistant",
+            "source": "YourStory",
+            "summary": "When India recently hosted the world for a landmark AI summit, the headline was not profit or processing power. It was possibility."
+          },
+          {
+            "title": "Magicpin scales AI assistant Vera, targets over 10 lakh merchants by 2026: CEO",
+            "url": "https://economictimes.indiatimes.com/tech/technology/magicpin-scales-ai-assistant-vera-targets-over-10-lakh-merchants-by-2026-ceo/articleshow/131716258.cms",
+            "source": "ET Tech",
+            "summary": "Launched during the recent LPG crisis, Vera provides restaurants and retailers with real-time order-volume insights to help them plan operations and manage demand more effectively."
+          },
+          {
+            "title": "US state attorneys general are investigating OpenAI",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/us-state-attorneys-general-are-investigating-openai-10738647/",
+            "source": "Indian Express Tech",
+            "summary": ""
+          },
+          {
+            "title": "Google says Chinese cybercrime group used its AI in scams",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/google-says-chinese-cybercrime-group-used-its-ai-in-scams-10738638/",
+            "source": "Indian Express Tech",
+            "summary": ""
+          },
+          {
             "title": "Nvidia begins Vera CPU sales pitch to Chinese clients, sources say",
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-begins-vera-cpu-sales-pitch-to-chinese-clients-sources-say/articleshow/131715081.cms",
             "source": "ET Tech",
@@ -230,42 +266,6 @@
             "url": "https://economictimes.indiatimes.com/tech/technology/mag-7-mangos-spacex-forces-name-rethink-on-wall-streets-tech-stock-moniker/articleshow/131715005.cms",
             "source": "ET Tech",
             "summary": "The IPO, the biggest in US history, vaulted SpaceX's value above two Mag 7 members: CEO Elon ‌Musk's other company, Tesla , ⁠and ⁠Meta Platforms. With trillion-dollar contenders such as OpenAI and Anthropic waiting in the IPO wings, the club may soon need a name change, analys…"
-          },
-          {
-            "title": "US ban on Anthropic's Fable 5 &amp; Mythos 5 to put Indian IT services firms at competitive disadvantage",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-ban-on-anthropics-fable-5-mythos-5-to-put-indian-it-services-firms-at-competitive-disadvantage/articleshow/131709776.cms",
-            "source": "ET Tech",
-            "summary": "US restrictions on foreign access to Anthropic's advanced AI models, Mythos and Fable 5, are creating a significant competitive disadvantage for Indian enterprises and IT service providers. This exclusion, particularly from Fable 5's coding capabilities, raises concerns about …"
-          },
-          {
-            "title": "Project Glasswing melts: US government suspends early access to Anthropic's Fable 5, Mythos 5 within days of rollout",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/project-glasswing-melts-us-government-suspends-early-access-to-anthropics-fable-5-mythos-5-within-days-of-rollout/articleshow/131709066.cms",
-            "source": "ET Tech",
-            "summary": "India's brief access to advanced AI models from Anthropic has ended. A US government directive halted local access to Mythos 5 and Fable 5. This development signals a new AI export control regime. Governments now view frontier AI as strategic assets. India's engagement on tech…"
-          },
-          {
-            "title": "Amazon CEO raised concerns about Anthropic AI models before Trump crackdown: Report",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-ceo-raised-concerns-about-anthropic-ai-models-before-trump-crackdown-report/articleshow/131708526.cms",
-            "source": "ET Tech",
-            "summary": "Jassy's involvement sheds light on the extraordinary move by Anthropic on Friday to shut down its latest models globally in response to national security orders from the Trump administration."
-          },
-          {
-            "title": "Anthropic’s Fable 5, Mythos 5 Access Suspension Rekindles Sovereign AI Debate",
-            "url": "https://inc42.com/buzz/anthropics-fable-5-mythos-5-access-suspension-rekindles-sovereign-ai-debate/",
-            "source": "Inc42",
-            "summary": "Just three days after launching Claude Fable 5, which it described as its most capable AI system yet, Anthropic has…"
-          },
-          {
-            "title": "Google AI Mode rolls out Search agents that track the web for you in real time",
-            "url": "https://indianexpress.com/article/technology/tech-news-technology/google-ai-mode-rolls-out-search-agents-that-track-the-web-for-you-in-real-time-10737846/",
-            "source": "Indian Express Tech",
-            "summary": ""
-          },
-          {
-            "title": "US orders Anthropic to disable Fable 5 and Mythos AI models; India Inc sounds alarm",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-orders-anthropic-to-disable-fable-5-and-mythos-ai-models-india-inc-sounds-alarm/videoshow/131701050.cms",
-            "source": "ET Tech",
-            "summary": ""
           }
         ]
       }
