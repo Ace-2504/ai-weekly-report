@@ -3,14 +3,14 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Ace's AI Weekly — AI news, dealt daily</title>
-<meta name="description" content="Ace's AI Weekly — a daily top AI story (global & India) and an auto-generated weekly AI report. A Harman Technology initiative." />
+<title>Ace's AI Weekly — AI news, careers & industry</title>
+<meta name="description" content="Ace's AI Weekly — daily AI news (global & India), in-demand AI/ML career skills, industry events and key AI people. A Harman Technology initiative." />
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><rect width='24' height='24' rx='3' fill='%23e11d48'/><text x='12' y='18' text-anchor='middle' font-family='Arial,Helvetica,sans-serif' font-size='17' font-weight='bold' fill='white'>A</text></svg>" />
 <style>
   :root{
     --bg:#0b0e14; --panel:#11151f; --panel-2:#161b27; --border:#222a3a;
     --text:#e7ecf3; --muted:#8b97ad; --accent:#ff4d6d; --accent-soft:#2a1620;
-    --india:#ff9d3c; --india-soft:#2a1f12; --radius:8px; --maxw:960px;
+    --india:#ff9d3c; --india-soft:#2a1f12; --radius:8px; --maxw:980px;
   }
   @media (prefers-color-scheme: light){
     :root{ --bg:#f6f7fb; --panel:#ffffff; --panel-2:#f1f3f9; --border:#e3e7f0;
@@ -22,22 +22,31 @@
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Helvetica,Arial,sans-serif;
     line-height:1.55; -webkit-font-smoothing:antialiased;}
   .wrap{max-width:var(--maxw); margin:0 auto; padding:28px 20px 80px}
+  a{color:var(--accent)}
   header.site{display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap; margin-bottom:6px}
   .brand{display:flex; align-items:center; gap:13px}
   .logo{width:44px;height:44px;flex:none}
   .wordmark h1{font-size:22px; margin:0; letter-spacing:-0.03em; font-weight:800}
   .wordmark h1 .you{color:var(--accent)}
+  .daily{display:inline-flex;align-items:center;gap:5px;font-size:9.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);background:var(--accent-soft);padding:3px 8px;border-radius:999px;vertical-align:middle;margin-left:9px;position:relative;top:-2px}
+  .daily .dot{width:6px;height:6px;border-radius:50%;background:var(--accent);display:inline-block}
   .sub{color:var(--muted); font-size:12.5px; margin:3px 0 0}
   .updated{color:var(--muted); font-size:12px; white-space:nowrap}
-  .rule{height:3px;border:none;margin:14px 0 8px;border-radius:0;
-    background:linear-gradient(90deg,var(--accent),transparent 60%)}
-  .stats{display:grid; grid-template-columns:repeat(4,1fr); gap:10px; margin:16px 0 26px}
+  .rule{height:3px;border:none;margin:14px 0 4px;border-radius:0;background:linear-gradient(90deg,var(--accent),transparent 60%)}
+  .tabs{display:flex; gap:4px; flex-wrap:wrap; margin:10px 0 22px; border-bottom:1px solid var(--border)}
+  .tabs button{appearance:none; background:none; border:none; border-bottom:2px solid transparent; color:var(--muted); font-size:13.5px; font-weight:600; padding:10px 13px; cursor:pointer}
+  .tabs button:hover{color:var(--text)}
+  .tabs button.active{color:var(--accent); border-bottom-color:var(--accent)}
+  .panel{display:none} .panel.active{display:block}
+  .sub-h{font-size:12px; text-transform:uppercase; letter-spacing:0.07em; color:var(--muted); font-weight:700; margin:22px 0 10px}
+  .sub-h:first-child{margin-top:4px}
+  .section-label{font-size:12px; text-transform:uppercase; letter-spacing:0.08em; color:var(--muted); margin:26px 0 10px; font-weight:700}
+  .section-label::before{content:""; display:inline-block; width:14px; height:2px; background:var(--accent); vertical-align:middle; margin-right:9px; margin-bottom:3px}
+  .stats{display:grid; grid-template-columns:repeat(4,1fr); gap:10px; margin:4px 0 6px}
   .stat{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:13px 14px; border-top:2px solid var(--accent)}
   .stat .n{font-size:22px; font-weight:800; letter-spacing:-0.02em}
   .stat .l{font-size:11px; color:var(--muted); text-transform:uppercase; letter-spacing:0.06em; margin-top:2px}
   @media (max-width:640px){ .stats{grid-template-columns:repeat(2,1fr)} }
-  .section-label{font-size:12px; text-transform:uppercase; letter-spacing:0.08em; color:var(--muted); margin:26px 0 10px; font-weight:700}
-  .section-label::before{content:""; display:inline-block; width:14px; height:2px; background:var(--accent); vertical-align:middle; margin-right:9px; margin-bottom:3px}
   .heroes{display:grid; grid-template-columns:1fr 1fr; gap:16px}
   @media (max-width:720px){ .heroes{grid-template-columns:1fr} }
   .hero{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:20px 20px 18px; position:relative; overflow:hidden}
@@ -53,7 +62,7 @@
   @media (max-width:760px){ .grid-2{grid-template-columns:1fr} }
   .panel-card{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:20px 22px}
   .report .rsec{margin-bottom:18px}
-  .report h3{font-size:15px; margin:0 0 8px; letter-spacing:-0.01em}
+  .report h3{font-size:15px; margin:0 0 8px}
   .report h3 .flag{font-size:11px; color:var(--india); margin-left:6px}
   .report .item{padding:10px 0; border-top:1px solid var(--border)}
   .report .item:first-of-type{border-top:none}
@@ -68,8 +77,37 @@
   .feed .row .fm{font-size:11.5px; color:var(--muted); margin-top:4px; display:flex; gap:8px}
   .feed .row .src{color:var(--accent)}
   .intro{color:var(--muted); font-size:14px; margin:0 0 4px}
+  .paths{display:grid; grid-template-columns:repeat(3,1fr); gap:12px; margin:6px 0 8px}
+  @media (max-width:760px){ .paths{grid-template-columns:1fr} }
+  .path{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:14px; border-left:3px solid var(--accent)}
+  .path .f{font-weight:700; font-size:14px}
+  .path .dm{font-size:10.5px; font-weight:700; text-transform:uppercase; letter-spacing:.05em; color:var(--accent); margin-top:3px}
+  .path .nt{font-size:12.5px; color:var(--muted); margin-top:6px}
+  .cols{display:grid; grid-template-columns:1fr 1fr; gap:24px}
+  @media (max-width:760px){ .cols{grid-template-columns:1fr} }
+  .skill{padding:9px 0; border-top:1px solid var(--border)}
+  .skill:first-child{border-top:none}
+  .skill .sk{font-size:13.5px; font-weight:600}
+  .skill .wy{font-size:12.5px; color:var(--muted); margin-top:2px}
+  .people{display:grid; grid-template-columns:repeat(2,1fr); gap:10px}
+  @media (max-width:640px){ .people{grid-template-columns:1fr} }
+  .person{display:block; background:var(--panel); border:1px solid var(--border); border-radius:11px; padding:12px 13px; text-decoration:none; color:inherit}
+  .person:hover{border-color:var(--accent)}
+  .person .pn{font-weight:700; font-size:14px}
+  .person .po{font-size:11.5px; color:var(--accent)}
+  .person .pa{font-size:12px; color:var(--muted); margin-top:5px}
+  .links{display:flex; gap:10px; flex-wrap:wrap; margin:14px 0 8px}
+  .links a{display:inline-flex; align-items:center; gap:7px; text-decoration:none; font-size:13px; font-weight:700; padding:10px 15px; border-radius:8px; color:#fff}
+  .links a.li{background:#0a66c2} .links a.gh{background:#24292f} .links a.dev{background:#000}
+  .links a:hover{opacity:.9}
+  .repos{display:grid; grid-template-columns:repeat(2,1fr); gap:10px}
+  @media (max-width:640px){ .repos{grid-template-columns:1fr} }
+  .repo{display:block; background:var(--panel); border:1px solid var(--border); border-radius:11px; padding:13px; text-decoration:none; color:inherit}
+  .repo:hover{border-color:var(--accent)}
+  .repo .rn{font-weight:700; font-size:13.5px; color:var(--accent)}
+  .repo .rd{font-size:12px; color:var(--muted); margin-top:4px}
+  .repo .rm{font-size:11px; color:var(--muted); margin-top:8px; display:flex; gap:12px}
   footer{margin-top:40px; padding-top:18px; border-top:1px solid var(--border); color:var(--muted); font-size:12.5px; display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap; align-items:center}
-  footer a{color:var(--accent); text-decoration:none}
   .sig{font-weight:700;color:var(--accent)}
   .loading{color:var(--muted); font-size:14px; padding:8px 0}
   .err{color:#ff8585; font-size:13px}
@@ -84,35 +122,59 @@
         <text x="22" y="31" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#ffffff">A</text>
       </svg>
       <div class="wordmark">
-        <h1><span class="you">Ace's</span> AI Weekly <span style="display:inline-flex;align-items:center;gap:5px;font-size:9.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);background:var(--accent-soft);padding:3px 8px;border-radius:999px;margin-left:9px;vertical-align:middle;position:relative;top:-2px"><span style="width:6px;height:6px;border-radius:50%;background:var(--accent);display:inline-block"></span>Daily Update</span></h1>
-        <p class="sub">AI news, dealt daily &middot; India &amp; worldwide</p>
+        <h1><span class="you">Ace's</span> AI Weekly <span class="daily"><span class="dot"></span>Daily Update</span></h1>
+        <p class="sub">AI news, careers &amp; industry &middot; India &amp; worldwide</p>
       </div>
     </div>
     <div class="updated" id="updated">&mdash;</div>
   </header>
   <hr class="rule" />
 
-  <section class="stats" id="stats">
-    <div class="stat"><div class="n" id="st-days">&mdash;</div><div class="l">Days Tracked</div></div>
-    <div class="stat"><div class="n" id="st-week">&mdash;</div><div class="l">Items This Week</div></div>
-    <div class="stat"><div class="n" id="st-india">&mdash;</div><div class="l">India Items</div></div>
-    <div class="stat"><div class="n" id="st-update">&mdash;</div><div class="l">Last Update</div></div>
+  <nav class="tabs">
+    <button class="active" data-tab="tab-daily">Daily</button>
+    <button data-tab="tab-careers">AI/ML Careers</button>
+    <button data-tab="tab-industry">Industry &amp; People</button>
+    <button data-tab="tab-about">About Ace</button>
+  </nav>
+
+  <section class="panel active" id="tab-daily">
+    <section class="stats" id="stats">
+      <div class="stat"><div class="n" id="st-days">&mdash;</div><div class="l">Days Tracked</div></div>
+      <div class="stat"><div class="n" id="st-week">&mdash;</div><div class="l">Items This Week</div></div>
+      <div class="stat"><div class="n" id="st-india">&mdash;</div><div class="l">India Items</div></div>
+      <div class="stat"><div class="n" id="st-update">&mdash;</div><div class="l">Last Update</div></div>
+    </section>
+    <p class="section-label">Top AI story of the day</p>
+    <div class="heroes">
+      <div class="hero" id="hero-global"><div class="loading">Loading global headline&hellip;</div></div>
+      <div class="hero india" id="hero-india"><div class="loading">Loading India headline&hellip;</div></div>
+    </div>
+    <p class="section-label">This week's AI report</p>
+    <div class="grid-2">
+      <div class="panel-card report" id="report"><div class="loading">Loading weekly report&hellip;</div></div>
+      <div class="panel-card feed" id="feed"><div class="loading">Loading news&hellip;</div></div>
+    </div>
   </section>
 
-  <p class="section-label">Top AI story of the day</p>
-  <div class="heroes">
-    <div class="hero" id="hero-global"><div class="loading">Loading global headline&hellip;</div></div>
-    <div class="hero india" id="hero-india"><div class="loading">Loading India headline&hellip;</div></div>
-  </div>
+  <section class="panel" id="tab-careers">
+    <p class="section-label">Which AI/ML field to choose &amp; what to learn</p>
+    <div id="car-content"><div class="loading">Loading careers guide&hellip;</div></div>
+  </section>
 
-  <p class="section-label">This week's AI report</p>
-  <div class="grid-2">
-    <div class="panel-card report" id="report"><div class="loading">Loading weekly report&hellip;</div></div>
-    <div class="panel-card feed" id="feed"><div class="loading">Loading news&hellip;</div></div>
-  </div>
+  <section class="panel" id="tab-industry">
+    <p class="section-label">Big-tech events &amp; keynotes</p>
+    <div class="panel-card feed" id="ind-events"><div class="loading">Loading events&hellip;</div></div>
+    <p class="section-label">Key AI people to follow</p>
+    <div class="people" id="ind-people"><div class="loading">Loading&hellip;</div></div>
+  </section>
+
+  <section class="panel" id="tab-about">
+    <p class="section-label">About Ace</p>
+    <div id="about-content"><div class="loading">Loading profile&hellip;</div></div>
+  </section>
 
   <footer>
-    <span><span class="sig">Prepared by BOT</span> &middot; a <strong style="color:var(--text)">Harman Technology</strong> initiative &middot; automated AI-news digest &mdash; may contain errors, verify before relying on it &middot; sources: TechCrunch, The Verge, arXiv, Analytics India Mag, Inc42, ET Tech &amp; more</span>
+    <span><span class="sig">Prepared by BOT</span> &middot; a <strong style="color:var(--text)">Harman Technology</strong> initiative &middot; automated AI digest &mdash; may contain errors, verify before relying on it</span>
     <span><a id="src-link" href="#" target="_blank" rel="noopener">View source</a></span>
   </footer>
 </div>
@@ -124,6 +186,16 @@ function fmtDate(iso){ if(!iso) return "—"; try{return new Date(iso).toLocaleD
 function timeAgo(iso){ if(!iso) return "—"; const s=(Date.now()-new Date(iso).getTime())/1000;
   if(s<3600) return Math.max(1,Math.round(s/60))+"m ago"; if(s<86400) return Math.round(s/3600)+"h ago"; return Math.round(s/86400)+"d ago"; }
 function esc(t){const d=document.createElement("div");d.textContent=t==null?"":t;return d.innerHTML;}
+
+document.querySelectorAll(".tabs button").forEach(b=>{
+  b.addEventListener("click",()=>{
+    document.querySelectorAll(".tabs button").forEach(x=>x.classList.remove("active"));
+    document.querySelectorAll(".panel").forEach(x=>x.classList.remove("active"));
+    b.classList.add("active");
+    document.getElementById(b.dataset.tab).classList.add("active");
+    window.scrollTo({top:0,behavior:"smooth"});
+  });
+});
 
 function heroHTML(t,label){
   if(!t) return `<span class="badge">${label}</span><div class="loading">No story yet.</div>`;
@@ -154,9 +226,29 @@ async function loadDaily(){
         <p class="ft">${esc(h.title)}</p>
         <div class="fm"><span class="src">${esc(h.source||"")}</span><span>${esc(fmtDate(h.published))}</span></div>
       </a>`).join(""):`<div class="loading">No headlines yet.</div>`;
+    renderEvents(d.events); renderPeople(d.people);
   }catch(e){
     g.innerHTML=`<div class="err">Data populates on the first scheduled run.</div>`; i.innerHTML=""; feed.innerHTML="";
   }
+}
+function renderEvents(list){
+  const el=document.getElementById("ind-events");
+  if(!list||!list.length){ el.innerHTML=`<div class="loading">No major big-tech AI events surfaced in the news this week.</div>`; return; }
+  el.innerHTML=list.map(e=>`
+    <a class="row" href="${esc(e.url)}" target="_blank" rel="noopener">
+      <p class="ft">${esc(e.title)}</p>
+      ${e.summary?`<p style="font-size:12.5px;color:var(--muted);margin:4px 0 0">${esc(e.summary)}</p>`:""}
+      <div class="fm"><span class="src">${esc(e.source||"")}</span><span>${esc(fmtDate(e.published))}</span></div>
+    </a>`).join("");
+}
+function renderPeople(list){
+  const el=document.getElementById("ind-people");
+  el.innerHTML=(list||[]).map(p=>`
+    <a class="person" href="${esc(p.link)}" target="_blank" rel="noopener">
+      <div class="pn">${esc(p.name)}</div>
+      <div class="po">${esc(p.org)}</div>
+      <div class="pa">${p.article?esc(p.article):"View profile ↗"}</div>
+    </a>`).join("");
 }
 async function loadWeekly(){
   const el=document.getElementById("report");
@@ -174,7 +266,40 @@ async function loadWeekly(){
       html+=`</div>`;
     });
     el.innerHTML=html||`<div class="loading">No report generated yet.</div>`;
+    renderCareers(w.careers); renderAbout(w.profile);
   }catch(e){ el.innerHTML=`<div class="err">Weekly report not generated yet.</div>`; }
+}
+function renderCareers(c){
+  const el=document.getElementById("car-content");
+  if(!c){ el.innerHTML=`<div class="loading">Careers guide loads after the first run.</div>`; return; }
+  let h=`<p class="intro">${esc(c.note)}</p>`;
+  h+=`<p class="sub-h">Which field to choose — 2026 demand snapshot</p><div class="paths">`+
+     (c.paths||[]).map(p=>`<div class="path"><div class="f">${esc(p.field)}</div><div class="dm">${esc(p.demand)}</div><div class="nt">${esc(p.note)}</div></div>`).join("")+`</div>`;
+  h+=`<div class="cols"><div><p class="sub-h">For freshers — learn first</p>`+
+     (c.fresher||[]).map(s=>`<div class="skill"><div class="sk">${esc(s.skill)}</div><div class="wy">${esc(s.why)}</div></div>`).join("")+`</div>`;
+  h+=`<div><p class="sub-h">For experienced — level up</p>`+
+     (c.experienced||[]).map(s=>`<div class="skill"><div class="sk">${esc(s.skill)}</div><div class="wy">${esc(s.why)}</div></div>`).join("")+`</div></div>`;
+  el.innerHTML=h;
+}
+function renderAbout(p){
+  const el=document.getElementById("about-content");
+  if(!p){ return; }
+  let h=`<p class="intro">${esc(p.blurb||"")}</p>`;
+  h+=`<div class="links">
+    <a class="li" href="${esc(p.linkedin)}" target="_blank" rel="noopener">in · LinkedIn ↗</a>
+    <a class="gh" href="${esc(p.github)}" target="_blank" rel="noopener">GitHub ↗</a>
+    <a class="dev" href="${esc(p.devto)}" target="_blank" rel="noopener">DEV.to ↗</a>
+  </div>`;
+  h+=`<p class="sub-h">Projects &amp; repositories</p>`;
+  const repos=p.repos||[];
+  h+= repos.length ? `<div class="repos">`+repos.map(r=>`
+      <a class="repo" href="${esc(r.url)}" target="_blank" rel="noopener">
+        <div class="rn">${esc(r.name)}</div>
+        ${r.desc?`<div class="rd">${esc(r.desc)}</div>`:""}
+        <div class="rm">${r.language?`<span>${esc(r.language)}</span>`:""}${r.stars?`<span>★ ${r.stars}</span>`:""}</div>
+      </a>`).join("")+`</div>`
+    : `<div class="loading">Repos load from GitHub on the next scheduled run — meanwhile, <a href="${esc(p.github)}" target="_blank" rel="noopener">browse them on GitHub ↗</a>.</div>`;
+  el.innerHTML=h;
 }
 loadStats(); loadDaily(); loadWeekly();
 </script>
