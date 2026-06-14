@@ -89,22 +89,36 @@ async function fetchFeed(feed){
   }catch(e){ console.error(`! feed failed: ${feed.name} — ${e.message}`); return []; }
 }
 
+const sleep = (ms) => new Promise(res => setTimeout(res, ms));
+
+// Calls OpenRouter; retries on 429 (free-tier rate limit) / 5xx with backoff.
 async function llmJSON(system, user){
   if(!OPENROUTER_API_KEY) return null;
-  try{
-    const r = await fetch("https://openrouter.ai/api/v1/chat/completions", {
-      method: "POST",
-      headers: { "Authorization": `Bearer ${OPENROUTER_API_KEY}`, "Content-Type": "application/json",
-        "HTTP-Referer": REPO_URL, "X-Title": "AI Weekly Report" },
-      body: JSON.stringify({ model: OPENROUTER_MODEL, temperature: 0.3,
-        messages: [{ role: "system", content: system }, { role: "user", content: user }] }),
-    });
-    if(!r.ok){ console.error("! OpenRouter " + r.status); return null; }
-    const j = await r.json();
-    const txt = j.choices?.[0]?.message?.content || "";
-    const m = txt.match(/\{[\s\S]*\}/);
-    return JSON.parse(m ? m[0] : txt);
-  }catch(e){ console.error("! LLM error: " + e.message); return null; }
+  const body = JSON.stringify({ model: OPENROUTER_MODEL, temperature: 0.3,
+    messages: [{ role: "system", content: system }, { role: "user", content: user }] });
+  for(let attempt = 0; attempt < 4; attempt++){
+    try{
+      const r = await fetch("https://openrouter.ai/api/v1/chat/completions", {
+        method: "POST",
+        headers: { "Authorization": `Bearer ${OPENROUTER_API_KEY}`, "Content-Type": "application/json",
+          "HTTP-Referer": REPO_URL, "X-Title": "AI Weekly Report" },
+        body,
+      });
+      if(r.status === 429 || r.status >= 500){
+        const waitMs = 5000 * (attempt + 1);
+        console.error(`! OpenRouter ${r.status} — retry ${attempt + 1}/4 in ${waitMs / 1000}s`);
+        await sleep(waitMs);
+        continue;
+      }
+      if(!r.ok){ console.error("! OpenRouter " + r.status); return null; }
+      const j = await r.json();
+      const txt = j.choices?.[0]?.message?.content || "";
+      const m = txt.match(/\{[\s\S]*\}/);
+      return JSON.parse(m ? m[0] : txt);
+    }catch(e){ console.error("! LLM error: " + e.message); await sleep(3000); }
+  }
+  console.error("! OpenRouter — gave up after retries, using fallback");
+  return null;
 }
 
 async function pickTop(pool, label){
