@@ -5,7 +5,7 @@
   "type": "module",
   "description": "A daily top AI news headline and an auto-generated weekly AI report. Static site + GitHub Actions.",
   "scripts": {
-    "generate": "node scripts/generate.mjs"
+        "generate": "timeout 900 node scripts/generate.mjs || true"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"
