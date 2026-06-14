@@ -4,13 +4,13 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Ace's AI Weekly — AI news, dealt daily</title>
-<meta name="description" content="Ace's AI Weekly — a daily top AI story (global & India) and an auto-generated weekly AI report, with a section for students. Built by Ace." />
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><rect width='24' height='24' rx='5' fill='%23e11d48'/><path d='M12 4C12 4 5 9 5 13a3 3 0 0 0 5.2 2c0 2-0.7 3-2 3.8L13.8 18.8c-1.3-0.8-2-1.8-2-3.8a3 3 0 0 0 5.2-2C19 9 12 4 12 4Z' fill='white'/></svg>" />
+<meta name="description" content="Ace's AI Weekly — a daily top AI story (global & India) and an auto-generated weekly AI report. A Harman Technology initiative." />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><rect width='24' height='24' rx='3' fill='%23e11d48'/><text x='12' y='18' text-anchor='middle' font-family='Arial,Helvetica,sans-serif' font-size='17' font-weight='bold' fill='white'>A</text></svg>" />
 <style>
   :root{
     --bg:#0b0e14; --panel:#11151f; --panel-2:#161b27; --border:#222a3a;
     --text:#e7ecf3; --muted:#8b97ad; --accent:#ff4d6d; --accent-soft:#2a1620;
-    --india:#ff9d3c; --india-soft:#2a1f12; --radius:14px; --maxw:960px;
+    --india:#ff9d3c; --india-soft:#2a1f12; --radius:8px; --maxw:960px;
   }
   @media (prefers-color-scheme: light){
     :root{ --bg:#f6f7fb; --panel:#ffffff; --panel-2:#f1f3f9; --border:#e3e7f0;
@@ -24,28 +24,26 @@
   .wrap{max-width:var(--maxw); margin:0 auto; padding:28px 20px 80px}
   header.site{display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap; margin-bottom:6px}
   .brand{display:flex; align-items:center; gap:13px}
-  .logo{width:46px;height:46px;flex:none;filter:drop-shadow(0 3px 8px rgba(225,29,72,.28))}
-  .wordmark h1{font-size:21px; margin:0; letter-spacing:-0.02em; font-weight:800}
+  .logo{width:44px;height:44px;flex:none}
+  .wordmark h1{font-size:22px; margin:0; letter-spacing:-0.03em; font-weight:800}
   .wordmark h1 .you{color:var(--accent)}
-  .wordmark h1 .spade{color:var(--accent); font-weight:700; margin-left:2px}
   .sub{color:var(--muted); font-size:12.5px; margin:3px 0 0}
   .updated{color:var(--muted); font-size:12px; white-space:nowrap}
-  .rule{height:3px;border:none;margin:14px 0 8px;border-radius:3px;
+  .rule{height:3px;border:none;margin:14px 0 8px;border-radius:0;
     background:linear-gradient(90deg,var(--accent),transparent 60%)}
   .stats{display:grid; grid-template-columns:repeat(4,1fr); gap:10px; margin:16px 0 26px}
-  .stat{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:13px 14px; position:relative; overflow:hidden}
-  .stat::after{content:"♠"; position:absolute; right:9px; top:7px; font-size:13px; color:var(--accent); opacity:.22}
+  .stat{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:13px 14px; border-top:2px solid var(--accent)}
   .stat .n{font-size:22px; font-weight:800; letter-spacing:-0.02em}
   .stat .l{font-size:11px; color:var(--muted); text-transform:uppercase; letter-spacing:0.06em; margin-top:2px}
   @media (max-width:640px){ .stats{grid-template-columns:repeat(2,1fr)} }
   .section-label{font-size:12px; text-transform:uppercase; letter-spacing:0.08em; color:var(--muted); margin:26px 0 10px; font-weight:700}
-  .section-label::before{content:"♠"; color:var(--accent); margin-right:7px}
+  .section-label::before{content:""; display:inline-block; width:14px; height:2px; background:var(--accent); vertical-align:middle; margin-right:9px; margin-bottom:3px}
   .heroes{display:grid; grid-template-columns:1fr 1fr; gap:16px}
   @media (max-width:720px){ .heroes{grid-template-columns:1fr} }
   .hero{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:20px 20px 18px; position:relative; overflow:hidden}
   .hero::before{content:""; position:absolute; inset:0 auto 0 0; width:4px; background:var(--accent)}
   .hero.india::before{background:var(--india)}
-  .hero .badge{display:inline-block; font-size:11px; font-weight:700; letter-spacing:0.06em; text-transform:uppercase; color:var(--accent); background:var(--accent-soft); padding:4px 9px; border-radius:999px; margin-bottom:11px}
+  .hero .badge{display:inline-block; font-size:11px; font-weight:700; letter-spacing:0.06em; text-transform:uppercase; color:var(--accent); background:var(--accent-soft); padding:4px 9px; border-radius:4px; margin-bottom:11px}
   .hero.india .badge{color:var(--india); background:var(--india-soft)}
   .hero h2{font-size:19px; line-height:1.28; margin:0 0 9px; letter-spacing:-0.01em}
   .hero h2 a{color:inherit; text-decoration:none} .hero h2 a:hover{text-decoration:underline}
@@ -70,22 +68,9 @@
   .feed .row .fm{font-size:11.5px; color:var(--muted); margin-top:4px; display:flex; gap:8px}
   .feed .row .src{color:var(--accent)}
   .intro{color:var(--muted); font-size:14px; margin:0 0 4px}
-  /* Student section */
-  .student{border:1px solid var(--border); border-radius:var(--radius); background:var(--panel); padding:22px}
-  .student .res{display:grid; grid-template-columns:repeat(2,1fr); gap:10px; margin-top:6px}
-  @media (max-width:640px){ .student .res{grid-template-columns:1fr} }
-  .res a{display:block; text-decoration:none; color:inherit; border:1px solid var(--border); border-radius:11px; padding:12px 13px; background:var(--panel-2)}
-  .res a:hover{border-color:var(--accent)}
-  .res .rn{font-size:13.5px; font-weight:600}
-  .res .rd{font-size:12px; color:var(--muted); margin-top:3px}
-  .res .pill{display:inline-block; font-size:10px; font-weight:700; letter-spacing:0.04em; text-transform:uppercase; padding:2px 7px; border-radius:999px; margin-top:8px; color:var(--accent); background:var(--accent-soft)}
-  .res .pill.India{color:var(--india); background:var(--india-soft)}
-  .res .pill.Tools{color:var(--muted); background:var(--panel)}
-  .student .news{margin-top:16px}
-  .student .news h4{font-size:13px; text-transform:uppercase; letter-spacing:0.06em; color:var(--muted); margin:0 0 6px}
   footer{margin-top:40px; padding-top:18px; border-top:1px solid var(--border); color:var(--muted); font-size:12.5px; display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap; align-items:center}
   footer a{color:var(--accent); text-decoration:none}
-  .sig{font-weight:700;color:var(--text)} .sig .spade{color:var(--accent)}
+  .sig{font-weight:700;color:var(--accent)}
   .loading{color:var(--muted); font-size:14px; padding:8px 0}
   .err{color:#ff8585; font-size:13px}
 </style>
@@ -94,15 +79,13 @@
 <div class="wrap">
   <header class="site">
     <div class="brand">
-      <svg class="logo" viewBox="0 0 44 44" aria-label="Ace of spades logo" xmlns="http://www.w3.org/2000/svg">
-        <rect x="2" y="2" width="40" height="40" rx="9" fill="#ffffff" stroke="#e11d48" stroke-width="2"/>
-        <text x="7.5" y="15.5" font-family="Georgia,'Times New Roman',serif" font-size="11" font-weight="700" fill="#11151f">A</text>
-        <path d="M22 12.5C22 12.5 12.5 19.5 12.5 24.6a4.3 4.3 0 0 0 7.4 2.9c0 2.7-1 4.2-3 5.4l9.2 0c-2-1.2-3-2.7-3-5.4a4.3 4.3 0 0 0 7.4-2.9C31.5 19.5 22 12.5 22 12.5Z" fill="#11151f"/>
-        <text x="36.5" y="40" font-family="Georgia,'Times New Roman',serif" font-size="11" font-weight="700" fill="#11151f" transform="rotate(180 33 35)">A</text>
+      <svg class="logo" viewBox="0 0 44 44" aria-label="Ace logo" xmlns="http://www.w3.org/2000/svg">
+        <rect x="2" y="2" width="40" height="40" rx="3" fill="#e11d48"/>
+        <text x="22" y="31" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#ffffff">A</text>
       </svg>
       <div class="wordmark">
-        <h1><span class="you">Ace's</span> AI Weekly<span class="spade">♠</span></h1>
-        <p class="sub">AI news, dealt daily &middot; India &amp; worldwide &middot; built for students</p>
+        <h1><span class="you">Ace's</span> AI Weekly</h1>
+        <p class="sub">AI news, dealt daily &middot; India &amp; worldwide</p>
       </div>
     </div>
     <div class="updated" id="updated">&mdash;</div>
@@ -128,11 +111,8 @@
     <div class="panel-card feed" id="feed"><div class="loading">Loading news&hellip;</div></div>
   </div>
 
-  <p class="section-label">For students</p>
-  <div class="student" id="student"><div class="loading">Loading student resources&hellip;</div></div>
-
   <footer>
-    <span><span class="sig">Made by Ace <span class="spade">&spades;</span></span> &middot; auto-updated daily by GitHub Actions &middot; global + Indian sources (TechCrunch, The Verge, arXiv, Analytics India Mag, Inc42, ET Tech &amp; more)</span>
+    <span><span class="sig">Prepared by BOT</span> &middot; a <strong style="color:var(--text)">Harman Technology</strong> initiative &middot; automated AI-news digest &mdash; may contain errors, verify before relying on it &middot; sources: TechCrunch, The Verge, arXiv, Analytics India Mag, Inc42, ET Tech &amp; more</span>
     <span><a id="src-link" href="#" target="_blank" rel="noopener">View source</a></span>
   </footer>
 </div>
@@ -194,27 +174,7 @@ async function loadWeekly(){
       html+=`</div>`;
     });
     el.innerHTML=html||`<div class="loading">No report generated yet.</div>`;
-    loadStudent(w.student);
-  }catch(e){ el.innerHTML=`<div class="err">Weekly report not generated yet.</div>`; loadStudent(null); }
-}
-function loadStudent(st){
-  const el=document.getElementById("student");
-  const res=(st&&st.resources)||[];
-  let html=`<p class="intro">Free, hand-picked learning resources (global &amp; India) plus this week's student-relevant news.</p>`;
-  html+=`<div class="res">`+res.map(r=>`
-    <a href="${esc(r.url)}" target="_blank" rel="noopener">
-      <div class="rn">${esc(r.name)}</div><div class="rd">${esc(r.desc)}</div>
-      <span class="pill ${esc(r.tag)}">${esc(r.tag)}</span>
-    </a>`).join("")+`</div>`;
-  const news=(st&&st.news)||[];
-  if(news.length){
-    html+=`<div class="news"><h4>Student-relevant news this week</h4>`+news.map(n=>`
-      <a class="row" href="${esc(n.url)}" target="_blank" rel="noopener" style="display:block;padding:9px 0;border-top:1px solid var(--border);text-decoration:none;color:inherit">
-        <p class="ft" style="font-size:13.5px;font-weight:600;margin:0">${esc(n.title)}</p>
-        <div class="fm" style="font-size:11.5px;color:var(--muted);margin-top:3px"><span class="src" style="color:var(--accent)">${esc(n.source||"")}</span> · ${esc(fmtDate(n.published))}</div>
-      </a>`).join("")+`</div>`;
-  }
-  el.innerHTML=html;
+  }catch(e){ el.innerHTML=`<div class="err">Weekly report not generated yet.</div>`; }
 }
 loadStats(); loadDaily(); loadWeekly();
 </script>
