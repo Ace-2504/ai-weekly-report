@@ -1,91 +1,186 @@
 {
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "top": {
-    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-    "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "title": "The AI layoff wave is becoming a powder keg",
+    "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
     "source": "TechCrunch AI",
-    "published": "2026-06-14T00:03:49.000Z",
-    "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
+    "published": "2026-06-15T07:25:41.000Z",
+    "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend."
   },
   "topIndia": {
-    "title": "How Zoho Labs pivoted to inference engineering",
-    "url": "https://yourstory.com/2026/06/devsparks-2026-zoho-labs-inference-engineering-open-weight-models-ramprakash-ramamoorthy",
-    "source": "YourStory",
-    "published": "2026-06-14T07:00:00.000Z",
-    "summary": "At DevSparks 2026 in Bengaluru, Ramprakash Ramamoorthy, Director of AI Research at Zoho Corp, explained how open-weight models forced a rethink of what an in-house AI lab is actually for, and why inference engineering became Zoho Labs' answer."
+    "title": "India leads globally in AI-driven revenue growth expectations: BCG survey",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-leads-globally-in-ai-driven-revenue-growth-expectations-bcg-survey/articleshow/131737222.cms",
+    "source": "ET Tech",
+    "published": "2026-06-15T07:34:58.000Z",
+    "summary": "Indian marketers anticipate significant AI-driven revenue growth. India leads globally in adopting agentic commerce, a new marketing approach. Marketing functions in India own AI investments more than their global counterparts. Generative AI is expected to greatly impact brand…"
   },
   "headlines": [
     {
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-14T00:03:49.000Z"
+      "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
+      "url": "https://arxiv.org/abs/2606.13682",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-15T04:00:00.000Z"
     },
     {
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-13T20:42:31.000Z"
+      "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+      "url": "https://arxiv.org/abs/2606.13683",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-15T04:00:00.000Z"
     },
     {
-      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-13T19:11:41.000Z"
+      "title": "History of the Muddy Children Puzzle",
+      "url": "https://arxiv.org/abs/2606.13703",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-15T04:00:00.000Z"
     },
     {
-      "title": "OpenAI faces investigation from state attorneys general",
-      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-13T16:47:18.000Z"
+      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+      "url": "https://arxiv.org/abs/2606.13707",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-15T04:00:00.000Z"
     },
     {
-      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-13T04:14:19.000Z"
+      "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+      "url": "https://arxiv.org/abs/2606.13710",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-15T04:00:00.000Z"
     },
     {
-      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-13T02:26:30.000Z"
+      "title": "WorkBench Revisited: Workplace Agents Two Years On",
+      "url": "https://arxiv.org/abs/2606.13715",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-15T04:00:00.000Z"
     },
     {
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-12T23:15:14.000Z"
+      "title": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
+      "url": "https://arxiv.org/abs/2606.13720",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-15T04:00:00.000Z"
     },
     {
-      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-12T23:00:54.000Z"
+      "title": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
+      "url": "https://arxiv.org/abs/2606.13722",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-15T04:00:00.000Z"
     },
     {
-      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-12T20:38:09.000Z"
+      "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
+      "url": "https://arxiv.org/abs/2606.13731",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-15T04:00:00.000Z"
     },
     {
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-12T17:38:11.000Z"
+      "title": "When Sample Selection Bias Precipitates Model Collapse",
+      "url": "https://arxiv.org/abs/2606.13732",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-15T04:00:00.000Z"
     },
     {
-      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-12T16:23:25.000Z"
+      "title": "AI Receptivity or AI Adoption Breadth? A Tool-Specific Reanalysis of the Lower-Literacy/Higher-Usage Link",
+      "url": "https://arxiv.org/abs/2606.13734",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-15T04:00:00.000Z"
     },
     {
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "source": "Hugging Face",
-      "published": "2026-06-12T15:56:10.000Z"
+      "title": "MA-ProofBench: A Two-Tiered Evaluation of LLMs for Theorem Proving in Mathematical Analysis",
+      "url": "https://arxiv.org/abs/2606.13782",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-15T04:00:00.000Z"
+    }
+  ],
+  "events": [
+    {
+      "title": "Explaining RhythmFormer: A Systematic XAI Analysis of Periodic Sparse Attention for Remote Photoplethysmography",
+      "url": "https://arxiv.org/abs/2606.13839",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-15T04:00:00.000Z",
+      "summary": "arXiv:2606.13839v1 Announce Type: cross Abstract: Remote photoplethysmography (rPPG) transformers achieve low heart-rate error on benchmarks, yet their decisions remain opaque--a growing concern as rPPG moves toward clinical heart rate estimation. Existing rPPG XAI is dominate…"
+    },
+    {
+      "title": "Output Type Before Quality: A Standards-Derived XAI Admissibility Rubric for Autonomous-Driving Safety",
+      "url": "https://arxiv.org/abs/2606.05461",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-15T04:00:00.000Z",
+      "summary": "arXiv:2606.05461v2 Announce Type: replace Abstract: Safety standards for ML-based autonomous driving specify the kind of evidence an assurance case must contain (directed cause-and-effect chains, quantified interventional effects, named root-cause variables), yet the XAI liter…"
+    },
+    {
+      "title": "WWDC 2026 roundup: Siri AI, Apple Intelligence, iOS 26 and more",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/wwdc-2026-roundup-siri-ai-apple-intelligence-ios-26-and-more-10730413/",
+      "source": "Indian Express Tech",
+      "published": "2026-06-08T19:59:44.000Z",
+      "summary": ""
+    },
+    {
+      "title": "At WWDC, Apple unveils its strategy to win consumer AI, starting with a revamped Siri",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/at-wwdc-apple-unveils-its-strategy-to-win-consumer-ai-starting-with-a-revamped-siri-10730367/",
+      "source": "Indian Express Tech",
+      "published": "2026-06-08T18:34:44.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Apple WWDC Event 2026 Highlights: Apple debuts new Siri, AI features, Child Accounts, macOS Golden Gate, and more",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/apple-wwdc-event-2026-live-updates-siri-ai-ios-27-keynote-10729532/",
+      "source": "Indian Express Tech",
+      "published": "2026-06-08T10:30:04.000Z",
+      "summary": ""
+    }
+  ],
+  "people": [
+    {
+      "name": "Sam Altman",
+      "org": "OpenAI",
+      "link": "https://indianexpress.com/article/technology/tech-news-technology/sam-altmans-eye-scanning-startup-reportedly-cuts-jobs-as-openai-moves-toward-ipo-10731541/",
+      "article": "Sam Altman’s eye-scanning startup reportedly cuts jobs as OpenAI moves toward IPO",
+      "source": "Indian Express Tech"
+    },
+    {
+      "name": "Demis Hassabis",
+      "org": "Google DeepMind",
+      "link": "https://x.com/demishassabis",
+      "article": null,
+      "source": "Profile"
+    },
+    {
+      "name": "Dario Amodei",
+      "org": "Anthropic",
+      "link": "https://www.darioamodei.com",
+      "article": null,
+      "source": "Profile"
+    },
+    {
+      "name": "Yann LeCun",
+      "org": "Meta · world models",
+      "link": "https://x.com/ylecun",
+      "article": null,
+      "source": "Profile"
+    },
+    {
+      "name": "Jensen Huang",
+      "org": "NVIDIA",
+      "link": "https://nvidianews.nvidia.com",
+      "article": null,
+      "source": "Profile"
+    },
+    {
+      "name": "Andrej Karpathy",
+      "org": "AI educator",
+      "link": "https://karpathy.ai",
+      "article": null,
+      "source": "Profile"
+    },
+    {
+      "name": "Sundar Pichai",
+      "org": "Google",
+      "link": "https://indianexpress.com/article/technology/tech-news-technology/sundar-pichai-stanford-university-highlights-from-commencement-speech-10740162/",
+      "article": "Why Sundar Pichai avoided talking about AI at Stanford: 5 key highlights from his commencement speech",
+      "source": "Indian Express Tech"
+    },
+    {
+      "name": "Mira Murati",
+      "org": "Thinking Machines",
+      "link": "https://x.com/miramurati",
+      "article": null,
+      "source": "Profile"
     }
   ]
 }
