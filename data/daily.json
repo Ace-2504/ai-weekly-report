@@ -1,128 +1,114 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "top": {
-    "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
-    "url": "https://arxiv.org/abs/2606.17209",
+    "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
+    "url": "https://arxiv.org/abs/2606.18271",
     "source": "arXiv cs.AI",
-    "published": "2026-06-17T04:00:00.000Z",
-    "summary": "arXiv:2606.17209v1 Announce Type: new Abstract: Test-time scaling for agentic search typically increases depth (i.e., more turns and tokens per trajectory) or breadth (i.e., more parallel rollouts). Here we focus on breadth scaling, showing that standard parallel sampling yiel…"
+    "published": "2026-06-18T04:00:00.000Z",
+    "summary": "arXiv:2606.18271v1 Announce Type: new Abstract: As Earth Observation data generation outpaces downlink bandwidth and human-in-the-loop processing, a widening gap has emerged between onboard collection and actionable ground intelligence. This paper presents NAVI-Orbital, a soft…"
   },
   "topIndia": {
-    "title": "Companies need flexibility, choice as AI becomes a geopolitical issue",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/companies-need-flexibility-choice-as-ai-becomes-a-geopolitical-issue/articleshow/131791035.cms",
+    "title": "AI market likely to split between premium frontier models and lower-cost alternatives: Bernstein",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-market-likely-to-split-between-premium-frontier-models-and-lower-cost-alternatives-bernstein/articleshow/131821716.cms",
     "source": "ET Tech",
-    "published": "2026-06-17T07:28:53.000Z",
-    "summary": "India is one of the fastest growing markets for Databricks, and last year the firm announced a $250 million investment in India to ramp up research and development capabilities and expand the India market."
+    "published": "2026-06-18T07:18:10.000Z",
+    "summary": "The global artificial intelligence (AI) market is likely to evolve into a two-tier structure, with premium frontier AI models serving highly specialised use cases while lower-cost models dominate mainstream applications, according to a report by Bernstein."
   },
   "headlines": [
     {
-      "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-      "url": "https://arxiv.org/abs/2606.17220",
+      "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
+      "url": "https://arxiv.org/abs/2606.18385",
       "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z"
+      "published": "2026-06-18T04:00:00.000Z"
     },
     {
-      "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
-      "url": "https://arxiv.org/abs/2606.17266",
+      "title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
+      "url": "https://arxiv.org/abs/2606.18413",
       "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z"
+      "published": "2026-06-18T04:00:00.000Z"
     },
     {
-      "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
-      "url": "https://arxiv.org/abs/2606.17269",
+      "title": "CEO-Bench: Can Agents Play the Long Game?",
+      "url": "https://arxiv.org/abs/2606.18543",
       "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z"
+      "published": "2026-06-18T04:00:00.000Z"
     },
     {
-      "title": "Nothing from Something: Can a Language Model Discover 0?",
-      "url": "https://arxiv.org/abs/2606.17289",
+      "title": "DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models",
+      "url": "https://arxiv.org/abs/2606.18557",
       "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z"
+      "published": "2026-06-18T04:00:00.000Z"
     },
     {
-      "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
-      "url": "https://arxiv.org/abs/2606.17312",
+      "title": "Optimizing Lithium Production Decisions under Geological, Demand, and Pricing Uncertainties: A POMDP Framework for Multi-Objective Decision Making",
+      "url": "https://arxiv.org/abs/2606.18598",
       "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z"
+      "published": "2026-06-18T04:00:00.000Z"
     },
     {
-      "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
-      "url": "https://arxiv.org/abs/2606.17328",
+      "title": "ForecastBench-Sim: A Simulated-World Forecasting Benchmark",
+      "url": "https://arxiv.org/abs/2606.18686",
       "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z"
+      "published": "2026-06-18T04:00:00.000Z"
     },
     {
-      "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
-      "url": "https://arxiv.org/abs/2606.17339",
+      "title": "What Must Generalist Agents Remember?",
+      "url": "https://arxiv.org/abs/2606.18746",
       "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z"
+      "published": "2026-06-18T04:00:00.000Z"
     },
     {
-      "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
-      "url": "https://arxiv.org/abs/2606.17368",
+      "title": "R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.18786",
       "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z"
+      "published": "2026-06-18T04:00:00.000Z"
     },
     {
-      "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
-      "url": "https://arxiv.org/abs/2606.17405",
+      "title": "ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch",
+      "url": "https://arxiv.org/abs/2606.18803",
       "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z"
+      "published": "2026-06-18T04:00:00.000Z"
     },
     {
-      "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
-      "url": "https://arxiv.org/abs/2606.17443",
+      "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
+      "url": "https://arxiv.org/abs/2606.18847",
       "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z"
+      "published": "2026-06-18T04:00:00.000Z"
     },
     {
-      "title": "A Machine-Learned Comorbidity Index",
-      "url": "https://arxiv.org/abs/2606.17450",
+      "title": "Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness",
+      "url": "https://arxiv.org/abs/2606.18874",
       "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z"
+      "published": "2026-06-18T04:00:00.000Z"
     },
     {
-      "title": "MapSatisfyBench: Benchmarking Satisfaction-Aware Map Agents through Behavior-Grounded Implicit Decision Factors",
-      "url": "https://arxiv.org/abs/2606.17453",
+      "title": "Generative-Model Predictive Planning for Navigation in Partially Observable Environments",
+      "url": "https://arxiv.org/abs/2606.18888",
       "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z"
+      "published": "2026-06-18T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "India's Wipro opens AI centre for Anthropic's Claude in Bengaluru",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-wipro-opens-ai-centre-for-anthropics-claude-in-bengaluru/articleshow/131787099.cms",
+      "title": "Analysing drivers and interdependencies in European electricity markets using XAI",
+      "url": "https://arxiv.org/abs/2606.19118",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-18T04:00:00.000Z",
+      "summary": "arXiv:2606.19118v1 Announce Type: new Abstract: Electricity markets are inherently complex systems characterised by strong nonlinearities, high-dimensional interactions, and increasing interdependence across regions. While deep neural networks (DNNs) have demonstrated strong p…"
+    },
+    {
+      "title": "Skill-MAS: Evolving Meta-Skill for Automatic Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2606.18837",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-18T04:00:00.000Z",
+      "summary": "arXiv:2606.18837v1 Announce Type: cross Abstract: Large Language Model (LLM)-based automatic Multi-Agent Systems (MAS) generation has become a crucial frontier for tackling complex tasks. However, existing methods face a dilemma between model capability and experience retentio…"
+    },
+    {
+      "title": "China's Z.ai GLM-5.2 tops OpenAI’s GPT 5.5 model on key benchmarks",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-z-ai-glm-5-2-tops-openais-gpt-5-5-model-on-key-benchmarks/articleshow/131805202.cms",
       "source": "ET Tech",
-      "published": "2026-06-17T05:13:27.000Z",
-      "summary": "Wipro has launched a new AI hub in Bengaluru. This centre focuses on Anthropic's Claude models. It aims to help businesses adopt AI more widely. Wipro will train thousands of employees. This move comes as AI impacts traditional IT services. Rival TCS also recently partnered wi…"
-    },
-    {
-      "title": "Knowledge Reutilization in Meta-Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2606.18132",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z",
-      "summary": "arXiv:2606.18132v1 Announce Type: new Abstract: Meta-reinforcement learning enables fast adaptation by extracting shared structure from related tasks, but existing end-to-end methods often couple task inference with embodiment-specific control. This coupling can obscure non-pa…"
-    },
-    {
-      "title": "ANEForge: Python for direct computation on the Apple Neural Engine",
-      "url": "https://arxiv.org/abs/2606.17090",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z",
-      "summary": "arXiv:2606.17090v1 Announce Type: cross Abstract: ANEForge is a Python package that programs the Apple Neural Engine (ANE), the fixed-function neural accelerator on every recent Apple device, directly and without CoreML. In production the engine is reachable only through CoreM…"
-    },
-    {
-      "title": "MeiBRD: Meta-Learning Intraoperative Biomechanical Residual Deformation",
-      "url": "https://arxiv.org/abs/2606.17379",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z",
-      "summary": "arXiv:2606.17379v1 Announce Type: cross Abstract: Accurate intraoperative liver registration is challenging due to substantial soft-tissue deformation yet sparse intraoperative measurements. Biomechanical models regularize this ill-posedness with prior knowledge but exhibit pe…"
-    },
-    {
-      "title": "A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models",
-      "url": "https://arxiv.org/abs/2606.18193",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-17T04:00:00.000Z",
-      "summary": "arXiv:2606.18193v1 Announce Type: cross Abstract: We evaluate the adversarial robustness of two frontier large language models (LLMs) developed by Anthropic, Fable 5 and Opus 4.8, against four families of automated jailbreak attack across 7 826 harmful intents spanning a ten-c…"
+      "published": "2026-06-17T15:39:18.000Z",
+      "summary": "Chinese startup Z.ai has launched GLM-5.2, a powerful AI model for complex coding projects. This new large language model boasts a massive 1 million token context window, allowing it to handle extensive software development tasks. GLM-5.2 is available under an open-source lice…"
     },
     {
       "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
@@ -130,29 +116,15 @@
       "source": "TechCrunch AI",
       "published": "2026-06-16T18:00:00.000Z",
       "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices."
-    },
-    {
-      "title": "Microsoft launches AI agent with pay-as-you-go pricing",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-launches-ai-agent-with-pay-as-you-go-pricing/articleshow/131779106.cms",
-      "source": "ET Tech",
-      "published": "2026-06-16T17:47:38.000Z",
-      "summary": "Microsoft is changing how it charges for its software for the first time in two decades, moving to bill customers with a pay-as-you-go model each time they use its new AI agent. The turn is a notable one for Microsoft, whose office software has relied for some two decades on f…"
-    },
-    {
-      "title": "SoftBank launches cybersecurity product based on OpenAI models",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-launches-cybersecurity-product-based-on-openai-models/articleshow/131767340.cms",
-      "source": "ET Tech",
-      "published": "2026-06-16T09:56:07.000Z",
-      "summary": "The \"Patching as a Service\" product will be rolled out in Japan through a joint ‌venture established ⁠last ⁠November between SoftBank's domestic telecoms arm, SoftBank Corp, and OpenAI."
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://blog.samaltman.com",
-      "article": null,
-      "source": "Profile"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-chief-tells-g7-to-not-cede-responsibilities-to-ai-giants/articleshow/131807107.cms",
+      "article": "OpenAI chief tells G7 to 'not cede responsibilities' to AI giants",
+      "source": "ET Tech"
     },
     {
       "name": "Demis Hassabis",
@@ -164,9 +136,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://www.darioamodei.com",
-      "article": null,
-      "source": "Profile"
+      "link": "https://economictimes.indiatimes.com/tech/technology/trump-says-negotiations-with-anthropic-are-going-fine/articleshow/131804921.cms",
+      "article": "Trump says negotiations with Anthropic are 'going fine'",
+      "source": "ET Tech"
     },
     {
       "name": "Yann LeCun",
@@ -178,9 +150,9 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-jensen-huang-pledges-ai-will-boost-manufacturing-jobs/articleshow/131784907.cms",
-      "article": "Nvidia's Jensen Huang pledges AI will boost manufacturing jobs",
-      "source": "ET Tech"
+      "link": "https://nvidianews.nvidia.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Andrej Karpathy",
@@ -192,9 +164,9 @@
     {
       "name": "Sundar Pichai",
       "org": "Google",
-      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-      "article": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
-      "source": "TechCrunch AI"
+      "link": "https://indianexpress.com/article/technology/tech-news-technology/sundar-pichai-stanford-university-highlights-from-commencement-speech-10740162/",
+      "article": "Why Sundar Pichai avoided talking about AI at Stanford: 5 key highlights from his commencement speech",
+      "source": "Indian Express Tech"
     },
     {
       "name": "Mira Murati",
