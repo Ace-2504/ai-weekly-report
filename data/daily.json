@@ -1,130 +1,109 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "top": {
-    "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
-    "url": "https://arxiv.org/abs/2606.18271",
+    "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+    "url": "https://arxiv.org/abs/2606.19464",
     "source": "arXiv cs.AI",
-    "published": "2026-06-18T04:00:00.000Z",
-    "summary": "arXiv:2606.18271v1 Announce Type: new Abstract: As Earth Observation data generation outpaces downlink bandwidth and human-in-the-loop processing, a widening gap has emerged between onboard collection and actionable ground intelligence. This paper presents NAVI-Orbital, a soft…"
+    "published": "2026-06-19T04:00:00.000Z",
+    "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with pe…"
   },
   "topIndia": {
-    "title": "AI market likely to split between premium frontier models and lower-cost alternatives: Bernstein",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-market-likely-to-split-between-premium-frontier-models-and-lower-cost-alternatives-bernstein/articleshow/131821716.cms",
-    "source": "ET Tech",
-    "published": "2026-06-18T07:18:10.000Z",
-    "summary": "The global artificial intelligence (AI) market is likely to evolve into a two-tier structure, with premium frontier AI models serving highly specialised use cases while lower-cost models dominate mainstream applications, according to a report by Bernstein."
+    "title": "Amazon explores selling Trainium AI chips, setting up a direct challenge to Nvidia",
+    "url": "https://indianexpress.com/article/technology/tech-news-technology/amazon-explores-selling-trainium-ai-chips-setting-up-a-direct-challenge-to-nvidia-10747351/",
+    "source": "Indian Express Tech",
+    "published": "2026-06-19T06:33:04.000Z",
+    "summary": ""
   },
   "headlines": [
     {
-      "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
-      "url": "https://arxiv.org/abs/2606.18385",
+      "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+      "url": "https://arxiv.org/abs/2606.19469",
       "source": "arXiv cs.AI",
-      "published": "2026-06-18T04:00:00.000Z"
+      "published": "2026-06-19T04:00:00.000Z"
     },
     {
-      "title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
-      "url": "https://arxiv.org/abs/2606.18413",
+      "title": "Diffusion Language Models: An Experimental Analysis",
+      "url": "https://arxiv.org/abs/2606.19475",
       "source": "arXiv cs.AI",
-      "published": "2026-06-18T04:00:00.000Z"
+      "published": "2026-06-19T04:00:00.000Z"
     },
     {
-      "title": "CEO-Bench: Can Agents Play the Long Game?",
-      "url": "https://arxiv.org/abs/2606.18543",
+      "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+      "url": "https://arxiv.org/abs/2606.19494",
       "source": "arXiv cs.AI",
-      "published": "2026-06-18T04:00:00.000Z"
+      "published": "2026-06-19T04:00:00.000Z"
     },
     {
-      "title": "DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models",
-      "url": "https://arxiv.org/abs/2606.18557",
+      "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+      "url": "https://arxiv.org/abs/2606.19501",
       "source": "arXiv cs.AI",
-      "published": "2026-06-18T04:00:00.000Z"
+      "published": "2026-06-19T04:00:00.000Z"
     },
     {
-      "title": "Optimizing Lithium Production Decisions under Geological, Demand, and Pricing Uncertainties: A POMDP Framework for Multi-Objective Decision Making",
-      "url": "https://arxiv.org/abs/2606.18598",
+      "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+      "url": "https://arxiv.org/abs/2606.19509",
       "source": "arXiv cs.AI",
-      "published": "2026-06-18T04:00:00.000Z"
+      "published": "2026-06-19T04:00:00.000Z"
     },
     {
-      "title": "ForecastBench-Sim: A Simulated-World Forecasting Benchmark",
-      "url": "https://arxiv.org/abs/2606.18686",
+      "title": "REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk",
+      "url": "https://arxiv.org/abs/2606.19522",
       "source": "arXiv cs.AI",
-      "published": "2026-06-18T04:00:00.000Z"
+      "published": "2026-06-19T04:00:00.000Z"
     },
     {
-      "title": "What Must Generalist Agents Remember?",
-      "url": "https://arxiv.org/abs/2606.18746",
+      "title": "Emergent Alignment",
+      "url": "https://arxiv.org/abs/2606.19527",
       "source": "arXiv cs.AI",
-      "published": "2026-06-18T04:00:00.000Z"
+      "published": "2026-06-19T04:00:00.000Z"
     },
     {
-      "title": "R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2606.18786",
+      "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
+      "url": "https://arxiv.org/abs/2606.19538",
       "source": "arXiv cs.AI",
-      "published": "2026-06-18T04:00:00.000Z"
+      "published": "2026-06-19T04:00:00.000Z"
     },
     {
-      "title": "ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch",
-      "url": "https://arxiv.org/abs/2606.18803",
+      "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
+      "url": "https://arxiv.org/abs/2606.19559",
       "source": "arXiv cs.AI",
-      "published": "2026-06-18T04:00:00.000Z"
+      "published": "2026-06-19T04:00:00.000Z"
     },
     {
-      "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
-      "url": "https://arxiv.org/abs/2606.18847",
+      "title": "Analyzing the Narration Gap in LLM-Solver Loops",
+      "url": "https://arxiv.org/abs/2606.19588",
       "source": "arXiv cs.AI",
-      "published": "2026-06-18T04:00:00.000Z"
+      "published": "2026-06-19T04:00:00.000Z"
     },
     {
-      "title": "Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness",
-      "url": "https://arxiv.org/abs/2606.18874",
+      "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+      "url": "https://arxiv.org/abs/2606.19602",
       "source": "arXiv cs.AI",
-      "published": "2026-06-18T04:00:00.000Z"
+      "published": "2026-06-19T04:00:00.000Z"
     },
     {
-      "title": "Generative-Model Predictive Planning for Navigation in Partially Observable Environments",
-      "url": "https://arxiv.org/abs/2606.18888",
+      "title": "Which Pairs to Compare for LLM Post-Training?",
+      "url": "https://arxiv.org/abs/2606.19607",
       "source": "arXiv cs.AI",
-      "published": "2026-06-18T04:00:00.000Z"
+      "published": "2026-06-19T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Analysing drivers and interdependencies in European electricity markets using XAI",
-      "url": "https://arxiv.org/abs/2606.19118",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-18T04:00:00.000Z",
-      "summary": "arXiv:2606.19118v1 Announce Type: new Abstract: Electricity markets are inherently complex systems characterised by strong nonlinearities, high-dimensional interactions, and increasing interdependence across regions. While deep neural networks (DNNs) have demonstrated strong p…"
-    },
-    {
-      "title": "Skill-MAS: Evolving Meta-Skill for Automatic Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2606.18837",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-18T04:00:00.000Z",
-      "summary": "arXiv:2606.18837v1 Announce Type: cross Abstract: Large Language Model (LLM)-based automatic Multi-Agent Systems (MAS) generation has become a crucial frontier for tackling complex tasks. However, existing methods face a dilemma between model capability and experience retentio…"
-    },
-    {
-      "title": "China's Z.ai GLM-5.2 tops OpenAI’s GPT 5.5 model on key benchmarks",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-z-ai-glm-5-2-tops-openais-gpt-5-5-model-on-key-benchmarks/articleshow/131805202.cms",
+      "title": "PM Modi, Mistral AI CEO Arthur Mensch discuss human-centric AI, open-weight models and India partnerships",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/modi-mistral-ai-ceo-arthur-mensch-discuss-human-centric-ai-open-weight-models-and-india-partnerships/articleshow/131832937.cms",
       "source": "ET Tech",
-      "published": "2026-06-17T15:39:18.000Z",
-      "summary": "Chinese startup Z.ai has launched GLM-5.2, a powerful AI model for complex coding projects. This new large language model boasts a massive 1 million token context window, allowing it to handle extensive software development tasks. GLM-5.2 is available under an open-source lice…"
-    },
-    {
-      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-16T18:00:00.000Z",
-      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices."
+      "published": "2026-06-18T13:51:59.000Z",
+      "summary": "Prime Minister Narendra Modi met with Mistral AI CEO Arthur Mensch to discuss artificial intelligence. They focused on developing AI systems that are trusted, human-centric, and inclusive. Discussions also covered potential partnerships in India. Mistral AI plans to launch a n…"
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-chief-tells-g7-to-not-cede-responsibilities-to-ai-giants/articleshow/131807107.cms",
-      "article": "OpenAI chief tells G7 to 'not cede responsibilities' to AI giants",
-      "source": "ET Tech"
+      "link": "https://blog.samaltman.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Demis Hassabis",
@@ -136,9 +115,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://economictimes.indiatimes.com/tech/technology/trump-says-negotiations-with-anthropic-are-going-fine/articleshow/131804921.cms",
-      "article": "Trump says negotiations with Anthropic are 'going fine'",
-      "source": "ET Tech"
+      "link": "https://www.darioamodei.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Yann LeCun",
