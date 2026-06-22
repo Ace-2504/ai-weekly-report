@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-06-15 to 2026-06-21",
-  "generated": "2026-06-21T07:33:20.734Z",
-  "intro": "105 AI items this week (72 India-relevant) across 9 sources.",
+  "weekOf": "2026-06-16 to 2026-06-22",
+  "generated": "2026-06-22T07:51:41.318Z",
+  "intro": "104 AI items this week (71 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -75,6 +75,18 @@
       "heading": "Industry & Research",
       "items": [
         {
+          "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+          "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+          "source": "TechCrunch AI",
+          "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
+        },
+        {
+          "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+          "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+          "source": "TechCrunch AI",
+          "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27."
+        },
+        {
           "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
           "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
           "source": "TechCrunch AI",
@@ -97,18 +109,6 @@
           "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
           "source": "TechCrunch AI",
           "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an…"
-        },
-        {
-          "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-          "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-          "source": "TechCrunch AI",
-          "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an…"
-        },
-        {
-          "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-          "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-          "source": "TechCrunch AI",
-          "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear."
         }
       ]
     },
@@ -116,52 +116,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "UnitedHealth’s $3 billion AI push has bots calling doctors",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/unitedhealths-3-billion-ai-push-has-bots-calling-doctors/articleshow/131887092.cms",
+          "title": "China's push for green power use in AI projects faces hurdles, experts say",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-push-for-green-power-use-in-ai-projects-faces-hurdles-experts-say/articleshow/131903329.cms",
           "source": "ET Tech",
-          "summary": "The largest US health insurer plans to invest $3 billion in AI over 2026 and 2027. UnitedHealth executives say they’re seeing a 2-to-1 return, as AI automates cumbersome manual processes and makes workers more efficient. Executives say the technology can reduce friction for pa…"
+          "summary": "Ensuring reliable electricity for AI-focused data centres has become a strategic priority, underscored in China's 2026 government work report released earlier this year, which pledged stronger integration between computing infrastructure and power supply ‌networks."
         },
         {
-          "title": "Snap to spin-off AI video generation team into standalone company ‘Dotmo’: Here’s why",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/snap-spin-off-ai-video-company-dotmo-10750189/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "Tech workers maxed out their AI use. Now they’re trying to minimise it.",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/tech-workers-maxed-out-their-ai-use-now-theyre-trying-to-minimise-it-10750073/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "US President Trump says he no longer views Anthropic as national security threat: Report",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/us-president-trump-says-he-no-longer-views-anthropic-as-national-security-threat-report-10750067/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "US scientist John Jumper to leave Google DeepMind for Anthropic",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/us-scientist-john-jumper-to-leave-google-deepmind-for-anthropic-10750055/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "Canadian lender TD tells some employees it will use software to monitor their work",
-          "url": "https://economictimes.indiatimes.com/tech/technology/canadian-lender-td-tells-some-employees-it-will-use-software-to-monitor-their-work/articleshow/131885417.cms",
+          "title": "India to witness rapid data centre growth fueled by favourable demographics: Goldman Sachs",
+          "url": "https://economictimes.indiatimes.com/tech/technology/india-to-witness-rapid-data-centre-growth-fueled-by-favourable-demographics-goldman-sachs/articleshow/131903111.cms",
           "source": "ET Tech",
-          "summary": "TD said in a statement to Reuters the deployment is \"standard practice across the industry.\" \"In various parts of our business, we use automated solutions to improve insights and ‌better allocate resources,\" the company ⁠said. \"This is ⁠not AI and not specific to any business …"
+          "summary": "The report, titled Outlook for Data Centers in Asia, states that data centre demand is expected to grow at a 20% compound annual growth rate (CAGR) in China from 2025 to 2028, driven by structural developments in AI and stepped-up investments by hyperscalers and large language…"
         },
         {
-          "title": "AI, AI Sir! Indian execs back in the classroom for a fresh chapter",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-ai-sir-indian-execs-back-in-the-classroom-for-a-fresh-chapter/articleshow/131885663.cms",
-          "source": "ET Tech",
-          "summary": "Online education companies such as Coursera, Eruditus, upGrad and Simplilearn are reporting a sharp rise in enrolments over the past year $2 trillion a year over the next five years - with generative AI, agentic AI and AI-led business transformation emerging as the most sought…"
+          "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands",
+          "url": "https://inc42.com/startups/how-shipway-is-using-ai-to-drive-post-purchase-efficiency-for-indias-d2c-brands/",
+          "source": "Inc42",
+          "summary": "India’s D2C economy is projected to surpass $310 Bn by 2030, and the brands driving this growth have largely mastered…"
         },
         {
-          "title": "Trump tells Axios he no longer views Anthropic as national security threat",
-          "url": "https://economictimes.indiatimes.com/tech/technology/trump-tells-axios-he-no-longer-views-anthropic-as-national-security-threat/articleshow/131885332.cms",
+          "title": "SK Hynix dethrones Samsung Electronics as South Korea's most valuable company",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-dethrones-samsung-electronics-as-south-koreas-most-valuable-company/articleshow/131901768.cms",
           "source": "ET Tech",
-          "summary": "Senior Anthropic technical staff were scheduled to meet with Trump administration ‌officials earlier ⁠this week ⁠to discuss a dispute over foreign access to its most advanced ​AI models, Fable 5 and Mythos 5. The company last week disabled access ​for all users to those models…"
+          "summary": "South Korean chipmaker SK Hynix has briefly surpassed Samsung Electronics to become the nation's most valuable company. This surge, driven by booming demand for memory chips fuelled by AI data centre construction, has seen SK Hynix shares skyrocket over 340% this year. Both co…"
+        },
+        {
+          "title": "AI startups fuel talent war as hiring surges across India",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startups-fuel-talent-war-as-hiring-surges-across-india/articleshow/131897020.cms",
+          "source": "ET Tech",
+          "summary": "India's AI startups are experiencing a hiring surge, outpacing the broader tech sector as companies transition from AI experiments to large-scale deployments. Driven by demand for generative AI and automation, recruitment is booming across engineering, product, and customer-fa…"
+        },
+        {
+          "title": "With AI, challenge is convincing people that learning still matters: Coursera CTO",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/with-ai-challenge-is-convincing-people-that-learning-still-matters-coursera-cto/articleshow/131897015.cms",
+          "source": "ET Tech",
+          "summary": "Coursera's CTO, Mustafa Furniturewala, emphasises that AI's true value in education lies in translating information into practical skills, not just content access. He believes the focus should be on application layers and ecosystems built upon AI models. India, with its vast y…"
+        },
+        {
+          "title": "Indian developers set to incorporate Apple's latest tools in their app offerings",
+          "url": "https://economictimes.indiatimes.com/tech/technology/indian-developers-set-to-incorporate-apples-latest-tools-in-their-app-offerings/articleshow/131896996.cms",
+          "source": "ET Tech",
+          "summary": "Indian app developers are set to integrate Apple's latest innovations, including AI-powered Siri and Xcode upgrades, to boost productivity and user experience. Features like automated code writing and enhanced Siri capabilities promise to revolutionise app creation."
+        },
+        {
+          "title": "PE firms, mid-market companies drive India’s new GCC wave",
+          "url": "https://economictimes.indiatimes.com/tech/technology/pe-firms-mid-market-companies-drive-indias-new-gcc-wave/articleshow/131896747.cms",
+          "source": "ET Tech",
+          "summary": "India's Global Capability Centre (GCC) landscape is shifting, with private equity-backed and mid-market firms now driving significant expansion. These companies are leveraging GCCs beyond cost savings to build advanced capabilities in AI and engineering, creating substantial v…"
         }
       ]
     }
