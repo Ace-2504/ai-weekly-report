@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-06-16 to 2026-06-22",
-  "generated": "2026-06-22T09:00:37.892Z",
-  "intro": "103 AI items this week (70 India-relevant) across 9 sources.",
+  "weekOf": "2026-06-17 to 2026-06-23",
+  "generated": "2026-06-23T07:09:09.785Z",
+  "intro": "97 AI items this week (65 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -11,12 +11,6 @@
           "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
           "source": "TechCrunch AI",
           "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos."
-        },
-        {
-          "title": "How to turn off AI in your Google Docs",
-          "url": "https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/",
-          "source": "TechCrunch AI",
-          "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
         },
         {
           "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
@@ -29,12 +23,6 @@
     {
       "heading": "Multimodal & Media",
       "items": [
-        {
-          "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-          "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-          "source": "TechCrunch AI",
-          "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development."
-        },
         {
           "title": "MolmoMotion: Language-guided 3D motion forecasting",
           "url": "https://huggingface.co/blog/allenai/molmomotion",
@@ -64,6 +52,24 @@
       "heading": "Open Source",
       "items": [
         {
+          "title": "OpenAI launches new initiative to help find and patch open source bugs",
+          "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is using AI to help the open source community better protect itself."
+        },
+        {
+          "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+          "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+          "source": "TechCrunch AI",
+          "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee."
+        },
+        {
+          "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+          "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+          "source": "Hugging Face",
+          "summary": ""
+        },
+        {
           "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
           "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
           "source": "Hugging Face",
@@ -75,40 +81,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-          "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+          "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+          "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
           "source": "TechCrunch AI",
-          "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
+          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
         },
         {
-          "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-          "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+          "title": "The AI world is getting ‘loopy’",
+          "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
           "source": "TechCrunch AI",
-          "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27."
+          "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly."
         },
         {
-          "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-          "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+          "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+          "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
           "source": "TechCrunch AI",
-          "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”"
+          "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs."
         },
         {
-          "title": "In the Weights is your new AI-centric vanity search",
-          "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+          "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+          "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
           "source": "TechCrunch AI",
-          "summary": "So ... what's your In the Weights score?"
+          "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants."
         },
         {
-          "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-          "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+          "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+          "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
           "source": "TechCrunch AI",
-          "summary": "Jumper isn't the only big name leaving Google DeepMind."
+          "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools."
         },
         {
-          "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-          "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-          "source": "TechCrunch AI",
-          "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an…"
+          "title": "Three things to watch amid Anthropic’s latest feud with the government",
+          "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+          "source": "MIT Tech Review",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said …"
         }
       ]
     },
@@ -116,52 +122,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Tencent tests AI assistant for its super app WeChat in China",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tencent-tests-ai-assistant-for-its-super-app-wechat-in-china/articleshow/131903958.cms",
+          "title": "Samsung deploys ChatGPT Enterprise, Codex globally 3 years after AI curbs",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-deploys-chatgpt-enterprise-codex-globally-3-years-after-ai-curbs/articleshow/131925669.cms",
           "source": "ET Tech",
-          "summary": "Known as Weixin in China, the super app has made the new AI assistant available to a small number of users, according to a statement from WeChat on Monday. Users are able to interact with the service, named Xiaowei, via text or voice, and the tool can help them complete variou…"
+          "summary": "Samsung Electronics has opened up use of OpenAI's ChatGPT Enterprise and Codex across its global Device Experience division, reversing restrictions imposed in 2023 over data security concerns. The deployment highlights the growing adoption of enterprise AI tools as companies s…"
         },
         {
-          "title": "When you judge a book by its AI cover: the debate escalates",
-          "url": "https://economictimes.indiatimes.com/tech/technology/when-you-judge-a-book-by-its-ai-cover-the-debate-escalates/articleshow/131903768.cms",
+          "title": "AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startup-baseten-hits-13-billion-valuation-as-australias-blackbird-makes-record-bet/articleshow/131923620.cms",
           "source": "ET Tech",
-          "summary": "Readers have always judged books by their covers. And when covers start looking like they're the result of a handful of prompts instead of well thought out creative briefs, the concerns are multifold. Readers begin to question the originality of the text, the designer's skill …"
+          "summary": "The round was led by U.S.-based investors ‌Sands Capital ⁠and ⁠Wellington Management, Baseten said late on Monday. Top Australian venture capital ​firm Blackbird VC said it contributed the firm's biggest-ever investment, without ​specifying an amount."
         },
         {
-          "title": "China's push for green power use in AI projects faces hurdles, experts say",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-push-for-green-power-use-in-ai-projects-faces-hurdles-experts-say/articleshow/131903329.cms",
+          "title": "Qualcomm nearing deal for AI chip startup Modular: report",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/qualcomm-nearing-deal-for-ai-chip-startup-modular-report/articleshow/131923579.cms",
           "source": "ET Tech",
-          "summary": "Ensuring reliable electricity for AI-focused data centres has become a strategic priority, underscored in China's 2026 government work report released earlier this year, which pledged stronger integration between computing infrastructure and power supply ‌networks."
+          "summary": "A global supplier of smartphone chips, Qualcomm has been working to ​reduce its reliance on the ⁠volatile handset ‌market by branching out ​into fast-growing ​areas like data center processors ⁠and autonomous vehicle chips."
         },
         {
-          "title": "India to witness rapid data centre growth fueled by favourable demographics: Goldman Sachs",
-          "url": "https://economictimes.indiatimes.com/tech/technology/india-to-witness-rapid-data-centre-growth-fueled-by-favourable-demographics-goldman-sachs/articleshow/131903111.cms",
-          "source": "ET Tech",
-          "summary": "The report, titled Outlook for Data Centers in Asia, states that data centre demand is expected to grow at a 20% compound annual growth rate (CAGR) in China from 2025 to 2028, driven by structural developments in AI and stepped-up investments by hyperscalers and large language…"
+          "title": "Oracle sheds 21,000 employees while ramping up AI investments",
+          "url": "https://indianexpress.com/article/technology/artificial-intelligence/oracle-sheds-21000-employees-while-ramping-up-ai-investments-10752739/",
+          "source": "Indian Express Tech",
+          "summary": ""
         },
         {
-          "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India’s D2C Brands",
-          "url": "https://inc42.com/startups/how-shipway-is-using-ai-to-drive-post-purchase-efficiency-for-indias-d2c-brands/",
-          "source": "Inc42",
-          "summary": "India’s D2C economy is projected to surpass $310 Bn by 2030, and the brands driving this growth have largely mastered…"
+          "title": "Oracle layoffs 2026: Tech giant's headcount shrinks by 21,000 amid rapid AI adoption",
+          "url": "https://economictimes.indiatimes.com/tech/technology/oracle-workforce-shrinks-by-about-21000-employees-amid-ai-adoption/articleshow/131923049.cms",
+          "source": "ET Tech",
+          "summary": "AI adoption has led to a 13% decline in Oracle's total workforce. The company said in its filing that the workforce adjustments were in ​response to various factors, including management and ⁠product changes, performance ‌issues, strategic shifts and acquisitions."
         },
         {
-          "title": "SK Hynix dethrones Samsung Electronics as South Korea's most valuable company",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-dethrones-samsung-electronics-as-south-koreas-most-valuable-company/articleshow/131901768.cms",
+          "title": "As AI adoption grows, token consumption comes under close scrutiny",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/as-ai-adoption-grows-token-consumption-comes-under-close-scrutiny/articleshow/131920077.cms",
           "source": "ET Tech",
-          "summary": "South Korean chipmaker SK Hynix has briefly surpassed Samsung Electronics to become the nation's most valuable company. This surge, driven by booming demand for memory chips fuelled by AI data centre construction, has seen SK Hynix shares skyrocket over 340% this year. Both co…"
+          "summary": "Businesses are facing hefty AI bills, prompting a shift from simply counting AI tokens to scrutinising their actual value. Companies are now tracking cost per outcome and implementing stricter controls like usage dashboards and approval mechanisms. Firms are exploring cheaper …"
         },
         {
-          "title": "AI startups fuel talent war as hiring surges across India",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startups-fuel-talent-war-as-hiring-surges-across-india/articleshow/131897020.cms",
+          "title": "Software-hardware loop fuelling all new AI super cycle",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/software-hardware-loop-fuelling-all-new-ai-super-cycle/articleshow/131919502.cms",
           "source": "ET Tech",
-          "summary": "India's AI startups are experiencing a hiring surge, outpacing the broader tech sector as companies transition from AI experiments to large-scale deployments. Driven by demand for generative AI and automation, recruitment is booming across engineering, product, and customer-fa…"
+          "summary": "While energy and cooling challenges persist, a lot more hardware requirements are expected to emerge, Synopsys CIO Sriram Sitaraman told ET. While energy and cooling pose challenges, innovation is anticipated to overcome these. Enterprises are also seeing productivity boosts f…"
         },
         {
-          "title": "With AI, challenge is convincing people that learning still matters: Coursera CTO",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/with-ai-challenge-is-convincing-people-that-learning-still-matters-coursera-cto/articleshow/131897015.cms",
+          "title": "A new bunch of AI spin-offs ripe for the picking",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/a-new-bunch-of-ai-spin-offs-ripe-for-the-picking/articleshow/131918917.cms",
           "source": "ET Tech",
-          "summary": "Coursera's CTO, Mustafa Furniturewala, emphasises that AI's true value in education lies in translating information into practical skills, not just content access. He believes the focus should be on application layers and ecosystems built upon AI models. India, with its vast y…"
+          "summary": "Indian tech unicorns are transforming their internal AI tools into independent businesses, mirroring successes like Amazon Web Services and Slack. Companies such as NoBroker, Moglix, Apna, and Practo are leveraging years of accumulated data and domain expertise to launch AI-po…"
         }
       ]
     }
