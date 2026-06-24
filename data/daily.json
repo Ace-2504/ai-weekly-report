@@ -1,101 +1,149 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "top": {
-    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "source": "TechCrunch AI",
-    "published": "2026-06-23T01:27:55.000Z",
-    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+    "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+    "url": "https://arxiv.org/abs/2606.23927",
+    "source": "arXiv cs.AI",
+    "published": "2026-06-24T04:00:00.000Z",
+    "summary": "arXiv:2606.23927v1 Announce Type: new Abstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are o…"
   },
   "topIndia": {
-    "title": "Samsung deploys ChatGPT Enterprise, Codex globally 3 years after AI curbs",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-deploys-chatgpt-enterprise-codex-globally-3-years-after-ai-curbs/articleshow/131925669.cms",
+    "title": "Anthropic launches Claude Tag: Everything you need to know about the Slack-native AI agent",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-claude-tag-everything-you-need-to-know-about-the-slack-native-ai-agent/articleshow/131958086.cms",
     "source": "ET Tech",
-    "published": "2026-06-23T05:08:15.000Z",
-    "summary": "Samsung Electronics has opened up use of OpenAI's ChatGPT Enterprise and Codex across its global Device Experience division, reversing restrictions imposed in 2023 over data security concerns. The deployment highlights the growing adoption of enterprise AI tools as companies s…"
+    "published": "2026-06-24T06:53:23.000Z",
+    "summary": "AI startup Anthropic has launched Claude Tag, a new Slack-native AI experience, replacing its previous chatbot. This \"inline\" agent seamlessly integrates into team workflows, assisting with diverse tasks by leveraging organizational tools and context. Claude Tag, powered by th…"
   },
   "headlines": [
     {
-      "title": "OpenAI launches new initiative to help find and patch open source bugs",
-      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-23T00:11:31.000Z"
+      "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+      "url": "https://arxiv.org/abs/2606.23938",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-24T04:00:00.000Z"
     },
     {
-      "title": "The AI world is getting ‘loopy’",
-      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-22T20:53:11.000Z"
+      "title": "Critique of Agent Model",
+      "url": "https://arxiv.org/abs/2606.23991",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-24T04:00:00.000Z"
     },
     {
-      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-22T20:13:58.000Z"
+      "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+      "url": "https://arxiv.org/abs/2606.24010",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-24T04:00:00.000Z"
     },
     {
-      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
-      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-22T20:08:15.000Z"
+      "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+      "url": "https://arxiv.org/abs/2606.24014",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-24T04:00:00.000Z"
     },
     {
-      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-22T18:49:44.000Z"
+      "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+      "url": "https://arxiv.org/abs/2606.24026",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-24T04:00:00.000Z"
     },
     {
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "source": "MIT Tech Review",
-      "published": "2026-06-22T18:00:00.000Z"
+      "title": "Breaking the Filter Bubble: A Semantic Pareto-DQN Framework for Multi-Objective Recommendation",
+      "url": "https://arxiv.org/abs/2606.24042",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-24T04:00:00.000Z"
     },
     {
-      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-22T16:51:29.000Z"
+      "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+      "url": "https://arxiv.org/abs/2606.24047",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-24T04:00:00.000Z"
     },
     {
-      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-      "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-22T14:00:00.000Z"
+      "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+      "url": "https://arxiv.org/abs/2606.24064",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-24T04:00:00.000Z"
     },
     {
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "source": "Hugging Face",
-      "published": "2026-06-22T13:18:56.000Z"
+      "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+      "url": "https://arxiv.org/abs/2606.24099",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-24T04:00:00.000Z"
     },
     {
-      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-21T15:28:17.000Z"
+      "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+      "url": "https://arxiv.org/abs/2606.24112",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-24T04:00:00.000Z"
     },
     {
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-21T14:40:28.000Z"
+      "title": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
+      "url": "https://arxiv.org/abs/2606.24124",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-24T04:00:00.000Z"
+    },
+    {
+      "title": "OmniPath: A Multi-Modal Agentic Framework for Auditing Wheelchair Accessibility",
+      "url": "https://arxiv.org/abs/2606.24129",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-24T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "OpenAI launches new initiative to help find and patch open source bugs",
-      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-23T00:11:31.000Z",
-      "summary": "OpenAI is using AI to help the open source community better protect itself."
+      "title": "Anthropic launches Claude Tag: Everything you need to know about the Slack-native AI agent",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-claude-tag-everything-you-need-to-know-about-the-slack-native-ai-agent/articleshow/131958086.cms",
+      "source": "ET Tech",
+      "published": "2026-06-24T06:53:23.000Z",
+      "summary": "AI startup Anthropic has launched Claude Tag, a new Slack-native AI experience, replacing its previous chatbot. This \"inline\" agent seamlessly integrates into team workflows, assisting with diverse tasks by leveraging organizational tools and context. Claude Tag, powered by th…"
     },
     {
-      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
-      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-22T20:08:15.000Z",
-      "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants."
+      "title": "Anthropic launches Claude Tag in Slack with plans for wider rollout",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-launches-claude-tag-in-slack-with-plans-for-wider-rollout-10754764/",
+      "source": "Indian Express Tech",
+      "published": "2026-06-24T06:10:28.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Exploring Dualistic Meta-Learning to Enhance Domain Generalization in Open Set Scenarios",
+      "url": "https://arxiv.org/abs/2606.23758",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-24T04:00:00.000Z",
+      "summary": "arXiv:2606.23758v1 Announce Type: cross Abstract: Domain generalization learns from multiple source domains to generalize to unseen target domains. However, it often neglects the realistic case of label mismatch between source and target. Open set domain generalization is then…"
+    },
+    {
+      "title": "From \"Aha Moments\" to Controllable Thinking: Toward Meta-Cognitive Reasoning in Large Reasoning Models via Decoupled Reasoning and Control",
+      "url": "https://arxiv.org/abs/2508.04460",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-24T04:00:00.000Z",
+      "summary": "arXiv:2508.04460v2 Announce Type: replace Abstract: Large Reasoning Models (LRMs) can exhibit step-by-step reasoning, reflection, and backtracking, but these behaviors are often unregulated, leading to overthinking. As a result, LRMs continue generating redundant reasoning eve…"
+    },
+    {
+      "title": "US presses Meta to agree to AI reviews as security concerns rise: report",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-presses-meta-to-agree-to-ai-reviews-as-security-concerns-rise-report/articleshow/131954168.cms",
+      "source": "ET Tech",
+      "published": "2026-06-24T03:45:45.000Z",
+      "summary": "The Facebook parent, ​which launched the Muse Spark AI model in April, is the only major U.S. ​developer of AI technology that has not reached an agreement to voluntarily share its models with the federal government for review, according to ​the report."
+    },
+    {
+      "title": "Early Anthropic backer Menlo lands $3 billion in its largest-ever haul",
+      "url": "https://economictimes.indiatimes.com/tech/funding/early-anthropic-backer-menlo-lands-3-billion-in-its-largest-ever-haul/articleshow/131941625.cms",
+      "source": "ET Tech",
+      "published": "2026-06-23T15:03:56.000Z",
+      "summary": "Menlo is set to announce that it’s raised $3 billion for a set of funds dedicated to backing AI startups, marking the venture firm’s largest fundraising haul to date. As part of that, Menlo, historically focused on backing newer startups, also intends to pursue more later-stag…"
+    },
+    {
+      "title": "Meta launches AI smart glasses from $299, Kylie Jenner edition unveiled",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/meta-launches-ai-smart-glasses-from-299-kylie-jenner-edition-unveiled-10754011/",
+      "source": "Indian Express Tech",
+      "published": "2026-06-23T14:48:40.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Meta announces new range of smart glasses starting at $299",
+      "url": "https://economictimes.indiatimes.com/tech/technology/meta-announces-new-range-of-smart-glasses-starting-at-299/articleshow/131939423.cms",
+      "source": "ET Tech",
+      "published": "2026-06-23T13:18:00.000Z",
+      "summary": "​Meta ​Platforms on ‌Tuesday ⁠announced ⁠a ​new range ​of ​AI ⁠smart ‌glasses ​in ​partnership ⁠with EssilorLuxottica, ​starting ​at $299. Although built in collaboration with Luxottica, the new range of glasses are the first to not be associated with ​any of the eyewear firm'…"
     }
   ],
   "people": [
