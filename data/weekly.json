@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-06-18 to 2026-06-24",
-  "generated": "2026-06-24T07:05:57.864Z",
-  "intro": "407 AI items this week (74 India-relevant) across 10 sources.",
+  "weekOf": "2026-06-19 to 2026-06-25",
+  "generated": "2026-06-25T07:05:58.630Z",
+  "intro": "410 AI items this week (81 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -69,7 +69,7 @@
           "title": "Navigating User Behavior toward Personalized Multimodal Generation",
           "url": "https://arxiv.org/abs/2606.24196",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.24196v1 Announce Type: new Abstract: Modern AIGC pipelines deliver high-fidelity images and videos but presuppose a well-formed creation instruction, while end users rarely articulate visual details, leaving generators misaligned with user demand. We study personali…"
+          "summary": "arXiv:2606.24196v2 Announce Type: new Abstract: Modern AIGC pipelines deliver high-fidelity images and videos but presuppose a well-formed creation instruction, while end users rarely articulate visual details, leaving generators misaligned with user demand. We study personali…"
         },
         {
           "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
@@ -160,10 +160,10 @@
           "summary": "OpenAI is using AI to help the open source community better protect itself."
         },
         {
-          "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-          "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-          "source": "TechCrunch AI",
-          "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee."
+          "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+          "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -212,52 +212,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Anthropic launches Claude Tag: Everything you need to know about the Slack-native AI agent",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-claude-tag-everything-you-need-to-know-about-the-slack-native-ai-agent/articleshow/131958086.cms",
-          "source": "ET Tech",
-          "summary": "AI startup Anthropic has launched Claude Tag, a new Slack-native AI experience, replacing its previous chatbot. This \"inline\" agent seamlessly integrates into team workflows, assisting with diverse tasks by leveraging organizational tools and context. Claude Tag, powered by th…"
-        },
-        {
-          "title": "India can build sovereign AI, but can it build an AI-ready workforce?",
-          "url": "https://yourstory.com/2026/06/india-can-build-sovereign-ai-but-can-it-build-an-ai-ready-workforce",
-          "source": "YourStory",
-          "summary": "While India’s AI infrastructure and computing capabilities get billions of dollars in investment, the harder task is preparing professionals for an economy where AI changes how value is created."
-        },
-        {
-          "title": "India among top AI-ready nations, one of world's least concentrated equity markets: J.P. Morgan",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-among-top-ai-ready-nations-one-of-worlds-least-concentrated-equity-markets-j-p-morgan/articleshow/131957569.cms",
-          "source": "ET Tech",
-          "summary": "India has emerged as one of the top countries in artificial intelligence (AI) readiness, trailing only the U.S. and China, while remaining one of the world's least concentrated equity markets, according to a recent report by J.P. Morgan."
-        },
-        {
-          "title": "Talk of a bubble is an 'insult to AI' says SoftBank's Son",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/talk-of-a-bubble-is-an-insult-to-ai-says-softbanks-son/articleshow/131957186.cms",
-          "source": "ET Tech",
-          "summary": "Masayoshi Son, SoftBank's CEO, dismissed concerns about an AI bubble, calling it an \"insult to AI\" and emphasising its nascent stage with vast potential. He reiterated SoftBank's role as an \"egg-laying factory\" and expressed frustration over the company's market valuation comp…"
-        },
-        {
-          "title": "Anthropic launches Claude Tag in Slack with plans for wider rollout",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-launches-claude-tag-in-slack-with-plans-for-wider-rollout-10754764/",
+          "title": "Figma brings coding, motion design, and generative tools into a single canvas",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/figma-brings-coding-motion-design-and-generative-tools-into-a-single-canvas-10756494/",
           "source": "Indian Express Tech",
           "summary": ""
         },
         {
-          "title": "Generative AI expanding role in shopping, to enable AI-led purchases: Report",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/generative-ai-expanding-role-in-shopping-to-enable-ai-led-purchases-report/articleshow/131956258.cms",
-          "source": "ET Tech",
-          "summary": "Generative AI is set to revolutionise consumer shopping, moving beyond discovery to completing transactions. Young shoppers, particularly Gen Z, are leading this shift, leveraging AI for product research and even purchases. As AI tools evolve and companies like Amazon and Walm…"
-        },
-        {
-          "title": "MoEngage Acquires US-Based AI Startup Aampe To Scale Agentic Marketing",
-          "url": "https://inc42.com/buzz/moengage-acquires-us-based-ai-startup-aampe-to-scale-agentic-marketing/",
+          "title": "Preventive Health Platform SuperLiving Bags $7 Mn To Scale In Tier II & III Cities",
+          "url": "https://inc42.com/buzz/preventive-health-platform-superliving-bags-7-mn-to-scale-in-tier-ii-iii-cities/",
           "source": "Inc42",
-          "summary": "SaaS major MoEngage has acquired San Francisco-based AI infrastructure startup Aampe to strengthen its customer engagement stack. In a statement,…"
+          "summary": "AI-native health and nutrition-focused platform SuperLiving has raised $7 Mn (about ₹65.9 Cr) in its Series A funding round led…"
         },
         {
-          "title": "AI will not take your job, but it will take your excuses, say finance leaders at JLL roundtable",
-          "url": "https://yourstory.com/2026/06/ai-will-not-take-job-but-will-take-excuses-finance-leaders-jll-roundtable",
+          "title": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/legal-tech-firm-sues-us-over-order-limiting-foreign-access-to-top-tier-anthropic-models/articleshow/131982621.cms",
+          "source": "ET Tech",
+          "summary": "Legion LegalTech Corp, a legal tech firm based in the US, has initiated legal action against the federal government after a controversial directive mandated AI company Anthropic to restrict access to its advanced models for foreign users. Legion argues this mandate, issued by …"
+        },
+        {
+          "title": "Meet the app where every influencer is an AI — and anyone can build one in two minutes",
+          "url": "https://yourstory.com/2026/05/app-influencer-ai-anyone-can-build",
           "source": "YourStory",
-          "summary": "STRAPLINE: At a JLL roundtable, CFOs and finance leaders traded boardroom war stories on AI, Gen Z hiring, and the hard lessons that come with building, scaling, and sometimes shutting down a business. Gayatri Guha Every founder's pitch deck tells a story of growth. What it ra…"
+          "summary": "Rishi Chadha, Utkarsh Goyal, and Saikat Das are building YRAL, a short-form AI video platform where every influencer is an AI agent, and any user can create and monetize one under 2 minutes"
+        },
+        {
+          "title": "Announcing The D2C & Retail Summit 2026: Decoding Commerce In The Age Of AI & 10-Min Delivery",
+          "url": "https://inc42.com/buzz/announcing-the-d2c-retail-summit-2026-decoding-commerce-in-the-age-of-ai-10-min-delivery/",
+          "source": "Inc42",
+          "summary": "India’s consumer economy is entering a defining new chapter. The era of burning capital for hyper-growth is over, replaced by…"
+        },
+        {
+          "title": "Google poised to lose two more senior AI staffers to Anthropic",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-poised-to-lose-two-more-senior-ai-staffers-to-anthropic/articleshow/131980947.cms",
+          "source": "ET Tech",
+          "summary": "​​Their moves rattled investors and cast new doubt on Google’s ability to compete in the fierce race to build better models.Shares of Alphabet closed down slightly after falling as much as 1.2% during the trading day Wednesday."
+        },
+        {
+          "title": "EU moves to strengthen Europol against rising digital, cross-border crime",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-moves-to-strengthen-europol-against-rising-digital-cross-border-crime/articleshow/131980883.cms",
+          "source": "ET Tech",
+          "summary": "Europol warned ‌last year ⁠that ⁠organised crime gangs were turning to AI-powered ​scams to target victims. Tackling smuggling gangs that illegally ​move migrants across Europe remains a priority for many governments."
+        },
+        {
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities/articleshow/131980405.cms",
+          "source": "ET Tech",
+          "summary": "Anthropic said in the letter that distillation ​is a way to help accelerate China's ability to reach Anthropic's advanced Mythos Preview capabilities."
         }
       ]
     }
