@@ -1,94 +1,122 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "top": {
     "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
     "url": "https://arxiv.org/abs/2606.26155",
     "source": "arXiv cs.AI",
-    "published": "2026-06-26T04:00:00.000Z",
+    "published": "2026-06-27T04:00:00.000Z",
     "summary": "arXiv:2606.26155v1 Announce Type: new Abstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavior. These data pairs determine the degree to which interp…"
   },
   "topIndia": {
-    "title": "Anthropic accuses Alibaba of biggest Claude cloning attempt, seeks tougher US action",
-    "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-accuses-alibaba-of-biggest-claude-cloning-attempt-seeks-tougher-us-action-10758451/",
-    "source": "Indian Express Tech",
-    "published": "2026-06-26T06:57:20.000Z",
-    "summary": ""
+    "title": "AI platform developed to support doctors, frontline workers with verified health intelligence",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-platform-developed-to-support-doctors-frontline-workers-with-verified-health-intelligence/articleshow/132029565.cms",
+    "source": "ET Tech",
+    "published": "2026-06-27T06:01:07.000Z",
+    "summary": "A Chennai-based epidemiologist has launched HIVE, an AI-powered platform designed to deliver verified, evidence-based healthcare intelligence. Unlike AI tools that primarily generate responses using information available online, HIVE integrates multiple sources of evidence and…"
   },
   "headlines": [
     {
       "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
       "url": "https://arxiv.org/abs/2606.26158",
       "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z"
+      "published": "2026-06-27T04:00:00.000Z"
     },
     {
       "title": "Refusal Lives Downstream of Persona in Chat Models",
       "url": "https://arxiv.org/abs/2606.26161",
       "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z"
+      "published": "2026-06-27T04:00:00.000Z"
     },
     {
       "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
       "url": "https://arxiv.org/abs/2606.26173",
       "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z"
+      "published": "2026-06-27T04:00:00.000Z"
     },
     {
       "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
       "url": "https://arxiv.org/abs/2606.26203",
       "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z"
+      "published": "2026-06-27T04:00:00.000Z"
     },
     {
       "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
       "url": "https://arxiv.org/abs/2606.26205",
       "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z"
+      "published": "2026-06-27T04:00:00.000Z"
     },
     {
       "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
       "url": "https://arxiv.org/abs/2606.26298",
       "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z"
+      "published": "2026-06-27T04:00:00.000Z"
     },
     {
       "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
       "url": "https://arxiv.org/abs/2606.26299",
       "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z"
+      "published": "2026-06-27T04:00:00.000Z"
     },
     {
       "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
       "url": "https://arxiv.org/abs/2606.26300",
       "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z"
+      "published": "2026-06-27T04:00:00.000Z"
     },
     {
       "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
       "url": "https://arxiv.org/abs/2606.26346",
       "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z"
+      "published": "2026-06-27T04:00:00.000Z"
     },
     {
       "title": "What We are Missing in Multimodal LLM Evaluation?",
       "url": "https://arxiv.org/abs/2606.26348",
       "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z"
+      "published": "2026-06-27T04:00:00.000Z"
     },
     {
       "title": "OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents",
       "url": "https://arxiv.org/abs/2606.26350",
       "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z"
+      "published": "2026-06-27T04:00:00.000Z"
     },
     {
       "title": "Instruction Bleed: Cross-Module Interference in Prompt-Composed Agentic Systems",
       "url": "https://arxiv.org/abs/2606.26356",
       "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z"
+      "published": "2026-06-27T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+      "url": "https://arxiv.org/abs/2606.26173",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-27T04:00:00.000Z",
+      "summary": "arXiv:2606.26173v1 Announce Type: new Abstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most current applications focus on static coding benchmarks. We extend this paradig…"
+    },
+    {
+      "title": "Scientific discovery as meta-optimization: a combinatorial optimization case study",
+      "url": "https://arxiv.org/abs/2606.26728",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-27T04:00:00.000Z",
+      "summary": "arXiv:2606.26728v1 Announce Type: new Abstract: Scientific discovery is fundamentally an optimization problem, defined by a vast \"state space\" of theories and experiments, and an evaluation criterion based on quality, novelty, and validity. Large language models (LLMs) have en…"
+    },
+    {
+      "title": "EVOM: Agentic Meta-Evolution of Actor-Critic Architectures for Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.26327",
+      "source": "arXiv cs.AI",
+      "published": "2026-06-27T04:00:00.000Z",
+      "summary": "arXiv:2606.26327v1 Announce Type: cross Abstract: In actor-critic reinforcement learning, network architectures are typically manually designed. Automating this design is challenging because each candidate must be trained before evaluation, and the design space is open-ended. …"
+    },
+    {
+      "title": "OpenAI weighs IPO in 2027 after expected Anthropic public debut",
+      "url": "https://economictimes.indiatimes.com/tech/technology/openai-weighs-ipo-in-2027-after-expected-anthropic-public-debut/articleshow/132020542.cms",
+      "source": "ET Tech",
+      "published": "2026-06-26T16:28:14.000Z",
+      "summary": "AI giant OpenAI is reportedly eyeing a 2027 initial public offering, potentially after rival Anthropic. Both companies have confidentially filed for an IPO, with Anthropic possibly listing as early as October. Recent tech market volatility has influenced OpenAI's timing, thoug…"
+    },
     {
       "title": "Italy regulator probes Microsoft over 'Microsoft 365' price hike",
       "url": "https://economictimes.indiatimes.com/tech/technology/italy-regulator-probes-microsoft-over-microsoft-365-price-hike/articleshow/132008972.cms",
@@ -104,27 +132,6 @@
       "summary": "OpenAI may postpone its highly anticipated public launch until 2027, setting its sights on an ambitious $1 trillion valuation that CEO Sam Altman deems non-negotiable. Additionally, the US government has mandated a phased rollout of the new AI model, GPT 5.6, addressing securi…"
     },
     {
-      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
-      "url": "https://arxiv.org/abs/2606.26173",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z",
-      "summary": "arXiv:2606.26173v1 Announce Type: new Abstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most current applications focus on static coding benchmarks. We extend this paradig…"
-    },
-    {
-      "title": "Scientific discovery as meta-optimization: a combinatorial optimization case study",
-      "url": "https://arxiv.org/abs/2606.26728",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z",
-      "summary": "arXiv:2606.26728v1 Announce Type: new Abstract: Scientific discovery is fundamentally an optimization problem, defined by a vast \"state space\" of theories and experiments, and an evaluation criterion based on quality, novelty, and validity. Large language models (LLMs) have en…"
-    },
-    {
-      "title": "EVOM: Agentic Meta-Evolution of Actor-Critic Architectures for Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2606.26327",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-26T04:00:00.000Z",
-      "summary": "arXiv:2606.26327v1 Announce Type: cross Abstract: In actor-critic reinforcement learning, network architectures are typically manually designed. Automating this design is challenging because each candidate must be trained before evaluation, and the design space is open-ended. …"
-    },
-    {
       "title": "Samsung readies $648 billion bet, report says, as AI boom reshapes South Korea",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-readies-648-billion-bet-report-says-as-ai-boom-reshapes-south-korea/articleshow/132006375.cms",
       "source": "ET Tech",
@@ -137,21 +144,14 @@
       "source": "Inc42",
       "published": "2026-06-25T20:23:14.000Z",
       "summary": "Weeks after the Trump administration blocked access to Anthropic’s newly-launched AI models for all foreign nationals, India and the US…"
-    },
-    {
-      "title": "Amazon Announces Additional $13 Bn Investment In India To Boost AI, Cloud Infra",
-      "url": "https://inc42.com/buzz/amazon-announces-additional-13-bn-investment-in-india-to-boost-ai-cloud-infra/",
-      "source": "Inc42",
-      "published": "2026-06-25T09:15:53.000Z",
-      "summary": "Amazon CEO Andy Jassy, who is on a visit to India, announced the ecommerce giant’s plans to invest an additional…"
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-leans-toward-waiting-until-next-year-for-ipo-nyt-reports/articleshow/132007404.cms",
-      "article": "OpenAI leans toward waiting until next year for IPO, NYT reports",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-spices-things-up-with-jalapeno-chips-why-the-sam-altman-led-ai-startup-is-building-its-own-processors/articleshow/132010288.cms",
+      "article": "OpenAI spices things up with Jalapeno chips: Why the Sam Altman-led AI startup is building its own processors",
       "source": "ET Tech"
     },
     {

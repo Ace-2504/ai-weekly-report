@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-06-20 to 2026-06-26",
-  "generated": "2026-06-26T07:12:25.911Z",
-  "intro": "388 AI items this week (80 India-relevant) across 10 sources.",
+  "weekOf": "2026-06-21 to 2026-06-27",
+  "generated": "2026-06-27T07:00:13.025Z",
+  "intro": "384 AI items this week (78 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -212,34 +212,10 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Anthropic accuses Alibaba of biggest Claude cloning attempt, seeks tougher US action",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-accuses-alibaba-of-biggest-claude-cloning-attempt-seeks-tougher-us-action-10758451/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "Italy regulator probes Microsoft over 'Microsoft 365' price hike",
-          "url": "https://economictimes.indiatimes.com/tech/technology/italy-regulator-probes-microsoft-over-microsoft-365-price-hike/articleshow/132008972.cms",
+          "title": "AI platform developed to support doctors, frontline workers with verified health intelligence",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-platform-developed-to-support-doctors-frontline-workers-with-verified-health-intelligence/articleshow/132029565.cms",
           "source": "ET Tech",
-          "summary": "Italy's antitrust watchdog has launched a probe into Microsoft for alleged unfair practices concerning its Microsoft 365 subscription price increase. The regulator claims consumers weren't properly notified about the integration of AI tools like Copilot and Designer. Customers…"
-        },
-        {
-          "title": "AI unlikely to trigger 'Job Apocalypse', it may create uneven workforce disruption: Goldman Sachs Report",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-unlikely-to-trigger-job-apocalypse-it-may-create-uneven-workforce-disruption-goldman-sachs-report/articleshow/132007930.cms",
-          "source": "ET Tech",
-          "summary": "A Goldman Sachs report suggests that concerns regarding an impending 'AI job apocalypse' may be overstated. Over the next decade, while AI will inevitably displace millions of jobs in the US, experts are optimistic about the creation of new roles that will balance this shift. …"
-        },
-        {
-          "title": "OpenAI leans toward waiting until next year for IPO, NYT reports",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-leans-toward-waiting-until-next-year-for-ipo-nyt-reports/articleshow/132007404.cms",
-          "source": "ET Tech",
-          "summary": "OpenAI may postpone its highly anticipated public launch until 2027, setting its sights on an ambitious $1 trillion valuation that CEO Sam Altman deems non-negotiable. Additionally, the US government has mandated a phased rollout of the new AI model, GPT 5.6, addressing securi…"
-        },
-        {
-          "title": "AI is plowing through the workplace. This new group wants to help people adapt and have jobs",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-is-plowing-through-the-workplace-this-new-group-wants-to-help-people-adapt-and-have-jobs/articleshow/132007414.cms",
-          "source": "ET Tech",
-          "summary": "A newly formed bipartisan nonprofit named RAISE US is set to launch with over $500 million aimed at tackling job losses anticipated from artificial intelligence advancements. Co-founded by former Commerce Secretary Gina Raimondo and ex-Indiana Governor Eric Holcomb, this organ…"
+          "summary": "A Chennai-based epidemiologist has launched HIVE, an AI-powered platform designed to deliver verified, evidence-based healthcare intelligence. Unlike AI tools that primarily generate responses using information available online, HIVE integrates multiple sources of evidence and…"
         },
         {
           "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
@@ -258,6 +234,30 @@
           "url": "https://arxiv.org/abs/2606.26901",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2606.26901v1 Announce Type: cross Abstract: Automatic Speech Recognition (ASR) is increasingly used to document clinical encounters, yet its reliability in multilingual and demographically diverse Indian healthcare context remains largely unknown. In this study, we first…"
+        },
+        {
+          "title": "A Guideline-Aware AI Agent for Zero-Shot Target Volume Auto-Delineation",
+          "url": "https://arxiv.org/abs/2603.09448",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2603.09448v2 Announce Type: replace-cross Abstract: Delineating the clinical target volume (CTV) in radiotherapy involves complex margins constrained by tumor location and anatomical barriers. While deep learning models automate this process, their rigid reliance on expe…"
+        },
+        {
+          "title": "OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-defers-public-rollout-of-gpt%e2%80%915-6-as-us-seeks-early-access-to-frontier-ai-models-10759804/",
+          "source": "Indian Express Tech",
+          "summary": ""
+        },
+        {
+          "title": "Anthropic resumes limited Mythos 5 rollout after US eases restrictions",
+          "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-resumes-limited-mythos-5-rollout-after-us-eases-restrictions-10759685/",
+          "source": "Indian Express Tech",
+          "summary": ""
+        },
+        {
+          "title": "Researcher wins $1,00,000 prize for decoding Zebra Finch calls using AI",
+          "url": "https://indianexpress.com/article/technology/science/researcher-wins-100000-prize-for-decoding-zebra-finch-calls-using-ai-10759218/",
+          "source": "Indian Express Tech",
+          "summary": ""
         }
       ]
     }
