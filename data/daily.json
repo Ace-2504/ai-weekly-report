@@ -1,114 +1,96 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "top": {
-    "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
-    "url": "https://arxiv.org/abs/2606.26155",
-    "source": "arXiv cs.AI",
-    "published": "2026-06-27T04:00:00.000Z",
-    "summary": "arXiv:2606.26155v1 Announce Type: new Abstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavior. These data pairs determine the degree to which interp…"
+    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+    "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+    "source": "TechCrunch AI",
+    "published": "2026-06-27T20:42:36.000Z",
+    "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers."
   },
   "topIndia": {
-    "title": "AI platform developed to support doctors, frontline workers with verified health intelligence",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-platform-developed-to-support-doctors-frontline-workers-with-verified-health-intelligence/articleshow/132029565.cms",
-    "source": "ET Tech",
-    "published": "2026-06-27T06:01:07.000Z",
-    "summary": "A Chennai-based epidemiologist has launched HIVE, an AI-powered platform designed to deliver verified, evidence-based healthcare intelligence. Unlike AI tools that primarily generate responses using information available online, HIVE integrates multiple sources of evidence and…"
+    "title": "OpenAI unveils GPT-5.6 Sol, Terra, and Luna but almost no one can use them yet: Here’s why",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-5-6-sol-terra-luna-restricted-access-10761186/",
+    "source": "Indian Express Tech",
+    "published": "2026-06-28T06:20:47.000Z",
+    "summary": ""
   },
   "headlines": [
     {
-      "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
-      "url": "https://arxiv.org/abs/2606.26158",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z"
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "TechCrunch AI",
+      "published": "2026-06-27T16:45:09.000Z"
     },
     {
-      "title": "Refusal Lives Downstream of Persona in Chat Models",
-      "url": "https://arxiv.org/abs/2606.26161",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z"
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TechCrunch AI",
+      "published": "2026-06-27T14:00:00.000Z"
     },
     {
-      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
-      "url": "https://arxiv.org/abs/2606.26173",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z"
+      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "TechCrunch AI",
+      "published": "2026-06-27T12:00:00.000Z"
     },
     {
-      "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
-      "url": "https://arxiv.org/abs/2606.26203",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z"
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TechCrunch AI",
+      "published": "2026-06-27T01:01:37.000Z"
     },
     {
-      "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
-      "url": "https://arxiv.org/abs/2606.26205",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z"
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "source": "TechCrunch AI",
+      "published": "2026-06-26T18:32:14.000Z"
     },
     {
-      "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
-      "url": "https://arxiv.org/abs/2606.26298",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z"
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "source": "TechCrunch AI",
+      "published": "2026-06-26T17:43:22.000Z"
     },
     {
-      "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
-      "url": "https://arxiv.org/abs/2606.26299",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z"
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "source": "TechCrunch AI",
+      "published": "2026-06-26T16:24:47.000Z"
     },
     {
-      "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
-      "url": "https://arxiv.org/abs/2606.26300",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z"
+      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "source": "TechCrunch AI",
+      "published": "2026-06-26T14:00:00.000Z"
     },
     {
-      "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
-      "url": "https://arxiv.org/abs/2606.26346",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z"
-    },
-    {
-      "title": "What We are Missing in Multimodal LLM Evaluation?",
-      "url": "https://arxiv.org/abs/2606.26348",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z"
-    },
-    {
-      "title": "OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents",
-      "url": "https://arxiv.org/abs/2606.26350",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z"
-    },
-    {
-      "title": "Instruction Bleed: Cross-Module Interference in Prompt-Composed Agentic Systems",
-      "url": "https://arxiv.org/abs/2606.26356",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z"
+      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+      "source": "TechCrunch AI",
+      "published": "2026-06-26T13:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
-      "url": "https://arxiv.org/abs/2606.26173",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z",
-      "summary": "arXiv:2606.26173v1 Announce Type: new Abstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most current applications focus on static coding benchmarks. We extend this paradig…"
+      "title": "OpenAI unveils GPT-5.6 Sol, Terra, and Luna but almost no one can use them yet: Here’s why",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-5-6-sol-terra-luna-restricted-access-10761186/",
+      "source": "Indian Express Tech",
+      "published": "2026-06-28T06:20:47.000Z",
+      "summary": ""
     },
     {
-      "title": "Scientific discovery as meta-optimization: a combinatorial optimization case study",
-      "url": "https://arxiv.org/abs/2606.26728",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z",
-      "summary": "arXiv:2606.26728v1 Announce Type: new Abstract: Scientific discovery is fundamentally an optimization problem, defined by a vast \"state space\" of theories and experiments, and an evaluation criterion based on quality, novelty, and validity. Large language models (LLMs) have en…"
+      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "TechCrunch AI",
+      "published": "2026-06-27T12:00:00.000Z",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
     },
     {
-      "title": "EVOM: Agentic Meta-Evolution of Actor-Critic Architectures for Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2606.26327",
-      "source": "arXiv cs.AI",
-      "published": "2026-06-27T04:00:00.000Z",
-      "summary": "arXiv:2606.26327v1 Announce Type: cross Abstract: In actor-critic reinforcement learning, network architectures are typically manually designed. Automating this design is challenging because each candidate must be trained before evaluation, and the design space is open-ended. …"
+      "title": "OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-unveils-gpt-5-6-ai-models-with-phased-rollout-and-stronger-safety-checks/articleshow/132032380.cms",
+      "source": "ET Tech",
+      "published": "2026-06-27T10:23:00.000Z",
+      "summary": "OpenAI has unveiled GPT-5.6, its latest AI model family with Sol, Terra and Luna. The models will roll out gradually across ChatGPT, the API and Codex, with Sol adding Max and Ultra modes for advanced reasoning."
     },
     {
       "title": "OpenAI weighs IPO in 2027 after expected Anthropic public debut",
@@ -132,18 +114,18 @@
       "summary": "OpenAI may postpone its highly anticipated public launch until 2027, setting its sights on an ambitious $1 trillion valuation that CEO Sam Altman deems non-negotiable. Additionally, the US government has mandated a phased rollout of the new AI model, GPT 5.6, addressing securi…"
     },
     {
-      "title": "Samsung readies $648 billion bet, report says, as AI boom reshapes South Korea",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-readies-648-billion-bet-report-says-as-ai-boom-reshapes-south-korea/articleshow/132006375.cms",
-      "source": "ET Tech",
-      "published": "2026-06-26T03:13:36.000Z",
-      "summary": "The investment, which would include AI data centers, batteries and displays, will be announced at a meeting with President Lee Jae Myung at the presidential office, the Maeil Business Newspaper said on Friday, ‌without citing sources."
-    },
-    {
       "title": "India In Talks With US To Access Anthropic’s Fable 5 Model",
       "url": "https://inc42.com/buzz/india-in-talks-with-us-to-access-anthropics-fable-5-model/",
       "source": "Inc42",
       "published": "2026-06-25T20:23:14.000Z",
       "summary": "Weeks after the Trump administration blocked access to Anthropic’s newly-launched AI models for all foreign nationals, India and the US…"
+    },
+    {
+      "title": "Anthropic launches Claude Tag in Slack with plans for wider rollout",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-launches-claude-tag-in-slack-with-plans-for-wider-rollout-10754764/",
+      "source": "Indian Express Tech",
+      "published": "2026-06-24T06:10:28.000Z",
+      "summary": ""
     }
   ],
   "people": [
