@@ -1,40 +1,46 @@
 {
-  "weekOf": "2026-06-22 to 2026-06-28",
-  "generated": "2026-06-28T07:16:33.802Z",
-  "intro": "105 AI items this week (71 India-relevant) across 9 sources.",
+  "weekOf": "2026-06-23 to 2026-06-29",
+  "generated": "2026-06-29T07:34:07.728Z",
+  "intro": "333 AI items this week (69 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-          "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-          "source": "TechCrunch AI",
-          "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude."
+          "title": "AI-Model Network: Concept, Current State and Future",
+          "url": "https://arxiv.org/abs/2606.27382",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27382v1 Announce Type: new Abstract: While the primary function of computers lies in computation and processing, the core value of the Internet is rooted in sharing and collaboration. Computers create the Internet, and the Internet empowers the value of computers. T…"
         },
         {
-          "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-          "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-          "source": "TechCrunch AI",
-          "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”"
+          "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+          "url": "https://arxiv.org/abs/2606.27443",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27443v1 Announce Type: new Abstract: Personality prompting shapes how large language models communicate, yet whether these behavioral shifts affect objective task outcomes remains under-explored. Prior work shows that agents prompted with low agreeableness produce a…"
         },
         {
-          "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-          "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-          "source": "TechCrunch AI",
-          "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to."
+          "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+          "url": "https://arxiv.org/abs/2606.27483",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27483v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated strong capability in sequential decision-making, yet they remains fundamentally reactive in long-horizon tasks. Unlike humans who employ \"what-if\" reasoning to evaluate potentia…"
         },
         {
-          "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-          "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-          "source": "TechCrunch AI",
-          "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows."
+          "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
+          "url": "https://arxiv.org/abs/2606.27619",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27619v1 Announce Type: new Abstract: Dyslexic learners increasingly use artificial intelligence (AI) tools to support reading, writing, organisation, and study-related tasks. However, their lived experiences with these tools remain largely underexamined. This paper …"
         },
         {
-          "title": "Which tokens does a hybrid model predict better?",
-          "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
+          "url": "https://arxiv.org/abs/2606.27757",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27757v1 Announce Type: new Abstract: Large language models (LLMs) have attracted widespread attention from academia and industry, yet their deployment raises critical security concerns regarding robustness and reliability. Planning, a core component of intelligent b…"
+        },
+        {
+          "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+          "url": "https://arxiv.org/abs/2606.27806",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27806v1 Announce Type: new Abstract: World models for language agents come in two useful forms. An agent-based world model calls an LLM API and reasons flexibly in language, but its errors appear as hallucinated state changes that are hard to score with ordinary reg…"
         }
       ]
     },
@@ -42,34 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-          "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-          "source": "TechCrunch AI",
-          "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers."
+          "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
+          "url": "https://arxiv.org/abs/2606.27652",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27652v1 Announce Type: new Abstract: We find that explicit reasoning does not necessarily translate into better multimodal emotion recognition (MER) accuracy, even though it makes predictions more interpretable. Specifically, for reasoning-based MLLMs, fast thinking…"
         },
         {
-          "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-          "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-          "source": "TechCrunch AI",
-          "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team."
+          "title": "NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning",
+          "url": "https://arxiv.org/abs/2606.27826",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27826v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) are increasingly deployed as embodied planners in egocentric environments, where task success requires not only achieving instructed goals but also acting in socially appropriate ways. Whi…"
         },
         {
-          "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-          "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-          "source": "TechCrunch AI",
-          "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition."
+          "title": "Automated brain tumor detection in MRI images using CNN and ResNet architectures",
+          "url": "https://arxiv.org/abs/2606.27405",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27405v1 Announce Type: cross Abstract: Deep learning has shown significant potential in medical image analysis, particularly for disease detection using MRI scans. Accurate and early diagnosis of brain tumors remains challenging due to the complexity of brain struct…"
         },
         {
-          "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-          "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-          "source": "TechCrunch AI",
-          "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems."
+          "title": "Compression-Driven Anomaly Detection in Brain MRI Using an Interpretable Quantum Autoencoder",
+          "url": "https://arxiv.org/abs/2606.27411",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27411v1 Announce Type: cross Abstract: We study a quantum autoencoder (QAE) for compression-driven anomaly detection in brain MRI data. The approach leverages angle encoding to map image patches into quantum states, followed by a variational encoder-decoder architec…"
         },
         {
-          "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-          "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-          "source": "TechCrunch AI",
-          "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps."
+          "title": "Not All Relations Rotate Alike: Transformation-Aware Decoupling for Viewpoint-Robust 3D Scene Graph Generation",
+          "url": "https://arxiv.org/abs/2606.27412",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27412v1 Announce Type: cross Abstract: 3D Scene Graph Generation (3DSGG) represents 3D scenes as structured object-relation-object graphs, providing a compact relational abstraction for spatial understanding. In embodied intelligence settings, the same 3D scene may …"
+        },
+        {
+          "title": "Speculative Refinement: A Hybrid Autoregressive Diffusion Decoding Strategy and Its Behavior Across Benchmarks",
+          "url": "https://arxiv.org/abs/2606.27474",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27474v1 Announce Type: cross Abstract: How should we evaluate generation systems that combine autoregressive (AR) and diffusion decoding? We study this question through Speculative Refinement (SpecRef), a training-free hybrid method that warm-starts a masked diffusi…"
         }
       ]
     },
@@ -77,16 +89,40 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-          "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-          "source": "TechCrunch AI",
-          "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says."
+          "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
+          "url": "https://arxiv.org/abs/2606.27593",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27593v1 Announce Type: new Abstract: We introduce a categorical framework called ODYSSEY for constructing verifiable, local truth-preserving foundation models as compositions of foundries: building-block architectural components that specify a cover of local context…"
         },
         {
-          "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-          "url": "https://huggingface.co/blog/cross-origin-storage",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
+          "url": "https://arxiv.org/abs/2606.27736",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27736v1 Announce Type: new Abstract: The rapid spread of fake news poses increasing threats to information ecosystems, especially as AI-generated misinformation under Generative Engine Optimization (GEO) poisoning allows adversarially crafted content to be systemati…"
+        },
+        {
+          "title": "AI-Driven Synthesis for High-Tech System Design: Automating Innovation",
+          "url": "https://arxiv.org/abs/2606.28126",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.28126v1 Announce Type: new Abstract: This article addresses the combinatorial complexity inherent in modern high-tech system design by presenting automation-in-design (AiD) as a transformative paradigm. We propose computational design synthesis (CDS), a framework ut…"
+        },
+        {
+          "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+          "url": "https://arxiv.org/abs/2606.28270",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.28270v1 Announce Type: new Abstract: The transition from static chat bots to autonomous agents--equipped with persistent memory, tool-use protocols, and multi-agent collaboration--has fundamentally expanded the AI threat landscape. Current defense mechanisms, such a…"
+        },
+        {
+          "title": "Towards Evaluation of Implicit Software World Models in Coding LLMs",
+          "url": "https://arxiv.org/abs/2606.27406",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27406v1 Announce Type: cross Abstract: Software engineering, whether performed by humans or by AI agents, requires reasoning about how software behaves. We call the internal model that supports such reasoning the software world model, and view current code-execution…"
+        },
+        {
+          "title": "DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection",
+          "url": "https://arxiv.org/abs/2606.27499",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27499v1 Announce Type: cross Abstract: Research on agent memory has matured rapidly, but almost entirely on the text side: few existing benchmarks ask, in an interactive environment, when an agent genuinely needs to remember what it saw rather than what it could wri…"
         }
       ]
     },
@@ -105,40 +141,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-          "source": "TechCrunch AI",
-          "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
+          "title": "Understanding Rollout Error in Graph World Models",
+          "url": "https://arxiv.org/abs/2606.27780",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27780v1 Announce Type: new Abstract: World models are often used for planning by rolling learned dynamics forward. Many planning environments, however, are not vectors or images; they are graphs of agents, tools, skills, routes, and dependencies. In these settings, …"
         },
         {
-          "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-          "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-          "source": "TechCrunch AI",
-          "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees."
+          "title": "ATOD: Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents",
+          "url": "https://arxiv.org/abs/2606.27814",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27814v1 Announce Type: new Abstract: Training small language-model agents for long-horizon interactive tasks requires both fast imitation and reward-driven improvement. On-policy distillation (OPD) provides dense teacher guidance and typically improves rapidly in th…"
         },
         {
-          "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-          "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-          "source": "TechCrunch AI",
-          "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies bu…"
+          "title": "Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing",
+          "url": "https://arxiv.org/abs/2606.27926",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27926v1 Announce Type: new Abstract: Geometry Problem Solving have increasingly adopt the neuro-symbolic paradigm, combining neural intuition with symbolic rigor. However, current frameworks suffer from severe bottlenecks in two core stages: autoformalization, which…"
         },
         {
-          "title": "It’s not about Anthropic vs. OpenAI anymore",
-          "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-          "source": "TechCrunch AI",
-          "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action."
+          "title": "RelBall: Relation Ball with Quaternion Rotation for Knowledge Graph Completion",
+          "url": "https://arxiv.org/abs/2606.27967",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27967v1 Announce Type: new Abstract: Real-world knowledge graphs are often incomplete, lacking many valid facts. Knowledge Graph Completion (KGC) aims to predict missing links using known triples, thereby enhancing graph coverage. A key challenge is modeling diverse…"
         },
         {
-          "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-          "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-          "source": "TechCrunch AI",
-          "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies bu…"
+          "title": "Lifted Causal Inference",
+          "url": "https://arxiv.org/abs/2606.28024",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.28024v1 Announce Type: new Abstract: Lifted inference exploits indistinguishabilities in probabilistic graphical models by using a representative for indistinguishable objects, thereby speeding up query answering while maintaining exact answers. In this article, we …"
         },
         {
-          "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-          "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-          "source": "TechCrunch AI",
-          "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now."
+          "title": "JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications",
+          "url": "https://arxiv.org/abs/2606.28070",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.28070v1 Announce Type: new Abstract: JD.com, one of the world's largest e-commerce platforms, serves over 700 million active users and millions of merchants, with a catalog of tens of billions of SKUs. At this scale, high-quality, structured item knowledge underpins…"
         }
       ]
     },
@@ -146,52 +182,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "OpenAI unveils GPT-5.6 Sol, Terra, and Luna but almost no one can use them yet: Here’s why",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-5-6-sol-terra-luna-restricted-access-10761186/",
+          "title": "'One-time opportunity': South Korea bets big on AI boom",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/one-time-opportunity-south-korea-bets-big-on-ai-boom/articleshow/132065210.cms",
+          "source": "ET Tech",
+          "summary": "South Korea's chip industry is poised for a significant boost amidst soaring demand for AI components. Analysts highlight this as a crucial opportunity to outpace rivals like China. Massive investments in new factories and data centers are underway, driven by sky-high profits …"
+        },
+        {
+          "title": "AWS CEO defends hiring fresh grads in AI era: ‘You need their energy and excitement’",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/aws-ceo-hiring-fresh-grads-ai-jobs-impact-10762377/",
           "source": "Indian Express Tech",
           "summary": ""
         },
         {
-          "title": "How a niche technology became a choke point for AI",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/how-a-niche-technology-became-a-choke-point-for-ai-10761049/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "Ambient intelligence: How AI is becoming omnipresent in our lives and the implications",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ambient-intelligence-how-ai-is-becoming-omnipresent-in-our-lives-and-the-implications/articleshow/132045361.cms",
+          "title": "China's Momenta kicks off Hong Kong IPO, targets up to $751 million",
+          "url": "https://economictimes.indiatimes.com/tech/technology/chinas-momenta-kicks-off-hong-kong-ipo-targets-up-to-751-million/articleshow/132063228.cms",
           "source": "ET Tech",
-          "summary": "Ambient intelligence, once a futuristic concept, is now a consumer reality with AI embedded in everyday devices like smart glasses and rings. This technology anticipates user needs, shifting from reactive queries to proactive assistance. While offering potential benefits, it r…"
+          "summary": "The IPO comes as Chinese technology ​firms are returning to public markets, helped by investor demand for companies tied to AI, chips and ​automation. Beijing has also pushed home-grown technology as competition with the United States intensifies."
         },
         {
-          "title": "Brands, AI, platforms: test your business creativity with Edition 238 of our weekly quiz!",
-          "url": "https://yourstory.com/2026/06/brands-ai-platforms-business-creativity-entrepreneur-education-quiz",
-          "source": "YourStory",
-          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 238th quiz. Ready?"
-        },
-        {
-          "title": "Sachin Tendulkar’s sportswear play; OpenAI’s India chief",
-          "url": "https://yourstory.com/2026/06/sachin-tendulkar-sportswear-play-openai-india-chief",
-          "source": "YourStory",
-          "summary": "Ten X You builds sportswear for Indian consumers, backed by Sachin Tendulkar. OpenAI names former Uber executive Prabhjeet Singh as India head."
-        },
-        {
-          "title": "Beyond Nvidia: Why AI giants like OpenAI, Google and Amazon are building custom chips",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/beyond-nvidia-why-ai-giants-like-openai-google-and-amazon-are-building-custom-chips/articleshow/132033167.cms",
+          "title": "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead",
+          "url": "https://economictimes.indiatimes.com/tech/technology/nvidias-ai-chip-sales-in-china-stall-as-local-chipmakers-like-huawei-take-the-lead/articleshow/132063107.cms",
           "source": "ET Tech",
-          "summary": "The AI race is heating up as tech giants like OpenAI, Google, Amazon, and Microsoft design their own chips to optimize AI operations. This strategic move aims to cut soaring deployment costs and gain control over crucial infrastructure, moving beyond just building better model…"
+          "summary": "Jensen Huang, the CEO of computer chip giant Nvidia, was mobbed by onlookers as he hit the streets for the \"zhajiangmian\" noodles while visiting Beijing during U.S. President Donald Trump's May summit with Chinese leader Xi Jinping. But his celebrity status has not translated …"
         },
         {
-          "title": "11 ways Google says Gemini can transform productivity at work",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/11-ways-google-says-gemini-can-transform-productivity-at-work-10760291/",
-          "source": "Indian Express Tech",
-          "summary": ""
+          "title": "Narrative-UFET: Narrative Generation for Ultra-Fine Entity Typing",
+          "url": "https://arxiv.org/abs/2606.27598",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.27598v1 Announce Type: cross Abstract: Ultra-fine entity typing (UFET) assigns highly specific types to entity mentions, but current approaches struggle with types in the long tail. We hypothesize that a key limitation is the reliance on sentence-level context, sinc…"
         },
         {
-          "title": "Inside Claude Mythos: Why Anthropic held back its most advanced AI",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/inside-claude-mythos-why-anthropic-held-back-its-most-advanced-ai/articleshow/132032754.cms",
+          "title": "Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation",
+          "url": "https://arxiv.org/abs/2606.28268",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.28268v1 Announce Type: cross Abstract: Test-time adaptation (TTA) has emerged as a promising paradigm for mitigating distribution shifts in deep models. However, existing TTA approaches for anomaly segmentation remain limited by their reliance on pixel-level heurist…"
+        },
+        {
+          "title": "Health-ORSC-Bench: A Benchmark for Measuring Over-Refusal and Safety Completion in Health Context",
+          "url": "https://arxiv.org/abs/2601.17642",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2601.17642v2 Announce Type: replace Abstract: Safety alignment in Large Language Models is critical for healthcare; however, reliance on binary refusal boundaries often results in over-refusal of benign queries or unsafe compliance with harmful ones. While existing bench…"
+        },
+        {
+          "title": "92% of tech executives see AI management as vital work skill by 2031: KPMG",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/92-of-tech-executives-see-ai-management-as-vital-work-skill-by-2031-kpmg/articleshow/132061694.cms",
           "source": "ET Tech",
-          "summary": "Anthropic's advanced AI, Claude Mythos, capable of discovering software flaws, was kept from public release due to misuse concerns. Instead, it powered Project Glasswing, a collaborative effort with tech giants to secure critical software, identifying thousands of vulnerabilit…"
+          "summary": "As the corporate landscape shifts toward automated decision-making, 92 per cent of tech executives report that managing artificial intelligence agents will become an important skill within the next five years. According to a report by KPMG, this rapid rise of agentic AI is for…"
         }
       ]
     }
