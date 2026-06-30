@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-06-23 to 2026-06-29",
-  "generated": "2026-06-29T08:36:47.347Z",
-  "intro": "333 AI items this week (69 India-relevant) across 10 sources.",
+  "weekOf": "2026-06-24 to 2026-06-30",
+  "generated": "2026-06-30T07:12:34.763Z",
+  "intro": "756 AI items this week (62 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "AI-Model Network: Concept, Current State and Future",
-          "url": "https://arxiv.org/abs/2606.27382",
+          "title": "Recursive Self-Evolving Agents via Held-Out Selection",
+          "url": "https://arxiv.org/abs/2606.28374",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27382v1 Announce Type: new Abstract: While the primary function of computers lies in computation and processing, the core value of the Internet is rooted in sharing and collaboration. Computers create the Internet, and the Internet empowers the value of computers. T…"
+          "summary": "arXiv:2606.28374v1 Announce Type: new Abstract: LLM agents are increasingly improved without weight updates by evolving a natural-language artifact, such as reflections, workflows, playbooks, cheatsheets, or optimized prompts, that conditions a frozen policy. Such methods are …"
         },
         {
-          "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
-          "url": "https://arxiv.org/abs/2606.27443",
+          "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
+          "url": "https://arxiv.org/abs/2606.28471",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27443v1 Announce Type: new Abstract: Personality prompting shapes how large language models communicate, yet whether these behavioral shifts affect objective task outcomes remains under-explored. Prior work shows that agents prompted with low agreeableness produce a…"
+          "summary": "arXiv:2606.28471v1 Announce Type: new Abstract: Model capability is the central variable in LLM pre-training, yet is never observed directly: data shapes it prospectively, while evaluation reveals it only retrospectively, compressing samples, prompts, decoding, and scoring rul…"
         },
         {
-          "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
-          "url": "https://arxiv.org/abs/2606.27483",
+          "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
+          "url": "https://arxiv.org/abs/2606.28589",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27483v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated strong capability in sequential decision-making, yet they remains fundamentally reactive in long-horizon tasks. Unlike humans who employ \"what-if\" reasoning to evaluate potentia…"
+          "summary": "arXiv:2606.28589v1 Announce Type: new Abstract: Current approaches to enhance Large Language Model (LLM) reasoning, such as Chain-of-Thought and \"Wait\" prompts, primarily encourage models to think more, yet often fail to guide them toward Truth. While Representation Editing (R…"
         },
         {
-          "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
-          "url": "https://arxiv.org/abs/2606.27619",
+          "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?",
+          "url": "https://arxiv.org/abs/2606.28733",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27619v1 Announce Type: new Abstract: Dyslexic learners increasingly use artificial intelligence (AI) tools to support reading, writing, organisation, and study-related tasks. However, their lived experiences with these tools remain largely underexamined. This paper …"
+          "summary": "arXiv:2606.28733v1 Announce Type: new Abstract: LLM agents are expected to act over multiple turns, using search, browsing interfaces, and terminal tools to complete user goals. Yet not every goal is well specified or achievable in the available environment. In such cases, a r…"
         },
         {
-          "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
-          "url": "https://arxiv.org/abs/2606.27757",
+          "title": "Agent Safety Is Action Alignment",
+          "url": "https://arxiv.org/abs/2606.28739",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27757v1 Announce Type: new Abstract: Large language models (LLMs) have attracted widespread attention from academia and industry, yet their deployment raises critical security concerns regarding robustness and reliability. Planning, a core component of intelligent b…"
+          "summary": "arXiv:2606.28739v1 Announce Type: new Abstract: Large language models increasingly act as agents: they call tools, move money, delete records, and send messages on a user's behalf. To keep them safe, practitioners imported the chatbot-era recipe (train the model to refuse unsa…"
         },
         {
-          "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
-          "url": "https://arxiv.org/abs/2606.27806",
+          "title": "Mechanistic Personality Analysis of LLMs Steering Personality via Latent Feature Interventions",
+          "url": "https://arxiv.org/abs/2606.28770",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27806v1 Announce Type: new Abstract: World models for language agents come in two useful forms. An agent-based world model calls an LLM API and reasons flexibly in language, but its errors appear as hallucinated state changes that are hard to score with ordinary reg…"
+          "summary": "arXiv:2606.28770v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated the ability to simulate human-like OCEAN personality traits in generated text. Previous efforts have focused on prompt engineering or fine-tuning to shape LLM personality. In this wo…"
         }
       ]
     },
@@ -48,40 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
-          "url": "https://arxiv.org/abs/2606.27652",
+          "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
+          "url": "https://arxiv.org/abs/2606.28514",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27652v1 Announce Type: new Abstract: We find that explicit reasoning does not necessarily translate into better multimodal emotion recognition (MER) accuracy, even though it makes predictions more interpretable. Specifically, for reasoning-based MLLMs, fast thinking…"
+          "summary": "arXiv:2606.28514v1 Announce Type: new Abstract: Multimodal models are increasingly deployed to solve tasks collaboratively with humans or other artificial agents. Existing benchmarks show that these models possess many of the required component capabilities, but the conditions…"
         },
         {
-          "title": "NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning",
-          "url": "https://arxiv.org/abs/2606.27826",
+          "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
+          "url": "https://arxiv.org/abs/2606.28556",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27826v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) are increasingly deployed as embodied planners in egocentric environments, where task success requires not only achieving instructed goals but also acting in socially appropriate ways. Whi…"
+          "summary": "arXiv:2606.28556v1 Announce Type: new Abstract: Recent advances in large language models and vision-language models have enabled reasoning over multimodal data, offering opportunities for clinical applications such as decision support and triaging. However, existing medical AI…"
         },
         {
-          "title": "Automated brain tumor detection in MRI images using CNN and ResNet architectures",
-          "url": "https://arxiv.org/abs/2606.27405",
+          "title": "COMPASS: Grounding Composition-Intent Guidance in Unified Multimodal Models",
+          "url": "https://arxiv.org/abs/2606.28696",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27405v1 Announce Type: cross Abstract: Deep learning has shown significant potential in medical image analysis, particularly for disease detection using MRI scans. Accurate and early diagnosis of brain tumors remains challenging due to the complexity of brain struct…"
+          "summary": "arXiv:2606.28696v1 Announce Type: new Abstract: Composition is a high-level visual intent that governs where subjects are placed and how a scene is organized, yet current unified multimodal models remain unreliable at fine-grained composition recognition and struggle to turn s…"
         },
         {
-          "title": "Compression-Driven Anomaly Detection in Brain MRI Using an Interpretable Quantum Autoencoder",
-          "url": "https://arxiv.org/abs/2606.27411",
+          "title": "ComMem: Complementary Memory Systems for Test-Time Adaptation of Vision-Language Models",
+          "url": "https://arxiv.org/abs/2606.28719",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27411v1 Announce Type: cross Abstract: We study a quantum autoencoder (QAE) for compression-driven anomaly detection in brain MRI data. The approach leverages angle encoding to map image patches into quantum states, followed by a variational encoder-decoder architec…"
+          "summary": "arXiv:2606.28719v1 Announce Type: new Abstract: Test-time adaptation (TTA) of vision-language models (VLMs) is essential for their robust deployment in dynamic, real-world environments. However, existing TTA methods often adapt locally without accumulating knowledge over time,…"
         },
         {
-          "title": "Not All Relations Rotate Alike: Transformation-Aware Decoupling for Viewpoint-Robust 3D Scene Graph Generation",
-          "url": "https://arxiv.org/abs/2606.27412",
+          "title": "Low-cost concept-based localized explanations: How far can we get with training-free approaches?",
+          "url": "https://arxiv.org/abs/2606.29069",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27412v1 Announce Type: cross Abstract: 3D Scene Graph Generation (3DSGG) represents 3D scenes as structured object-relation-object graphs, providing a compact relational abstraction for spatial understanding. In embodied intelligence settings, the same 3D scene may …"
+          "summary": "arXiv:2606.29069v1 Announce Type: new Abstract: Concept-based Explainable AI (C-XAI) seeks human-understandable explanations grounded in semantic concepts, yet validation is limited by the scarcity of fine-grained concept annotations. We evaluate whether mid-scale Multimodal L…"
         },
         {
-          "title": "Speculative Refinement: A Hybrid Autoregressive Diffusion Decoding Strategy and Its Behavior Across Benchmarks",
-          "url": "https://arxiv.org/abs/2606.27474",
+          "title": "SurgVLA-Bench: Towards Evaluating Vision-Language-Action Models for Laparoscopic Surgical Robotics",
+          "url": "https://arxiv.org/abs/2606.29247",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27474v1 Announce Type: cross Abstract: How should we evaluate generation systems that combine autoregressive (AR) and diffusion decoding? We study this question through Speculative Refinement (SpecRef), a training-free hybrid method that warm-starts a masked diffusi…"
+          "summary": "arXiv:2606.29247v1 Announce Type: new Abstract: Vision-Language-Action (VLA) models represent a promising direction for embodied intelligence in surgical robotics. Despite the prevalence of VLA benchmarks for general robotics, standardized evaluation platforms specifically des…"
         }
       ]
     },
@@ -89,40 +89,40 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
-          "url": "https://arxiv.org/abs/2606.27593",
+          "title": "Aristotelian Virtue Profiling of LLMs through Ethical Dilemmas",
+          "url": "https://arxiv.org/abs/2606.28683",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27593v1 Announce Type: new Abstract: We introduce a categorical framework called ODYSSEY for constructing verifiable, local truth-preserving foundation models as compositions of foundries: building-block architectural components that specify a cover of local context…"
+          "summary": "arXiv:2606.28683v1 Announce Type: new Abstract: Large Language Models (LLMs) often face ethical tradeoffs in which several responses may be defensible but express different priorities, such as fairness, honesty, courage, or restraint. We introduce VirtueMap, a framework for de…"
         },
         {
-          "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
-          "url": "https://arxiv.org/abs/2606.27736",
+          "title": "An AI agent for treatment reasoning over a biomedical tool universe",
+          "url": "https://arxiv.org/abs/2606.28692",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27736v1 Announce Type: new Abstract: The rapid spread of fake news poses increasing threats to information ecosystems, especially as AI-generated misinformation under Generative Engine Optimization (GEO) poisoning allows adversarially crafted content to be systemati…"
+          "summary": "arXiv:2606.28692v1 Announce Type: new Abstract: Treatment reasoning underpins every therapeutic decision, integrating disease context, comorbidities, medications, contraindications, and evolving biomedical knowledge to select an appropriate therapy. It is inherently iterative:…"
         },
         {
-          "title": "AI-Driven Synthesis for High-Tech System Design: Automating Innovation",
-          "url": "https://arxiv.org/abs/2606.28126",
+          "title": "The Two Genie Game: Adoption and Welfare in Audit-Grounded AI Governance",
+          "url": "https://arxiv.org/abs/2606.28710",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.28126v1 Announce Type: new Abstract: This article addresses the combinatorial complexity inherent in modern high-tech system design by presenting automation-in-design (AiD) as a transformative paradigm. We propose computational design synthesis (CDS), a framework ut…"
+          "summary": "arXiv:2606.28710v1 Announce Type: new Abstract: We ask under what conditions an agent with a harm-minimizing policy can displace an approval-seeking (RLHF) agent in a competitive market, and when that policy is sufficient to prevent community harm. We use evolutionary game the…"
         },
         {
-          "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
-          "url": "https://arxiv.org/abs/2606.28270",
+          "title": "HyphaeDB: A Living Knowledge Topology for Agent-First Memory",
+          "url": "https://arxiv.org/abs/2606.28781",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.28270v1 Announce Type: new Abstract: The transition from static chat bots to autonomous agents--equipped with persistent memory, tool-use protocols, and multi-agent collaboration--has fundamentally expanded the AI threat landscape. Current defense mechanisms, such a…"
+          "summary": "arXiv:2606.28781v1 Announce Type: new Abstract: Every existing vector database and agent memory framework treats memory as passive storage that agents query explicitly. No system propagates knowledge between agents through the memory layer itself. We introduce HyphaeDB, an age…"
         },
         {
-          "title": "Towards Evaluation of Implicit Software World Models in Coding LLMs",
-          "url": "https://arxiv.org/abs/2606.27406",
+          "title": "Primary ICD Category Prediction using LLM-based Probing",
+          "url": "https://arxiv.org/abs/2606.28798",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27406v1 Announce Type: cross Abstract: Software engineering, whether performed by humans or by AI agents, requires reasoning about how software behaves. We call the internal model that supports such reasoning the software world model, and view current code-execution…"
+          "summary": "arXiv:2606.28798v1 Announce Type: new Abstract: Objective: ICD codes are central to reimbursement, research, and population health surveillance, yet automated coding systems often struggle to integrate diagnostic signals from both clinical narratives and structured electronic …"
         },
         {
-          "title": "DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection",
-          "url": "https://arxiv.org/abs/2606.27499",
+          "title": "Customized Generative AI Agent for Transportation Engineering Practice: A Development and Continued Pre-training Guideline",
+          "url": "https://arxiv.org/abs/2606.29014",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27499v1 Announce Type: cross Abstract: Research on agent memory has matured rapidly, but almost entirely on the text side: few existing benchmarks ask, in an interactive environment, when an agent genuinely needs to remember what it saw rather than what it could wri…"
+          "summary": "arXiv:2606.29014v1 Announce Type: new Abstract: Recent advancements in generative artificial intelligence (AI) and large language models (LLMs) have shown significant promise in automating complex reasoning, summarization, and question-answering tasks. However, the effectivene…"
         }
       ]
     },
@@ -130,10 +130,28 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-          "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "DEEPMED Search: An Open-Source Agentic Platform for Medical Deep Research with Introspective Verification",
+          "url": "https://arxiv.org/abs/2606.29746",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.29746v1 Announce Type: new Abstract: Navigating the deluge of heterogeneous medical data, from academic literature (PubMed) to clinical guidelines (Web) and private knowledge bases, remains a critical bottleneck for evidence-based medicine. While commercial black-bo…"
+        },
+        {
+          "title": "meta-pipe: An LLM-agent pipeline for end-to-end automated systematic review and meta-analysis",
+          "url": "https://arxiv.org/abs/2606.28363",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.28363v1 Announce Type: cross Abstract: Objective: To describe the architecture and design rationale of meta-pipe, an open-source large language model (LLM)-agent pipeline that integrates the complete systematic review and meta-analysis (SR/MA) workflow -- from liter…"
+        },
+        {
+          "title": "Categorizing Mathematical Concepts with LLM Voting Ensembles in Mathswitch",
+          "url": "https://arxiv.org/abs/2606.28815",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.28815v1 Announce Type: cross Abstract: Mathswitch is an open-source project that imports mathematical concept records from sources such as Wikidata, Wikipedia, MathWorld, Encyclopedia of Mathematics, nLab, ProofWiki, and Agda-Unimath, and links records that refer to…"
+        },
+        {
+          "title": "QED: An Open-Source Multi-Agent System for Generating Mathematical Proofs on Open Problems",
+          "url": "https://arxiv.org/abs/2604.24021",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2604.24021v4 Announce Type: replace Abstract: We present QED, an open-source multi-agent system that turns human-provided research questions into complete mathematical proofs without further human guidance. Its pipeline is designed to overcome common failures of single-q…"
         }
       ]
     },
@@ -141,40 +159,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Understanding Rollout Error in Graph World Models",
-          "url": "https://arxiv.org/abs/2606.27780",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27780v1 Announce Type: new Abstract: World models are often used for planning by rolling learned dynamics forward. Many planning environments, however, are not vectors or images; they are graphs of agents, tools, skills, routes, and dependencies. In these settings, …"
+          "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+          "source": "Google AI Blog",
+          "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies."
         },
         {
-          "title": "ATOD: Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents",
-          "url": "https://arxiv.org/abs/2606.27814",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27814v1 Announce Type: new Abstract: Training small language-model agents for long-horizon interactive tasks requires both fast imitation and reward-driven improvement. On-policy distillation (OPD) provides dense teacher guidance and typically improves rapidly in th…"
+          "title": "The AI jobs debate just got messier",
+          "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+          "source": "TechCrunch AI",
+          "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs."
         },
         {
-          "title": "Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing",
-          "url": "https://arxiv.org/abs/2606.27926",
+          "title": "BV-Blend: Uncertainty-Weighted Historical Baselines for Stable Critic-Free RL with Verifiable Rewards",
+          "url": "https://arxiv.org/abs/2606.28707",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27926v1 Announce Type: new Abstract: Geometry Problem Solving have increasingly adopt the neuro-symbolic paradigm, combining neural intuition with symbolic rigor. However, current frameworks suffer from severe bottlenecks in two core stages: autoformalization, which…"
+          "summary": "arXiv:2606.28707v1 Announce Type: new Abstract: Critic-free reinforcement learning with verifiable rewards (RLVR), exemplified by Group Relative Policy Optimization (GRPO), avoids training a value function (critic) and reduces memory and compute overhead relative to critic-bas…"
         },
         {
-          "title": "RelBall: Relation Ball with Quaternion Rotation for Knowledge Graph Completion",
-          "url": "https://arxiv.org/abs/2606.27967",
+          "title": "TrajRS: Towards Certified Robustness in Pedestrian Trajectory Prediction",
+          "url": "https://arxiv.org/abs/2606.28716",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27967v1 Announce Type: new Abstract: Real-world knowledge graphs are often incomplete, lacking many valid facts. Knowledge Graph Completion (KGC) aims to predict missing links using known triples, thereby enhancing graph coverage. A key challenge is modeling diverse…"
+          "summary": "arXiv:2606.28716v1 Announce Type: new Abstract: The robustness of trajectory prediction models is crucial for developing safe autonomous driving systems. Adversarial attacks on trajectory prediction can significantly impair the accuracy of predicted trajectories, leading to ha…"
         },
         {
-          "title": "Lifted Causal Inference",
-          "url": "https://arxiv.org/abs/2606.28024",
+          "title": "Self-Supervised Theorem Discovery in a Formal Axiomatic System",
+          "url": "https://arxiv.org/abs/2606.28747",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.28024v1 Announce Type: new Abstract: Lifted inference exploits indistinguishabilities in probabilistic graphical models by using a representative for indistinguishable objects, thereby speeding up query answering while maintaining exact answers. In this article, we …"
+          "summary": "arXiv:2606.28747v1 Announce Type: new Abstract: Recent artificial intelligence (AI) systems have shown remarkable progress in mathematical reasoning. Many existing approaches, including large language models (LLMs), draw on human prior knowledge in the form of mathematical tex…"
         },
         {
-          "title": "JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications",
-          "url": "https://arxiv.org/abs/2606.28070",
+          "title": "MedEvoEval: Evaluating Continual Evolution of Doctor Agents through Simulated Clinical Episodes",
+          "url": "https://arxiv.org/abs/2606.28900",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.28070v1 Announce Type: new Abstract: JD.com, one of the world's largest e-commerce platforms, serves over 700 million active users and millions of merchants, with a catalog of tens of billions of SKUs. At this scale, high-quality, structured item knowledge underpins…"
+          "summary": "arXiv:2606.28900v1 Announce Type: new Abstract: Doctor agents are moving beyond single-turn answer generation toward evolving clinical decision systems. Within an outpatient episode, they acquire evidence, use examination and consultation resources, and decide when to finalize…"
         }
       ]
     },
@@ -182,52 +200,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Google caps Meta’s use of Gemini AI models as demand outpaces compute capacity: Report",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-caps-metas-use-of-gemini-ai-models-report-10762613/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "'One-time opportunity': South Korea bets big on AI boom",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/one-time-opportunity-south-korea-bets-big-on-ai-boom/articleshow/132065210.cms",
+          "title": "Vocus plans $343 million Sydney-Melbourne fibre link to meet AI demand",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/vocus-plans-343-million-sydney-melbourne-fibre-link-to-meet-ai-demand/articleshow/132086598.cms",
           "source": "ET Tech",
-          "summary": "South Korea's chip industry is poised for a significant boost amidst soaring demand for AI components. Analysts highlight this as a crucial opportunity to outpace rivals like China. Massive investments in new factories and data centers are underway, driven by sky-high profits …"
+          "summary": "Macquarie-backed Vocus is set to invest A$500 million in a new fibre network connecting Sydney and Melbourne by 2029. This pioneering ducted route aims to address the surging demand for AI-driven data centres, a sector experiencing massive global investment. The project is exp…"
         },
         {
-          "title": "AWS CEO defends hiring fresh grads in AI era: ‘You need their energy and excitement’",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/aws-ceo-hiring-fresh-grads-ai-jobs-impact-10762377/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "China's Momenta kicks off Hong Kong IPO, targets up to $751 million",
-          "url": "https://economictimes.indiatimes.com/tech/technology/chinas-momenta-kicks-off-hong-kong-ipo-targets-up-to-751-million/articleshow/132063228.cms",
+          "title": "How global scammers use US tech to fleece people",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-global-scammers-use-us-tech-to-fleece-people/articleshow/132085434.cms",
           "source": "ET Tech",
-          "summary": "The IPO comes as Chinese technology ​firms are returning to public markets, helped by investor demand for companies tied to AI, chips and ​automation. Beijing has also pushed home-grown technology as competition with the United States intensifies."
+          "summary": "Indian scammer Safeer Koorimannil reveals how AI from American tech giants fuels global fraud rings in Myanmar. Trafficked to a scam center, he used sophisticated software to target thousands daily. The investigation highlights how U.S. technology, from AI models to internet i…"
         },
         {
-          "title": "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead",
-          "url": "https://economictimes.indiatimes.com/tech/technology/nvidias-ai-chip-sales-in-china-stall-as-local-chipmakers-like-huawei-take-the-lead/articleshow/132063107.cms",
+          "title": "Memory-Augmented LSTM Autoencoder for Unsupervised Activity Recognition with IMU Sensor Fusion",
+          "url": "https://arxiv.org/abs/2606.28377",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.28377v1 Announce Type: cross Abstract: HAR using Inertial Measurement Unit (IMU) sensors is vital for healthcare monitoring and rehabilitation. Despite deep learning advancements, major challenges remain: reliance on labeled data, multi-sensor fusion complexity, and…"
+        },
+        {
+          "title": "Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University",
+          "url": "https://arxiv.org/abs/2606.28749",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.28749v1 Announce Type: cross Abstract: Although most undergraduates now use large language models (LLMs), a form of generative artificial intelligence (GenAI) for academic writing, no validated method distinguishes the qualitatively different ways students rely on t…"
+        },
+        {
+          "title": "Bitcoin miner and AI firm Ionic Digital files for Nasdaq direct listing",
+          "url": "https://economictimes.indiatimes.com/tech/technology/bitcoin-miner-and-ai-firm-ionic-digital-files-for-nasdaq-direct-listing/articleshow/132083386.cms",
           "source": "ET Tech",
-          "summary": "Jensen Huang, the CEO of computer chip giant Nvidia, was mobbed by onlookers as he hit the streets for the \"zhajiangmian\" noodles while visiting Beijing during U.S. President Donald Trump's May summit with Chinese leader Xi Jinping. But his celebrity status has not translated …"
+          "summary": "The company was formed in January 2024 to acquire the cryptocurrency mining assets of Celsius Mining, a subsidiary of ‌Celsius, which ⁠received ⁠U.S. bankruptcy court approval for a restructuring in November 2023."
         },
         {
-          "title": "Narrative-UFET: Narrative Generation for Ultra-Fine Entity Typing",
-          "url": "https://arxiv.org/abs/2606.27598",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.27598v1 Announce Type: cross Abstract: Ultra-fine entity typing (UFET) assigns highly specific types to entity mentions, but current approaches struggle with types in the long tail. We hypothesize that a key limitation is the reliance on sentence-level context, sinc…"
+          "title": "Cyber talent gap widens as demand for hybrid skills outpaces supply",
+          "url": "https://economictimes.indiatimes.com/tech/technology/cyber-talent-gap-widens-as-demand-for-hybrid-skills-outpaces-supply/articleshow/132082187.cms",
+          "source": "ET Tech",
+          "summary": "\"Modern cybersecurity sits at the intersection of digital platforms, AI deployment, regulatory accountability, operational resilience and customer trust."
         },
         {
-          "title": "Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation",
-          "url": "https://arxiv.org/abs/2606.28268",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.28268v1 Announce Type: cross Abstract: Test-time adaptation (TTA) has emerged as a promising paradigm for mitigating distribution shifts in deep models. However, existing TTA approaches for anomaly segmentation remain limited by their reliance on pixel-level heurist…"
+          "title": "Digital Realty to pay Blackstone $3.5 billion for stake in Virginia data centers",
+          "url": "https://economictimes.indiatimes.com/tech/technology/digital-realty-to-pay-blackstone-3-5-billion-for-stake-in-virginia-data-centers/articleshow/132082158.cms",
+          "source": "ET Tech",
+          "summary": "The move strengthens the data center operator's position in Northern ​Virginia, the world's largest data center market, where demand for capacity has surged ​as cloud computing and AI drive higher infrastructure needs."
         },
         {
-          "title": "Health-ORSC-Bench: A Benchmark for Measuring Over-Refusal and Safety Completion in Health Context",
-          "url": "https://arxiv.org/abs/2601.17642",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2601.17642v2 Announce Type: replace Abstract: Safety alignment in Large Language Models is critical for healthcare; however, reliance on binary refusal boundaries often results in over-refusal of benign queries or unsafe compliance with harmful ones. While existing bench…"
+          "title": "Apple says it is releasing updates early in response to AI cybersecurity concerns",
+          "url": "https://economictimes.indiatimes.com/tech/technology/apple-says-it-is-releasing-updates-early-in-response-to-ai-cybersecurity-concerns/articleshow/132082069.cms",
+          "source": "ET Tech",
+          "summary": "The shift marks a notable change ⁠in Apple's ‌longstanding practice of packaging security fixes with ​broader software ​releases, an acknowledgment that AI is compressing ⁠the window attackers need to exploit known flaws."
         }
       ]
     }
