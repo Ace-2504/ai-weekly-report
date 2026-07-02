@@ -1,100 +1,142 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "top": {
-    "title": "What Drives Interactive Improvement from Feedback?",
-    "url": "https://arxiv.org/abs/2606.30774",
+    "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+    "url": "https://arxiv.org/abs/2607.00001",
     "source": "arXiv cs.AI",
-    "published": "2026-07-01T04:00:00.000Z",
-    "summary": "arXiv:2606.30774v1 Announce Type: new Abstract: We study when natural-language feedback produces improvement beyond the gains obtainable from repeated attempts alone. In multi-turn language agent setting, higher final accuracy can reflect useful feedback, but it can also arise…"
+    "published": "2026-07-02T04:00:00.000Z",
+    "summary": "arXiv:2607.00001v1 Announce Type: new Abstract: Most approaches to AI alignment treat human preferences as fixed targets to be inferred and optimized. This assumption conflicts with extensive empirical evidence showing that preferences are layered, dynamic, and constructed thr…"
   },
   "topIndia": {
-    "title": "Singapore startup develops AI-powered smartphone keyboard with custom agent shortcuts",
-    "url": "https://indianexpress.com/article/technology/tech-news-technology/singapore-startup-develops-ai-powered-smartphone-keyboard-with-custom-agent-shortcuts-10765955/",
-    "source": "Indian Express Tech",
-    "published": "2026-07-01T07:03:19.000Z",
-    "summary": ""
+    "title": "He bought a ₹3.5 lakh bank server. Now he makes ₹27 lakh a month with AI",
+    "url": "https://yourstory.com/2026/07/bangalore-coder-cheap-server-ai-income",
+    "source": "YourStory",
+    "published": "2026-07-02T06:48:13.000Z",
+    "summary": "Raj is 27, writes code in a one bedroom flat in Bangalore, and a few months ago he did something almost nobody thinks to do."
   },
   "headlines": [
     {
-      "title": "Contrastive Reflection for Iterative Prompt Optimization",
-      "url": "https://arxiv.org/abs/2606.30840",
+      "title": "Bounded Morality: Defining the Space of Moral Computation",
+      "url": "https://arxiv.org/abs/2607.00002",
       "source": "arXiv cs.AI",
-      "published": "2026-07-01T04:00:00.000Z"
+      "published": "2026-07-02T04:00:00.000Z"
     },
     {
-      "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
-      "url": "https://arxiv.org/abs/2606.30846",
+      "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+      "url": "https://arxiv.org/abs/2607.00032",
       "source": "arXiv cs.AI",
-      "published": "2026-07-01T04:00:00.000Z"
+      "published": "2026-07-02T04:00:00.000Z"
     },
     {
-      "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
-      "url": "https://arxiv.org/abs/2606.30850",
+      "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
+      "url": "https://arxiv.org/abs/2607.00035",
       "source": "arXiv cs.AI",
-      "published": "2026-07-01T04:00:00.000Z"
+      "published": "2026-07-02T04:00:00.000Z"
     },
     {
-      "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
-      "url": "https://arxiv.org/abs/2606.30852",
+      "title": "Solution space path planning for supporting en-route air traffic control",
+      "url": "https://arxiv.org/abs/2607.00064",
       "source": "arXiv cs.AI",
-      "published": "2026-07-01T04:00:00.000Z"
+      "published": "2026-07-02T04:00:00.000Z"
     },
     {
-      "title": "Beyond expert users: agents should help users construct preferences, not just elicit them",
-      "url": "https://arxiv.org/abs/2606.30863",
+      "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
+      "url": "https://arxiv.org/abs/2607.00147",
       "source": "arXiv cs.AI",
-      "published": "2026-07-01T04:00:00.000Z"
+      "published": "2026-07-02T04:00:00.000Z"
     },
     {
-      "title": "Investigating Multi-Agent Deliberation in Law",
-      "url": "https://arxiv.org/abs/2606.30906",
+      "title": "A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry",
+      "url": "https://arxiv.org/abs/2607.00155",
       "source": "arXiv cs.AI",
-      "published": "2026-07-01T04:00:00.000Z"
+      "published": "2026-07-02T04:00:00.000Z"
     },
     {
-      "title": "Why Solve It Twice? Hierarchical Accumulation of Skills for Transfer-Efficient ML Engineering",
-      "url": "https://arxiv.org/abs/2606.30911",
+      "title": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
+      "url": "https://arxiv.org/abs/2607.00211",
       "source": "arXiv cs.AI",
-      "published": "2026-07-01T04:00:00.000Z"
+      "published": "2026-07-02T04:00:00.000Z"
     },
     {
-      "title": "RoPoLL: Robust Panel of LLM Judges",
-      "url": "https://arxiv.org/abs/2606.30931",
+      "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
+      "url": "https://arxiv.org/abs/2607.00233",
       "source": "arXiv cs.AI",
-      "published": "2026-07-01T04:00:00.000Z"
+      "published": "2026-07-02T04:00:00.000Z"
     },
     {
-      "title": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
-      "url": "https://arxiv.org/abs/2606.30949",
+      "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
+      "url": "https://arxiv.org/abs/2607.00248",
       "source": "arXiv cs.AI",
-      "published": "2026-07-01T04:00:00.000Z"
+      "published": "2026-07-02T04:00:00.000Z"
     },
     {
-      "title": "Neuro-Bayesian-Symbolic Residual Attention Shallow Network: Explainable Deep Learning for Cybersecurity Risk Assessment",
-      "url": "https://arxiv.org/abs/2606.30953",
+      "title": "Mnemosyne: Agentic Transaction Processing for Validating and Repairing AI-generated Workflows",
+      "url": "https://arxiv.org/abs/2607.00269",
       "source": "arXiv cs.AI",
-      "published": "2026-07-01T04:00:00.000Z"
+      "published": "2026-07-02T04:00:00.000Z"
     },
     {
-      "title": "HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation",
-      "url": "https://arxiv.org/abs/2606.30966",
+      "title": "Managed Autonomy at Runtime: Gear-Based Safety and Governance for Single- and Multi-Agent Cyber-Physical Systems",
+      "url": "https://arxiv.org/abs/2607.00334",
       "source": "arXiv cs.AI",
-      "published": "2026-07-01T04:00:00.000Z"
+      "published": "2026-07-02T04:00:00.000Z"
     },
     {
-      "title": "AgentBound: Verifiable Behavioral Governance for Autonomous AI Agents",
-      "url": "https://arxiv.org/abs/2606.30970",
+      "title": "Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising",
+      "url": "https://arxiv.org/abs/2607.00407",
       "source": "arXiv cs.AI",
-      "published": "2026-07-01T04:00:00.000Z"
+      "published": "2026-07-02T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Meta-Programming for Linear-time Temporal Answer Set Programming",
-      "url": "https://arxiv.org/abs/2605.29965",
+      "title": "BaseRT: Best-in-Class LLM Inference on Apple Silicon via Native Metal",
+      "url": "https://arxiv.org/abs/2607.00501",
       "source": "arXiv cs.AI",
-      "published": "2026-07-01T04:00:00.000Z",
-      "summary": "arXiv:2605.29965v2 Announce Type: replace Abstract: The development of temporal extensions of Answer Set Programming (ASP) has led to the emergence of non-monotonic linear-time (TEL), dynamic (DEL), and metric (MEL) temporal equilibrium logics. However, the inherent rigidity o…"
+      "published": "2026-07-02T04:00:00.000Z",
+      "summary": "arXiv:2607.00501v1 Announce Type: cross Abstract: We present BaseRT, a native Metal inference runtime for large language models (LLMs) on Apple Silicon, and report the highest inference throughput on this hardware to date. Existing runtimes, including llama.cpp and MLX-based f…"
+    },
+    {
+      "title": "Meta-Transfer Learning for mmWave Beam Alignment",
+      "url": "https://arxiv.org/abs/2607.00860",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-02T04:00:00.000Z",
+      "summary": "arXiv:2607.00860v1 Announce Type: cross Abstract: Millimeter-wave (mmWave) beam alignment plays a critical role in next-generation wireless systems, yet its efficient implementation remains challenging. Meta-learning and transfer learning have been explored to enable deep lear…"
+    },
+    {
+      "title": "Human-Machine Collaboration on Generative Meta-Learning: Model and Algorithm",
+      "url": "https://arxiv.org/abs/2607.00926",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-02T04:00:00.000Z",
+      "summary": "arXiv:2607.00926v1 Announce Type: cross Abstract: Generalizing machine learning models to environments that differ from their training distribution remains a critical hurdle, particularly when data from the target domain is entirely or partially unavailable. We propose Generat…"
+    },
+    {
+      "title": "Autonomous Scientific Discovery via Iterative Meta-Reflection",
+      "url": "https://arxiv.org/abs/2607.01131",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-02T04:00:00.000Z",
+      "summary": "arXiv:2607.01131v1 Announce Type: cross Abstract: Autonomous scientific discovery systems offer the potential to accelerate research by automating the process of hypothesis generation and validation. However, current systems operate within constrained search spaces or require …"
+    },
+    {
+      "title": "Valar nuclear startup partners with Nvidia on data center aiming to conserve water",
+      "url": "https://economictimes.indiatimes.com/tech/technology/valar-nuclear-startup-partners-with-nvidia-on-data-center-aiming-to-conserve-water/articleshow/132128234.cms",
+      "source": "ET Tech",
+      "published": "2026-07-02T03:48:01.000Z",
+      "summary": "California-based Valar announced ⁠the ⁠partnership in Utah at the site of its small nuclear plant called a microreactor. It also ran a demonstration powering Nvidia's Blackwell, ​its latest AI chip architecture for data centers. It was the first time a small reactor powered a …"
+    },
+    {
+      "title": "Anthropic unveils Claude Sonnet 5 with better performance, lower costs",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-unveils-claude-sonnet-5-with-better-performance-lower-costs-10766279/",
+      "source": "Indian Express Tech",
+      "published": "2026-07-01T09:11:53.000Z",
+      "summary": ""
+    },
+    {
+      "title": "EU tech chief and Apple CEO had a constructive talk on topics of common interest",
+      "url": "https://economictimes.indiatimes.com/tech/technology/eu-tech-chief-and-apple-ceo-had-a-constructive-talk-on-topics-of-common-interest/articleshow/132109796.cms",
+      "source": "ET Tech",
+      "published": "2026-07-01T08:15:11.000Z",
+      "summary": "European Technology Commissioner Henna Virkkunen held a productive video call with Apple CEO Tim Cook regarding topics of mutual interest. The discussion comes as Apple stated its Siri AI won't initially launch in the EU on iPhones or iPads. Apple cited the European Commission…"
     },
     {
       "title": "Claude Science is Anthropic’s newest flagship product",
@@ -102,50 +144,15 @@
       "source": "MIT Tech Review",
       "published": "2026-06-30T21:50:04.000Z",
       "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Sci…"
-    },
-    {
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-30T18:00:00.000Z",
-      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro."
-    },
-    {
-      "title": "Anthropic unveils 'Claude Science' AI platform for scientific research",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-science-ai-platform-for-scientific-research/articleshow/132098510.cms",
-      "source": "ET Tech",
-      "published": "2026-06-30T17:28:02.000Z",
-      "summary": "The launch is part of ‌Anthropic's ⁠life sciences ⁠and healthcare initiative, which the IPO-bound ​company has been developing since October 2025."
-    },
-    {
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "source": "TechCrunch AI",
-      "published": "2026-06-30T15:00:00.000Z",
-      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency."
-    },
-    {
-      "title": "OpenAI teases first hardware product, set to launch July 15",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-teases-first-hardware-product-set-to-launch-july-15-10764238/",
-      "source": "Indian Express Tech",
-      "published": "2026-06-30T07:34:26.000Z",
-      "summary": ""
-    },
-    {
-      "title": "OpenAI unveils GPT-5.6 Sol, Terra, and Luna but almost no one can use them yet: Here’s why",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-5-6-sol-terra-luna-restricted-access-10761186/",
-      "source": "Indian Express Tech",
-      "published": "2026-06-28T06:20:47.000Z",
-      "summary": ""
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://blog.samaltman.com",
-      "article": null,
-      "source": "Profile"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/neon-acquires-luca-guadagninos-openai-movie-artificial-after-amazon-mgm-exit/articleshow/132110631.cms",
+      "article": "Neon acquires Luca Guadagnino's OpenAI movie 'Artificial' after Amazon MGM exit",
+      "source": "ET Tech"
     },
     {
       "name": "Demis Hassabis",
