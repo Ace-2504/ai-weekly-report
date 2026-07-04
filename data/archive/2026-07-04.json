@@ -1,0 +1,566 @@
+{
+  "daily": {
+    "date": "2026-07-04",
+    "top": {
+      "title": "The only AI glossary you’ll need this year",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-03T21:20:00.000Z",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+    },
+    "topIndia": {
+      "title": "AI hiring outpaces overall IT recruitment in India, report shows",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-hiring-outpaces-overall-it-recruitment-in-india-report-shows-10771154/",
+      "source": "Indian Express Tech",
+      "published": "2026-07-04T08:20:13.000Z",
+      "summary": ""
+    },
+    "headlines": [
+      {
+        "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+        "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-03T18:43:00.000Z"
+      },
+      {
+        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-02T23:38:10.000Z"
+      },
+      {
+        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+        "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-02T20:11:59.000Z"
+      },
+      {
+        "title": "Meta quietly launches vibe-coded gaming app Pocket",
+        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-02T18:44:02.000Z"
+      },
+      {
+        "title": "Anthropic is discussing a new custom chip with Samsung",
+        "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-02T18:31:09.000Z"
+      },
+      {
+        "title": "Achieving operational excellence with AI",
+        "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+        "source": "MIT Tech Review",
+        "published": "2026-07-02T15:37:08.000Z"
+      },
+      {
+        "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+        "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-02T15:20:51.000Z"
+      },
+      {
+        "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+        "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-02T13:53:00.000Z"
+      },
+      {
+        "title": "Teaching AI to run with the turbines",
+        "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+        "source": "MIT Tech Review",
+        "published": "2026-07-02T12:51:44.000Z"
+      },
+      {
+        "title": "Yep, we’re using OpenClaw to date now",
+        "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-02T12:00:00.000Z"
+      }
+    ],
+    "events": [
+      {
+        "title": "Meta launches Pocket, an AI app that can generate games with simple prompts",
+        "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-launches-pocket-an-ai-app-that-can-generate-games-with-simple-prompts-10769538/",
+        "source": "Indian Express Tech",
+        "published": "2026-07-03T07:58:04.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Meta quietly launches vibe-coded gaming app Pocket",
+        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-02T18:44:02.000Z",
+        "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
+      },
+      {
+        "title": "Anthropic is discussing a new custom chip with Samsung",
+        "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-02T18:31:09.000Z",
+        "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
+      },
+      {
+        "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+        "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-02T13:53:00.000Z",
+        "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
+      },
+      {
+        "title": "Microsoft launches firm to help companies adopt AI with $2.5 billion",
+        "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-launches-firm-to-help-companies-adopt-ai-with-2-5-billion/articleshow/132139768.cms",
+        "source": "ET Tech",
+        "published": "2026-07-02T13:06:22.000Z",
+        "summary": "Microsoft has launched a new venture, Microsoft Frontier Company, backed by $2.5 billion, to guide businesses in selecting and integrating AI technologies. This move acknowledges that large corporations are increasingly opting for a mix of AI tools, including open-source optio…"
+      },
+      {
+        "title": "Anthropic unveils Claude Sonnet 5 with better performance, lower costs",
+        "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-unveils-claude-sonnet-5-with-better-performance-lower-costs-10766279/",
+        "source": "Indian Express Tech",
+        "published": "2026-07-01T09:11:53.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Claude Science is Anthropic’s newest flagship product",
+        "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+        "source": "MIT Tech Review",
+        "published": "2026-06-30T21:50:04.000Z",
+        "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Sci…"
+      },
+      {
+        "title": "OpenAI teases first hardware product, set to launch July 15",
+        "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-teases-first-hardware-product-set-to-launch-july-15-10764238/",
+        "source": "Indian Express Tech",
+        "published": "2026-06-30T07:34:26.000Z",
+        "summary": ""
+      }
+    ],
+    "people": [
+      {
+        "name": "Sam Altman",
+        "org": "OpenAI",
+        "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+        "article": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+        "source": "TechCrunch AI"
+      },
+      {
+        "name": "Demis Hassabis",
+        "org": "Google DeepMind",
+        "link": "https://x.com/demishassabis",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Dario Amodei",
+        "org": "Anthropic",
+        "link": "https://www.darioamodei.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Yann LeCun",
+        "org": "Meta · world models",
+        "link": "https://x.com/ylecun",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Jensen Huang",
+        "org": "NVIDIA",
+        "link": "https://nvidianews.nvidia.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Andrej Karpathy",
+        "org": "AI educator",
+        "link": "https://karpathy.ai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Sundar Pichai",
+        "org": "Google",
+        "link": "https://x.com/sundarpichai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Mira Murati",
+        "org": "Thinking Machines",
+        "link": "https://x.com/miramurati",
+        "article": null,
+        "source": "Profile"
+      }
+    ]
+  },
+  "weekly": {
+    "weekOf": "2026-06-28 to 2026-07-04",
+    "generated": "2026-07-04T08:22:46.249Z",
+    "intro": "93 AI items this week (57 India-relevant) across 9 sources.",
+    "sections": [
+      {
+        "heading": "Large Language Models",
+        "items": [
+          {
+            "title": "Yep, we’re using OpenClaw to date now",
+            "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+            "source": "TechCrunch AI",
+            "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
+          },
+          {
+            "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+            "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+            "source": "MIT Tech Review",
+            "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work ever…"
+          },
+          {
+            "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+            "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+            "source": "TechCrunch AI",
+            "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
+          },
+          {
+            "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+            "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+            "source": "TechCrunch AI",
+            "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases."
+          },
+          {
+            "title": "Claude Science is Anthropic’s newest flagship product",
+            "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+            "source": "MIT Tech Review",
+            "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Sci…"
+          },
+          {
+            "title": "New attack provides one more reason why AI browsers are a bad idea",
+            "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+            "source": "Ars Technica",
+            "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions."
+          }
+        ]
+      },
+      {
+        "heading": "Multimodal & Media",
+        "items": [
+          {
+            "title": "Teaching AI to run with the turbines",
+            "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+            "source": "MIT Tech Review",
+            "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety ar…"
+          },
+          {
+            "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+            "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+            "source": "Hugging Face",
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "heading": "Developer Tools & Agents",
+        "items": [
+          {
+            "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+            "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+            "source": "TechCrunch AI",
+            "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent."
+          },
+          {
+            "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+            "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+            "source": "Hugging Face",
+            "summary": ""
+          },
+          {
+            "title": "AI agents are not your “coworkers”",
+            "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+            "source": "MIT Tech Review",
+            "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company…"
+          },
+          {
+            "title": "Agent confidence on the technical frontier",
+            "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+            "source": "MIT Tech Review",
+            "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the m…"
+          }
+        ]
+      },
+      {
+        "heading": "Open Source",
+        "items": [
+          {
+            "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+            "url": "https://huggingface.co/blog/eee-community-evals",
+            "source": "Hugging Face",
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "heading": "Industry & Research",
+        "items": [
+          {
+            "title": "The only AI glossary you’ll need this year",
+            "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+            "source": "TechCrunch AI",
+            "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+          },
+          {
+            "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+            "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+            "source": "TechCrunch AI",
+            "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
+          },
+          {
+            "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+            "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+            "source": "TechCrunch AI",
+            "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
+          },
+          {
+            "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+            "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+            "source": "TechCrunch AI",
+            "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
+          },
+          {
+            "title": "Meta quietly launches vibe-coded gaming app Pocket",
+            "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+            "source": "TechCrunch AI",
+            "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
+          },
+          {
+            "title": "Anthropic is discussing a new custom chip with Samsung",
+            "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+            "source": "TechCrunch AI",
+            "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
+          }
+        ]
+      },
+      {
+        "heading": "India & Subcontinent",
+        "items": [
+          {
+            "title": "AI hiring outpaces overall IT recruitment in India, report shows",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-hiring-outpaces-overall-it-recruitment-in-india-report-shows-10771154/",
+            "source": "Indian Express Tech",
+            "summary": ""
+          },
+          {
+            "title": "OpenAI may cut AI subscription prices as Anthropic rivalry intensifies: Report",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-may-cut-ai-subscription-prices-as-anthropic-rivalry-intensifies-report-10771134/",
+            "source": "Indian Express Tech",
+            "summary": ""
+          },
+          {
+            "title": "Bengaluru emerges as India's U30 capital as startup ecosystem turns DeepTech and hardware-focused: Priyank Kharge",
+            "url": "https://economictimes.indiatimes.com/tech/startups/bengaluru-emerges-as-indias-u30-capital-as-startup-ecosystem-turns-deeptech-and-hardware-focused-priyank-kharge/articleshow/132176604.cms",
+            "source": "ET Tech",
+            "summary": "Bengaluru has emerged as India's premier hub for young entrepreneurs, with 21 founders making it to the Avendus Wealth - Hurun India U30 List 2026. This surge highlights a significant shift towards DeepTech and HardTech sectors, including AI, SpaceTech, and EVs. The report und…"
+          },
+          {
+            "title": "Stronger chest, back muscles linked to lower heart attack risk, AI study finds",
+            "url": "https://indianexpress.com/article/technology/science/stronger-chest-back-muscles-linked-to-lower-heart-attack-risk-ai-study-finds-10769892/",
+            "source": "Indian Express Tech",
+            "summary": ""
+          },
+          {
+            "title": "Language is a good starting point for building inclusive AI: BHASHINI CEO Amitabh Nag",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/bhashini-ceo-amitabh-nag-interview-indian-language-ai-models-10770194/",
+            "source": "Indian Express Tech",
+            "summary": ""
+          },
+          {
+            "title": "Anthropic in talks with Samsung to develop custom AI chip",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-with-samsung-to-develop-custom-ai-chip/articleshow/132163085.cms",
+            "source": "ET Tech",
+            "summary": "AI giant Anthropic is reportedly exploring the creation of its own custom AI chips, holding talks with Samsung for a potential partnership. This move aims to reduce reliance on external suppliers and address ongoing chip shortages, following similar moves by rivals like OpenAI…"
+          },
+          {
+            "title": "Meta’s compounding India woes; HCLTech’s mega AI deal",
+            "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/metas-compounding-india-woes-hcltechs-mega-ai-deal/articleshow/132162803.cms",
+            "source": "ET Tech",
+            "summary": "Union minister Ashwini Vaishnaw has asked to summon Meta over child sexual abuse material on Instagram. This and more in today’s ETtech Top 5."
+          },
+          {
+            "title": "Indian AI Startup Funding Soars Over 4X YoY In H1 2026, But Is It Enough To Compete Globally?",
+            "url": "https://inc42.com/features/indian-ai-startup-funding-soars-over-4x-yoy-in-h1-2026-but-is-it-enough-to-compete-globally/",
+            "source": "Inc42",
+            "summary": "AI emerged as the defining theme of the Indian startup ecosystem in H1 2026. As conversations around the nascent technology…"
+          }
+        ]
+      }
+    ],
+    "careers": {
+      "note": "Demand snapshot for 2026. ML Engineer is the most in-demand AI title; agentic-AI and deep-learning skills carry the highest pay premiums; Python + one cloud is the baseline. Specialisation beats generalisation for freshers.",
+      "paths": [
+        {
+          "field": "Machine Learning Engineering",
+          "demand": "Very high",
+          "note": "#1 AI title — build, deploy & maintain models in production. Best all-round entry into AI."
+        },
+        {
+          "field": "AI / Agent Engineering (LLM apps)",
+          "demand": "Surging",
+          "note": "RAG, tool-use & multi-agent systems. ~40% of enterprise apps will embed AI agents by year-end."
+        },
+        {
+          "field": "Deep Learning / Research",
+          "demand": "High (premium pay)",
+          "note": "Neural nets for vision & speech. Highest premiums; usually needs strong maths / grad study."
+        },
+        {
+          "field": "MLOps / AI Infrastructure",
+          "demand": "High",
+          "note": "Ship & scale models on the cloud. Cloud AI certs add 20–25% to salary."
+        },
+        {
+          "field": "Data Science / Analytics",
+          "demand": "Steady",
+          "note": "Foundational, widest entry door; a reliable first step into AI."
+        },
+        {
+          "field": "Computer Vision",
+          "demand": "High",
+          "note": "Imaging, robotics, autonomous systems, medical AI."
+        },
+        {
+          "field": "NLP / LLM Engineering",
+          "demand": "Very high",
+          "note": "Powers chatbots, search & agents — the hottest application area."
+        },
+        {
+          "field": "AI Product / Solutions Architect",
+          "demand": "High (senior)",
+          "note": "5–8 yrs experience; $140k–$332k bands. Translates AI into business value."
+        },
+        {
+          "field": "AI Safety / Governance",
+          "demand": "Growing",
+          "note": "Alignment, evals, red-teaming & policy — newer but expanding fast."
+        }
+      ],
+      "fresher": [
+        {
+          "skill": "Python (NumPy, Pandas)",
+          "why": "The lingua franca of ML — non-negotiable."
+        },
+        {
+          "skill": "Maths foundations",
+          "why": "Linear algebra, probability & calculus — enough to reason about models."
+        },
+        {
+          "skill": "Core ML (scikit-learn)",
+          "why": "Regression, classification, evaluation, the ML workflow."
+        },
+        {
+          "skill": "One deep-learning framework (PyTorch)",
+          "why": "Build & train neural nets; PyTorch dominates research & jobs."
+        },
+        {
+          "skill": "LLMs: prompting + RAG basics",
+          "why": "Ship a small LLM app — the most visible skill to recruiters now."
+        },
+        {
+          "skill": "SQL + data wrangling",
+          "why": "Real AI work is mostly data; SQL is everywhere."
+        },
+        {
+          "skill": "One cloud + Git/GitHub",
+          "why": "AWS leads (~40% of postings), then Azure & GCP. Version everything."
+        },
+        {
+          "skill": "Ship a portfolio project",
+          "why": "A deployed project that solves a real problem is the #1 differentiator."
+        }
+      ],
+      "experienced": [
+        {
+          "skill": "MLOps & deployment",
+          "why": "Docker, CI/CD, monitoring, model/versioning — production is where value lives."
+        },
+        {
+          "skill": "Agentic system design",
+          "why": "Multi-agent orchestration, tool-use, evals — the surging frontier."
+        },
+        {
+          "skill": "Cloud AI at scale",
+          "why": "AWS/Azure/GCP architecture; certs add a 20–25% salary premium."
+        },
+        {
+          "skill": "LLM fine-tuning & evals",
+          "why": "Adapt, measure and harden models for a domain."
+        },
+        {
+          "skill": "Distributed training / GPU optimisation",
+          "why": "Cost & latency engineering for large models."
+        },
+        {
+          "skill": "ML system design",
+          "why": "Trade-offs across data, latency, cost & reliability at scale."
+        },
+        {
+          "skill": "Domain specialisation",
+          "why": "CV, NLP, recsys, healthcare — depth beats breadth at senior levels."
+        },
+        {
+          "skill": "AI → business translation",
+          "why": "Leading teams and tying models to measurable outcomes."
+        }
+      ]
+    },
+    "profile": {
+      "name": "Harman Singh Sandhu",
+      "handle": "Ace",
+      "blurb": "I build AI/ML projects and write about them. This site is one of them — an automated daily AI digest.",
+      "linkedin": "https://www.linkedin.com/in/harman-singh-sandhu/",
+      "github": "https://github.com/Ace-2504",
+      "devto": "https://dev.to/ace2504",
+      "repos": [
+        {
+          "name": "Ace-2504",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/Ace-2504",
+          "stars": 1,
+          "language": ""
+        },
+        {
+          "name": "serenity",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/serenity",
+          "stars": 1,
+          "language": "TypeScript"
+        },
+        {
+          "name": "A-360",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/A-360",
+          "stars": 1,
+          "language": "EJS"
+        },
+        {
+          "name": "Ace-rentals",
+          "desc": "Ace Rentals: A full-stack property rental platform built with Node.js, Express, and MongoDB. Features user authentication, image uploads, geocoding, reviews, and secure account management. Inspired by Airbnb.",
+          "url": "https://github.com/Ace-2504/Ace-rentals",
+          "stars": 1,
+          "language": "JavaScript"
+        },
+        {
+          "name": "PROXY_SERVER",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/PROXY_SERVER",
+          "stars": 0,
+          "language": "C++"
+        },
+        {
+          "name": "ai-weekly-report",
+          "desc": "My personalized AI newsletter that runs on an agentic AI",
+          "url": "https://github.com/Ace-2504/ai-weekly-report",
+          "stars": 0,
+          "language": "HTML"
+        }
+      ]
+    }
+  }
+}

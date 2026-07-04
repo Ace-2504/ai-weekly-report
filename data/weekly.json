@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-06-27 to 2026-07-03",
-  "generated": "2026-07-03T08:47:39.951Z",
-  "intro": "453 AI items this week (67 India-relevant) across 10 sources.",
+  "weekOf": "2026-06-28 to 2026-07-04",
+  "generated": "2026-07-04T08:22:46.249Z",
+  "intro": "93 AI items this week (57 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
-          "url": "https://arxiv.org/abs/2607.01306",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01306v1 Announce Type: new Abstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate prediction-changing alternatives, the…"
+          "title": "Yep, we’re using OpenClaw to date now",
+          "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+          "source": "TechCrunch AI",
+          "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
         },
         {
-          "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
-          "url": "https://arxiv.org/abs/2607.01366",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01366v1 Announce Type: new Abstract: Federated learning (FL) research often depends on many small but consequential algorithmic choices: optimizer variants, server aggregation rules, local training schedules, normalization, regularization, and model architecture. Th…"
+          "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+          "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+          "source": "MIT Tech Review",
+          "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work ever…"
         },
         {
-          "title": "The Wiola Architecture for Efficient Small Language Models",
-          "url": "https://arxiv.org/abs/2607.01394",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01394v1 Announce Type: new Abstract: We present Wiola, a fully original Small Language Model (SLM) architecture built from first principles, sharing no structural lineage with any existing model family including GPT, LLaMA, Mistral, or Falcon. Wiola introduces five …"
+          "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+          "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+          "source": "TechCrunch AI",
+          "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
         },
         {
-          "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
-          "url": "https://arxiv.org/abs/2607.01425",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01425v1 Announce Type: new Abstract: Understanding large, complex codebases, especially those with obfuscated structures and incomplete documentation, remains a significant challenge. Existing code summarization solutions often rely on a single language model or cod…"
+          "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+          "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+          "source": "TechCrunch AI",
+          "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases."
         },
         {
-          "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
-          "url": "https://arxiv.org/abs/2607.01433",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01433v1 Announce Type: new Abstract: Divergent thinking is a crucial aspect of creativity, yet large language models (LLMs) tend to consistently generate similar responses to open-ended questions, in what has been termed the artificial hivemind effect. Here, we intr…"
+          "title": "Claude Science is Anthropic’s newest flagship product",
+          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+          "source": "MIT Tech Review",
+          "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Sci…"
         },
         {
-          "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
-          "url": "https://arxiv.org/abs/2607.01584",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01584v1 Announce Type: new Abstract: Large language models have recently been explored for scientific hypothesis generation, but most prior work relies on unstructured literature and free-form textual claims. We present a pipeline for Earth observation that grounds …"
+          "title": "New attack provides one more reason why AI browsers are a bad idea",
+          "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+          "source": "Ars Technica",
+          "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions."
         }
       ]
     },
@@ -48,40 +48,16 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
-          "url": "https://arxiv.org/abs/2607.01436",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01436v1 Announce Type: new Abstract: Diffusion language models, which generate text by denoising a token canvas bidirectionally instead of emitting tokens left to right, have become competitive with autoregressive (AR) generation. Medical foundation models, however,…"
+          "title": "Teaching AI to run with the turbines",
+          "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+          "source": "MIT Tech Review",
+          "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety ar…"
         },
         {
-          "title": "COMFYCLAW: Self-Evolving Skill Harnesses for Image Generation Workflows",
-          "url": "https://arxiv.org/abs/2607.01709",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01709v1 Announce Type: new Abstract: Agents are increasingly used to construct workflows and assist humans in completing recurring tasks more efficiently. As these workflows become repeated and domain-specific, agent memory and reusable skills become increasingly im…"
-        },
-        {
-          "title": "DRL-CLBA: A Clean Label Backdoor Attack for Speech Classification via DDPG Reinforcement Learning",
-          "url": "https://arxiv.org/abs/2607.01729",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01729v1 Announce Type: new Abstract: Deep learning models for speech classification are vulnerable to backdoor attacks, where malicious triggers cause misclassification at inference time. While sample-specific attacks can bypass many defenses, they often rely on poi…"
-        },
-        {
-          "title": "Path-level Hindsight Instructions for Semantic Exploration in Vision-Language Navigation",
-          "url": "https://arxiv.org/abs/2607.01754",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01754v1 Announce Type: new Abstract: On-policy exploration is a crucial component for training robust Vision-Language Navigation agents, as it exposes the policy to a broader state distribution. However, such exploration inevitably leads to trajectories that deviate…"
-        },
-        {
-          "title": "SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation",
-          "url": "https://arxiv.org/abs/2607.01766",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01766v1 Announce Type: new Abstract: LLM agents are increasingly used to translate natural language into 3D scenes in a procedural way, but existing systems focus on static output. Dynamic 4D scenes from text alone, in which liquids flow, particles emit, rigid bodie…"
-        },
-        {
-          "title": "Subliminal Clocks: Latent Time Modelling in Diffusion Language Models",
-          "url": "https://arxiv.org/abs/2607.01774",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01774v1 Announce Type: new Abstract: Diffusion Language Models (DLMs) have recently emerged as a promising alternative to autoregressive models. Unlike standard diffusion-based approaches, DLMs are not explicitly conditioned on a timestep, raising a natural question…"
+          "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+          "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -89,70 +65,34 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Beyond Next-Token Prediction: An RLVR Proof of Concept for Tool-Use Agents on Atlassian Workflows",
-          "url": "https://arxiv.org/abs/2607.01465",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01465v1 Announce Type: new Abstract: Large language models are trained to predict the next token, not to act inside a specific API. In niche enterprise SaaS workflows -- where success means hitting the right endpoint with the right nested arguments in the right orde…"
+          "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+          "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent."
         },
         {
-          "title": "Janus: a Playground for User-Involved Agentic Permission Management",
-          "url": "https://arxiv.org/abs/2607.01510",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01510v1 Announce Type: new Abstract: AI agents that autonomously execute tool calls on a user's behalf raise pressing questions about permission management: what role could users play, and what role should they play? Despite many proposed approaches, the user's role…"
+          "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "SemHash-LLM: A Multi-Granularity Semantic Hashing Framework for Document Deduplication",
-          "url": "https://arxiv.org/abs/2607.01601",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01601v1 Announce Type: new Abstract: Large scale document deduplication must preserve semantic equivalence while remaining efficient over massive corpora. We present SemHash LLM, a multi granularity framework that unifies semantic projection hashing, attention weigh…"
+          "title": "AI agents are not your “coworkers”",
+          "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+          "source": "MIT Tech Review",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company…"
         },
         {
-          "title": "Diverse Evidence, Better Forecasts: Multi-Agent Deliberation Under Information Asymmetry",
-          "url": "https://arxiv.org/abs/2607.01661",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01661v1 Announce Type: new Abstract: Multi-agent systems are increasingly used for forecasting future events, as deliberation among multiple LLMs is believed to improve reasoning and calibration. Yet existing approaches overlook a critical design choice: what inform…"
-        },
-        {
-          "title": "Mastermind: Strategy-grounded Learning for Repository-Scale Vulnerability Reproduction",
-          "url": "https://arxiv.org/abs/2607.01764",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01764v1 Announce Type: new Abstract: Repository-level vulnerability reproduction is a demanding software engineering (SE) task: an agent must inspect a codebase, infer the input grammar that reaches a vulnerable path, construct a proof-of-conceptv(PoC), and verify t…"
-        },
-        {
-          "title": "Repair the Amplifier, Not the Symptom: Stable World-Model Correction for Agent Rollouts",
-          "url": "https://arxiv.org/abs/2607.01767",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01767v1 Announce Type: new Abstract: As agent planning moves from short tool chains toward persistent workflows with thousands or tens of thousands of steps, failures will occur inside large planning graphs rather than in isolated predictions. Replanning the entire …"
+          "title": "Agent confidence on the technical frontier",
+          "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+          "source": "MIT Tech Review",
+          "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the m…"
         }
       ]
     },
     {
       "heading": "Open Source",
       "items": [
-        {
-          "title": "Decoupling Code Complexity from Newcomer Participation: A Causal Study of AI Coding Agent Adoption in OSS",
-          "url": "https://arxiv.org/abs/2607.01810",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01810v1 Announce Type: cross Abstract: Open-source projects depend on a steady inflow of newcomers. A growing concern is that AI coding agents (tools such as Cursor and Claude Code that write code from natural-language instructions) will crowd them out, by absorbing…"
-        },
-        {
-          "title": "Has This Checkpoint Been Abliterated? A Two-Signal Audit and Its Failure Map",
-          "url": "https://arxiv.org/abs/2607.01854",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01854v1 Announce Type: cross Abstract: Can a platform tell, before deployment, whether an open-weight checkpoint has had its refusal mechanism stripped? Runtime guards cannot: they score generations, not the artifact. We combine two cheap internal signals, a referen…"
-        },
-        {
-          "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-          "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-          "source": "Hugging Face",
-          "summary": ""
-        },
-        {
-          "title": "OpenClaw is finally available on Android and iOS",
-          "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-          "source": "TechCrunch AI",
-          "summary": "The free open source agentic program is finally invading your phone."
-        },
         {
           "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
           "url": "https://huggingface.co/blog/eee-community-evals",
@@ -165,40 +105,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
-          "url": "https://arxiv.org/abs/2607.01426",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01426v1 Announce Type: new Abstract: Autonomous customer-service agents are shifting from conversational interfaces toward operational execution roles: they retrieve firm records, apply service policies, and execute backend writes such as refunds, cancellations, exc…"
+          "title": "The only AI glossary you’ll need this year",
+          "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "source": "TechCrunch AI",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
         },
         {
-          "title": "World Feedback for Clinical Agents: Diagnosing RL in FHIR Environments",
-          "url": "https://arxiv.org/abs/2607.01470",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01470v1 Announce Type: new Abstract: Clinical protocol-execution tasks -- checking a lab value, applying a threshold, placing a correctly structured FHIR order -- are natural candidates for RL from world feedback: once clinical SMEs encode decision logic into a veri…"
+          "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+          "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+          "source": "TechCrunch AI",
+          "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
         },
         {
-          "title": "Procedural Memory Distillation: Online Reflection for Self-Improving Language Models",
-          "url": "https://arxiv.org/abs/2607.01480",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01480v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR), along with recent selfdistillation variants such as SDPO, evaluates each rollout against a verifier and updates the policy from that episode-level signal. However, the richer…"
+          "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+          "source": "TechCrunch AI",
+          "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
         },
         {
-          "title": "The Agentic Garden of Forking Paths",
-          "url": "https://arxiv.org/abs/2607.01507",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01507v1 Announce Type: new Abstract: Empirical research rarely admits a unique analysis. Different analytical choices can lead to different conclusions from the same data, yet these hidden forking paths are difficult to observe. We show that AI agents capture much o…"
+          "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+          "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+          "source": "TechCrunch AI",
+          "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
         },
         {
-          "title": "Revisiting Chain-of-Thought Reasoning under Limited Supervision: Semi-supervised Chain-of-Thought Learning",
-          "url": "https://arxiv.org/abs/2607.01511",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01511v1 Announce Type: new Abstract: Chain-of-thought (CoT) reasoning has emerged as an effective approach for activating latent reasoning capabilities in large language models. However, most existing CoT methods use reasoning chains mainly as inference-time prompts…"
+          "title": "Meta quietly launches vibe-coded gaming app Pocket",
+          "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+          "source": "TechCrunch AI",
+          "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
         },
         {
-          "title": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration",
-          "url": "https://arxiv.org/abs/2607.01531",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01531v1 Announce Type: new Abstract: Learning how an environment behaves from interaction is central to building agents that adapt to unfamiliar tasks. World models learned with deep networks are flexible but data-hungry and transfer poorly beyond their training dis…"
+          "title": "Anthropic is discussing a new custom chip with Samsung",
+          "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+          "source": "TechCrunch AI",
+          "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
         }
       ]
     },
@@ -206,52 +146,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Chipmaker Kioxia ships next-gen memory samples as AI boom fuels dramatic comeback",
-          "url": "https://economictimes.indiatimes.com/tech/technology/chipmaker-kioxia-ships-next-gen-memory-samples-as-ai-boom-fuels-dramatic-comeback/articleshow/132156264.cms",
-          "source": "ET Tech",
-          "summary": "The growth of AI has fueled a remarkable ​turnaround for Kioxia, which was previously seen as an example of Japan's chipmaking struggles but whose stock price has surged more than sevenfold this year to a market capitalisation over $250 billion, exceeding Toyota Motor's."
-        },
-        {
-          "title": "Meta launches Pocket, an AI app that can generate games with simple prompts",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-launches-pocket-an-ai-app-that-can-generate-games-with-simple-prompts-10769538/",
+          "title": "AI hiring outpaces overall IT recruitment in India, report shows",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-hiring-outpaces-overall-it-recruitment-in-india-report-shows-10771154/",
           "source": "Indian Express Tech",
           "summary": ""
         },
         {
-          "title": "Anthropic in talks with Samsung for a potential AI chip collaboration: Report",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-discusses-potential-ai-chip-collaboration-with-samsung-report-10769462/",
+          "title": "OpenAI may cut AI subscription prices as Anthropic rivalry intensifies: Report",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-may-cut-ai-subscription-prices-as-anthropic-rivalry-intensifies-report-10771134/",
           "source": "Indian Express Tech",
           "summary": ""
         },
         {
-          "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-to-ban-claude-code-in-workplace-over-alleged-backdoor-risks-source-says/articleshow/132154595.cms",
+          "title": "Bengaluru emerges as India's U30 capital as startup ecosystem turns DeepTech and hardware-focused: Priyank Kharge",
+          "url": "https://economictimes.indiatimes.com/tech/startups/bengaluru-emerges-as-indias-u30-capital-as-startup-ecosystem-turns-deeptech-and-hardware-focused-priyank-kharge/articleshow/132176604.cms",
           "source": "ET Tech",
-          "summary": "​Alibaba will ​ban employees from using Claude Code ‌in ⁠workspace ⁠environments ​from July 10 due to ​alleged security risks ​involving ⁠embedded backdoors, a ‌source ​familiar ​with ⁠the matter said."
+          "summary": "Bengaluru has emerged as India's premier hub for young entrepreneurs, with 21 founders making it to the Avendus Wealth - Hurun India U30 List 2026. This surge highlights a significant shift towards DeepTech and HardTech sectors, including AI, SpaceTech, and EVs. The report und…"
         },
         {
-          "title": "How Nudge Is Reinventing Ecommerce For The Agentic AI Era",
-          "url": "https://inc42.com/startups/how-nudge-is-reinventing-ecommerce-for-the-agentic-ai-era/",
+          "title": "Stronger chest, back muscles linked to lower heart attack risk, AI study finds",
+          "url": "https://indianexpress.com/article/technology/science/stronger-chest-back-muscles-linked-to-lower-heart-attack-risk-ai-study-finds-10769892/",
+          "source": "Indian Express Tech",
+          "summary": ""
+        },
+        {
+          "title": "Language is a good starting point for building inclusive AI: BHASHINI CEO Amitabh Nag",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/bhashini-ceo-amitabh-nag-interview-indian-language-ai-models-10770194/",
+          "source": "Indian Express Tech",
+          "summary": ""
+        },
+        {
+          "title": "Anthropic in talks with Samsung to develop custom AI chip",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-with-samsung-to-develop-custom-ai-chip/articleshow/132163085.cms",
+          "source": "ET Tech",
+          "summary": "AI giant Anthropic is reportedly exploring the creation of its own custom AI chips, holding talks with Samsung for a potential partnership. This move aims to reduce reliance on external suppliers and address ongoing chip shortages, following similar moves by rivals like OpenAI…"
+        },
+        {
+          "title": "Meta’s compounding India woes; HCLTech’s mega AI deal",
+          "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/metas-compounding-india-woes-hcltechs-mega-ai-deal/articleshow/132162803.cms",
+          "source": "ET Tech",
+          "summary": "Union minister Ashwini Vaishnaw has asked to summon Meta over child sexual abuse material on Instagram. This and more in today’s ETtech Top 5."
+        },
+        {
+          "title": "Indian AI Startup Funding Soars Over 4X YoY In H1 2026, But Is It Enough To Compete Globally?",
+          "url": "https://inc42.com/features/indian-ai-startup-funding-soars-over-4x-yoy-in-h1-2026-but-is-it-enough-to-compete-globally/",
           "source": "Inc42",
-          "summary": "The way people discover products online is changing fast, and ecommerce brands are struggling to keep up. Instead of scrolling…"
-        },
-        {
-          "title": "ElevenLabs explores employee stock sale at $22 billion valuation: report",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elevenlabs-explores-employee-stock-sale-at-22-billion-valuation-report/articleshow/132153228.cms",
-          "source": "ET Tech",
-          "summary": "AI ⁠startups engaged ‌in fierce ​competition ​for talent have been ⁠increasingly letting employees sell stock as ​they race to retain ​and attract top researchers and engineers."
-        },
-        {
-          "title": "AI boom not shock-proof; chip shortage and weak pass-through weigh: Report",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-boom-not-shock-proof-chip-shortage-and-weak-pass-through-weigh-report/articleshow/132152870.cms",
-          "source": "ET Tech",
-          "summary": "While AI boom is supported by strong cash flows, it is not immune to shocks, with chip shortage posing a major risk to the rally, says Nuvama."
-        },
-        {
-          "title": "How Indian Dermatologists are Utilizing Artificial Intelligence for Clinical Practice and Workflow Management: A Nationwide Survey with a Special Focus on atopic dermatitis",
-          "url": "https://arxiv.org/abs/2607.01252",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.01252v1 Announce Type: cross Abstract: Background: Dermatology AI has mainly focused on image-based diagnosis, while chronic disease workflows have received less attention. We surveyed Indian dermatologists to map routine clinical challenges, with a focus on atopic …"
+          "summary": "AI emerged as the defining theme of the Indian startup ecosystem in H1 2026. As conversations around the nascent technology…"
         }
       ]
     }
@@ -383,11 +323,32 @@
     "devto": "https://dev.to/ace2504",
     "repos": [
       {
-        "name": "ai-weekly-report",
-        "desc": "My personalized AI newsletter that runs on an agentic AI",
-        "url": "https://github.com/Ace-2504/ai-weekly-report",
-        "stars": 0,
-        "language": "HTML"
+        "name": "Ace-2504",
+        "desc": "",
+        "url": "https://github.com/Ace-2504/Ace-2504",
+        "stars": 1,
+        "language": ""
+      },
+      {
+        "name": "serenity",
+        "desc": "",
+        "url": "https://github.com/Ace-2504/serenity",
+        "stars": 1,
+        "language": "TypeScript"
+      },
+      {
+        "name": "A-360",
+        "desc": "",
+        "url": "https://github.com/Ace-2504/A-360",
+        "stars": 1,
+        "language": "EJS"
+      },
+      {
+        "name": "Ace-rentals",
+        "desc": "Ace Rentals: A full-stack property rental platform built with Node.js, Express, and MongoDB. Features user authentication, image uploads, geocoding, reviews, and secure account management. Inspired by Airbnb.",
+        "url": "https://github.com/Ace-2504/Ace-rentals",
+        "stars": 1,
+        "language": "JavaScript"
       },
       {
         "name": "PROXY_SERVER",
@@ -397,32 +358,11 @@
         "language": "C++"
       },
       {
-        "name": "serenity",
-        "desc": "",
-        "url": "https://github.com/Ace-2504/serenity",
+        "name": "ai-weekly-report",
+        "desc": "My personalized AI newsletter that runs on an agentic AI",
+        "url": "https://github.com/Ace-2504/ai-weekly-report",
         "stars": 0,
-        "language": "TypeScript"
-      },
-      {
-        "name": "aeroguard",
-        "desc": "",
-        "url": "https://github.com/Ace-2504/aeroguard",
-        "stars": 0,
-        "language": "JavaScript"
-      },
-      {
-        "name": "Ace-rentals",
-        "desc": "Ace Rentals: A full-stack property rental platform built with Node.js, Express, and MongoDB. Features user authentication, image uploads, geocoding, reviews, and secure account management. Inspired by Airbnb.",
-        "url": "https://github.com/Ace-2504/Ace-rentals",
-        "stars": 0,
-        "language": "JavaScript"
-      },
-      {
-        "name": "A-360",
-        "desc": "",
-        "url": "https://github.com/Ace-2504/A-360",
-        "stars": 0,
-        "language": "EJS"
+        "language": "HTML"
       }
     ]
   }
