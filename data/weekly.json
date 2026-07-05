@@ -1,11 +1,23 @@
 {
-  "weekOf": "2026-06-28 to 2026-07-04",
-  "generated": "2026-07-04T08:22:46.249Z",
-  "intro": "93 AI items this week (57 India-relevant) across 9 sources.",
+  "weekOf": "2026-06-29 to 2026-07-05",
+  "generated": "2026-07-05T08:39:34.606Z",
+  "intro": "86 AI items this week (50 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
+        {
+          "title": "Alibaba reportedly bans employees from using Claude Code",
+          "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+          "source": "TechCrunch AI",
+          "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
+        },
+        {
+          "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+          "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+          "source": "TechCrunch AI",
+          "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
+        },
         {
           "title": "Yep, we’re using OpenClaw to date now",
           "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
@@ -25,22 +37,10 @@
           "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
         },
         {
-          "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-          "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-          "source": "TechCrunch AI",
-          "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases."
-        },
-        {
           "title": "Claude Science is Anthropic’s newest flagship product",
           "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
           "source": "MIT Tech Review",
           "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Sci…"
-        },
-        {
-          "title": "New attack provides one more reason why AI browsers are a bad idea",
-          "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-          "source": "Ars Technica",
-          "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions."
         }
       ]
     },
@@ -64,12 +64,6 @@
     {
       "heading": "Developer Tools & Agents",
       "items": [
-        {
-          "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-          "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-          "source": "TechCrunch AI",
-          "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent."
-        },
         {
           "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
           "url": "https://huggingface.co/blog/ibm-research/scarfbench",
@@ -105,6 +99,18 @@
       "heading": "Industry & Research",
       "items": [
         {
+          "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+          "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
+        },
+        {
+          "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+          "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+          "source": "TechCrunch AI",
+          "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
+        },
+        {
           "title": "The only AI glossary you’ll need this year",
           "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
           "source": "TechCrunch AI",
@@ -127,18 +133,6 @@
           "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
           "source": "TechCrunch AI",
           "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
-        },
-        {
-          "title": "Meta quietly launches vibe-coded gaming app Pocket",
-          "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-          "source": "TechCrunch AI",
-          "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
-        },
-        {
-          "title": "Anthropic is discussing a new custom chip with Samsung",
-          "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-          "source": "TechCrunch AI",
-          "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
         }
       ]
     },
@@ -146,52 +140,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "AI hiring outpaces overall IT recruitment in India, report shows",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-hiring-outpaces-overall-it-recruitment-in-india-report-shows-10771154/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "OpenAI may cut AI subscription prices as Anthropic rivalry intensifies: Report",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-may-cut-ai-subscription-prices-as-anthropic-rivalry-intensifies-report-10771134/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "Bengaluru emerges as India's U30 capital as startup ecosystem turns DeepTech and hardware-focused: Priyank Kharge",
-          "url": "https://economictimes.indiatimes.com/tech/startups/bengaluru-emerges-as-indias-u30-capital-as-startup-ecosystem-turns-deeptech-and-hardware-focused-priyank-kharge/articleshow/132176604.cms",
+          "title": "AI investment in emerging markets must go beyond models to ecosystems: Report",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-investment-in-emerging-markets-must-go-beyond-models-to-ecosystems-report/articleshow/132192842.cms",
           "source": "ET Tech",
-          "summary": "Bengaluru has emerged as India's premier hub for young entrepreneurs, with 21 founders making it to the Avendus Wealth - Hurun India U30 List 2026. This surge highlights a significant shift towards DeepTech and HardTech sectors, including AI, SpaceTech, and EVs. The report und…"
+          "summary": "Artificial intelligence is poised to revolutionize economies, but emerging markets must cultivate local ecosystems to truly benefit, a World Bank report reveals. Beyond importing models, success hinges on robust digital infrastructure, skilled talent, and adaptable AI building…"
         },
         {
-          "title": "Stronger chest, back muscles linked to lower heart attack risk, AI study finds",
-          "url": "https://indianexpress.com/article/technology/science/stronger-chest-back-muscles-linked-to-lower-heart-attack-risk-ai-study-finds-10769892/",
+          "title": "MoS Kirti Vardhan Singh to lead India delegation at first UN Global Dialogue on AI Governance",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mos-kirti-vardhan-singh-to-lead-india-delegation-at-first-un-global-dialogue-on-ai-governance/articleshow/132192224.cms",
+          "source": "ET Tech",
+          "summary": "India's Minister of State for External Affairs, Kirti Vardhan Singh, is leading a delegation to Geneva for the inaugural UN Global Dialogue on AI Governance. This crucial forum will review the first independent scientific assessment of AI's capabilities, risks, and opportuniti…"
+        },
+        {
+          "title": "Microsoft creates new business unit to help large enterprises set up tailored AI solutions",
+          "url": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-new-unit-ai-solutions-large-enterprises-10772236/",
           "source": "Indian Express Tech",
           "summary": ""
         },
         {
-          "title": "Language is a good starting point for building inclusive AI: BHASHINI CEO Amitabh Nag",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/bhashini-ceo-amitabh-nag-interview-indian-language-ai-models-10770194/",
+          "title": "AI capex cycle likely to end with market pushback, not spending cuts: Jefferies",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-capex-cycle-likely-to-end-with-market-pushback-not-spending-cuts-jefferies/articleshow/132191852.cms",
+          "source": "ET Tech",
+          "summary": "Global brokerage Jefferies suggests the AI investment boom might falter not due to tech giants cutting spending, but investor impatience for returns. A significant wealth transfer to North Asia, evident in surging Korean and Taiwanese market caps, highlights where AI capital i…"
+        },
+        {
+          "title": "For one small business, AI was key to a quick start and expansion",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/for-one-small-business-ai-was-key-to-a-quick-start-and-expansion-10772094/",
           "source": "Indian Express Tech",
           "summary": ""
         },
         {
-          "title": "Anthropic in talks with Samsung to develop custom AI chip",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-with-samsung-to-develop-custom-ai-chip/articleshow/132163085.cms",
+          "title": "IT services growth likely to stay soft in near term as clients delay discretionary spends: Equirus",
+          "url": "https://economictimes.indiatimes.com/tech/information-tech/it-services-growth-likely-to-stay-soft-in-near-term-as-clients-delay-discretionary-spends-equirus/articleshow/132190726.cms",
           "source": "ET Tech",
-          "summary": "AI giant Anthropic is reportedly exploring the creation of its own custom AI chips, holding talks with Samsung for a potential partnership. This move aims to reduce reliance on external suppliers and address ongoing chip shortages, following similar moves by rivals like OpenAI…"
+          "summary": "India's major IT firms anticipate a subdued first quarter, with growth expected to pick up only when clients shift from cost-cutting to AI-driven transformations. Enterprises remain cautious with spending due to global uncertainties, funding AI through existing savings. While …"
         },
         {
-          "title": "Meta’s compounding India woes; HCLTech’s mega AI deal",
-          "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/metas-compounding-india-woes-hcltechs-mega-ai-deal/articleshow/132162803.cms",
-          "source": "ET Tech",
-          "summary": "Union minister Ashwini Vaishnaw has asked to summon Meta over child sexual abuse material on Instagram. This and more in today’s ETtech Top 5."
+          "title": "Platforms, segmentation, AI: Test your business creativity with Edition 239 of our weekly quiz!",
+          "url": "https://yourstory.com/2026/07/platforms-segmentation-ai-business-creativity-entrepreneur-quiz",
+          "source": "YourStory",
+          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 239th quiz. Ready?"
         },
         {
-          "title": "Indian AI Startup Funding Soars Over 4X YoY In H1 2026, But Is It Enough To Compete Globally?",
-          "url": "https://inc42.com/features/indian-ai-startup-funding-soars-over-4x-yoy-in-h1-2026-but-is-it-enough-to-compete-globally/",
-          "source": "Inc42",
-          "summary": "AI emerged as the defining theme of the Indian startup ecosystem in H1 2026. As conversations around the nascent technology…"
+          "title": "Orbital plans space data centres to power AI, seeks FCC clearance for 100,000 satellites",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/orbital-plans-space-data-centres-to-power-ai-seeks-fcc-clearance-for-100000-satellites/articleshow/132186475.cms",
+          "source": "ET Tech",
+          "summary": "A US startup, Orbital, is looking to set up space-based data centres to meet the surging demand for AI computing power. The company aims to launch its first data centre satellite next year, with plans for 100,000 satellites in low Earth orbit to deliver 10 gigawatts of compute…"
         }
       ]
     }
@@ -351,18 +345,18 @@
         "language": "JavaScript"
       },
       {
-        "name": "PROXY_SERVER",
-        "desc": "",
-        "url": "https://github.com/Ace-2504/PROXY_SERVER",
-        "stars": 0,
-        "language": "C++"
-      },
-      {
         "name": "ai-weekly-report",
         "desc": "My personalized AI newsletter that runs on an agentic AI",
         "url": "https://github.com/Ace-2504/ai-weekly-report",
         "stars": 0,
         "language": "HTML"
+      },
+      {
+        "name": "PROXY_SERVER",
+        "desc": "",
+        "url": "https://github.com/Ace-2504/PROXY_SERVER",
+        "stars": 0,
+        "language": "C++"
       }
     ]
   }
