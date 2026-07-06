@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-06-29 to 2026-07-05",
-  "generated": "2026-07-05T08:39:34.606Z",
-  "intro": "86 AI items this week (50 India-relevant) across 9 sources.",
+  "weekOf": "2026-06-30 to 2026-07-06",
+  "generated": "2026-07-06T08:29:04.670Z",
+  "intro": "87 AI items this week (50 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -99,6 +99,18 @@
       "heading": "Industry & Research",
       "items": [
         {
+          "title": "🤗 Kernels: Major Updates",
+          "url": "https://huggingface.co/blog/revamped-kernels",
+          "source": "Hugging Face",
+          "summary": ""
+        },
+        {
+          "title": "Amazon will stop accepting new customers for Mechanical Turk",
+          "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+          "source": "TechCrunch AI",
+          "summary": "These may be the last days of Amazon’s Mechanical Turk."
+        },
+        {
           "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
           "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
           "source": "TechCrunch AI",
@@ -121,18 +133,6 @@
           "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
           "source": "TechCrunch AI",
           "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
-        },
-        {
-          "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-          "source": "TechCrunch AI",
-          "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
-        },
-        {
-          "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-          "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-          "source": "TechCrunch AI",
-          "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
         }
       ]
     },
@@ -140,52 +140,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "AI investment in emerging markets must go beyond models to ecosystems: Report",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-investment-in-emerging-markets-must-go-beyond-models-to-ecosystems-report/articleshow/132192842.cms",
-          "source": "ET Tech",
-          "summary": "Artificial intelligence is poised to revolutionize economies, but emerging markets must cultivate local ecosystems to truly benefit, a World Bank report reveals. Beyond importing models, success hinges on robust digital infrastructure, skilled talent, and adaptable AI building…"
-        },
-        {
-          "title": "MoS Kirti Vardhan Singh to lead India delegation at first UN Global Dialogue on AI Governance",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mos-kirti-vardhan-singh-to-lead-india-delegation-at-first-un-global-dialogue-on-ai-governance/articleshow/132192224.cms",
-          "source": "ET Tech",
-          "summary": "India's Minister of State for External Affairs, Kirti Vardhan Singh, is leading a delegation to Geneva for the inaugural UN Global Dialogue on AI Governance. This crucial forum will review the first independent scientific assessment of AI's capabilities, risks, and opportuniti…"
-        },
-        {
-          "title": "Microsoft creates new business unit to help large enterprises set up tailored AI solutions",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-new-unit-ai-solutions-large-enterprises-10772236/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "AI capex cycle likely to end with market pushback, not spending cuts: Jefferies",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-capex-cycle-likely-to-end-with-market-pushback-not-spending-cuts-jefferies/articleshow/132191852.cms",
-          "source": "ET Tech",
-          "summary": "Global brokerage Jefferies suggests the AI investment boom might falter not due to tech giants cutting spending, but investor impatience for returns. A significant wealth transfer to North Asia, evident in surging Korean and Taiwanese market caps, highlights where AI capital i…"
-        },
-        {
-          "title": "For one small business, AI was key to a quick start and expansion",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/for-one-small-business-ai-was-key-to-a-quick-start-and-expansion-10772094/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "IT services growth likely to stay soft in near term as clients delay discretionary spends: Equirus",
-          "url": "https://economictimes.indiatimes.com/tech/information-tech/it-services-growth-likely-to-stay-soft-in-near-term-as-clients-delay-discretionary-spends-equirus/articleshow/132190726.cms",
-          "source": "ET Tech",
-          "summary": "India's major IT firms anticipate a subdued first quarter, with growth expected to pick up only when clients shift from cost-cutting to AI-driven transformations. Enterprises remain cautious with spending due to global uncertainties, funding AI through existing savings. While …"
-        },
-        {
-          "title": "Platforms, segmentation, AI: Test your business creativity with Edition 239 of our weekly quiz!",
-          "url": "https://yourstory.com/2026/07/platforms-segmentation-ai-business-creativity-entrepreneur-quiz",
+          "title": "Naukri launches an AI recruitment platform in India for smarter hiring",
+          "url": "https://yourstory.com/2026/07/naukri-launches-ai-recruitment-platform-india",
           "source": "YourStory",
-          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 239th quiz. Ready?"
+          "summary": "Naukri launches AI recruitment platform in India, introducing AI-powered tools to help recruiters hire faster and job seekers find better opportunities."
         },
         {
-          "title": "Orbital plans space data centres to power AI, seeks FCC clearance for 100,000 satellites",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/orbital-plans-space-data-centres-to-power-ai-seeks-fcc-clearance-for-100000-satellites/articleshow/132186475.cms",
+          "title": "UN chief warns AI is developing faster than rules can keep up",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/un-chief-warns-ai-is-developing-faster-than-rules-can-keep-up/articleshow/132211281.cms",
           "source": "ET Tech",
-          "summary": "A US startup, Orbital, is looking to set up space-based data centres to meet the surging demand for AI computing power. The company aims to launch its first data centre satellite next year, with plans for 100,000 satellites in low Earth orbit to deliver 10 gigawatts of compute…"
+          "summary": "United Nations chief Antonio Guterres has issued a stark warning: artificial Intelligence is advancing at an unprecedented pace, outpacing even its creators' ability to comprehend its implications. Addressing a global dialogue in Geneva, he stressed the urgent need for harmoni…"
+        },
+        {
+          "title": "Zeta Founder Bhavin Turakhia Launches Enterprise AI Startup Neo",
+          "url": "https://inc42.com/buzz/zeta-founder-bhavin-turakhia-launches-enterprise-ai-startup-neo/",
+          "source": "Inc42",
+          "summary": "Zeta founder Bhavin Turakhia has launched a new AI startup, Neo, with a personal investment of $30 Mn. Announcing the…"
+        },
+        {
+          "title": "Robinhood CEO says AI agents will soon rival human traders, manage portfolio",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/robinhood-ceo-says-ai-agents-will-soon-rival-human-traders-manage-portfolio/articleshow/132209127.cms",
+          "source": "ET Tech",
+          "summary": "The company had in May unveiled tools that allow AI agents to trade stocks and make purchases on behalf of users. The company said its users can create a dedicated trading account, separate from their primary one, and have AI ‌agents trade ⁠on ⁠their behalf."
+        },
+        {
+          "title": "Samsung eyes record quarterly profit as AI memory boom drives chip sales",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/samsung-eyes-record-quarterly-profit-as-ai-memory-boom-drives-chip-sales-10773294/",
+          "source": "Indian Express Tech",
+          "summary": ""
+        },
+        {
+          "title": "AI creating new consumer demands, business opportunities beyond productivity gains: Dattatri Salagame",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-creating-new-consumer-demands-biz-opportunities-beyond-productivity-gains-bosch-global-software-technologies-ceo/articleshow/132206799.cms",
+          "source": "ET Tech",
+          "summary": "AI is often viewed only through a technological lens, even though its impact extends far beyond technology, right from social re-engineering of the corporate landscape to fundamentally changing how organisations work, structure teams and lead people, he said."
+        },
+        {
+          "title": "The GPU Hunger Games, E3W’s Safety Crisis & More",
+          "url": "https://inc42.com/buzz/the-gpu-hunger-games-e3ws-safety-crisis-more/",
+          "source": "Inc42",
+          "summary": "India’s AI Boom Runs Into A Compute Crunch The way India buys AI compute power is being rewritten. Amid geopolitical…"
+        },
+        {
+          "title": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave",
+          "url": "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-to-launch-28-billion-us-listing-to-ride-global-ai-wave/articleshow/132205646.cms",
+          "source": "ET Tech",
+          "summary": "The company will sell 17.79 million new shares in the depository receipt listing ‌on the ⁠Nasdaq, ⁠making it one of the world's most valuable tech firms."
         }
       ]
     }
