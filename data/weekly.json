@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-07-01 to 2026-07-07",
-  "generated": "2026-07-07T09:22:23.997Z",
-  "intro": "868 AI items this week (55 India-relevant) across 10 sources.",
+  "weekOf": "2026-07-02 to 2026-07-08",
+  "generated": "2026-07-08T08:07:02.647Z",
+  "intro": "378 AI items this week (66 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
-          "url": "https://arxiv.org/abs/2607.02686",
+          "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
+          "url": "https://arxiv.org/abs/2607.05577",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.02686v1 Announce Type: new Abstract: Reinforcement learning agents operating under partial observability must act on incomplete information, making them natural candidates for guidance from small language models (SLMs) that carry broad reasoning priors. Yet integrat…"
+          "summary": "arXiv:2607.05577v1 Announce Type: new Abstract: Long-form fiction writers need memory that answers multi-hop questions about evolving story state: who knows a secret and when they learned it, whether an event preceded the narration that revealed it, whether a setup paid off, a…"
         },
         {
-          "title": "Object-Centric Environment Modeling for Agentic Tasks",
-          "url": "https://arxiv.org/abs/2607.02846",
+          "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
+          "url": "https://arxiv.org/abs/2607.05682",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.02846v1 Announce Type: new Abstract: Large language model (LLM) agents can improve through accumulated experience, but free-form textual memories become difficult to maintain, validate, and reuse as interactions grow. Recent symbolic approaches learn executable skil…"
+          "summary": "arXiv:2607.05682v1 Announce Type: new Abstract: LLM systems for scientific discovery increasingly assist with ideation, literature synthesis, experiment planning, and report generation, but the first research question they propose can remain difficult to audit: it may sound pl…"
         },
         {
-          "title": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents",
-          "url": "https://arxiv.org/abs/2607.02879",
+          "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
+          "url": "https://arxiv.org/abs/2607.05708",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.02879v1 Announce Type: new Abstract: Current benchmarks for evaluating large language models (LLMs) in medical calculation are largely based on simplified settings, where each patient case corresponds to a single calculator and the required tool is explicitly specif…"
+          "summary": "arXiv:2607.05708v1 Announce Type: new Abstract: Recent LLM-based agent systems continuously accumulate context across multi-turn interactions, tool invocations, and cross-session workflows. Replaying the full history for every request quickly becomes impractical: long contexts…"
         },
         {
-          "title": "APeB: Benchmarking Personalization Ability of Large Language Model Agents",
-          "url": "https://arxiv.org/abs/2607.03162",
+          "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
+          "url": "https://arxiv.org/abs/2607.05775",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03162v1 Announce Type: new Abstract: LLM-powered agents struggle with personalization when users issue raw, underspecified queries. In this setting, agents must infer latent intent, extract preferences from noisy interaction histories, and select among competing alt…"
+          "summary": "arXiv:2607.05775v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly evaluated on their ability to use tools, plan multi-step tasks, coordinate with other agents, and operate over extended horizons. Reported benchmark gains often obscure recurring…"
         },
         {
-          "title": "Organizational Memory for Agentic Business Process Execution",
-          "url": "https://arxiv.org/abs/2607.03228",
+          "title": "From Passive Retrieval to Active Memory Navigation: Learning to Use Memory as a Structured Action Space",
+          "url": "https://arxiv.org/abs/2607.05794",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03228v1 Announce Type: new Abstract: LLM-based agents offer new opportunities for automating business process execution beyond the limits of rule-based systems. However, general-purpose LLMs lack the organization-specific knowledge required for reliable execution, w…"
+          "summary": "arXiv:2607.05794v1 Announce Type: new Abstract: Long-term user memory is essential for personalized conversational agents, yet many memory systems still expose memory through passive retrieval interfaces, making the model a consumer of pre-selected evidence. We introduce NapMe…"
         },
         {
-          "title": "Reflective Dialogue or Prompt Refinement? Effects of Tutor Scaffolding on Students' Independent LLM Use for Programming",
-          "url": "https://arxiv.org/abs/2607.03303",
+          "title": "Onnes: A Physics-Grounded Multi-Agent LLM Simulator for Cryogenic Fault Diagnosis in Quantum Computing Infrastructure",
+          "url": "https://arxiv.org/abs/2607.05805",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03303v1 Announce Type: new Abstract: While Large Language Models (LLMs) can provide personalized support in learning, several studies have raised concerns regarding their use in education. Importantly, learning depends on how students engage with LLMs. This study ex…"
+          "summary": "arXiv:2607.05805v1 Announce Type: new Abstract: Dilution refrigerators are the enabling infrastructure of superconducting quantum computers, yet their fault diagnosis is still dominated by threshold alarms that report that something is wrong, not what. We present Onnes, a phys…"
         }
       ]
     },
@@ -48,40 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "iFLYTEK-Embodied-Omni Technical Report",
-          "url": "https://arxiv.org/abs/2607.02542",
+          "title": "Foundation Models for Automatic CAD Generation",
+          "url": "https://arxiv.org/abs/2607.05573",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.02542v1 Announce Type: new Abstract: General-purpose embodied agents must understand multimodal instructions, anticipate how their environment will evolve, and produce precise control actions over extended horizons. Existing approaches typically specialize in visual…"
+          "summary": "arXiv:2607.05573v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) and Vision-Language Models (VLMs) enable the automatic generation of parametric 3D designs from natural-language specifications. This chapter presents an empirical study of foundati…"
         },
         {
-          "title": "Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems",
-          "url": "https://arxiv.org/abs/2607.03283",
+          "title": "Uncovering Latent Depression Severity for Binary Depression Detection via Advantage-weighting Ranking",
+          "url": "https://arxiv.org/abs/2607.05901",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03283v1 Announce Type: new Abstract: Embodied intelligence systems require not only end-to-end policy models, but also reusable functional modules that transform multimodal observations, robot states, human demonstrations, and task contexts into structured represent…"
+          "summary": "arXiv:2607.05901v1 Announce Type: new Abstract: Automatic depression detection using audio-visual data faces significant challenges, particularly in disentangling overlapping feature distributions and establishing robust decision boundaries. To address this, we propose a fine-…"
         },
         {
-          "title": "Efficient bias mitigation in T2I diffusion models using Concept Graphs",
-          "url": "https://arxiv.org/abs/2607.03397",
+          "title": "SearchEyes: Towards Frontier Multimodal Deep Search Intelligence via Search World Simulation",
+          "url": "https://arxiv.org/abs/2607.05943",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03397v1 Announce Type: new Abstract: Text-to-Image diffusion models often propagate harmful bias inherited from the training data. Existing bias mitigation techniques typically intervene only at the text encoder or provide inference-time guidance, often leading to g…"
+          "summary": "arXiv:2607.05943v1 Announce Type: new Abstract: Training multimodal search agents to perform multi-hop reasoning remains challenging due to a fundamental structural disconnect: existing pipelines construct training data, search environments, and reward signals independently, c…"
         },
         {
-          "title": "MentalThink: Shaping Thoughts in Mental SVG World",
-          "url": "https://arxiv.org/abs/2607.03530",
+          "title": "A Definition and Roadmap for World Models",
+          "url": "https://arxiv.org/abs/2607.06401",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03530v1 Announce Type: new Abstract: We introduce MentalThink, a visual-symbolic reasoning paradigm that equips Multimodal LLMs (MLLMs) with an executable mechanism for \"mental\" visualization. The core of MentalThink is a think-with-SVG pipeline, where the model lea…"
+          "summary": "arXiv:2607.06401v1 Announce Type: new Abstract: World models -- internal simulators that learn the structure and dynamics of an environment -- have become one of the most actively debated concepts in AI. From model-based reinforcement learning and video generation to embodied …"
         },
         {
-          "title": "Can Conversational Temporal Dynamics Improve Depression Detection in Dyads? A Preliminary Investigation in Multi-Modality Perspectives",
-          "url": "https://arxiv.org/abs/2607.03744",
+          "title": "Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment",
+          "url": "https://arxiv.org/abs/2607.06522",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03744v1 Announce Type: new Abstract: Automatic depression detection from clinical interviews typically models the semantic content and acoustic characteristics of participant speech. However, the interactional timing between the clinician and participant remains com…"
+          "summary": "arXiv:2607.06522v1 Announce Type: new Abstract: Vision-language models (VLMs) struggle to generalize in interactive physical reasoning, particularly under unseen tasks and environments. Two key failure modes are prominent: hallucinated chain-of-thought (CoT) reasoning that con…"
         },
         {
-          "title": "Bridging Interleaved Multi-Modal Reasoning as a Unified Decision Process",
-          "url": "https://arxiv.org/abs/2607.03748",
+          "title": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
+          "url": "https://arxiv.org/abs/2607.06531",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03748v1 Announce Type: new Abstract: Unified multi-modal models (UMMs) have shown promising interleaved text-image reasoning capabilities, yet effectively optimizing such multi-turn generation via reinforcement learning (RL) remains an open challenge. Existing appro…"
+          "summary": "arXiv:2607.06531v1 Announce Type: new Abstract: - Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. To address this inflexibility,…"
         }
       ]
     },
@@ -89,40 +89,40 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
-          "url": "https://arxiv.org/abs/2607.02672",
+          "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
+          "url": "https://arxiv.org/abs/2607.05750",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.02672v1 Announce Type: new Abstract: Local pairwise comparisons are a standard tool for learning how people want decision rules to work, e.g., in participatory design or alignment. However, their use builds in two strong assumptions: that local comparisons are suffi…"
+          "summary": "arXiv:2607.05750v1 Announce Type: new Abstract: Computer-aided design (CAD) for industrial components requires long-horizon procedural modeling, robust feature dependencies, editable parametric geometry, and production-grade B-Rep execution. Existing text-to-CAD methods have m…"
         },
         {
-          "title": "Automated Data Readiness for Scientific AI",
-          "url": "https://arxiv.org/abs/2607.02771",
+          "title": "Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2607.05773",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.02771v1 Announce Type: new Abstract: Leadership computing facilities steward large-scale scientific datasets that routinely require substantial transformation before serving as AI training data. However, no existing framework fully unifies automated transformation, …"
+          "summary": "arXiv:2607.05773v1 Announce Type: new Abstract: As Large Language Models (LLMs) evolve into autonomous agents, traditional static evaluation fails to capture multi-step decision-making. We introduce AgenticAI-Supervisor, an API and UI-driven RL Gym environment that decouples e…"
         },
         {
-          "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
-          "url": "https://arxiv.org/abs/2607.02807",
+          "title": "Controlling Tool Use with Heading-Specific Activation Steering",
+          "url": "https://arxiv.org/abs/2607.05790",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.02807v1 Announce Type: new Abstract: Long-running coding agents such as autoresearch can persistently discover optimizations for open-ended problems. However, they tend to converge onto a single high-level approach, then proceed with low-level edits while missing ot…"
+          "summary": "arXiv:2607.05790v1 Announce Type: new Abstract: Tool-augmented large language models extend their capabilities beyond parametric knowledge through external tools, but tend to invoke them unnecessarily. We investigate whether tool-use decisions have any stable internal represen…"
         },
         {
-          "title": "VERITAS: Towards a General-Purpose Replication Tool for Scientific Research",
-          "url": "https://arxiv.org/abs/2607.02931",
+          "title": "TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training",
+          "url": "https://arxiv.org/abs/2607.05804",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.02931v1 Announce Type: new Abstract: AI tools are accelerating scientific publication while the systems that review it struggle to keep up, and independent verification of published research has become both harder and more important. As manual replication is slow an…"
+          "summary": "arXiv:2607.05804v1 Announce Type: new Abstract: On-policy distillation (OPD) trains a student policy by matching a stronger teacher on the student's own trajectories, offering a promising framework for language agent training. However, its application to long-horizon agentic t…"
         },
         {
-          "title": "Evaluating Generative Agents with Actions Grounded in Socially Distributed Task Environments using Incognita",
-          "url": "https://arxiv.org/abs/2607.02975",
+          "title": "StateFuse: Deterministic Conflict-Preserving Memory for Multi-Agent Systems",
+          "url": "https://arxiv.org/abs/2607.05844",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.02975v1 Announce Type: new Abstract: Effective agency in social environments depends on when an agent seeks knowledge, when it acts, and whether its actions are justified by acquired information. Existing grounded benchmarks provide executable actions, persistent st…"
+          "summary": "arXiv:2607.05844v1 Announce Type: new Abstract: Agent systems accumulate conflicting observations across branches, retries, and replicas, yet many practical memory layers still collapse disagreement behind overwrite rules that are difficult to inspect or correct. We present St…"
         },
         {
-          "title": "From Mobile Data to Business Insights: An End-to-End Analytics Framework for Large-Scale Urban Mobility Analysis and Decision Support",
-          "url": "https://arxiv.org/abs/2607.03394",
+          "title": "Auto-DSM Under the Lens: A Black-Box Evaluation Framework for LLM-Based DSM Generation",
+          "url": "https://arxiv.org/abs/2607.05985",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03394v1 Announce Type: new Abstract: Real time location data derived from mobile applications is a powerful tool for addressing various urban challenges, including tourism planning, parking management, bus route optimization, and resource allocation. Besides, it off…"
+          "summary": "arXiv:2607.05985v1 Announce Type: new Abstract: This paper presents a black-box evaluation framework to systematically assess the ability of Large Language Models (LLMs) to generate Design Structure Matrices (DSMs) from structured technical documentation. Motivated by the clos…"
         }
       ]
     },
@@ -130,40 +130,40 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "Folding, Reasoning, and Scaling with Open-source Drug Discovery Engine",
-          "url": "https://arxiv.org/abs/2607.03787",
+          "title": "PCBWorld: A Benchmark Environment for Engine-Grounded PCB Design Automation",
+          "url": "https://arxiv.org/abs/2607.05915",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03787v1 Announce Type: new Abstract: Accurately modeling biomolecular interactions is a central bottleneck in biology and therapeutic discovery. Here, we introduce Open Drug Discovery Engine (OpenDDE), an open-source, all-atom biomolecular foundation model that uses…"
+          "summary": "arXiv:2607.05915v1 Announce Type: new Abstract: PCB routing is the task of connecting the nets of a board with copper traces under strict design rules, yet learning-based methods still lag behind rule-based routers. We introduce PCBWorld, an open-source engine-grounded PCB rou…"
         },
         {
-          "title": "Gemma 4 Technical Report",
-          "url": "https://arxiv.org/abs/2607.02770",
+          "title": "FootsiesGym: A Fighting Game Benchmark for Two-Player Zero-Sum Imperfect-Information Games",
+          "url": "https://arxiv.org/abs/2607.06514",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.02770v1 Announce Type: cross Abstract: We introduce Gemma 4, a new generation of open-weight, natively multimodal language models in the Gemma model family. Designed to advance compute efficiency and reasoning, the Gemma 4 model suite features dense and Mixture-of-E…"
+          "summary": "arXiv:2607.06514v1 Announce Type: new Abstract: We present FootsiesGym, an open-source environment for learning in a non-trivial two-player, zero-sum, imperfect-information game. Built on HiFight's minimalist 2D fighting game Footsies, it isolates the cyclic, non-transitive st…"
         },
         {
-          "title": "OpenGlass: A Sensing-Computing Split Architecture for Local MLLM-Driven Real-Time Visual Assistance",
-          "url": "https://arxiv.org/abs/2607.03213",
+          "title": "Scientific Code Search at Scale: A Multi-Domain Dataset and Benchmark",
+          "url": "https://arxiv.org/abs/2607.05443",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03213v1 Announce Type: cross Abstract: We present OpenGlass, an open-source, privacy-oriented, local-first system for low-latency multimodal visual assistance, with a primary focus on blind and low-vision users. Cloud MLLM assistants offer strong visual understandin…"
+          "summary": "arXiv:2607.05443v1 Announce Type: cross Abstract: Scientists increasingly rely on open-source tools to support their research workflows, yet discovering relevant software among over 600 million GitHub repositories remains challenging. Existing code search benchmarks focus on g…"
         },
         {
-          "title": "Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions",
-          "url": "https://arxiv.org/abs/2607.03233",
+          "title": "VendorBench-100: A Unified Cross-Paradigm Benchmark for Deepfake Image Detection",
+          "url": "https://arxiv.org/abs/2607.06254",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03233v1 Announce Type: cross Abstract: The rapid growth of publicly available digital information has rendered manual open-source intelligence (OSINT) analysis insufficient for modern intelligence, cybersecurity, and cyber investigation. Large language models (LLMs)…"
+          "summary": "arXiv:2607.06254v1 Announce Type: cross Abstract: Deepfake image detection is currently served by three fundamentally different paradigms: commercial APIs, zero-shot vision-language models (LLMs), and open-source detectors. Despite their widespread use, these paradigms are rar…"
         },
         {
-          "title": "LLM-Enhanced Hierarchical Heterogeneous Graph Representation Learning for Malicious Python Package Detection",
-          "url": "https://arxiv.org/abs/2607.03350",
+          "title": "Categorizing Mathematical Concepts with LLM Voting Ensembles in Mathswitch",
+          "url": "https://arxiv.org/abs/2606.28815",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03350v1 Announce Type: cross Abstract: Malicious Python packages have become a major threat to software supply chain ecosystems due to the widespread adoption of open-source repositories such as PyPI. Existing learning-based detection methods struggle to capture the…"
+          "summary": "arXiv:2606.28815v2 Announce Type: replace-cross Abstract: Mathswitch is an open-source project that imports mathematical concept records from sources such as Wikidata, Wikipedia, MathWorld, Encyclopedia of Mathematics, nLab, ProofWiki, and Agda-Unimath, and links records that …"
         },
         {
-          "title": "!Imperio, smolVLA: The Implications of Data Poisoning on Open Source Robotics",
-          "url": "https://arxiv.org/abs/2607.04146",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.04146v1 Announce Type: cross Abstract: This work establishes that trigger-word data poisoning of vision language action models is practical, while at the same time the open-source robotics ecosystem holds trust assumptions about community contributions. A few poison…"
+          "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -171,40 +171,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+          "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+          "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
           "source": "TechCrunch AI",
-          "summary": "Forterra has deployed more than 100"
+          "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly."
         },
         {
-          "title": "Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models",
-          "url": "https://arxiv.org/abs/2607.02914",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.02914v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated remarkable capabilities across diverse applications, yet ensuring their simultaneous safety, helpfulness, and trustworthiness remains a persistent challenge. Conventional refusal-ori…"
+          "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+          "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+          "source": "TechCrunch AI",
+          "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion."
         },
         {
-          "title": "A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-Product Delivery",
-          "url": "https://arxiv.org/abs/2607.02941",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.02941v1 Announce Type: new Abstract: Multi-product kitting delivery imposes significant challenges for real-time scheduling in hybrid manufacturing systems that integrate processing and assembly, as dynamic order arrivals simultaneously alter supply dependencies and…"
+          "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+          "source": "Ars Technica",
+          "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\""
         },
         {
-          "title": "Reinforcement Learning for Evidence-Seeking Diagnostic Reasoning with Large Language Models",
-          "url": "https://arxiv.org/abs/2607.02983",
+          "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
+          "url": "https://arxiv.org/abs/2607.05456",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.02983v1 Announce Type: new Abstract: Recent reasoning-centric Large Language Models (LLMs) have made significant strides, yet they predominantly operate on a passive-inference pattern that assumes complete information. In contrast, real-world clinical intelligence i…"
+          "summary": "arXiv:2607.05456v1 Announce Type: new Abstract: While recent advances in large language models have enabled end-to-end automated manuscript generation, existing systems suffer from three critical deficiencies: (i) generated claims are not deterministically grounded in verifiab…"
         },
         {
-          "title": "Beyond Forecasting: The Belief-to-Trade Layer in Prediction-Market Agents",
-          "url": "https://arxiv.org/abs/2607.03015",
+          "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
+          "url": "https://arxiv.org/abs/2607.05563",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03015v1 Announce Type: new Abstract: Forecasting future events has attracted growing attention as a testbed for general-purpose AI. A natural way to ground this evaluation is let the models trade in the prediction markets. Trading, however, requires more than foreca…"
+          "summary": "arXiv:2607.05563v1 Announce Type: new Abstract: Interpretable explanation methods in Artificial Intelligence aim to uncover the underlying causes and their effects, enabling a deeper understanding of why a system behaves in a certain way under different inputs. Unlike traditio…"
         },
         {
-          "title": "Human-Centric Reflective Architecture for Human-AI Collaborative Decision-Making",
-          "url": "https://arxiv.org/abs/2607.03025",
+          "title": "Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents",
+          "url": "https://arxiv.org/abs/2607.05690",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.03025v1 Announce Type: new Abstract: The use of Large Language Models (LLMs) across diverse areas of human activity-ranging from everyday tasks to safety-critical applications-aims to enhance decision-making effectiveness with minimal human feedback. Concurrently, i…"
+          "summary": "arXiv:2607.05690v1 Announce Type: new Abstract: Language agents run a loop - observe, reason, act - but the memory they reason over sits outside it: a store queried at most once per turn. We study the regime where memory moves inside the loop, read and written on every step. T…"
         }
       ]
     },
@@ -212,52 +212,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "iOS 27 beta lets users customise Siri’s voice with new AI controls",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/ios-27-beta-lets-users-customise-siris-voice-with-new-ai-controls-10775269/",
+          "title": "Anthropic expands Claude Cowork to mobile and web, letting AI agent work across devices",
+          "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-expands-claude-cowork-mobile-web-ai-agent-10777007/",
           "source": "Indian Express Tech",
           "summary": ""
         },
         {
-          "title": "Anthropic researchers find Claude has a hidden ‘thinking’ workspace: Here’s what it means",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-hidden-workspace-what-it-means-10775230/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "IIM Bangalore to open campus in Indonesia, announces PM Modi; hails bilateral pacts \"driven by technology\" in AI, space",
-          "url": "https://economictimes.indiatimes.com/tech/technology/iim-bangalore-to-open-campus-in-indonesia-announces-pm-modi-hails-bilateral-pacts-driven-by-technology-in-ai-space/articleshow/132232757.cms",
+          "title": "AI chip startup Rebellions targets IPO in Korea next year, followed by potential US listing: CEO",
+          "url": "https://economictimes.indiatimes.com/tech/technology/ai-chip-startup-rebellions-targets-ipo-in-korea-next-year-followed-by-potential-us-listing-ceo/articleshow/132256767.cms",
           "source": "ET Tech",
-          "summary": "India and Indonesia signed major agreements to boost cooperation in artificial intelligence, digital infrastructure, startups, and space research. The two countries also announced the establishment of an IIM Bangalore campus in Indonesia, strengthening educational, technologic…"
+          "summary": "South Korean AI chip startup Rebellions plans its initial public offering next year, said the company's chief executive Park ⁠Sunghyun. The company aims to list shares on the Korean market first, followed by a potential listing in the United States."
         },
         {
-          "title": "Koo Cofounder Mayank Bidawatka Shuts New Startup PicSee",
-          "url": "https://inc42.com/buzz/koo-cofounder-mayank-bidawatka-shuts-new-startup-picsee/",
+          "title": "China issues 'backdoor' security alert over Anthropic's Claude Code",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-issues-backdoor-security-alert-over-anthropics-claude-code/articleshow/132256715.cms",
+          "source": "ET Tech",
+          "summary": "China's industry ministry identified a serious security backdoor risk in Anthropic's Claude Code. The National Vulnerability Database warned of unauthorised data transmission from affected versions. NVDB advised ​that ​organisations and users should immediately review ⁠affecte…"
+        },
+        {
+          "title": "Adage Automation raises Rs 230 Cr to accelerate AI-led industrial expansion",
+          "url": "https://yourstory.com/2026/07/funding-dage-automation-230-crore-ai-led-industrial-expansion",
+          "source": "YourStory",
+          "summary": "The company said that the fresh capital will be used to expand its AI-enabled industrial software, digital monitoring platforms, engineering capabilities and manufacturing infrastructure."
+        },
+        {
+          "title": "AI boom drives intangible investment to record level: UN",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-boom-drives-intangible-investment-to-record-level-un/articleshow/132255753.cms",
+          "source": "ET Tech",
+          "summary": "Global intangible asset investments reached over $10 trillion in 2025. This growth significantly outpaced tangible investments over recent years. Since 2008, intangible investment has grown by 3.5% annually in real terms, way ahead of tangible investments, which saw annual gro…"
+        },
+        {
+          "title": "Global AI industry falls short on safety, think tank warns",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-industry-falls-short-on-safety-think-tank-warns/articleshow/132255252.cms",
+          "source": "ET Tech",
+          "summary": "US artificial intelligence lab Anthropic scored the highest in a semiannual safety ranking, but globally the industry fails to combat \"existential\" threats, according to a report released on Tuesday. All nine companies are failing when it comes to combating \"existential\" threa…"
+        },
+        {
+          "title": "Dream Sports CTO Amit Sharma Quits To Start Own AI Venture",
+          "url": "https://inc42.com/buzz/dream-sports-cto-amit-sharma-quits-to-start-own-ai-venture/",
           "source": "Inc42",
-          "summary": "Within an year of its launch, Koo cofounder Mayank Bidawatka has decided to shut his AI-enabled mutual photo sharing startup,…"
+          "summary": "Dream Sports CTO Amit Sharma has quit after a decade-long stint to pursue his own venture as the Dream11 parent…"
         },
         {
-          "title": "How AI is reshaping India’s logistics startup ecosystem",
-          "url": "https://yourstory.com/2026/07/how-ai-is-reshaping-indias-logistics-startup-ecosystem",
-          "source": "YourStory",
-          "summary": "AI in logistics isn’t just about robots in warehouses. It is about automating the judgement that used to live in people’s heads, turning improvised supply chains into operations that decide and keep improving on their own."
-        },
-        {
-          "title": "Synopsys to cut chip fab manufacturing control software in shift to AI design",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/synopsys-to-cut-chip-fab-manufacturing-control-software-in-shift-to-ai-design-sources-say/articleshow/132232334.cms",
-          "source": "ET Tech",
-          "summary": "Synopsys plans to stop offering manufacturing process control software. This move allows the company to divert resources to higher-margin AI design offerings. Chipmakers like Samsung Electronics and SK Hynix were informed about the end-of-life decision. Affected products inclu…"
-        },
-        {
-          "title": "How AI can power India's digitally-empowered farming ecosystem",
-          "url": "https://yourstory.com/2026/07/ai-support-indias-vision-digitally-empowered-farming-ecosystem",
-          "source": "YourStory",
-          "summary": "As India's digital agriculture ecosystem grows, the biggest opportunity lies in using AI-powered intelligence to improve farm traceability, optimise procurement, and build more resilient agribusiness supply chains."
-        },
-        {
-          "title": "Why AI ‘girlfriends’, virtual companions may no longer be accessible in China from July 15",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/ai-girlfriends-virtual-companions-china-crackdown-10775012/",
-          "source": "Indian Express Tech",
-          "summary": ""
+          "title": "The New Math Behind ROI In AI",
+          "url": "https://inc42.com/features/the-new-math-behind-roi-in-ai/",
+          "source": "Inc42",
+          "summary": "The race to deploy AI is heating up, but organisations no longer want just deployment. They’re asking whether copilots, AI…"
         }
       ]
     }

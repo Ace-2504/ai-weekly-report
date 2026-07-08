@@ -1,128 +1,121 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "top": {
-    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-    "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+    "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
     "source": "TechCrunch AI",
-    "published": "2026-07-07T09:00:00.000Z",
-    "summary": "Forterra has deployed more than 100"
+    "published": "2026-07-08T08:00:00.000Z",
+    "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly."
   },
   "topIndia": {
-    "title": "iOS 27 beta lets users customise Siri’s voice with new AI controls",
-    "url": "https://indianexpress.com/article/technology/tech-news-technology/ios-27-beta-lets-users-customise-siris-voice-with-new-ai-controls-10775269/",
+    "title": "Anthropic expands Claude Cowork to mobile and web, letting AI agent work across devices",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-expands-claude-cowork-mobile-web-ai-agent-10777007/",
     "source": "Indian Express Tech",
-    "published": "2026-07-07T07:46:08.000Z",
+    "published": "2026-07-08T07:45:12.000Z",
     "summary": ""
   },
   "headlines": [
     {
-      "title": "iFLYTEK-Embodied-Omni Technical Report",
-      "url": "https://arxiv.org/abs/2607.02542",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z"
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-08T07:16:00.000Z"
     },
     {
-      "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
-      "url": "https://arxiv.org/abs/2607.02672",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z"
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "source": "Ars Technica",
+      "published": "2026-07-08T07:00:51.000Z"
     },
     {
-      "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
-      "url": "https://arxiv.org/abs/2607.02686",
+      "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
+      "url": "https://arxiv.org/abs/2607.05456",
       "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z"
+      "published": "2026-07-08T04:00:00.000Z"
     },
     {
-      "title": "Automated Data Readiness for Scientific AI",
-      "url": "https://arxiv.org/abs/2607.02771",
+      "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
+      "url": "https://arxiv.org/abs/2607.05563",
       "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z"
+      "published": "2026-07-08T04:00:00.000Z"
     },
     {
-      "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
-      "url": "https://arxiv.org/abs/2607.02807",
+      "title": "Foundation Models for Automatic CAD Generation",
+      "url": "https://arxiv.org/abs/2607.05573",
       "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z"
+      "published": "2026-07-08T04:00:00.000Z"
     },
     {
-      "title": "Object-Centric Environment Modeling for Agentic Tasks",
-      "url": "https://arxiv.org/abs/2607.02846",
+      "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
+      "url": "https://arxiv.org/abs/2607.05577",
       "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z"
+      "published": "2026-07-08T04:00:00.000Z"
     },
     {
-      "title": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents",
-      "url": "https://arxiv.org/abs/2607.02879",
+      "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
+      "url": "https://arxiv.org/abs/2607.05682",
       "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z"
+      "published": "2026-07-08T04:00:00.000Z"
     },
     {
-      "title": "Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models",
-      "url": "https://arxiv.org/abs/2607.02914",
+      "title": "Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents",
+      "url": "https://arxiv.org/abs/2607.05690",
       "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z"
+      "published": "2026-07-08T04:00:00.000Z"
     },
     {
-      "title": "VERITAS: Towards a General-Purpose Replication Tool for Scientific Research",
-      "url": "https://arxiv.org/abs/2607.02931",
+      "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
+      "url": "https://arxiv.org/abs/2607.05708",
       "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z"
+      "published": "2026-07-08T04:00:00.000Z"
     },
     {
-      "title": "A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-Product Delivery",
-      "url": "https://arxiv.org/abs/2607.02941",
+      "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
+      "url": "https://arxiv.org/abs/2607.05750",
       "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z"
+      "published": "2026-07-08T04:00:00.000Z"
     },
     {
-      "title": "Evaluating Generative Agents with Actions Grounded in Socially Distributed Task Environments using Incognita",
-      "url": "https://arxiv.org/abs/2607.02975",
+      "title": "Synthetic Consumer Insight Generation with Large Language Models",
+      "url": "https://arxiv.org/abs/2607.05761",
       "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z"
+      "published": "2026-07-08T04:00:00.000Z"
     },
     {
-      "title": "Reinforcement Learning for Evidence-Seeking Diagnostic Reasoning with Large Language Models",
-      "url": "https://arxiv.org/abs/2607.02983",
+      "title": "Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.05773",
       "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z"
+      "published": "2026-07-08T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution",
-      "url": "https://arxiv.org/abs/2607.05297",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z",
-      "summary": "arXiv:2607.05297v1 Announce Type: new Abstract: Recent LLM agents tackle increasingly long-horizon, open-ended tasks, and external skills, reusable procedural knowledge supplied to the agent, further extend this capability. However, a fixed, hand-authored skill is rarely optim…"
+      "title": "OpenAI says powerful new model to launch publicly on Thursday",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-says-powerful-new-model-to-launch-publicly-on-thursday/articleshow/132254387.cms",
+      "source": "ET Tech",
+      "published": "2026-07-08T05:16:40.000Z",
+      "summary": "ChatGPT maker OpenAI said its latest powerful artificial intelligence model series will be released to the public on Thursday, as the US government reportedly approved a broader launch. It follows a similar story at OpenAI's archrival Anthropic, which last week said it would b…"
     },
     {
-      "title": "Probe, Don't Prompt: A Hidden-State Probe for Metadata Filtering in Multi-Meta-RAG",
-      "url": "https://arxiv.org/abs/2607.03929",
+      "title": "From Application-Layer Simulation to Native Meta-Architecture: Structural Tension as an Endogenous Driver for Heterogeneous AI Evolution",
+      "url": "https://arxiv.org/abs/2607.06269",
       "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z",
-      "summary": "arXiv:2607.03929v1 Announce Type: cross Abstract: Multi-Meta-RAG improves retrieval for multi-hop question answering by filtering a vector store on metadata (the news source) that it extracts from each query by prompting gpt-3.5-turbo. We show this proprietary, free-form extra…"
+      "published": "2026-07-08T04:00:00.000Z",
+      "summary": "arXiv:2607.06269v1 Announce Type: new Abstract: Current large language models (LLMs) are fundamentally stateless: their behavior is fully determined by input at inference time, and any higher-order cognitive architecture must be simulated at the application layer through promp…"
     },
     {
-      "title": "Why3-py: A Tool for Formal Verification of Hypothesis Testing and Meta-Analysis in Python",
-      "url": "https://arxiv.org/abs/2607.03951",
+      "title": "KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta",
+      "url": "https://arxiv.org/abs/2512.23236",
       "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z",
-      "summary": "arXiv:2607.03951v1 Announce Type: cross Abstract: The reproducibility crisis in scientific research has received widespread recognition, thereby increasing the importance of meta-analyses that integrate statistical analyses from multiple studies. However, statistical methods o…"
+      "published": "2026-07-08T04:00:00.000Z",
+      "summary": "arXiv:2512.23236v4 Announce Type: replace-cross Abstract: Making deep learning recommendation model (DLRM) training and inference fast and efficient is important. However, this presents three key system challenges - model architecture diversity, kernel primitive diversity, and…"
     },
     {
-      "title": "PulmoSight-XAI: An Explainable Multi-View Attention Ensemble with Gradient Boosting Meta-Learning for Multi-Label Chest X-Ray Classification",
-      "url": "https://arxiv.org/abs/2607.04478",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z",
-      "summary": "arXiv:2607.04478v1 Announce Type: cross Abstract: Automated chest X-ray classification remains challenging due to severe class imbalance, co-occurring pathologies, and the loss of localized features in conventional architectures. To address these, we propose an explainable hie…"
-    },
-    {
-      "title": "Active Sensing with Meta-Reinforcement Learning for Emitter Localization from RF Observations",
-      "url": "https://arxiv.org/abs/2605.12569",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-07T04:00:00.000Z",
-      "summary": "arXiv:2605.12569v2 Announce Type: replace-cross Abstract: Global navigation satellite system (GNSS) interference poses a serious threat to reliable positioning, especially in indoor and multipath-rich environments where source localization is highly challenging. In this paper,…"
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-07T22:18:10.000Z",
+      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities."
     },
     {
       "title": "Meta launches Pocket, an AI app that can generate games with simple prompts",
@@ -130,13 +123,6 @@
       "source": "Indian Express Tech",
       "published": "2026-07-03T07:58:04.000Z",
       "summary": ""
-    },
-    {
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-02T18:44:02.000Z",
-      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
     },
     {
       "title": "Anthropic unveils Claude Sonnet 5 with better performance, lower costs",
@@ -171,9 +157,9 @@
     {
       "name": "Yann LeCun",
       "org": "Meta · world models",
-      "link": "https://x.com/ylecun",
-      "article": null,
-      "source": "Profile"
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "article": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "source": "TechCrunch AI"
     },
     {
       "name": "Jensen Huang",
