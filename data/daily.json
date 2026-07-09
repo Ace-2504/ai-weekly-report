@@ -1,94 +1,136 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "top": {
-    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-    "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-    "source": "TechCrunch AI",
-    "published": "2026-07-08T08:00:00.000Z",
-    "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly."
+    "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+    "url": "https://arxiv.org/abs/2607.06624",
+    "source": "arXiv cs.AI",
+    "published": "2026-07-09T04:00:00.000Z",
+    "summary": "arXiv:2607.06624v1 Announce Type: new Abstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entir…"
   },
   "topIndia": {
-    "title": "Anthropic expands Claude Cowork to mobile and web, letting AI agent work across devices",
-    "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-expands-claude-cowork-mobile-web-ai-agent-10777007/",
+    "title": "Meta testing AI glasses that can continuously monitor surroundings: Report",
+    "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-testing-ai-glasses-that-can-continuously-monitor-surroundings-report-10778587/",
     "source": "Indian Express Tech",
-    "published": "2026-07-08T07:45:12.000Z",
+    "published": "2026-07-09T08:26:56.000Z",
     "summary": ""
   },
   "headlines": [
     {
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-08T07:16:00.000Z"
-    },
-    {
-      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-      "source": "Ars Technica",
-      "published": "2026-07-08T07:00:51.000Z"
-    },
-    {
-      "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
-      "url": "https://arxiv.org/abs/2607.05456",
+      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+      "url": "https://arxiv.org/abs/2607.06720",
       "source": "arXiv cs.AI",
-      "published": "2026-07-08T04:00:00.000Z"
+      "published": "2026-07-09T04:00:00.000Z"
     },
     {
-      "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
-      "url": "https://arxiv.org/abs/2607.05563",
+      "title": "LLM-powered reasoning in agent-based modeling",
+      "url": "https://arxiv.org/abs/2607.06757",
       "source": "arXiv cs.AI",
-      "published": "2026-07-08T04:00:00.000Z"
+      "published": "2026-07-09T04:00:00.000Z"
     },
     {
-      "title": "Foundation Models for Automatic CAD Generation",
-      "url": "https://arxiv.org/abs/2607.05573",
+      "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+      "url": "https://arxiv.org/abs/2607.06760",
       "source": "arXiv cs.AI",
-      "published": "2026-07-08T04:00:00.000Z"
+      "published": "2026-07-09T04:00:00.000Z"
     },
     {
-      "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
-      "url": "https://arxiv.org/abs/2607.05577",
+      "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+      "url": "https://arxiv.org/abs/2607.06764",
       "source": "arXiv cs.AI",
-      "published": "2026-07-08T04:00:00.000Z"
+      "published": "2026-07-09T04:00:00.000Z"
     },
     {
-      "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
-      "url": "https://arxiv.org/abs/2607.05682",
+      "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
+      "url": "https://arxiv.org/abs/2607.06820",
       "source": "arXiv cs.AI",
-      "published": "2026-07-08T04:00:00.000Z"
+      "published": "2026-07-09T04:00:00.000Z"
     },
     {
-      "title": "Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents",
-      "url": "https://arxiv.org/abs/2607.05690",
+      "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
+      "url": "https://arxiv.org/abs/2607.06906",
       "source": "arXiv cs.AI",
-      "published": "2026-07-08T04:00:00.000Z"
+      "published": "2026-07-09T04:00:00.000Z"
     },
     {
-      "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
-      "url": "https://arxiv.org/abs/2607.05708",
+      "title": "Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix",
+      "url": "https://arxiv.org/abs/2607.06925",
       "source": "arXiv cs.AI",
-      "published": "2026-07-08T04:00:00.000Z"
+      "published": "2026-07-09T04:00:00.000Z"
     },
     {
-      "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
-      "url": "https://arxiv.org/abs/2607.05750",
+      "title": "Large Behavior Model: A Promptable Digital Twin of the Retail Customer",
+      "url": "https://arxiv.org/abs/2607.06993",
       "source": "arXiv cs.AI",
-      "published": "2026-07-08T04:00:00.000Z"
+      "published": "2026-07-09T04:00:00.000Z"
     },
     {
-      "title": "Synthetic Consumer Insight Generation with Large Language Models",
-      "url": "https://arxiv.org/abs/2607.05761",
+      "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
+      "url": "https://arxiv.org/abs/2607.07021",
       "source": "arXiv cs.AI",
-      "published": "2026-07-08T04:00:00.000Z"
+      "published": "2026-07-09T04:00:00.000Z"
     },
     {
-      "title": "Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2607.05773",
+      "title": "Measuring Intelligence Beyond Human Scale",
+      "url": "https://arxiv.org/abs/2607.07040",
       "source": "arXiv cs.AI",
-      "published": "2026-07-08T04:00:00.000Z"
+      "published": "2026-07-09T04:00:00.000Z"
+    },
+    {
+      "title": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
+      "url": "https://arxiv.org/abs/2607.07097",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-09T04:00:00.000Z"
+    },
+    {
+      "title": "Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks",
+      "url": "https://arxiv.org/abs/2607.07189",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-09T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "OpenAI launches GPT-Live voice models that listen and speak simultaneously",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-live-voice-models-that-listen-and-speak-simultaneously/articleshow/132270096.cms",
+      "source": "ET Tech",
+      "published": "2026-07-08T17:50:45.000Z",
+      "summary": "The IPO-bound ​AI startup said it will ​roll ⁠out two ‌versions of ​GPT-Live - ​GPT-Live-1 and ⁠GPT-Live-1 mini - to users ​globally on Wednesday."
+    },
+    {
+      "title": "Mistral launches first robotics model in physical AI push",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-launches-first-robotics-model-in-physical-ai-push/articleshow/132267367.cms",
+      "source": "ET Tech",
+      "published": "2026-07-08T15:48:42.000Z",
+      "summary": "Paris-based Mistral AI has launched its first robotics model for industrial automation. This new system enables robot navigation using only a single camera. The Robostral Navigate model does not require advanced sensors or multiple cameras. It is designed to work with robots f…"
+    },
+    {
+      "title": "OpenAI set to launch most capable GPT model after delayed rollout",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-set-to-launch-most-capable-gpt-model-after-delayed-rollout-10777778/",
+      "source": "Indian Express Tech",
+      "published": "2026-07-08T14:02:35.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Tech launches (July 8, 2026): WhatsApp Meta Business Agent, Skullcandy Method 360 ANC, Dreame L50 series, more",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/tech-launches-july-8-2026-whatsapp-meta-business-agent-skullcandy-method-360-anc-dreame-l50-series-10777639/",
+      "source": "Indian Express Tech",
+      "published": "2026-07-08T13:15:43.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Google Pixel 11 launch on August 12: Expected specs, AI features, Pixel 11 Pro Fold",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-pixel-11-launch-on-august-12-expected-specs-ai-features-pixel-11-pro-fold-10777647/",
+      "source": "Indian Express Tech",
+      "published": "2026-07-08T12:53:16.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Meta launches Muse Image AI generator, but users are already raising privacy concerns",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-launches-muse-image-ai-generator-but-users-are-already-raising-privacy-concerns-10777054/",
+      "source": "Indian Express Tech",
+      "published": "2026-07-08T08:09:27.000Z",
+      "summary": ""
+    },
     {
       "title": "OpenAI says powerful new model to launch publicly on Thursday",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-says-powerful-new-model-to-launch-publicly-on-thursday/articleshow/132254387.cms",
@@ -97,39 +139,11 @@
       "summary": "ChatGPT maker OpenAI said its latest powerful artificial intelligence model series will be released to the public on Thursday, as the US government reportedly approved a broader launch. It follows a similar story at OpenAI's archrival Anthropic, which last week said it would b…"
     },
     {
-      "title": "From Application-Layer Simulation to Native Meta-Architecture: Structural Tension as an Endogenous Driver for Heterogeneous AI Evolution",
-      "url": "https://arxiv.org/abs/2607.06269",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-08T04:00:00.000Z",
-      "summary": "arXiv:2607.06269v1 Announce Type: new Abstract: Current large language models (LLMs) are fundamentally stateless: their behavior is fully determined by input at inference time, and any higher-order cognitive architecture must be simulated at the application layer through promp…"
-    },
-    {
-      "title": "KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta",
-      "url": "https://arxiv.org/abs/2512.23236",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-08T04:00:00.000Z",
-      "summary": "arXiv:2512.23236v4 Announce Type: replace-cross Abstract: Making deep learning recommendation model (DLRM) training and inference fast and efficient is important. However, this presents three key system challenges - model architecture diversity, kernel primitive diversity, and…"
-    },
-    {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
       "source": "TechCrunch AI",
       "published": "2026-07-07T22:18:10.000Z",
       "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities."
-    },
-    {
-      "title": "Meta launches Pocket, an AI app that can generate games with simple prompts",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-launches-pocket-an-ai-app-that-can-generate-games-with-simple-prompts-10769538/",
-      "source": "Indian Express Tech",
-      "published": "2026-07-03T07:58:04.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Anthropic unveils Claude Sonnet 5 with better performance, lower costs",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-unveils-claude-sonnet-5-with-better-performance-lower-costs-10766279/",
-      "source": "Indian Express Tech",
-      "published": "2026-07-01T09:11:53.000Z",
-      "summary": ""
     }
   ],
   "people": [
