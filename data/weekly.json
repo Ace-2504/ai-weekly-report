@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-07-03 to 2026-07-09",
-  "generated": "2026-07-09T09:19:55.082Z",
-  "intro": "325 AI items this week (61 India-relevant) across 10 sources.",
+  "weekOf": "2026-07-04 to 2026-07-10",
+  "generated": "2026-07-10T09:00:58.916Z",
+  "intro": "345 AI items this week (60 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "LLM-powered reasoning in agent-based modeling",
-          "url": "https://arxiv.org/abs/2607.06757",
+          "title": "Infinity-Parser2 Technical Report",
+          "url": "https://arxiv.org/abs/2607.07836",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.06757v1 Announce Type: new Abstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from ada…"
+          "summary": "arXiv:2607.07836v1 Announce Type: new Abstract: We present Infinity-Parser2, a large multimodal model that couples a controllable data-synthesis pipeline with multi-task reinforcement learning for end-to-end document parsing, addressing the persistent scarcity of faithfully an…"
         },
         {
-          "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
-          "url": "https://arxiv.org/abs/2607.06760",
+          "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
+          "url": "https://arxiv.org/abs/2607.07846",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.06760v1 Announce Type: new Abstract: Autonomous systems under partial observability act on beliefs, not raw sensor events. QANTIS treats the quantum processor as a calibrated belief-update service in that loop: it receives a prior and an observation model, estimates…"
+          "summary": "arXiv:2607.07846v1 Announce Type: new Abstract: VectorizationLLM is a specialized Large Language Model based on Google open-weight LLMs. The model is designed to assist students to learn smart vectorization, time/wave vector analysis, piecewise functions, Fourier analysis, and…"
         },
         {
-          "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
-          "url": "https://arxiv.org/abs/2607.06820",
+          "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
+          "url": "https://arxiv.org/abs/2607.07850",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.06820v1 Announce Type: new Abstract: Recent advances in AI for Mathematics have focused largely on autoformalization and theorem proving, leaving the role of Computer Algebra Systems (CAS) in agentic LLM workflows underexplored. We propose a ReAct-style agentic setu…"
+          "summary": "arXiv:2607.07850v1 Announce Type: new Abstract: For seemless control of advanced hand prostheses and augmented reality, accurate and immediate hand gestures recognition is essential. Surface electromyography (sEMG) signals obtained from the forearm are commonly employed for th…"
         },
         {
-          "title": "Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix",
-          "url": "https://arxiv.org/abs/2607.06925",
+          "title": "Nigeria Machinery: A Low-Resource Industrial Dataset with a Domain-Grounded Reasoning Layer",
+          "url": "https://arxiv.org/abs/2607.07883",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.06925v1 Announce Type: new Abstract: Compact world models that condition on a language goal promise to ground relations such as ``put the red block left of the blue block'' using a sparse set of explicit \\emph{reference anchors}. We ask when such references actually…"
+          "summary": "arXiv:2607.07883v1 Announce Type: new Abstract: There is relatively little, public, and model-ready data on industrial machinery for African economies. This makes it hard to do quantitative analysis or to train language models on numeric tasks grounded in that setting. We rele…"
         },
         {
-          "title": "Large Behavior Model: A Promptable Digital Twin of the Retail Customer",
-          "url": "https://arxiv.org/abs/2607.06993",
+          "title": "Persona Cartography: Charting Language Model Personality Traits in Weight Space",
+          "url": "https://arxiv.org/abs/2607.07916",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.06993v1 Announce Type: new Abstract: Customer behavior modeling underpins recommendation, marketing, and decision support, yet existing approaches either optimize predictive accuracy without explaining decisions or simulate users without grounding them in real behav…"
+          "summary": "arXiv:2607.07916v1 Announce Type: new Abstract: Large language models exhibit recurring behavioural patterns -- personas -- that shape generalisation and safety, but we lack reliable tools for decomposing, measuring, and controlling them. Our central insight is to treat person…"
         },
         {
-          "title": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
-          "url": "https://arxiv.org/abs/2607.07097",
+          "title": "From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents",
+          "url": "https://arxiv.org/abs/2607.08028",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07097v1 Announce Type: new Abstract: Safety evaluations of multi-agent LLM systems often compare a direct prompt with a planner-executor pipeline and report the difference as a single \"pipeline effect.\" We argue that this aggregate is difficult to interpret because …"
+          "summary": "arXiv:2607.08028v1 Announce Type: new Abstract: Enterprise large language model (LLM) applications often begin as prototypes whose behavior is carried by prompts and retrieval context. Productization adds requirements for source boundaries, entity routing, answer contracts, an…"
         }
       ]
     },
@@ -48,40 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks",
-          "url": "https://arxiv.org/abs/2607.07189",
+          "title": "Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models",
+          "url": "https://arxiv.org/abs/2607.08317",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07189v1 Announce Type: new Abstract: Vision-language models (VLMs) and agentic AI have shown strong performance on semantic visual tasks, but it remains unclear whether they can handle the physics and inverse problems that underlie computational imaging. We present …"
+          "summary": "arXiv:2607.08317v1 Announce Type: new Abstract: Modern AI models achieve strong performance on many established benchmarks, yet they still fail on tasks that humans find almost trivial, such as manipulating a string or drawing a dog with five legs. These examples suggest that …"
         },
         {
-          "title": "Non-contact, Real-time, Heart-rate Measurement using Image Processing with Commodity Cameras and AI Agents",
-          "url": "https://arxiv.org/abs/2607.06598",
+          "title": "MobiDiff: Semantic-Aware Multi-Channel Discrete Diffusion for Human Mobility Data Generation",
+          "url": "https://arxiv.org/abs/2607.08357",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.06598v1 Announce Type: cross Abstract: Heart rate measurement is one of the key requirements for real-time health monitoring, in particular for health caring of elderly people. Traditional heart rate measurement relies on contact sensing mechanisms such as some hear…"
+          "summary": "arXiv:2607.08357v1 Announce Type: new Abstract: Human mobility data are essential for transportation optimization, urban planning, and resource allocation, yet real-world mobility data are costly to collect and difficult to share due to privacy concerns. Recent diffusion-based…"
         },
         {
-          "title": "MiLSD: A Micro Line-Segment Detector for Resource-Constrained Devices",
-          "url": "https://arxiv.org/abs/2607.06600",
+          "title": "OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice",
+          "url": "https://arxiv.org/abs/2607.08423",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.06600v1 Announce Type: cross Abstract: Line segment detection is a key building block in visual SLAM, 3D reconstruction, and industrial inspection. Recent deep learning methods have greatly improved accuracy, yet even the smallest models require several megabytes of…"
+          "summary": "arXiv:2607.08423v1 Announce Type: new Abstract: The rapid integration of Large Vision-Language Models (VLMs) into critical infrastructure promises to revolutionize personalized healthcare and dietary management. However, in the domain of food systems, autonomous agents face a …"
         },
         {
-          "title": "Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? -- A Theoretical and Empirical Study",
-          "url": "https://arxiv.org/abs/2607.06603",
+          "title": "Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints",
+          "url": "https://arxiv.org/abs/2607.08465",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.06603v1 Announce Type: cross Abstract: The notion of algorithmic fairness has been actively explored from various aspects of fairness, such as counterfactual fairness (CF) and group fairness (GF). However, the exact relationship between CF and GF remains to be uncle…"
+          "summary": "arXiv:2607.08465v1 Announce Type: new Abstract: I-JEPA and V-JEPA learn by matching latent predictions to target encoder outputs rather than regenerating the original input, and this has worked well for images and video. We explore whether the same objective works for compact …"
         },
         {
-          "title": "D2PO: Optimizing Diffusion Samplers via Dynamic Preference",
-          "url": "https://arxiv.org/abs/2607.06609",
+          "title": "SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits",
+          "url": "https://arxiv.org/abs/2607.08573",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.06609v1 Announce Type: cross Abstract: We propose D2PO (Dynamic Direct Preference Optimization), a principled framework for optimizing diffusion sampling policies with respect to timestep schedules and classifier-free guidance (CFG) weights. Our work is motivated by…"
+          "summary": "arXiv:2607.08573v1 Announce Type: new Abstract: Multimodal emotion and sentiment recognition is commonly addressed by early fusion, which concatenates modalities before classification, or late fusion, which combines independently trained unimodal predictors. Early fusion can b…"
         },
         {
-          "title": "Audio Sentiment Analysis via Distillation and Cross-Modal Integration of Generated Multilingual Transcripts",
-          "url": "https://arxiv.org/abs/2607.06611",
+          "title": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding",
+          "url": "https://arxiv.org/abs/2607.08745",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.06611v1 Announce Type: cross Abstract: Automatically recognizing the sentiment, positive or negative, from speech is a challenging task, requiring both the analysis of vocal inflections and the interpretation of uttered words. Recent solutions rely on audio foundati…"
+          "summary": "arXiv:2607.08745v1 Announce Type: new Abstract: Recent advances in Vision-Language Models, Large Language Models, and Multimodal Large Language Models have improved autonomous driving tasks such as scene understanding, decision making, trajectory prediction, and visual questio…"
         }
       ]
     },
@@ -89,40 +89,40 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-          "url": "https://arxiv.org/abs/2607.06624",
+          "title": "AI-integrated models for assessing agricultural resilience",
+          "url": "https://arxiv.org/abs/2607.07759",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.06624v1 Announce Type: new Abstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entir…"
+          "summary": "arXiv:2607.07759v1 Announce Type: new Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chai…"
         },
         {
-          "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
-          "url": "https://arxiv.org/abs/2607.06764",
+          "title": "Feedback Manipulation Regularization: Enabling Offline Agent Alignment for Imitation Learning",
+          "url": "https://arxiv.org/abs/2607.07859",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.06764v1 Announce Type: new Abstract: Recent progress on ARC-AGI-1 from disclosed architectures has come broadly from two regimes: heavy test-time compute over frontier models (evolutionary search, exhaustive sampling, extended chain-of-thought), or benchmark-specifi…"
+          "summary": "arXiv:2607.07859v1 Announce Type: new Abstract: Reinforcement learning (RL) research has increasingly shifted focus towards alignment, ensuring agents learn behaviors adhering to human values. While human demonstrations and feedback have proven crucial for alignment, existing …"
         },
         {
-          "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
-          "url": "https://arxiv.org/abs/2607.06906",
+          "title": "Concretized Proposition Prompting Resolves Composition-Knowledge Dichotomy in Large Language Models",
+          "url": "https://arxiv.org/abs/2607.08018",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.06906v1 Announce Type: new Abstract: Agentic AI development today runs on token maxing: buying capability with tokens -- longer reasoning traces, more turns, wider tool payloads, bigger replayed contexts -- so tokens per task grow faster than task value. Falling per…"
+          "summary": "arXiv:2607.08018v1 Announce Type: new Abstract: LLMs often struggle to balance compositionality with knowledgeability, a challenge we define as Composition-Knowledge Dichotomy. To address this, we propose Concretized Proposition Prompting (CPP), a framework that explicitly con…"
         },
         {
-          "title": "Reasoning Consistency Scanning: A Framework for Auditing Chain-of-Thought Validity in AI Safety Evaluations",
-          "url": "https://arxiv.org/abs/2607.07229",
+          "title": "A safety-oriented hypothetico-deductive framework for AI-assisted differential diagnosis",
+          "url": "https://arxiv.org/abs/2607.08038",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07229v1 Announce Type: new Abstract: Prior work has shown that chain-of-thought (CoT) reasoning is often unfaithful: a model's stated reasoning does not reliably reflect the process that produced its output. Detecting unfaithfulness, though, requires controlled expe…"
+          "summary": "arXiv:2607.08038v1 Announce Type: new Abstract: Diagnostic error is a major threat to patient safety, yet current large language model (LLM) systems often treat diagnosis as a one-shot prediction task, lacking safeguards against missed high-risk alternatives or rigorous verifi…"
         },
         {
-          "title": "From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents",
-          "url": "https://arxiv.org/abs/2607.07321",
+          "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
+          "url": "https://arxiv.org/abs/2607.08093",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07321v1 Announce Type: new Abstract: Tool utilization enables Large Language Model (LLM) agents to interact with the real world and resolve complex tasks. However, existing agent frameworks predominantly rely on static toolsets composed of granular atomic actions (e…"
+          "summary": "arXiv:2607.08093v1 Announce Type: new Abstract: Large language models (LLMs) increasingly act as integrated data-science agents, combining abstract reasoning with advanced tool use. Yet the relevant benchmark landscape largely divides into symbolic causal reasoning benchmarks …"
         },
         {
-          "title": "Reason Less, Verify More: Deterministic Gates Recover a Silent Policy-Violation Failure Mode in Tool-Using LLM Agents",
-          "url": "https://arxiv.org/abs/2607.07405",
+          "title": "Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets",
+          "url": "https://arxiv.org/abs/2607.08173",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07405v1 Announce Type: new Abstract: Tool-using LLM agents can violate the very policies they are deployed to enforce while appearing to complete the task successfully. In policy-permissive environments, a tool may execute any well-formed call even when the correspo…"
+          "summary": "arXiv:2607.08173v1 Announce Type: new Abstract: Black box auditing of language models is an essential pre-deployment tool, but it may miss subtle forms of misalignment and hidden information. To better elicit hidden information during an auditing process, we introduce \\emph{ov…"
         }
       ]
     },
@@ -130,16 +130,28 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency",
-          "url": "https://arxiv.org/abs/2607.07207",
+          "title": "Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models",
+          "url": "https://arxiv.org/abs/2607.08282",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07207v1 Announce Type: cross Abstract: We analyze how four forces restructure the AI industry over 2026-2030: the DRAM/HBM price surge, frontier-capable open-weight models (GLM-5.2), rapid inference-efficiency gains (near-Shannon-limit KV-cache compression, lightwei…"
+          "summary": "arXiv:2607.08282v1 Announce Type: cross Abstract: While Large Language Models (LLMs) have become essential productivity tools, their integration into workflows without adequate safeguards creates significant risks. This paper proposes an open-source, privacy-focused, user-faci…"
         },
         {
-          "title": "AI Chatbot Suicide Risk Detection and Response: Human Validation Study of the Open-Source VERA-MH Safety Evaluation",
-          "url": "https://arxiv.org/abs/2602.05088",
+          "title": "TOPO-Bench: An Open-Source Topological Mapping Evaluation Framework with Quantifiable Perceptual Aliasing",
+          "url": "https://arxiv.org/abs/2510.04100",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2602.05088v4 Announce Type: replace Abstract: Millions of people now use generative AI chatbots for psychological support. Despite their promise, the most pressing question in AI for mental health is whether these tools are safe. The field currently lacks a validated, au…"
+          "summary": "arXiv:2510.04100v2 Announce Type: replace-cross Abstract: Topological mapping offers a compact and robust representation for navigation, but progress in the field is hindered by the lack of standardized evaluation metrics, datasets, and protocols. Existing systems are assessed…"
+        },
+        {
+          "title": "PhasorFlow: A Python Library for Unit Circle Based Computing",
+          "url": "https://arxiv.org/abs/2603.15886",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2603.15886v3 Announce Type: replace-cross Abstract: We present PhasorFlow, an open-source Python library for computing on the $S^1$ unit circle. Inputs are encoded as complex phasors $z=e^{i\\phi}$ on the $N$-torus ($\\mathbb{T}^N$); as computation proceeds through unitary…"
+        },
+        {
+          "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+          "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+          "source": "TechCrunch AI",
+          "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs."
         },
         {
           "title": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -148,20 +160,8 @@
           "summary": ""
         },
         {
-          "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-          "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-          "source": "TechCrunch AI",
-          "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
-        },
-        {
           "title": "Hugging Face Models on Foundry Managed Compute",
           "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-          "source": "Hugging Face",
-          "summary": ""
-        },
-        {
-          "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-          "url": "https://huggingface.co/blog/skypilot-hf-storage",
           "source": "Hugging Face",
           "summary": ""
         }
@@ -171,40 +171,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
-          "url": "https://arxiv.org/abs/2607.06720",
+          "title": "Context Graphs for Proactive Enterprise Agents",
+          "url": "https://arxiv.org/abs/2607.07721",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.06720v1 Announce Type: new Abstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise solution attempts. We provide a theoretical analysis of in-context search by …"
+          "summary": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise …"
         },
         {
-          "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
-          "url": "https://arxiv.org/abs/2607.07021",
+          "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+          "url": "https://arxiv.org/abs/2607.07760",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07021v1 Announce Type: new Abstract: Humans continuously coordinate with others in dynamic interactions, often through implicit, hard-to-quantify social norms that act as shared tacit expectations among interacting agents. As AI agents, including large language mode…"
+          "summary": "arXiv:2607.07760v1 Announce Type: new Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In su…"
         },
         {
-          "title": "Measuring Intelligence Beyond Human Scale",
-          "url": "https://arxiv.org/abs/2607.07040",
+          "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+          "url": "https://arxiv.org/abs/2607.07761",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07040v1 Announce Type: new Abstract: How can we measure intelligence beyond human capability? Human-authored benchmarks saturate, and above human capability, examiners may not know which tasks are both hard and verifiable. We argue that this difficulty is inherent t…"
+          "summary": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applicatio…"
         },
         {
-          "title": "Physics-Audited Agentic Discovery in Scientific Machine Learning",
-          "url": "https://arxiv.org/abs/2607.07379",
+          "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
+          "url": "https://arxiv.org/abs/2607.07766",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07379v1 Announce Type: new Abstract: In agentic scientific machine learning (SciML), large language model (LLM) agents can discover surrogate models and select one by an automated score, typically an error metric. A low error, however, does not establish that the pr…"
+          "summary": "arXiv:2607.07766v1 Announce Type: new Abstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attention economy whose operational and commercial targets favour sustained engagement over the friction that…"
         },
         {
-          "title": "MIRA-Math: A Benchmark for Minimal Information Requesting and Mathematical Reasoning",
-          "url": "https://arxiv.org/abs/2607.07391",
+          "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
+          "url": "https://arxiv.org/abs/2607.07775",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07391v1 Announce Type: new Abstract: Mathematical reasoning benchmarks typically provide all facts needed to solve each problem, while interactive benchmarks often mix reasoning with tools, retrieval, and long-horizon dialogue. We introduce MIRA-Math, a benchmark fo…"
+          "summary": "arXiv:2607.07775v1 Announce Type: new Abstract: The human body is at the center of a growing family of technologies designed to tightly and persistently couple biological and digital systems. Robotic prostheses are a representative example of this tight coupling. Also referred…"
         },
         {
-          "title": "Agentic Data Environments",
-          "url": "https://arxiv.org/abs/2607.07397",
+          "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
+          "url": "https://arxiv.org/abs/2607.07858",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07397v1 Announce Type: new Abstract: Autonomous agents promise substantial gains in speed, scale, and labor efficiency, but their failures can impose abrupt and often irreversible costs. The central challenge for agentic automation is therefore to increase the benef…"
+          "summary": "arXiv:2607.07858v1 Announce Type: new Abstract: Artificial intelligence (AI) is beginning to reshape actuarial practice, particularly in domains that require reasoning over unstructured documents, heterogeneous data sources, and regulated decision workflows. Actuaries now face…"
         }
       ]
     },
@@ -212,52 +212,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Meta testing AI glasses that can continuously monitor surroundings: Report",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-testing-ai-glasses-that-can-continuously-monitor-surroundings-report-10778587/",
+          "title": "Meta fixes smart glasses privacy issue amid ‘always-on’ AI glasses report",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-fixes-smart-glasses-privacy-issue-amid-always-on-ai-glasses-report-10780341/",
           "source": "Indian Express Tech",
           "summary": ""
         },
         {
-          "title": "Taiwan central bank chief warns of AI bubble risk",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwan-central-bank-chief-warns-of-ai-bubble-risk/articleshow/132280726.cms",
+          "title": "Employees adopting AI faster than organisations, says McKinsey survey",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/employees-adopting-ai-faster-than-organisations-says-mckinsey-survey/articleshow/132307433.cms",
           "source": "ET Tech",
-          "summary": "Speaking at a parliamentary hearing, Governor Yang Chin-long told lawmakers that the AI boom has become a major ‌driving force in ⁠Taiwan's economy, ⁠while warning that the central bank must carefully monitor the risks of ​speculative capital expenditures financed by aggressiv…"
+          "summary": "While artificial intelligence (AI) has emerged as the top technology spending priority for many organisations, most are still at an early stage of AI deployment, with employees adapting to the technology faster than the organisations they work for, according to a McKinsey surv…"
         },
         {
-          "title": "AI chip challenger Cerebras sets sights on Europe",
-          "url": "https://economictimes.indiatimes.com/tech/technology/cerebras-says-to-invest-billions-in-europe/articleshow/132280255.cms",
+          "title": "Meta Muse Image: How to disable AI access to your Instagram photos",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-muse-image-how-to-disable-ai-access-to-your-instagram-photos/articleshow/132306651.cms",
           "source": "ET Tech",
-          "summary": "Cerebras plans significant European computing capacity expansion to challenge Nvidia. The AI chip startup is responding to extraordinary demand across the continent. This expansion aims to meet unique European data control requirements and concerns. Cerebras' large wafer-scale…"
+          "summary": "Meta launched Muse Image, an AI tool for image generation and editing. This feature allows users to create images using public Instagram photos. The feature has drawn privacy concerns because public posts and reels can be used by default to generate AI images, prompting questi…"
         },
         {
-          "title": "Government has done its part on GCC, industry must build capabilities to meet AI challenge: CEA",
-          "url": "https://yourstory.com/2026/07/govt-done-its-part-gcc-industry-build-capabilities-ai-challenge-cea",
-          "source": "YourStory",
-          "summary": "Highlighting the role of government-industry collaboration, the CEA said the Union Budget has addressed a long-pending industry demand by simplifying and expanding the transfer pricing safe harbour regime for GCCs."
-        },
-        {
-          "title": "Temasek keeps 25% of portfolio liquid to weather shocks and seize trends, CIO says",
-          "url": "https://economictimes.indiatimes.com/tech/technology/temasek-keeps-25-of-portfolio-liquid-to-weather-shocks-and-seize-trends-cio-says/articleshow/132278643.cms",
+          "title": "AI can't replace mental health therapists. But here's where it might make a difference",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-cant-replace-mental-health-therapists-but-heres-where-it-might-make-a-difference/articleshow/132303642.cms",
           "source": "ET Tech",
-          "summary": "Temasek also aimed to lift its exposure to artificial intelligence companies to as much as 15% ​of its portfolio over the next five years ⁠from 6% ‌now"
+          "summary": "The appeal is easy to understand. Chatbots don't judge. Unlike stretched mental health services in countries such as New Zealand and Australia, they don't keep people on lengthy waiting lists."
         },
         {
-          "title": "Building production agents using AWS’s open source Strands Agents SDK",
-          "url": "https://yourstory.com/2026/07/production-agents-aws-open-source-strands-agents-sdk",
-          "source": "YourStory",
-          "summary": "At DevSparks Bengaluru 2026, AWS Developer Advocate Ashita Prasad walked developers through building a fully functional, production-ready AI agent from scratch using Strands Agents, an open source SDK built to close the gap between knowing and shipping."
+          "title": "Tencent in talks to become AI startup Manus' largest shareholder",
+          "url": "https://economictimes.indiatimes.com/tech/tech-bytes/tencent-in-talks-to-become-ai-startup-manus-largest-shareholder/articleshow/132302917.cms",
+          "source": "ET Tech",
+          "summary": "Tencent, together with Manus' original ​investors, including ZhenFund and HSG, are planning to buy the company back from Meta for no less than $2 billion, ‌said one of the sources and a third person ​briefed on ​the ⁠matter."
         },
         {
-          "title": "ALER-TI: Aligned Latent Embedding Retrieval for Time Series Imputation",
-          "url": "https://arxiv.org/abs/2607.07640",
+          "title": "Adaptive Generation of Bias-Eliciting Questions for LLMs",
+          "url": "https://arxiv.org/abs/2510.12857",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07640v1 Announce Type: cross Abstract: Deep learning has significantly advanced time series imputation, yet most existing architectures primarily rely on localized temporal context within the corrupted input sequence. This reliance can be limiting in real-world scen…"
+          "summary": "arXiv:2510.12857v2 Announce Type: replace-cross Abstract: Large language models (LLMs) are now widely deployed in user-facing applications, reaching hundreds of millions of users worldwide. Despite their widespread adoption, growing reliance on their outputs raises significant…"
         },
         {
-          "title": "Meta to build C$13 billion Alberta data center, its first in Canada",
-          "url": "https://economictimes.indiatimes.com/tech/technology/meta-to-build-c13-billion-alberta-data-center-its-first-in-canada/articleshow/132276591.cms",
+          "title": "Meta to begin AI chip production in September, targets 2x computing power: Report",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity-memo-shows-10779959/",
+          "source": "Indian Express Tech",
+          "summary": ""
+        },
+        {
+          "title": "SpaceX and AI startup wealth fuels demand for private jets",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/spacex-and-ai-startup-wealth-fuels-demand-for-private-jets/articleshow/132301531.cms",
           "source": "ET Tech",
-          "summary": "Meta has doubled down on AI, pledging hundreds of billions of dollars to build large AI data centers in the U.S. The Alberta announcement represents the company's 33rd data center ‌globally."
+          "summary": "The IPO of Elon Musk's ​SpaceX, whose holdings include artificial-intelligence firm xAI, raised a record $85.7 billion for the company and generated unprecedented employee and founder wealth. Next in line for potential big IPOs are AI companies Anthropic and OpenAI."
         }
       ]
     }
