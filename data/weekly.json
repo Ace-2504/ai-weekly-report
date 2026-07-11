@@ -1,46 +1,40 @@
 {
-  "weekOf": "2026-07-04 to 2026-07-10",
-  "generated": "2026-07-10T09:00:58.916Z",
-  "intro": "345 AI items this week (60 India-relevant) across 10 sources.",
+  "weekOf": "2026-07-05 to 2026-07-11",
+  "generated": "2026-07-11T07:39:00.479Z",
+  "intro": "96 AI items this week (62 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Infinity-Parser2 Technical Report",
-          "url": "https://arxiv.org/abs/2607.07836",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07836v1 Announce Type: new Abstract: We present Infinity-Parser2, a large multimodal model that couples a controllable data-synthesis pipeline with multi-task reinforcement learning for end-to-end document parsing, addressing the persistent scarcity of faithfully an…"
+          "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+          "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps."
         },
         {
-          "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
-          "url": "https://arxiv.org/abs/2607.07846",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07846v1 Announce Type: new Abstract: VectorizationLLM is a specialized Large Language Model based on Google open-weight LLMs. The model is designed to assist students to learn smart vectorization, time/wave vector analysis, piecewise functions, Fourier analysis, and…"
+          "title": "OpenAI launches its new family of models with GPT-5.6",
+          "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity."
         },
         {
-          "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
-          "url": "https://arxiv.org/abs/2607.07850",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07850v1 Announce Type: new Abstract: For seemless control of advanced hand prostheses and augmented reality, accurate and immediate hand gestures recognition is essential. Surface electromyography (sEMG) signals obtained from the forearm are commonly employed for th…"
+          "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+          "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+          "source": "MIT Tech Review",
+          "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company b…"
         },
         {
-          "title": "Nigeria Machinery: A Low-Resource Industrial Dataset with a Domain-Grounded Reasoning Layer",
-          "url": "https://arxiv.org/abs/2607.07883",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07883v1 Announce Type: new Abstract: There is relatively little, public, and model-ready data on industrial machinery for African economies. This makes it hard to do quantitative analysis or to train language models on numeric tasks grounded in that setting. We rele…"
+          "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+          "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+          "source": "TechCrunch AI",
+          "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\""
         },
         {
-          "title": "Persona Cartography: Charting Language Model Personality Traits in Weight Space",
-          "url": "https://arxiv.org/abs/2607.07916",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07916v1 Announce Type: new Abstract: Large language models exhibit recurring behavioural patterns -- personas -- that shape generalisation and safety, but we lack reliable tools for decomposing, measuring, and controlling them. Our central insight is to treat person…"
-        },
-        {
-          "title": "From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents",
-          "url": "https://arxiv.org/abs/2607.08028",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08028v1 Announce Type: new Abstract: Enterprise large language model (LLM) applications often begin as prototypes whose behavior is carried by prompts and retrieval context. Productization adds requirements for source boundaries, entity routing, answer contracts, an…"
+          "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+          "source": "Google AI Blog",
+          "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
         }
       ]
     },
@@ -48,40 +42,16 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models",
-          "url": "https://arxiv.org/abs/2607.08317",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08317v1 Announce Type: new Abstract: Modern AI models achieve strong performance on many established benchmarks, yet they still fail on tasks that humans find almost trivial, such as manipulating a string or drawing a dog with five legs. These examples suggest that …"
+          "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+          "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\""
         },
         {
-          "title": "MobiDiff: Semantic-Aware Multi-Channel Discrete Diffusion for Human Mobility Data Generation",
-          "url": "https://arxiv.org/abs/2607.08357",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08357v1 Announce Type: new Abstract: Human mobility data are essential for transportation optimization, urban planning, and resource allocation, yet real-world mobility data are costly to collect and difficult to share due to privacy concerns. Recent diffusion-based…"
-        },
-        {
-          "title": "OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice",
-          "url": "https://arxiv.org/abs/2607.08423",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08423v1 Announce Type: new Abstract: The rapid integration of Large Vision-Language Models (VLMs) into critical infrastructure promises to revolutionize personalized healthcare and dietary management. However, in the domain of food systems, autonomous agents face a …"
-        },
-        {
-          "title": "Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints",
-          "url": "https://arxiv.org/abs/2607.08465",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08465v1 Announce Type: new Abstract: I-JEPA and V-JEPA learn by matching latent predictions to target encoder outputs rather than regenerating the original input, and this has worked well for images and video. We explore whether the same objective works for compact …"
-        },
-        {
-          "title": "SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits",
-          "url": "https://arxiv.org/abs/2607.08573",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08573v1 Announce Type: new Abstract: Multimodal emotion and sentiment recognition is commonly addressed by early fusion, which concatenates modalities before classification, or late fusion, which combines independently trained unimodal predictors. Early fusion can b…"
-        },
-        {
-          "title": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding",
-          "url": "https://arxiv.org/abs/2607.08745",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08745v1 Announce Type: new Abstract: Recent advances in Vision-Language Models, Large Language Models, and Multimodal Large Language Models have improved autonomous driving tasks such as scene understanding, decision making, trajectory prediction, and visual questio…"
+          "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+          "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+          "source": "TechCrunch AI",
+          "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation."
         }
       ]
     },
@@ -89,40 +59,22 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "AI-integrated models for assessing agricultural resilience",
-          "url": "https://arxiv.org/abs/2607.07759",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07759v1 Announce Type: new Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chai…"
+          "title": "Meta removes controversial AI feature on Instagram after backlash",
+          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+          "source": "TechCrunch AI",
+          "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\""
         },
         {
-          "title": "Feedback Manipulation Regularization: Enabling Offline Agent Alignment for Imitation Learning",
-          "url": "https://arxiv.org/abs/2607.07859",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07859v1 Announce Type: new Abstract: Reinforcement learning (RL) research has increasingly shifted focus towards alignment, ensuring agents learn behaviors adhering to human values. While human demonstrations and feedback have proven crucial for alignment, existing …"
+          "title": "An AI agent startup just let its agent run its $100M fundraise",
+          "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+          "source": "TechCrunch AI",
+          "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works."
         },
         {
-          "title": "Concretized Proposition Prompting Resolves Composition-Knowledge Dichotomy in Large Language Models",
-          "url": "https://arxiv.org/abs/2607.08018",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08018v1 Announce Type: new Abstract: LLMs often struggle to balance compositionality with knowledgeability, a challenge we define as Composition-Knowledge Dichotomy. To address this, we propose Concretized Proposition Prompting (CPP), a framework that explicitly con…"
-        },
-        {
-          "title": "A safety-oriented hypothetico-deductive framework for AI-assisted differential diagnosis",
-          "url": "https://arxiv.org/abs/2607.08038",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08038v1 Announce Type: new Abstract: Diagnostic error is a major threat to patient safety, yet current large language model (LLM) systems often treat diagnosis as a one-shot prediction task, lacking safeguards against missed high-risk alternatives or rigorous verifi…"
-        },
-        {
-          "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
-          "url": "https://arxiv.org/abs/2607.08093",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08093v1 Announce Type: new Abstract: Large language models (LLMs) increasingly act as integrated data-science agents, combining abstract reasoning with advanced tool use. Yet the relevant benchmark landscape largely divides into symbolic causal reasoning benchmarks …"
-        },
-        {
-          "title": "Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets",
-          "url": "https://arxiv.org/abs/2607.08173",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08173v1 Announce Type: new Abstract: Black box auditing of language models is an essential pre-deployment tool, but it may miss subtle forms of misalignment and hidden information. To better elicit hidden information during an auditing process, we introduce \\emph{ov…"
+          "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+          "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+          "source": "TechCrunch AI",
+          "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide."
         }
       ]
     },
@@ -130,28 +82,16 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models",
-          "url": "https://arxiv.org/abs/2607.08282",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08282v1 Announce Type: cross Abstract: While Large Language Models (LLMs) have become essential productivity tools, their integration into workflows without adequate safeguards creates significant risks. This paper proposes an open-source, privacy-focused, user-faci…"
-        },
-        {
-          "title": "TOPO-Bench: An Open-Source Topological Mapping Evaluation Framework with Quantifiable Perceptual Aliasing",
-          "url": "https://arxiv.org/abs/2510.04100",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2510.04100v2 Announce Type: replace-cross Abstract: Topological mapping offers a compact and robust representation for navigation, but progress in the field is hindered by the lack of standardized evaluation metrics, datasets, and protocols. Existing systems are assessed…"
-        },
-        {
-          "title": "PhasorFlow: A Python Library for Unit Circle Based Computing",
-          "url": "https://arxiv.org/abs/2603.15886",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2603.15886v3 Announce Type: replace-cross Abstract: We present PhasorFlow, an open-source Python library for computing on the $S^1$ unit circle. Inputs are encoded as complex phasors $z=e^{i\\phi}$ on the $N$-torus ($\\mathbb{T}^N$); as computation proceeds through unitary…"
-        },
-        {
-          "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-          "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+          "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+          "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
           "source": "TechCrunch AI",
-          "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs."
+          "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the…"
+        },
+        {
+          "title": "Hugging Face’s CEO on why companies are done renting their AI",
+          "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the…"
         },
         {
           "title": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -164,6 +104,12 @@
           "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
           "source": "Hugging Face",
           "summary": ""
+        },
+        {
+          "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+          "url": "https://huggingface.co/blog/skypilot-hf-storage",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -171,40 +117,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Context Graphs for Proactive Enterprise Agents",
-          "url": "https://arxiv.org/abs/2607.07721",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise …"
+          "title": "Apple sues OpenAI over alleged trade secret theft",
+          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+          "source": "TechCrunch AI",
+          "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
         },
         {
-          "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
-          "url": "https://arxiv.org/abs/2607.07760",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07760v1 Announce Type: new Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In su…"
+          "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+          "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+          "source": "TechCrunch AI",
+          "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories."
         },
         {
-          "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
-          "url": "https://arxiv.org/abs/2607.07761",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applicatio…"
+          "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+          "url": "https://huggingface.co/blog/torch-attention-profile",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
-          "url": "https://arxiv.org/abs/2607.07766",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07766v1 Announce Type: new Abstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attention economy whose operational and commercial targets favour sustained engagement over the friction that…"
+          "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
+          "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market."
         },
         {
-          "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
-          "url": "https://arxiv.org/abs/2607.07775",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07775v1 Announce Type: new Abstract: The human body is at the center of a growing family of technologies designed to tightly and persistently couple biological and digital systems. Robotic prostheses are a representative example of this tight coupling. Also referred…"
+          "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+          "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension."
         },
         {
-          "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
-          "url": "https://arxiv.org/abs/2607.07858",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.07858v1 Announce Type: new Abstract: Artificial intelligence (AI) is beginning to reshape actuarial practice, particularly in domains that require reasoning over unstructured documents, heterogeneous data sources, and regulated decision workflows. Actuaries now face…"
+          "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+          "source": "TechCrunch AI",
+          "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can."
         }
       ]
     },
@@ -212,52 +158,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Meta fixes smart glasses privacy issue amid ‘always-on’ AI glasses report",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-fixes-smart-glasses-privacy-issue-amid-always-on-ai-glasses-report-10780341/",
+          "title": "Meta scraps AI image feature days after launch following privacy backlash",
+          "url": "https://economictimes.indiatimes.com/tech/technology/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash/articleshow/132323801.cms",
+          "source": "ET Tech",
+          "summary": "Meta discontinued its new AI image generation feature after significant criticism. The tool allowed image creation using public Instagram accounts without explicit user consent. Actors and a Hollywood union voiced strong objections regarding privacy concerns. Meta stated the f…"
+        },
+        {
+          "title": "US makes it easier to export Nvidia AI chips and military equipment to the UAE",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-makes-it-easier-to-export-nvidia-ai-chips-and-military-equipment-to-the-uae/articleshow/132323771.cms",
+          "source": "ET Tech",
+          "summary": "The United States has eased export controls on the United Arab Emirates. This change allows easier access to Nvidia AI chips and military equipment. Approved UAE companies and US firms operating there will receive license-free advanced computing items. This move strengthens US…"
+        },
+        {
+          "title": "Altera returns to growth as AI, robotics fuel demand, CEO says",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/altera-returns-to-growth-as-ai-robotics-fuel-demand-ceo-says/articleshow/132323767.cms",
+          "source": "ET Tech",
+          "summary": "Altera, a chip maker spun from Intel, is experiencing significant annual growth. The company anticipates strong performance driven by artificial intelligence and robotics applications. Altera is also preparing for a potential public listing in the near future. They have reduce…"
+        },
+        {
+          "title": "Music industry launches AI-generated content labels",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/music-industry-launches-ai-generated-content-labels/articleshow/132323648.cms",
+          "source": "ET Tech",
+          "summary": "Music organisations have introduced a voluntary labeling system for AI-generated content. This system aims to inform listeners about the use of artificial intelligence in music. Two labels will distinguish between fully AI-generated and AI-assisted recordings. Streaming servic…"
+        },
+        {
+          "title": "Implementing digital and AI in healthcare is fundamentally more complex: Rizwan Koita, co-founder, Koita Foundation",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/rizwan-koita-foundation-nabh-digital-health-ai-india-healthcare-10781107/",
           "source": "Indian Express Tech",
           "summary": ""
         },
         {
-          "title": "Employees adopting AI faster than organisations, says McKinsey survey",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/employees-adopting-ai-faster-than-organisations-says-mckinsey-survey/articleshow/132307433.cms",
-          "source": "ET Tech",
-          "summary": "While artificial intelligence (AI) has emerged as the top technology spending priority for many organisations, most are still at an early stage of AI deployment, with employees adapting to the technology faster than the organisations they work for, according to a McKinsey surv…"
+          "title": "Inviting India’s next breakout startups; Preparing for the festive season",
+          "url": "https://yourstory.com/2026/07/inviting-indias-next-breakout-startups",
+          "source": "YourStory",
+          "summary": "Tech30 alumni include companies such as Freshworks, Chargebee, Juspay, Innovaccer, Capillary, Skyroot, Pixxel, Qure.ai, Addverb, Hasura, Digantara, Apna, Onsurity, and DeepSource."
         },
         {
-          "title": "Meta Muse Image: How to disable AI access to your Instagram photos",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-muse-image-how-to-disable-ai-access-to-your-instagram-photos/articleshow/132306651.cms",
-          "source": "ET Tech",
-          "summary": "Meta launched Muse Image, an AI tool for image generation and editing. This feature allows users to create images using public Instagram photos. The feature has drawn privacy concerns because public posts and reels can be used by default to generate AI images, prompting questi…"
+          "title": "India's AI workforce is growing overnight, governance is not",
+          "url": "https://yourstory.com/2026/07/indias-ai-workforce-is-growing-overnight-governance-not",
+          "source": "YourStory",
+          "summary": "For enterprises across major cities, AI agents are no longer a future ambition. They are being woven into day-to-day operations. Meanwhile, human hiring remains subject to rigorous controls: background checks, offer letters, EPFO onboarding, role definitions, and clear reporti…"
         },
         {
-          "title": "AI can't replace mental health therapists. But here's where it might make a difference",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-cant-replace-mental-health-therapists-but-heres-where-it-might-make-a-difference/articleshow/132303642.cms",
-          "source": "ET Tech",
-          "summary": "The appeal is easy to understand. Chatbots don't judge. Unlike stretched mental health services in countries such as New Zealand and Australia, they don't keep people on lengthy waiting lists."
-        },
-        {
-          "title": "Tencent in talks to become AI startup Manus' largest shareholder",
-          "url": "https://economictimes.indiatimes.com/tech/tech-bytes/tencent-in-talks-to-become-ai-startup-manus-largest-shareholder/articleshow/132302917.cms",
-          "source": "ET Tech",
-          "summary": "Tencent, together with Manus' original ​investors, including ZhenFund and HSG, are planning to buy the company back from Meta for no less than $2 billion, ‌said one of the sources and a third person ​briefed on ​the ⁠matter."
-        },
-        {
-          "title": "Adaptive Generation of Bias-Eliciting Questions for LLMs",
-          "url": "https://arxiv.org/abs/2510.12857",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2510.12857v2 Announce Type: replace-cross Abstract: Large language models (LLMs) are now widely deployed in user-facing applications, reaching hundreds of millions of users worldwide. Despite their widespread adoption, growing reliance on their outputs raises significant…"
-        },
-        {
-          "title": "Meta to begin AI chip production in September, targets 2x computing power: Report",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity-memo-shows-10779959/",
+          "title": "Apple sues OpenAI, ex-employees over alleged trade secret theft tied to hardware push",
+          "url": "https://indianexpress.com/article/technology/artificial-intelligence/apple-sues-openai-ex-employees-over-alleged-trade-secret-theft-tied-to-hardware-push-10781372/",
           "source": "Indian Express Tech",
           "summary": ""
-        },
-        {
-          "title": "SpaceX and AI startup wealth fuels demand for private jets",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/spacex-and-ai-startup-wealth-fuels-demand-for-private-jets/articleshow/132301531.cms",
-          "source": "ET Tech",
-          "summary": "The IPO of Elon Musk's ​SpaceX, whose holdings include artificial-intelligence firm xAI, raised a record $85.7 billion for the company and generated unprecedented employee and founder wealth. Next in line for potential big IPOs are AI companies Anthropic and OpenAI."
         }
       ]
     }
@@ -417,18 +363,18 @@
         "language": "JavaScript"
       },
       {
+        "name": "125M-model-base",
+        "desc": "",
+        "url": "https://github.com/Ace-2504/125M-model-base",
+        "stars": 0,
+        "language": "Python"
+      },
+      {
         "name": "ai-weekly-report",
         "desc": "My personalized AI newsletter that runs on an agentic AI",
         "url": "https://github.com/Ace-2504/ai-weekly-report",
         "stars": 0,
         "language": "HTML"
-      },
-      {
-        "name": "PROXY_SERVER",
-        "desc": "",
-        "url": "https://github.com/Ace-2504/PROXY_SERVER",
-        "stars": 0,
-        "language": "C++"
       }
     ]
   }

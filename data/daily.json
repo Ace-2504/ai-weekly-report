@@ -1,128 +1,121 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "top": {
-    "title": "Context Graphs for Proactive Enterprise Agents",
-    "url": "https://arxiv.org/abs/2607.07721",
-    "source": "arXiv cs.AI",
-    "published": "2026-07-10T04:00:00.000Z",
-    "summary": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise …"
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-10T23:55:07.000Z",
+    "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\""
   },
   "topIndia": {
-    "title": "Meta fixes smart glasses privacy issue amid ‘always-on’ AI glasses report",
-    "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-fixes-smart-glasses-privacy-issue-amid-always-on-ai-glasses-report-10780341/",
-    "source": "Indian Express Tech",
-    "published": "2026-07-10T08:59:05.000Z",
-    "summary": ""
+    "title": "Meta scraps AI image feature days after launch following privacy backlash",
+    "url": "https://economictimes.indiatimes.com/tech/technology/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash/articleshow/132323801.cms",
+    "source": "ET Tech",
+    "published": "2026-07-11T03:12:15.000Z",
+    "summary": "Meta discontinued its new AI image generation feature after significant criticism. The tool allowed image creation using public Instagram accounts without explicit user consent. Actors and a Hollywood union voiced strong objections regarding privacy concerns. Meta stated the f…"
   },
   "headlines": [
     {
-      "title": "AI-integrated models for assessing agricultural resilience",
-      "url": "https://arxiv.org/abs/2607.07759",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z"
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-10T21:00:29.000Z"
     },
     {
-      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
-      "url": "https://arxiv.org/abs/2607.07760",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z"
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-10T19:00:00.000Z"
     },
     {
-      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
-      "url": "https://arxiv.org/abs/2607.07761",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z"
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-10T17:17:12.000Z"
     },
     {
-      "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
-      "url": "https://arxiv.org/abs/2607.07766",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z"
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-10T14:00:00.000Z"
     },
     {
-      "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
-      "url": "https://arxiv.org/abs/2607.07775",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z"
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-10T00:16:54.000Z"
     },
     {
-      "title": "Infinity-Parser2 Technical Report",
-      "url": "https://arxiv.org/abs/2607.07836",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z"
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "source": "Hugging Face",
+      "published": "2026-07-10T00:00:00.000Z"
     },
     {
-      "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
-      "url": "https://arxiv.org/abs/2607.07846",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z"
+      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-09T23:38:00.000Z"
     },
     {
-      "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
-      "url": "https://arxiv.org/abs/2607.07850",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z"
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-09T22:24:24.000Z"
     },
     {
-      "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
-      "url": "https://arxiv.org/abs/2607.07858",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z"
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-09T22:08:58.000Z"
     },
     {
-      "title": "Feedback Manipulation Regularization: Enabling Offline Agent Alignment for Imitation Learning",
-      "url": "https://arxiv.org/abs/2607.07859",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z"
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-09T22:03:54.000Z"
     },
     {
-      "title": "Nigeria Machinery: A Low-Resource Industrial Dataset with a Domain-Grounded Reasoning Layer",
-      "url": "https://arxiv.org/abs/2607.07883",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z"
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-09T21:57:42.000Z"
     },
     {
-      "title": "Persona Cartography: Charting Language Model Personality Traits in Weight Space",
-      "url": "https://arxiv.org/abs/2607.07916",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z"
+      "title": "Can AI answer the $3 trillion question?",
+      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-09T21:47:50.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Meta scraps AI image feature days after launch following privacy backlash",
+      "url": "https://economictimes.indiatimes.com/tech/technology/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash/articleshow/132323801.cms",
+      "source": "ET Tech",
+      "published": "2026-07-11T03:12:15.000Z",
+      "summary": "Meta discontinued its new AI image generation feature after significant criticism. The tool allowed image creation using public Instagram accounts without explicit user consent. Actors and a Hollywood union voiced strong objections regarding privacy concerns. Meta stated the f…"
+    },
+    {
+      "title": "OpenAI Launches GPT-5.6, ChatGPT Work To Take On Claude Cowork",
+      "url": "https://inc42.com/buzz/openai-launches-gpt-5-6-chatgpt-work-to-take-on-claude-cowork-microsoft-copilot/",
+      "source": "Inc42",
+      "published": "2026-07-10T11:42:33.000Z",
+      "summary": "OpenAI has introduced GPT-5.6, its latest flagship family of AI models, alongside ChatGPT Work. The new AI-powered workspace model combines…"
+    },
+    {
+      "title": "OpenAI unveils long-awaited 'super app' as rivalry with Anthropic intensifies",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-unveils-long-awaited-super-app-as-rivalry-with-anthropic-intensifies/articleshow/132310601.cms",
+      "source": "ET Tech",
+      "published": "2026-07-10T11:28:02.000Z",
+      "summary": "OpenAI introduced ChatGPT Work, an AI agent for professionals, on Thursday. This new tool combines chatbot and coding capabilities for document creation. It utilizes the advanced GPT-5.6 model, which debuted the same day. ChatGPT Work aims to offer a more affordable and access…"
+    },
     {
       "title": "Meta Muse Image: How to disable AI access to your Instagram photos",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-muse-image-how-to-disable-ai-access-to-your-instagram-photos/articleshow/132306651.cms",
       "source": "ET Tech",
       "published": "2026-07-10T08:00:17.000Z",
       "summary": "Meta launched Muse Image, an AI tool for image generation and editing. This feature allows users to create images using public Instagram photos. The feature has drawn privacy concerns because public posts and reels can be used by default to generate AI images, prompting questi…"
-    },
-    {
-      "title": "Who Analyses the Analyser? Self-Validating LLM Hazard Analysis with Constitutional Meta-STPA",
-      "url": "https://arxiv.org/abs/2607.08054",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z",
-      "summary": "arXiv:2607.08054v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly trusted to draft the artifacts of safety analysis such as, losses, hazards, Unsafe Control Actions (UCAs), and safety constraints, inside rigorous processes such as Systems-Theoreti…"
-    },
-    {
-      "title": "MetaHGNIE: Meta-Path Induced Hypergraph Contrastive Learning in Heterogeneous Knowledge Graphs",
-      "url": "https://arxiv.org/abs/2512.12477",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z",
-      "summary": "arXiv:2512.12477v2 Announce Type: replace Abstract: Estimating node importance in heterogeneous knowledge graphs is a fundamental problem underlying recommendation, search, and knowledge decision systems. However, most existing methods rely on pairwise message passing mechanis…"
-    },
-    {
-      "title": "From Application-Layer Simulation to Native Meta-Architecture: Structural Tension as an Endogenous Driver for Heterogeneous AI Evolution",
-      "url": "https://arxiv.org/abs/2607.06269",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z",
-      "summary": "arXiv:2607.06269v2 Announce Type: replace Abstract: Current large language models (LLMs) are stateless across inference sessions: their behavior is fully determined by input at inference time, and any higher-order cognitive architecture must be simulated at the application lay…"
-    },
-    {
-      "title": "The Contribution of XAI for the Safe Development and Certification of AI: An Expert-Based Analysis",
-      "url": "https://arxiv.org/abs/2408.02379",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-10T04:00:00.000Z",
-      "summary": "arXiv:2408.02379v2 Announce Type: replace-cross Abstract: Developing and certifying safe - or so-called trustworthy - AI has become an increasingly salient issue, especially in light of upcoming regulation such as the EU AI Act. In this context, the black-box nature of machine…"
     },
     {
       "title": "OpenAI debuts GPT-5.6 and ChatGPT Work to bring AI agents into the workplace",
@@ -144,6 +137,13 @@
       "source": "ET Tech",
       "published": "2026-07-09T17:18:49.000Z",
       "summary": "OpenAI ​on ​Thursday unveiled ChatGPT ‌Work, ⁠an ⁠agent ​in its popular ​chatbot designed ​to ⁠execute tasks ‌across ​different ​applications ⁠and files, ​marking the ​startup's latest push ‌into workplace ​automation."
+    },
+    {
+      "title": "Meta debuts Muse Spark 1.1 with preview open to developers",
+      "url": "https://economictimes.indiatimes.com/tech/technology/meta-debuts-muse-spark-1-1-with-preview-open-to-developers/articleshow/132291395.cms",
+      "source": "ET Tech",
+      "published": "2026-07-09T15:42:43.000Z",
+      "summary": "The social media giant touted Muse Spark 1.1 as its most capable model for real-world coding and agentic tasks, part of ‌a broader ⁠mission the ⁠company is pitching of delivering \"personal superintelligence.\""
     }
   ],
   "people": [
