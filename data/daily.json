@@ -1,20 +1,26 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "top": {
-    "title": "Meta removes controversial AI feature on Instagram after backlash",
-    "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
     "source": "TechCrunch AI",
-    "published": "2026-07-10T23:55:07.000Z",
-    "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\""
+    "published": "2026-07-11T14:13:00.000Z",
+    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting."
   },
   "topIndia": {
-    "title": "Meta scraps AI image feature days after launch following privacy backlash",
-    "url": "https://economictimes.indiatimes.com/tech/technology/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash/articleshow/132323801.cms",
-    "source": "ET Tech",
-    "published": "2026-07-11T03:12:15.000Z",
-    "summary": "Meta discontinued its new AI image generation feature after significant criticism. The tool allowed image creation using public Instagram accounts without explicit user consent. Actors and a Hollywood union voiced strong objections regarding privacy concerns. Meta stated the f…"
+    "title": "How Apple, OpenAI went from working together on AI to fighting over trade secrets",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/apple-openai-lawsuit-ai-device-trade-secrets-allegations-10782909/",
+    "source": "Indian Express Tech",
+    "published": "2026-07-12T07:31:28.000Z",
+    "summary": ""
   },
   "headlines": [
+    {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-10T23:55:07.000Z"
+    },
     {
       "title": "Apple sues OpenAI over alleged trade secret theft",
       "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
@@ -38,54 +44,6 @@
       "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
       "source": "TechCrunch AI",
       "published": "2026-07-10T14:00:00.000Z"
-    },
-    {
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-10T00:16:54.000Z"
-    },
-    {
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "url": "https://huggingface.co/blog/torch-attention-profile",
-      "source": "Hugging Face",
-      "published": "2026-07-10T00:00:00.000Z"
-    },
-    {
-      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
-      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-09T23:38:00.000Z"
-    },
-    {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-09T22:24:24.000Z"
-    },
-    {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-09T22:08:58.000Z"
-    },
-    {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-09T22:03:54.000Z"
-    },
-    {
-      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-09T21:57:42.000Z"
-    },
-    {
-      "title": "Can AI answer the $3 trillion question?",
-      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-09T21:47:50.000Z"
     }
   ],
   "events": [
@@ -94,7 +52,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash/articleshow/132323801.cms",
       "source": "ET Tech",
       "published": "2026-07-11T03:12:15.000Z",
-      "summary": "Meta discontinued its new AI image generation feature after significant criticism. The tool allowed image creation using public Instagram accounts without explicit user consent. Actors and a Hollywood union voiced strong objections regarding privacy concerns. Meta stated the f…"
+      "summary": "Meta withdrew its new AI image generation feature after significant criticism. Meta's Muse image model provides a feature that lets users generate and edit images using natural language prompts like most AI image generators. However, it drew major criticism from privacy advoca…"
     },
     {
       "title": "OpenAI Launches GPT-5.6, ChatGPT Work To Take On Claude Cowork",
@@ -132,27 +90,27 @@
       "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity."
     },
     {
-      "title": "OpenAI launches ChatGPT Work, adding to competition for professional AI tools",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-chatgpt-work/articleshow/132294691.cms",
-      "source": "ET Tech",
-      "published": "2026-07-09T17:18:49.000Z",
-      "summary": "OpenAI ​on ​Thursday unveiled ChatGPT ‌Work, ⁠an ⁠agent ​in its popular ​chatbot designed ​to ⁠execute tasks ‌across ​different ​applications ⁠and files, ​marking the ​startup's latest push ‌into workplace ​automation."
+      "title": "Google launches AI agent within Search ads in India, expands Gemini-powered ad tools",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-launches-ai-agent-search-ads-india-gemini-10778840/",
+      "source": "Indian Express Tech",
+      "published": "2026-07-09T10:24:28.000Z",
+      "summary": ""
     },
     {
-      "title": "Meta debuts Muse Spark 1.1 with preview open to developers",
-      "url": "https://economictimes.indiatimes.com/tech/technology/meta-debuts-muse-spark-1-1-with-preview-open-to-developers/articleshow/132291395.cms",
-      "source": "ET Tech",
-      "published": "2026-07-09T15:42:43.000Z",
-      "summary": "The social media giant touted Muse Spark 1.1 as its most capable model for real-world coding and agentic tasks, part of ‌a broader ⁠mission the ⁠company is pitching of delivering \"personal superintelligence.\""
+      "title": "OpenAI set to launch most capable GPT model after delayed rollout",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-set-to-launch-most-capable-gpt-model-after-delayed-rollout-10777778/",
+      "source": "Indian Express Tech",
+      "published": "2026-07-08T14:02:35.000Z",
+      "summary": ""
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altman-says-openai-made-many-changes-during-talks-with-us/articleshow/132291904.cms",
-      "article": "Sam Altman says OpenAI made ‘many changes’ during talks with US",
-      "source": "ET Tech"
+      "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "article": "Your family’s $300 stake in OpenAI",
+      "source": "MIT Tech Review"
     },
     {
       "name": "Demis Hassabis",

@@ -1,0 +1,548 @@
+{
+  "daily": {
+    "date": "2026-07-12",
+    "top": {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-11T14:13:00.000Z",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting."
+    },
+    "topIndia": {
+      "title": "How Apple, OpenAI went from working together on AI to fighting over trade secrets",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/apple-openai-lawsuit-ai-device-trade-secrets-allegations-10782909/",
+      "source": "Indian Express Tech",
+      "published": "2026-07-12T07:31:28.000Z",
+      "summary": ""
+    },
+    "headlines": [
+      {
+        "title": "Meta removes controversial AI feature on Instagram after backlash",
+        "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-10T23:55:07.000Z"
+      },
+      {
+        "title": "Apple sues OpenAI over alleged trade secret theft",
+        "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-10T21:00:29.000Z"
+      },
+      {
+        "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+        "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-10T19:00:00.000Z"
+      },
+      {
+        "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+        "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-10T17:17:12.000Z"
+      },
+      {
+        "title": "Hugging Face’s CEO on why companies are done renting their AI",
+        "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-10T14:00:00.000Z"
+      }
+    ],
+    "events": [
+      {
+        "title": "Meta scraps AI image feature days after launch following privacy backlash",
+        "url": "https://economictimes.indiatimes.com/tech/technology/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash/articleshow/132323801.cms",
+        "source": "ET Tech",
+        "published": "2026-07-11T03:12:15.000Z",
+        "summary": "Meta withdrew its new AI image generation feature after significant criticism. Meta's Muse image model provides a feature that lets users generate and edit images using natural language prompts like most AI image generators. However, it drew major criticism from privacy advoca…"
+      },
+      {
+        "title": "OpenAI Launches GPT-5.6, ChatGPT Work To Take On Claude Cowork",
+        "url": "https://inc42.com/buzz/openai-launches-gpt-5-6-chatgpt-work-to-take-on-claude-cowork-microsoft-copilot/",
+        "source": "Inc42",
+        "published": "2026-07-10T11:42:33.000Z",
+        "summary": "OpenAI has introduced GPT-5.6, its latest flagship family of AI models, alongside ChatGPT Work. The new AI-powered workspace model combines…"
+      },
+      {
+        "title": "OpenAI unveils long-awaited 'super app' as rivalry with Anthropic intensifies",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-unveils-long-awaited-super-app-as-rivalry-with-anthropic-intensifies/articleshow/132310601.cms",
+        "source": "ET Tech",
+        "published": "2026-07-10T11:28:02.000Z",
+        "summary": "OpenAI introduced ChatGPT Work, an AI agent for professionals, on Thursday. This new tool combines chatbot and coding capabilities for document creation. It utilizes the advanced GPT-5.6 model, which debuted the same day. ChatGPT Work aims to offer a more affordable and access…"
+      },
+      {
+        "title": "Meta Muse Image: How to disable AI access to your Instagram photos",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-muse-image-how-to-disable-ai-access-to-your-instagram-photos/articleshow/132306651.cms",
+        "source": "ET Tech",
+        "published": "2026-07-10T08:00:17.000Z",
+        "summary": "Meta launched Muse Image, an AI tool for image generation and editing. This feature allows users to create images using public Instagram photos. The feature has drawn privacy concerns because public posts and reels can be used by default to generate AI images, prompting questi…"
+      },
+      {
+        "title": "OpenAI debuts GPT-5.6 and ChatGPT Work to bring AI agents into the workplace",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-5-6-chatgpt-work-ai-agents-productivity-10779911/",
+        "source": "Indian Express Tech",
+        "published": "2026-07-10T02:41:38.000Z",
+        "summary": ""
+      },
+      {
+        "title": "OpenAI launches its new family of models with GPT-5.6",
+        "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-09T22:24:24.000Z",
+        "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity."
+      },
+      {
+        "title": "Google launches AI agent within Search ads in India, expands Gemini-powered ad tools",
+        "url": "https://indianexpress.com/article/technology/tech-news-technology/google-launches-ai-agent-search-ads-india-gemini-10778840/",
+        "source": "Indian Express Tech",
+        "published": "2026-07-09T10:24:28.000Z",
+        "summary": ""
+      },
+      {
+        "title": "OpenAI set to launch most capable GPT model after delayed rollout",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-set-to-launch-most-capable-gpt-model-after-delayed-rollout-10777778/",
+        "source": "Indian Express Tech",
+        "published": "2026-07-08T14:02:35.000Z",
+        "summary": ""
+      }
+    ],
+    "people": [
+      {
+        "name": "Sam Altman",
+        "org": "OpenAI",
+        "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+        "article": "Your family’s $300 stake in OpenAI",
+        "source": "MIT Tech Review"
+      },
+      {
+        "name": "Demis Hassabis",
+        "org": "Google DeepMind",
+        "link": "https://x.com/demishassabis",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Dario Amodei",
+        "org": "Anthropic",
+        "link": "https://www.darioamodei.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Yann LeCun",
+        "org": "Meta · world models",
+        "link": "https://x.com/ylecun",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Jensen Huang",
+        "org": "NVIDIA",
+        "link": "https://nvidianews.nvidia.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Andrej Karpathy",
+        "org": "AI educator",
+        "link": "https://karpathy.ai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Sundar Pichai",
+        "org": "Google",
+        "link": "https://x.com/sundarpichai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Mira Murati",
+        "org": "Thinking Machines",
+        "link": "https://x.com/miramurati",
+        "article": null,
+        "source": "Profile"
+      }
+    ]
+  },
+  "weekly": {
+    "weekOf": "2026-07-06 to 2026-07-12",
+    "generated": "2026-07-12T07:57:57.439Z",
+    "intro": "99 AI items this week (65 India-relevant) across 9 sources.",
+    "sections": [
+      {
+        "heading": "Large Language Models",
+        "items": [
+          {
+            "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+            "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+            "source": "TechCrunch AI",
+            "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps."
+          },
+          {
+            "title": "OpenAI launches its new family of models with GPT-5.6",
+            "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+            "source": "TechCrunch AI",
+            "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity."
+          },
+          {
+            "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+            "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+            "source": "MIT Tech Review",
+            "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company b…"
+          },
+          {
+            "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+            "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+            "source": "TechCrunch AI",
+            "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\""
+          },
+          {
+            "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+            "source": "Google AI Blog",
+            "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
+          }
+        ]
+      },
+      {
+        "heading": "Multimodal & Media",
+        "items": [
+          {
+            "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+            "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+            "source": "TechCrunch AI",
+            "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\""
+          },
+          {
+            "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+            "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+            "source": "TechCrunch AI",
+            "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation."
+          }
+        ]
+      },
+      {
+        "heading": "Developer Tools & Agents",
+        "items": [
+          {
+            "title": "Meta removes controversial AI feature on Instagram after backlash",
+            "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+            "source": "TechCrunch AI",
+            "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\""
+          },
+          {
+            "title": "An AI agent startup just let its agent run its $100M fundraise",
+            "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+            "source": "TechCrunch AI",
+            "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works."
+          },
+          {
+            "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+            "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+            "source": "TechCrunch AI",
+            "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide."
+          }
+        ]
+      },
+      {
+        "heading": "Open Source",
+        "items": [
+          {
+            "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+            "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+            "source": "TechCrunch AI",
+            "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the…"
+          },
+          {
+            "title": "Hugging Face’s CEO on why companies are done renting their AI",
+            "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+            "source": "TechCrunch AI",
+            "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the…"
+          },
+          {
+            "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+            "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+            "source": "Hugging Face",
+            "summary": ""
+          },
+          {
+            "title": "Hugging Face Models on Foundry Managed Compute",
+            "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+            "source": "Hugging Face",
+            "summary": ""
+          },
+          {
+            "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+            "url": "https://huggingface.co/blog/skypilot-hf-storage",
+            "source": "Hugging Face",
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "heading": "Industry & Research",
+        "items": [
+          {
+            "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+            "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+            "source": "TechCrunch AI",
+            "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting."
+          },
+          {
+            "title": "Apple sues OpenAI over alleged trade secret theft",
+            "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+            "source": "TechCrunch AI",
+            "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
+          },
+          {
+            "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+            "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+            "source": "TechCrunch AI",
+            "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories."
+          },
+          {
+            "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+            "url": "https://huggingface.co/blog/torch-attention-profile",
+            "source": "Hugging Face",
+            "summary": ""
+          },
+          {
+            "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
+            "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+            "source": "TechCrunch AI",
+            "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market."
+          },
+          {
+            "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+            "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+            "source": "TechCrunch AI",
+            "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension."
+          }
+        ]
+      },
+      {
+        "heading": "India & Subcontinent",
+        "items": [
+          {
+            "title": "How Apple, OpenAI went from working together on AI to fighting over trade secrets",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/apple-openai-lawsuit-ai-device-trade-secrets-allegations-10782909/",
+            "source": "Indian Express Tech",
+            "summary": ""
+          },
+          {
+            "title": "India's MSMEs power the economy, but most still aren't using AI",
+            "url": "https://yourstory.com/2026/07/fynd-ragini-varma-ai-for-msmes-autonomous-retail-msme-sparks-2026",
+            "source": "YourStory",
+            "summary": "Fynd's Ragini Varma explains how AI can help India's MSMEs automate retail operations, improve efficiency, and grow without adding staff."
+          },
+          {
+            "title": "Unicorn Founders Go AI Native",
+            "url": "https://inc42.com/features/unicorn-founders-go-ai-native/",
+            "source": "Inc42",
+            "summary": "“Not using AI is like being left behind,” Apple CEO Tim Cook’s remark captures the urgency around artificial intelligence today…"
+          },
+          {
+            "title": "How terrorist groups are using AI to gain an edge in battle",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/how-terrorist-groups-are-using-ai-to-gain-an-edge-in-battle-10782691/",
+            "source": "Indian Express Tech",
+            "summary": ""
+          },
+          {
+            "title": "Health, AI, energy: Test your business creativity with Edition 240 of our weekly quiz!",
+            "url": "https://yourstory.com/2026/07/health-ai-energy-entrepreneur-quiz-education",
+            "source": "YourStory",
+            "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 240th quiz. Ready?"
+          },
+          {
+            "title": "LTM profit jumps 17% to Rs 1,468 crore in April-June quarter",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/ltm-profit-jumps-17-to-rs-1468-crore-in-april-june-quarter/articleshow/132333081.cms",
+            "source": "ET Tech",
+            "summary": "LTM chief executive Venu Lambu declared AI revenue separately for the first time in the earnings call, at $150 million for the quarter, in addition to announcing the completed transition to outcome-based pricing across its top 10 clients. The deal flow remained steady on a qua…"
+          },
+          {
+            "title": "Exclusive: GoKwik Lays Off Around 120 Employees Amid AI Push",
+            "url": "https://inc42.com/buzz/exclusive-gokwik-lays-off-around-120-employees-amid-ai-push/",
+            "source": "Inc42",
+            "summary": "Ecommerce enabler GoKwik has fired 100-120 employees as part of a restructuring exercise carried out over the past few weeks,…"
+          },
+          {
+            "title": "India to augment AI compute capacity: Ashwini Vaishnaw",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-to-augment-ai-compute-capacity-ashwini-vaishnaw/articleshow/132332909.cms",
+            "source": "ET Tech",
+            "summary": "Vaishnaw said rapid advances in AI are reshaping the global technology landscape and require continuous learning and innovation. He urged the IT industry to seize the opportunity by developing next-generation technology solutions and strengthening India's position as a global …"
+          }
+        ]
+      }
+    ],
+    "careers": {
+      "note": "Demand snapshot for 2026. ML Engineer is the most in-demand AI title; agentic-AI and deep-learning skills carry the highest pay premiums; Python + one cloud is the baseline. Specialisation beats generalisation for freshers.",
+      "paths": [
+        {
+          "field": "Machine Learning Engineering",
+          "demand": "Very high",
+          "note": "#1 AI title — build, deploy & maintain models in production. Best all-round entry into AI."
+        },
+        {
+          "field": "AI / Agent Engineering (LLM apps)",
+          "demand": "Surging",
+          "note": "RAG, tool-use & multi-agent systems. ~40% of enterprise apps will embed AI agents by year-end."
+        },
+        {
+          "field": "Deep Learning / Research",
+          "demand": "High (premium pay)",
+          "note": "Neural nets for vision & speech. Highest premiums; usually needs strong maths / grad study."
+        },
+        {
+          "field": "MLOps / AI Infrastructure",
+          "demand": "High",
+          "note": "Ship & scale models on the cloud. Cloud AI certs add 20–25% to salary."
+        },
+        {
+          "field": "Data Science / Analytics",
+          "demand": "Steady",
+          "note": "Foundational, widest entry door; a reliable first step into AI."
+        },
+        {
+          "field": "Computer Vision",
+          "demand": "High",
+          "note": "Imaging, robotics, autonomous systems, medical AI."
+        },
+        {
+          "field": "NLP / LLM Engineering",
+          "demand": "Very high",
+          "note": "Powers chatbots, search & agents — the hottest application area."
+        },
+        {
+          "field": "AI Product / Solutions Architect",
+          "demand": "High (senior)",
+          "note": "5–8 yrs experience; $140k–$332k bands. Translates AI into business value."
+        },
+        {
+          "field": "AI Safety / Governance",
+          "demand": "Growing",
+          "note": "Alignment, evals, red-teaming & policy — newer but expanding fast."
+        }
+      ],
+      "fresher": [
+        {
+          "skill": "Python (NumPy, Pandas)",
+          "why": "The lingua franca of ML — non-negotiable."
+        },
+        {
+          "skill": "Maths foundations",
+          "why": "Linear algebra, probability & calculus — enough to reason about models."
+        },
+        {
+          "skill": "Core ML (scikit-learn)",
+          "why": "Regression, classification, evaluation, the ML workflow."
+        },
+        {
+          "skill": "One deep-learning framework (PyTorch)",
+          "why": "Build & train neural nets; PyTorch dominates research & jobs."
+        },
+        {
+          "skill": "LLMs: prompting + RAG basics",
+          "why": "Ship a small LLM app — the most visible skill to recruiters now."
+        },
+        {
+          "skill": "SQL + data wrangling",
+          "why": "Real AI work is mostly data; SQL is everywhere."
+        },
+        {
+          "skill": "One cloud + Git/GitHub",
+          "why": "AWS leads (~40% of postings), then Azure & GCP. Version everything."
+        },
+        {
+          "skill": "Ship a portfolio project",
+          "why": "A deployed project that solves a real problem is the #1 differentiator."
+        }
+      ],
+      "experienced": [
+        {
+          "skill": "MLOps & deployment",
+          "why": "Docker, CI/CD, monitoring, model/versioning — production is where value lives."
+        },
+        {
+          "skill": "Agentic system design",
+          "why": "Multi-agent orchestration, tool-use, evals — the surging frontier."
+        },
+        {
+          "skill": "Cloud AI at scale",
+          "why": "AWS/Azure/GCP architecture; certs add a 20–25% salary premium."
+        },
+        {
+          "skill": "LLM fine-tuning & evals",
+          "why": "Adapt, measure and harden models for a domain."
+        },
+        {
+          "skill": "Distributed training / GPU optimisation",
+          "why": "Cost & latency engineering for large models."
+        },
+        {
+          "skill": "ML system design",
+          "why": "Trade-offs across data, latency, cost & reliability at scale."
+        },
+        {
+          "skill": "Domain specialisation",
+          "why": "CV, NLP, recsys, healthcare — depth beats breadth at senior levels."
+        },
+        {
+          "skill": "AI → business translation",
+          "why": "Leading teams and tying models to measurable outcomes."
+        }
+      ]
+    },
+    "profile": {
+      "name": "Harman Singh Sandhu",
+      "handle": "Ace",
+      "blurb": "I build AI/ML projects and write about them. This site is one of them — an automated daily AI digest.",
+      "linkedin": "https://www.linkedin.com/in/harman-singh-sandhu/",
+      "github": "https://github.com/Ace-2504",
+      "devto": "https://dev.to/ace2504",
+      "repos": [
+        {
+          "name": "Ace-2504",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/Ace-2504",
+          "stars": 1,
+          "language": ""
+        },
+        {
+          "name": "serenity",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/serenity",
+          "stars": 1,
+          "language": "TypeScript"
+        },
+        {
+          "name": "A-360",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/A-360",
+          "stars": 1,
+          "language": "EJS"
+        },
+        {
+          "name": "Ace-rentals",
+          "desc": "Ace Rentals: A full-stack property rental platform built with Node.js, Express, and MongoDB. Features user authentication, image uploads, geocoding, reviews, and secure account management. Inspired by Airbnb.",
+          "url": "https://github.com/Ace-2504/Ace-rentals",
+          "stars": 1,
+          "language": "JavaScript"
+        },
+        {
+          "name": "slm-125m-observations",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/slm-125m-observations",
+          "stars": 0,
+          "language": "HTML"
+        },
+        {
+          "name": "125M-model-base",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/125M-model-base",
+          "stars": 0,
+          "language": "Python"
+        }
+      ]
+    }
+  }
+}
