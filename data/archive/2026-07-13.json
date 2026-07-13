@@ -9,11 +9,11 @@
       "summary": "arXiv:2607.08773v1 Announce Type: new Abstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In particular, we show that the adversarial robustness problem can be reduced to a lattice traversal …"
     },
     "topIndia": {
-      "title": "Meta reply to Govt notice on CSAM ads recd; appropriate action after examination: IT Secretary",
-      "url": "https://economictimes.indiatimes.com/tech/technology/meta-reply-to-govt-notice-on-csam-ads-recd-appropriate-action-after-examination-it-secretary/articleshow/132360681.cms",
+      "title": "White House to rally utilities, data centers over AI power costs",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-to-rally-utilities-data-centers-over-ai-power-costs/articleshow/132363412.cms",
       "source": "ET Tech",
-      "published": "2026-07-13T08:02:22.000Z",
-      "summary": "Meity has received Meta's response regarding child sexual abuse material ads. The IT Ministry is currently examining the company's detailed explanation. Meta previously outlined its AI-powered efforts to combat such harmful content. The government had issued a stern notice dem…"
+      "published": "2026-07-13T10:11:46.000Z",
+      "summary": "The White House plans a voluntary pledge for utility companies and data centers. This initiative aims to manage AI's growing electricity demand without raising consumer costs. Several major tech firms previously signed a similar pledge to fund infrastructure. The new event wil…"
     },
     "headlines": [
       {
@@ -98,13 +98,6 @@
         "summary": "Meta withdrew its new AI image generation feature after significant criticism. Meta's Muse image model provides a feature that lets users generate and edit images using natural language prompts like most AI image generators. However, it drew major criticism from privacy advoca…"
       },
       {
-        "title": "OpenAI unveils long-awaited 'super app' as rivalry with Anthropic intensifies",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-unveils-long-awaited-super-app-as-rivalry-with-anthropic-intensifies/articleshow/132310601.cms",
-        "source": "ET Tech",
-        "published": "2026-07-10T11:28:02.000Z",
-        "summary": "OpenAI introduced ChatGPT Work, an AI agent for professionals, on Thursday. This new tool combines chatbot and coding capabilities for document creation. It utilizes the advanced GPT-5.6 model, which debuted the same day. ChatGPT Work aims to offer a more affordable and access…"
-      },
-      {
         "title": "OpenAI debuts GPT-5.6 and ChatGPT Work to bring AI agents into the workplace",
         "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-5-6-chatgpt-work-ai-agents-productivity-10779911/",
         "source": "Indian Express Tech",
@@ -144,6 +137,13 @@
         "url": "https://indianexpress.com/article/technology/tech-news-technology/google-pixel-11-launch-on-august-12-expected-specs-ai-features-pixel-11-pro-fold-10777647/",
         "source": "Indian Express Tech",
         "published": "2026-07-08T12:53:16.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Meta launches Muse Image AI generator, but users are already raising privacy concerns",
+        "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-launches-muse-image-ai-generator-but-users-are-already-raising-privacy-concerns-10777054/",
+        "source": "Indian Express Tech",
+        "published": "2026-07-08T08:09:27.000Z",
         "summary": ""
       }
     ],
@@ -208,8 +208,8 @@
   },
   "weekly": {
     "weekOf": "2026-07-07 to 2026-07-13",
-    "generated": "2026-07-13T08:46:44.263Z",
-    "intro": "276 AI items this week (68 India-relevant) across 10 sources.",
+    "generated": "2026-07-13T10:15:30.241Z",
+    "intro": "275 AI items this week (67 India-relevant) across 10 sources.",
     "sections": [
       {
         "heading": "Large Language Models",
@@ -420,7 +420,19 @@
         "heading": "India & Subcontinent",
         "items": [
           {
-            "title": "Meta reply to Govt notice on CSAM ads recd; appropriate action after examination: IT Secretary",
+            "title": "White House to rally utilities, data centers over AI power costs",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-to-rally-utilities-data-centers-over-ai-power-costs/articleshow/132363412.cms",
+            "source": "ET Tech",
+            "summary": "The White House plans a voluntary pledge for utility companies and data centers. This initiative aims to manage AI's growing electricity demand without raising consumer costs. Several major tech firms previously signed a similar pledge to fund infrastructure. The new event wil…"
+          },
+          {
+            "title": "Meta expands Louisiana data center to 5 gigawatts compute capacity",
+            "url": "https://economictimes.indiatimes.com/tech/technology/meta-expands-louisiana-data-center-to-5-gigawatts-compute-capacity/articleshow/132363303.cms",
+            "source": "ET Tech",
+            "summary": "Meta plans a significant expansion of its Louisiana data center to five gigawatts. This major investment will support the company's growing artificial intelligence ambitions. Local businesses have already secured over $1.6 billion in contracts from Meta's project. The company …"
+          },
+          {
+            "title": "Meta reply to Government notice on CSAM ads received; appropriate action after examination: IT Secretary",
             "url": "https://economictimes.indiatimes.com/tech/technology/meta-reply-to-govt-notice-on-csam-ads-recd-appropriate-action-after-examination-it-secretary/articleshow/132360681.cms",
             "source": "ET Tech",
             "summary": "Meity has received Meta's response regarding child sexual abuse material ads. The IT Ministry is currently examining the company's detailed explanation. Meta previously outlined its AI-powered efforts to combat such harmful content. The government had issued a stern notice dem…"
@@ -454,18 +466,6 @@
             "url": "https://economictimes.indiatimes.com/tech/information-tech/tcs-bags-multi-million-contract-from-industrial-giant-abb/articleshow/132359331.cms",
             "source": "ET Tech",
             "summary": "Tata Consultancy Services has secured a significant contract from ABB. The Indian firm will manage ABB's global network ecosystem using AI. This deal also includes robust cybersecurity offerings for infrastructure protection. The contract extends a long-standing partnership be…"
-          },
-          {
-            "title": "‘Paying for intelligence twice’: Satya Nadella warns firms over hidden cost of AI adoption",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-satya-nadella-reverse-information-paradox-enterprise-ai-adoption-10784010/",
-            "source": "Indian Express Tech",
-            "summary": ""
-          },
-          {
-            "title": "AI, Iran war risks weigh on Indian IT firms’ earnings outlook",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-iran-war-risks-weigh-on-indian-it-firms-earnings-outlook/articleshow/132358930.cms",
-            "source": "ET Tech",
-            "summary": "Indian IT companies like HCL Technologies and Wipro are reporting earnings amid AI concerns. Macroeconomic uncertainty and Middle East conflict add pressure to the sector. Taiwan Semiconductor Manufacturing Company's results will offer a key reality check for the AI boom. Tech…"
           }
         ]
       }
@@ -625,16 +625,16 @@
           "language": "JavaScript"
         },
         {
+          "name": "fine-tuned-125m-slm",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/fine-tuned-125m-slm",
+          "stars": 0,
+          "language": "Python"
+        },
+        {
           "name": "ai-weekly-report",
           "desc": "My personalized AI newsletter that runs on an agentic AI",
           "url": "https://github.com/Ace-2504/ai-weekly-report",
-          "stars": 0,
-          "language": "HTML"
-        },
-        {
-          "name": "slm-125m-observations",
-          "desc": "",
-          "url": "https://github.com/Ace-2504/slm-125m-observations",
           "stars": 0,
           "language": "HTML"
         }
