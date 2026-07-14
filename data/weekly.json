@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-07-07 to 2026-07-13",
-  "generated": "2026-07-13T10:15:30.241Z",
-  "intro": "275 AI items this week (67 India-relevant) across 10 sources.",
+  "weekOf": "2026-07-08 to 2026-07-14",
+  "generated": "2026-07-14T07:46:01.887Z",
+  "intro": "582 AI items this week (69 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
-          "url": "https://arxiv.org/abs/2607.08774",
+          "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+          "url": "https://arxiv.org/abs/2607.09664",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08774v1 Announce Type: new Abstract: Reliability in large language model (LLM) systems is typically framed as a function of model capability. We challenge this by demonstrating that reliability is significantly influenced by \\emph{inference-time control} -- the comp…"
+          "summary": "arXiv:2607.09664v1 Announce Type: new Abstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin model of argumentation. This model consists of a claim, grounds, warrant, qualifier, rebuttal, and…"
         },
         {
-          "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
-          "url": "https://arxiv.org/abs/2607.08894",
+          "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+          "url": "https://arxiv.org/abs/2607.09665",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08894v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and ReAct rely heavily on LLM inference during planning, leading to high computatio…"
+          "summary": "arXiv:2607.09665v1 Announce Type: new Abstract: Prompt wrappers often differ only in formatting, yet they can change model scores enough to flip leaderboard conclusions. We study this variance under a token-controlled protocol and introduce two complementary metrics: the Forma…"
         },
         {
-          "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
-          "url": "https://arxiv.org/abs/2607.09076",
+          "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+          "url": "https://arxiv.org/abs/2607.09678",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09076v1 Announce Type: new Abstract: Cyberattacks on operational technology are increasingly causing costly downtime and physical damage, exposing the limitations of traditional rule-based monitoring in industrial IoT environments. While Large Language Models (LLMs)…"
+          "summary": "arXiv:2607.09678v1 Announce Type: new Abstract: When LLM agents hand off information to one another, does the message format matter? Two literatures disagree: format-optimization work reports that structured messages cut cost without hurting accuracy, while format-restriction …"
         },
         {
-          "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
-          "url": "https://arxiv.org/abs/2607.09153",
+          "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
+          "url": "https://arxiv.org/abs/2607.09706",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09153v1 Announce Type: new Abstract: Process Reward Models (PRMs) have been proven to be highly effective in guiding test-time scaling (TTS) methods, which significantly boost the capabilities of LLM-based multi-agent systems. However, existing PRMs are text-based: …"
+          "summary": "arXiv:2607.09706v1 Announce Type: new Abstract: Language models turn a worded situation into a numeric plan, and the dominant pipelines (NL4Opt, OptiMUS, ORLM, OR-LLM-Agent) commit to a single objective and point-valued coefficients, then solve once. For decisions that allocat…"
         },
         {
-          "title": "Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift",
-          "url": "https://arxiv.org/abs/2607.09175",
+          "title": "Coresets Before Score Sets: Evaluation-Unsupervised Prompt Subset Selection for LLM Benchmarks",
+          "url": "https://arxiv.org/abs/2607.09739",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09175v1 Announce Type: new Abstract: Deployed LLM agents rely on agentic context, the model-external textual control content assembled by an operational harness. In this work, the mutable component of that context is a persistent system-level instruction that is upd…"
+          "summary": "arXiv:2607.09739v1 Announce Type: new Abstract: We study LLM benchmark coreset selection: selecting a small subset of prompts over multiple benchmarks whose induced model scores and rankings approximate those obtained from the full benchmark suite. In evaluation-unsupervised b…"
         },
         {
-          "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
-          "url": "https://arxiv.org/abs/2607.09195",
+          "title": "Scaffolding the Strategist: Architecture-Dependent Reasoning Interventions in Hotelling Spatial Markets",
+          "url": "https://arxiv.org/abs/2607.09743",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09195v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly expected to play a central role in AI-driven scientific discovery. Equipped with broad knowledge, flexible reasoning, and tool use, they have the potential to autonomously explor…"
+          "summary": "arXiv:2607.09743v1 Announce Type: new Abstract: We investigate whether structured reasoning interventions improve the strategic economic reasoning of large language models, and whether their effects depend on model architecture. Using Hotelling's linear city model as a diagnos…"
         }
       ]
     },
@@ -48,40 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
-          "url": "https://arxiv.org/abs/2607.09142",
+          "title": "EvoCUA-1.5: Online Reinforcement Learning for Multi-turn Computer-Use Agents",
+          "url": "https://arxiv.org/abs/2607.09773",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09142v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in online medical consultation, yet existing benchmarks remain poorly aligned with real clinical practice. Many rely on synthetic conversations or patient simulators, omit pa…"
+          "summary": "arXiv:2607.09773v1 Announce Type: new Abstract: Computer-use agents must solve long-horizon tasks through repeated interaction with partially observable, multimodal desktop environments. Although imitation learning and offline trajectory refinement provide strong priors, stati…"
         },
         {
-          "title": "Multimodal Reward Hacking in Reinforcement Learning",
-          "url": "https://arxiv.org/abs/2607.09492",
+          "title": "From Patterns to Maze Structures: SMT-Based Path Synthesis and 2D/3D Construction",
+          "url": "https://arxiv.org/abs/2607.09781",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09492v1 Announce Type: new Abstract: Reinforcement learning (RL) is increasingly used to align multimodal large language models (MLLMs), but higher rewards do not always imply better task performance. This risk is amplified when visual evidence is evaluated by text-…"
+          "summary": "arXiv:2607.09781v1 Announce Type: new Abstract: We present a pipeline for constructing maze structures from input patterns such as text or shapes. The central path-synthesis problem is encoded in Satisfiability Modulo Theories as global constraints on adjacency, continuity, an…"
         },
         {
-          "title": "SAGEAgent: A Self-Evolving Agent for Cost-Aware Modality Acquisition in Multimodal Survival Prediction",
-          "url": "https://arxiv.org/abs/2607.09521",
+          "title": "MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation",
+          "url": "https://arxiv.org/abs/2607.10079",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09521v1 Announce Type: new Abstract: Does every cancer patient truly need a complete diagnostic workup for accurate survival prediction? In multimodal clinical oncology, diagnostic modalities follow a clinically mandated order of escalating burden -- from demographi…"
+          "summary": "arXiv:2607.10079v1 Announce Type: new Abstract: Digital Adoption Platforms (DAPs) are embedded overlays widely used on web systems to guide users through operations inside a page, helping them get started with unfamiliar interfaces quickly. Completing a real task, however, rar…"
         },
         {
-          "title": "Multi-Conditioned Diffusion Synthesis of Sand Boils for Low-Resource Earthen-Levee Inspection",
-          "url": "https://arxiv.org/abs/2607.08794",
+          "title": "UNIT: Unleash Large Language Models Potential for Graph Continual Learning",
+          "url": "https://arxiv.org/abs/2607.10159",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08794v1 Announce Type: cross Abstract: Sand boils on earthen levees are safety-critical defects, but pixel-level detection is limited by scarce annotations. We present a diffusion-based synthesis pipeline for low-resource sand-boil imagery. Using Stable Diffusion XL…"
+          "summary": "arXiv:2607.10159v1 Announce Type: new Abstract: In real-world multimodal web scenarios, graph-structured data often arrives in a streaming manner, making graph continual learning a crucial paradigm for continuously modeling such evolving structures. However, existing graph con…"
         },
         {
-          "title": "MultiView-Bench: A Diagnostic Benchmark for World-Centric Multi-View Integration in VLMs",
-          "url": "https://arxiv.org/abs/2607.08970",
+          "title": "MRUF: Multi-granularity Routing with Uncertainty-Aware Fusion for Robust Multimodal Sentiment Analysis",
+          "url": "https://arxiv.org/abs/2607.10599",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08970v1 Announce Type: cross Abstract: Recent benchmarks for VLMs largely assess single- or limited-view perception, leaving untested the core cognitive ability to integrate observations across viewpoints into a coherent, world-centric (allocentric) 3D mental model.…"
+          "summary": "arXiv:2607.10599v1 Announce Type: new Abstract: Multimodal sentiment analysis relies on language, visual, and acoustic cues, but utterance-level modality quality may vary due to occlusion, background noise, motion blur, or imperfect transcripts, causing conventional fusion to …"
         },
         {
-          "title": "CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding",
-          "url": "https://arxiv.org/abs/2607.08974",
+          "title": "SVR-R1: Bootstrapping Multi-modal Reasoning with Self-verification in Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2607.10966",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08974v1 Announce Type: cross Abstract: Vision-language-action models (VLAs) inherit semantic capabilities from pretrained VLMs, yet large-scale post-training on robot data and architectural modifications can reshape the backbone so extensively that it becomes diffic…"
+          "summary": "arXiv:2607.10966v1 Announce Type: new Abstract: We introduce Self-Verified Reasoner (SVR-R1), a multi-turn RL framework that turns a model's own verification into a learning signal for multimodal reasoning. For each query, the model proposes an answer using the same weights, a…"
         }
       ]
     },
@@ -89,40 +89,40 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
-          "url": "https://arxiv.org/abs/2607.08773",
+          "title": "Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction",
+          "url": "https://arxiv.org/abs/2607.09713",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08773v1 Announce Type: new Abstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In particular, we show that the adversarial robustness problem can be reduced to a lattice traversal …"
+          "summary": "arXiv:2607.09713v1 Announce Type: new Abstract: A key step toward autonomous industrial operation is the ability to create and reconfigure control policies from natural-language requirement specifications, with minimal or no manual redesign. In this setting, policy generation …"
         },
         {
-          "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
-          "url": "https://arxiv.org/abs/2607.09059",
+          "title": "Feedback-Coupled Memory Systems in Continuous Time",
+          "url": "https://arxiv.org/abs/2607.09714",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09059v1 Announce Type: new Abstract: We present ARCANA, a collaborative multi agent framework for solving ARC AGI 2 tasks under strict test time and hardware constraints. ARCANA decomposes each task into iterative perception, hypothesis generation, symbolic executio…"
+          "summary": "arXiv:2607.09714v1 Announce Type: new Abstract: The Feedback-Coupled Memory Systems (FCMS) architecture formalizes closed-loop coordination through four abstract operators, two of which - the agent update operator $f_i$ and the environmental update operator $\\Psi$ - are left a…"
         },
         {
-          "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
-          "url": "https://arxiv.org/abs/2607.09099",
+          "title": "A Dynamic Scene Interaction Reasoning Framework for Scene-level Lane-Change Intention and Trajectory Prediction of Multiple Interacting Vehicles",
+          "url": "https://arxiv.org/abs/2607.09740",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09099v1 Announce Type: new Abstract: While multi-agent debate (MAD) frameworks have shown significant potential in general reasoning, their effectiveness in highly structured, knowledge-heavy legal domains remains under-explored. In this work, we introduce the Legal…"
+          "summary": "arXiv:2607.09740v1 Announce Type: new Abstract: Safe motion planning in advanced driver-assistance systems and autonomous vehicles requires an accurate understanding of how the surrounding traffic scene is likely to evolve. However, many existing lane-change prediction methods…"
         },
         {
-          "title": "LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making",
-          "url": "https://arxiv.org/abs/2607.09322",
+          "title": "LegalFarePlan: A Label-Setting Framework for Fare-Transparent Urban Rail Route Planning under Non-Additive Fare Rules",
+          "url": "https://arxiv.org/abs/2607.09755",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09322v1 Announce Type: new Abstract: In this work, we introduce LongMedBench, a real-world EHR-based benchmark for long-horizon clinical decision-making. Prior evaluations of LLM-based medical agents have largely emphasized short-context knowledge QA and tool use. H…"
+          "summary": "arXiv:2607.09755v1 Announce Type: new Abstract: Urban rail fare systems may be non-additive: the fare of a single paid journey from an origin to a destination can differ from the sum of fares over multiple legally separated journey legs. This paper presents LegalFarePlan, a fa…"
         },
         {
-          "title": "Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks",
-          "url": "https://arxiv.org/abs/2607.09330",
+          "title": "How Much Does Correctness Cost? Budgeted Placement of Strong Correctors in a Weak Multi-Agent Swarm",
+          "url": "https://arxiv.org/abs/2607.09765",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09330v1 Announce Type: new Abstract: Embodied agent teams powered by heterogeneous large language models (LLMs) are being widely deployed in physical artificial intelligence such as smart factories, warehouses, and service robotics. To enable collaboration among suc…"
+          "summary": "arXiv:2607.09765v1 Announce Type: new Abstract: A cheap swarm of unreliable agents can be steered to a correct consensus by a few strong, expensive \"oracle\" correctors. We ask how much one must spend, and where to place the oracles. We model the swarm as a consensus on a graph…"
         },
         {
-          "title": "Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review",
-          "url": "https://arxiv.org/abs/2607.09403",
+          "title": "Norm Enforcement for AI Agents: Robustly Shaping Behavior in Multi-Agent Systems",
+          "url": "https://arxiv.org/abs/2607.09766",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09403v1 Announce Type: new Abstract: Worldbuilding, the construction of coherent fictional worlds, is a foundational task in game design and literary creation. Large Language Models (LLMs) offer new possibilities for automated content generation, but their applicati…"
+          "summary": "arXiv:2607.09766v1 Announce Type: new Abstract: AI agents are increasingly deployed in shared environments where they pursue diverse goals and compete for rewards. This multi-agent competition can lead to behaviors that serve individual gains at collective cost -- for instance…"
         }
       ]
     },
@@ -130,40 +130,40 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "OpenProver: Agentic and Interactive Theorem Proving with Lean 4",
-          "url": "https://arxiv.org/abs/2607.09217",
+          "title": "SupplyNetPy: An Open-Source Python Library for High-Fidelity Modeling and Simulation of Arbitrary Supply Chain and Inventory Networks",
+          "url": "https://arxiv.org/abs/2607.09745",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09217v1 Announce Type: new Abstract: In this system paper, we present OpenProver, an open-source system for LLM-driven automated theorem proving (ATP) with integrated Lean 4 formal verification. OpenProver integrates a Planner-Worker-Verifier architecture inspired b…"
+          "summary": "arXiv:2607.09745v1 Announce Type: new Abstract: This paper introduces SupplyNetPy, an open-source, well-documented Python library for modeling and discrete-event simulation of supply chain networks with arbitrary multi-echelon structures. It supports multiple replenishment pol…"
         },
         {
-          "title": "A Sovereign, Open-Source Foundation Model for German and English",
-          "url": "https://arxiv.org/abs/2607.09424",
+          "title": "Cross-Layer Misalignment Detection in Agent Skills: A Progressive Loading-Aware Contrastive Learning Approach",
+          "url": "https://arxiv.org/abs/2607.10534",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09424v1 Announce Type: cross Abstract: We present Soofi S 30B-A3B, a sovereign, open-source Mixture-of-Experts (MoE) hybrid Mamba Transformer foundation model for German and English. Its hybrid design activates only 3B of 30B parameters per token and keeps the infer…"
+          "summary": "arXiv:2607.10534v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly extended through Agent Skills, reusable artifacts that package natural-language metadata, procedural instructions, and execution-time resources for runtime use. As open-source sk…"
         },
         {
-          "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-          "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-          "source": "TechCrunch AI",
-          "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the…"
+          "title": "Trivial Prompt Reframing Bypasses Safety Guardrails in Google\\'s MedGemma-4B",
+          "url": "https://arxiv.org/abs/2607.09804",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.09804v1 Announce Type: cross Abstract: Open-weight medical language models are increasingly used as the base of patient-facing and clinician-support applications. Their model cards prohibit specific behaviors -- recommending exact drug dosages, issuing definitive di…"
         },
         {
-          "title": "Hugging Face’s CEO on why companies are done renting their AI",
-          "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-          "source": "TechCrunch AI",
-          "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the…"
+          "title": "Robust, Scalable Detection of Text Containment in Large Web-Crawled Corpora",
+          "url": "https://arxiv.org/abs/2607.10020",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.10020v1 Announce Type: cross Abstract: We present FindMyText, an open-source Python package designed to efficiently assess whether a given text appears, in part or in full, within a text corpus. The tool builds on prior techniques for document fingerprinting, but ex…"
         },
         {
-          "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "A Large-Scale Dataset of MCP Implementations on GitHub",
+          "url": "https://arxiv.org/abs/2607.10123",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.10123v1 Announce Type: cross Abstract: The rapid emergence of the Model Context Protocol (MCP) has introduced a new standard for connecting large language models to external tools and services. Despite its rapid adoption in open-source development, systematic unders…"
         },
         {
-          "title": "Hugging Face Models on Foundry Managed Compute",
-          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "ML in a Box: Analyzing Containerization Practices in Open Source ML Projects",
+          "url": "https://arxiv.org/abs/2607.10126",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.10126v1 Announce Type: cross Abstract: Containerization has become increasingly essential in the machine learning (ML) domain, providing reproducibility, portability, and environment consistency. While prior studies have analyzed Dockerfile structures and best pract…"
         }
       ]
     },
@@ -171,40 +171,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
-          "url": "https://arxiv.org/abs/2607.08964",
+          "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
+          "url": "https://arxiv.org/abs/2607.09689",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08964v1 Announce Type: new Abstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated only by their final outcome…"
+          "summary": "arXiv:2607.09689v1 Announce Type: new Abstract: To leading order under local asymptotic normality (LAN), the confidence density a worker emits over a chunk of size $n$ is a Gibbs--Boltzmann measure $\\exp\\{-\\beta E(\\theta)\\}$ whose inverse temperature is the sample size, $\\beta…"
         },
         {
-          "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
-          "url": "https://arxiv.org/abs/2607.08986",
+          "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
+          "url": "https://arxiv.org/abs/2607.09698",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.08986v1 Announce Type: new Abstract: We formalize a research result in the Lean 4 proof assistant by having a mathematician direct an AI system, and frame the activity as a formalization game. The objective is to turn a LaTeX document into Lean. The game is won when…"
+          "summary": "arXiv:2607.09698v1 Announce Type: new Abstract: Recent latent reasoning methods, such as CODI and COCONUT, face a fundamental interpretability problem: they maintain multiple superimposed candidate traces in the hidden space at each step, unlike explicit- CoT, which follows a …"
         },
         {
-          "title": "How Does Bayesian Causal Discovery Fail? Characterising Structural Consequences in Linear Gaussian Networks under Latent Confounding",
-          "url": "https://arxiv.org/abs/2607.09449",
+          "title": "GES-TSP: Graph Edge Sparsification for TSP",
+          "url": "https://arxiv.org/abs/2607.09708",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09449v1 Announce Type: new Abstract: Bayesian causal discovery is widely used for its ability to quantify epistemic uncertainty over directed acyclic graphs (DAGs) through posterior inference. However, its behaviour under latent confounding remains poorly understood…"
+          "summary": "arXiv:2607.09708v1 Announce Type: new Abstract: Solving large-scale instances of the Traveling Salesman Problem (TSP) exactly is computationally expensive. Researchers often employ graph sparsification methods to improve computational efficiency. Traditional sparsification met…"
         },
         {
-          "title": "ProofCouncil: An LLM Agent for Solving Open Mathematical Problems",
-          "url": "https://arxiv.org/abs/2607.09474",
+          "title": "The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation",
+          "url": "https://arxiv.org/abs/2607.09709",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09474v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in solving open problems in mathematics. However, their performance can be further improved through agentic workflows tailored to real-world mathematical practice. To thi…"
+          "summary": "arXiv:2607.09709v1 Announce Type: new Abstract: Post-training a code generator against a learned judge can optimize proxy features that raise the score without improving the artifact. We study the opposite signal: a deterministic, judge-free, ungameable filter -- whether a gen…"
         },
         {
-          "title": "Ceci n'est pas une pipe: AI systems as semantic abstractions",
-          "url": "https://arxiv.org/abs/2607.09489",
+          "title": "AGM-like Paraconsistent Partial Meet Abductive Expansion Operation",
+          "url": "https://arxiv.org/abs/2607.09729",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09489v1 Announce Type: new Abstract: An AI system's output is not the fact or world state it appears to describe, but rather an engineered representation. We propose a semantic framework to describe AI systems, to be able to examine the correctness of such represent…"
+          "summary": "arXiv:2607.09729v1 Announce Type: new Abstract: In his 1996 doctoral thesis, Maurice Pagnucco created the first AGM-like abductive expansion operation. Taking his operation as a basis, as well as a taxonomy -- inspired by Atocha Aliseda -- responsible for highlighting and form…"
         },
         {
-          "title": "Shared Selective Persistent Memory for Agentic LLM Systems",
-          "url": "https://arxiv.org/abs/2607.09493",
+          "title": "A Theory of Least Autonomy in AI",
+          "url": "https://arxiv.org/abs/2607.09744",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09493v1 Announce Type: new Abstract: Agentic LLM systems that generate code through multi-turn tool use face a fundamental context problem: each session starts from zero, discarding the configuration choices, domain constraints, data schemas, and tool-use patterns t…"
+          "summary": "arXiv:2607.09744v1 Announce Type: new Abstract: Least privilege, the principle that an identity should hold only the permissions strictly required for its task, has been a foundational primitive of access control for decades. We argue that this principle is insufficient for ag…"
         }
       ]
     },
@@ -212,52 +212,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "White House to rally utilities, data centers over AI power costs",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-to-rally-utilities-data-centers-over-ai-power-costs/articleshow/132363412.cms",
-          "source": "ET Tech",
-          "summary": "The White House plans a voluntary pledge for utility companies and data centers. This initiative aims to manage AI's growing electricity demand without raising consumer costs. Several major tech firms previously signed a similar pledge to fund infrastructure. The new event wil…"
-        },
-        {
-          "title": "Meta expands Louisiana data center to 5 gigawatts compute capacity",
-          "url": "https://economictimes.indiatimes.com/tech/technology/meta-expands-louisiana-data-center-to-5-gigawatts-compute-capacity/articleshow/132363303.cms",
-          "source": "ET Tech",
-          "summary": "Meta plans a significant expansion of its Louisiana data center to five gigawatts. This major investment will support the company's growing artificial intelligence ambitions. Local businesses have already secured over $1.6 billion in contracts from Meta's project. The company …"
-        },
-        {
-          "title": "Meta reply to Government notice on CSAM ads received; appropriate action after examination: IT Secretary",
-          "url": "https://economictimes.indiatimes.com/tech/technology/meta-reply-to-govt-notice-on-csam-ads-recd-appropriate-action-after-examination-it-secretary/articleshow/132360681.cms",
-          "source": "ET Tech",
-          "summary": "Meity has received Meta's response regarding child sexual abuse material ads. The IT Ministry is currently examining the company's detailed explanation. Meta previously outlined its AI-powered efforts to combat such harmful content. The government had issued a stern notice dem…"
-        },
-        {
-          "title": "Mulling AI investment, Anthropic lobbied Australia on copyright law",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mulling-ai-investment-anthropic-lobbied-australia-on-copyright-law/articleshow/132360275.cms",
-          "source": "ET Tech",
-          "summary": "Anthropic's chief executive Dario Amodei has lobbied Australian officials for \"copyright reform\" as the artificial intelligence giant seeks to make a major investment in the country, official briefing notes released Monday show. According to briefing notes released under freed…"
-        },
-        {
-          "title": "Anthropic extends Claude Fable 5 access to paid subscribers until July 19: Here’s what changes later",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-extends-claude-fable-5-access-july-19-what-changes-10784119/",
+          "title": "Anthropic introduces India pricing for Claude as AI race heats up",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-introduces-india-pricing-for-claude-as-ai-race-heats-up-10785590/",
           "source": "Indian Express Tech",
           "summary": ""
         },
         {
-          "title": "South Korea's AI tax windfall a 'golden window' for investment: Lee",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-ai-tax-windfall-a-golden-window-for-investment-lee/articleshow/132359633.cms",
-          "source": "ET Tech",
-          "summary": "South Korea will use a tax revenue windfall from artificial intelligence chipmakers as a strategic source of investment, President Lee Jae Myung said Monday, describing a \"golden window\" of opportunity. \"These revenues are a valuable national resource that should be invested d…"
+          "title": "When data speaks your language: How Gemini Enterprise is helping businesses move faster",
+          "url": "https://yourstory.com/2026/07/when-data-speaks-your-language-how-gemini-enterprise-is-helping-businesses-move-faster",
+          "source": "YourStory",
+          "summary": "Most business leaders know that AI can help them make decisions faster. Far fewer know where to actually start. At the grand finale of MSME Sparks 2026, Google Cloud's Nikhila Gudipati had a clear answer."
         },
         {
-          "title": "South Korea flags record 2027 budget of over $530 billion as AI chip boom lifts revenues",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-flags-record-2027-budget-of-over-530-billion-as-ai-chip-boom-lifts-revenues/articleshow/132359567.cms",
-          "source": "ET Tech",
-          "summary": "South Korea plans record budget spending exceeding 800 trillion won for fiscal 2027. This significant spending will be supported by stronger tax revenues from the AI chip industry. The government will prioritize investments in chips, AI data centers, and physical AI technologi…"
+          "title": "How Google Cloud’s Gemini Enterprise is helping MSMEs build AI agents without writing code",
+          "url": "https://yourstory.com/2026/07/how-google-clouds-gemini-enterprise-is-helping-msmes-build-ai-agents-without-writing-code",
+          "source": "YourStory",
+          "summary": "At MSME Sparks 2026, Google Cloud showcased how no-code AI agents can help small businesses compete with larger enterprises, without the need for large engineering teams."
         },
         {
-          "title": "TCS bags multi-million contract from industrial giant ABB",
-          "url": "https://economictimes.indiatimes.com/tech/information-tech/tcs-bags-multi-million-contract-from-industrial-giant-abb/articleshow/132359331.cms",
+          "title": "Elevation Capital Launches Fund IX With $500 Mn Corpus To Back AI-Led Startups",
+          "url": "https://inc42.com/buzz/elevation-capital-launches-fund-ix-with-500-mn-corpus-to-back-ai-led-startups/",
+          "source": "Inc42",
+          "summary": "VC firm Elevation Capital has launched Fund IX with a target corpus of $500 Mn to back Indian startups across…"
+        },
+        {
+          "title": "DeepSeek’s Liang Wenfeng tops Dario Amodei and Greg Brockman as richest AI founder",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseeks-liang-wenfeng-tops-anthropics-dario-amodei-and-openais-greg-brockman-as-richest-ai-founder/articleshow/132382968.cms",
           "source": "ET Tech",
-          "summary": "Tata Consultancy Services has secured a significant contract from ABB. The Indian firm will manage ABB's global network ecosystem using AI. This deal also includes robust cybersecurity offerings for infrastructure protection. The contract extends a long-standing partnership be…"
+          "summary": "Liang is now worth $36 billion, up from about $16.7 billion previously, according to the Bloomberg Billionaires Index. That ranks him well above Anthropic PBC co-founder Dario Amodei and OpenAI’s Greg Brockman."
+        },
+        {
+          "title": "Centre Asks Sarvam AI, BharatGen To Develop Mythos-Like Cyber AI Models",
+          "url": "https://inc42.com/buzz/centre-asks-sarvam-ai-bharatgen-to-develop-mythos-like-cyber-ai-models/",
+          "source": "Inc42",
+          "summary": "The Centre has reportedly asked homegrown AI unicorn Sarvam AI and BharatGen to develop advanced cybersecurity capabilities similar to Anthropic’s…"
+        },
+        {
+          "title": "SoftBank's Masayoshi Son says AI will need $5 trillion per year by 2040, dismisses bubble talk",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbanks-masayoshi-son-says-ai-will-need-5-trillion-per-year-by-2040-dismisses-bubble-talk/articleshow/132381980.cms",
+          "source": "ET Tech",
+          "summary": "\"The business model will be viable because by 2040, if AI revenue makes up 20% of ​global GDP, spending 800 trillion yen a year is a rounding error,\" Son said."
+        },
+        {
+          "title": "TCS’ annualised AI revenue rises to $2.6 billion in Q1",
+          "url": "https://economictimes.indiatimes.com/tech/technology/tcs-annualised-ai-revenue-rises-to-2-6-billion-in-q1/articleshow/132381477.cms",
+          "source": "ET Tech",
+          "summary": "The AI momentum came as TCS posted a 5% year-on-year rise in consolidated net profit to Rs 13,349 crore for the quarter ended June 30, while revenue increased 13.9% to Rs 72,275 crore. The company’s board has declared an interim dividend of Rs 12 per share."
         }
       ]
     }
@@ -417,18 +417,18 @@
         "language": "JavaScript"
       },
       {
+        "name": "125M-model-base",
+        "desc": "",
+        "url": "https://github.com/Ace-2504/125M-model-base",
+        "stars": 0,
+        "language": "Python"
+      },
+      {
         "name": "fine-tuned-125m-slm",
         "desc": "",
         "url": "https://github.com/Ace-2504/fine-tuned-125m-slm",
         "stars": 0,
         "language": "Python"
-      },
-      {
-        "name": "ai-weekly-report",
-        "desc": "My personalized AI newsletter that runs on an agentic AI",
-        "url": "https://github.com/Ace-2504/ai-weekly-report",
-        "stars": 0,
-        "language": "HTML"
       }
     ]
   }

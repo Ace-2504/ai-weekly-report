@@ -1,100 +1,114 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "top": {
-    "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
-    "url": "https://arxiv.org/abs/2607.08773",
+    "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+    "url": "https://arxiv.org/abs/2607.09664",
     "source": "arXiv cs.AI",
-    "published": "2026-07-13T04:00:00.000Z",
-    "summary": "arXiv:2607.08773v1 Announce Type: new Abstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In particular, we show that the adversarial robustness problem can be reduced to a lattice traversal …"
+    "published": "2026-07-14T04:00:00.000Z",
+    "summary": "arXiv:2607.09664v1 Announce Type: new Abstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin model of argumentation. This model consists of a claim, grounds, warrant, qualifier, rebuttal, and…"
   },
   "topIndia": {
-    "title": "White House to rally utilities, data centers over AI power costs",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-to-rally-utilities-data-centers-over-ai-power-costs/articleshow/132363412.cms",
-    "source": "ET Tech",
-    "published": "2026-07-13T10:11:46.000Z",
-    "summary": "The White House plans a voluntary pledge for utility companies and data centers. This initiative aims to manage AI's growing electricity demand without raising consumer costs. Several major tech firms previously signed a similar pledge to fund infrastructure. The new event wil…"
+    "title": "Anthropic introduces India pricing for Claude as AI race heats up",
+    "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-introduces-india-pricing-for-claude-as-ai-race-heats-up-10785590/",
+    "source": "Indian Express Tech",
+    "published": "2026-07-14T07:23:30.000Z",
+    "summary": ""
   },
   "headlines": [
     {
-      "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
-      "url": "https://arxiv.org/abs/2607.08774",
+      "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+      "url": "https://arxiv.org/abs/2607.09665",
       "source": "arXiv cs.AI",
-      "published": "2026-07-13T04:00:00.000Z"
+      "published": "2026-07-14T04:00:00.000Z"
     },
     {
-      "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
-      "url": "https://arxiv.org/abs/2607.08894",
+      "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+      "url": "https://arxiv.org/abs/2607.09678",
       "source": "arXiv cs.AI",
-      "published": "2026-07-13T04:00:00.000Z"
+      "published": "2026-07-14T04:00:00.000Z"
     },
     {
-      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
-      "url": "https://arxiv.org/abs/2607.08964",
+      "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
+      "url": "https://arxiv.org/abs/2607.09689",
       "source": "arXiv cs.AI",
-      "published": "2026-07-13T04:00:00.000Z"
+      "published": "2026-07-14T04:00:00.000Z"
     },
     {
-      "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
-      "url": "https://arxiv.org/abs/2607.08986",
+      "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
+      "url": "https://arxiv.org/abs/2607.09698",
       "source": "arXiv cs.AI",
-      "published": "2026-07-13T04:00:00.000Z"
+      "published": "2026-07-14T04:00:00.000Z"
     },
     {
-      "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
-      "url": "https://arxiv.org/abs/2607.09059",
+      "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
+      "url": "https://arxiv.org/abs/2607.09706",
       "source": "arXiv cs.AI",
-      "published": "2026-07-13T04:00:00.000Z"
+      "published": "2026-07-14T04:00:00.000Z"
     },
     {
-      "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
-      "url": "https://arxiv.org/abs/2607.09076",
+      "title": "GES-TSP: Graph Edge Sparsification for TSP",
+      "url": "https://arxiv.org/abs/2607.09708",
       "source": "arXiv cs.AI",
-      "published": "2026-07-13T04:00:00.000Z"
+      "published": "2026-07-14T04:00:00.000Z"
     },
     {
-      "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
-      "url": "https://arxiv.org/abs/2607.09099",
+      "title": "The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation",
+      "url": "https://arxiv.org/abs/2607.09709",
       "source": "arXiv cs.AI",
-      "published": "2026-07-13T04:00:00.000Z"
+      "published": "2026-07-14T04:00:00.000Z"
     },
     {
-      "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
-      "url": "https://arxiv.org/abs/2607.09142",
+      "title": "Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction",
+      "url": "https://arxiv.org/abs/2607.09713",
       "source": "arXiv cs.AI",
-      "published": "2026-07-13T04:00:00.000Z"
+      "published": "2026-07-14T04:00:00.000Z"
     },
     {
-      "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
-      "url": "https://arxiv.org/abs/2607.09153",
+      "title": "Feedback-Coupled Memory Systems in Continuous Time",
+      "url": "https://arxiv.org/abs/2607.09714",
       "source": "arXiv cs.AI",
-      "published": "2026-07-13T04:00:00.000Z"
+      "published": "2026-07-14T04:00:00.000Z"
     },
     {
-      "title": "Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift",
-      "url": "https://arxiv.org/abs/2607.09175",
+      "title": "AGM-like Paraconsistent Partial Meet Abductive Expansion Operation",
+      "url": "https://arxiv.org/abs/2607.09729",
       "source": "arXiv cs.AI",
-      "published": "2026-07-13T04:00:00.000Z"
+      "published": "2026-07-14T04:00:00.000Z"
     },
     {
-      "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
-      "url": "https://arxiv.org/abs/2607.09195",
+      "title": "Coresets Before Score Sets: Evaluation-Unsupervised Prompt Subset Selection for LLM Benchmarks",
+      "url": "https://arxiv.org/abs/2607.09739",
       "source": "arXiv cs.AI",
-      "published": "2026-07-13T04:00:00.000Z"
+      "published": "2026-07-14T04:00:00.000Z"
     },
     {
-      "title": "OpenProver: Agentic and Interactive Theorem Proving with Lean 4",
-      "url": "https://arxiv.org/abs/2607.09217",
+      "title": "A Dynamic Scene Interaction Reasoning Framework for Scene-level Lane-Change Intention and Trajectory Prediction of Multiple Interacting Vehicles",
+      "url": "https://arxiv.org/abs/2607.09740",
       "source": "arXiv cs.AI",
-      "published": "2026-07-13T04:00:00.000Z"
+      "published": "2026-07-14T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Meta scraps AI image feature days after launch following privacy backlash",
-      "url": "https://economictimes.indiatimes.com/tech/technology/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash/articleshow/132323801.cms",
-      "source": "ET Tech",
-      "published": "2026-07-11T03:12:15.000Z",
-      "summary": "Meta withdrew its new AI image generation feature after significant criticism. Meta's Muse image model provides a feature that lets users generate and edit images using natural language prompts like most AI image generators. However, it drew major criticism from privacy advoca…"
+      "title": "Trivial Prompt Reframing Bypasses Safety Guardrails in Google\\'s MedGemma-4B",
+      "url": "https://arxiv.org/abs/2607.09804",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-14T04:00:00.000Z",
+      "summary": "arXiv:2607.09804v1 Announce Type: cross Abstract: Open-weight medical language models are increasingly used as the base of patient-facing and clinician-support applications. Their model cards prohibit specific behaviors -- recommending exact drug dosages, issuing definitive di…"
+    },
+    {
+      "title": "SMETA-ZSL:Semantic Meta-Alignment for Zero-Shot Threat Classification",
+      "url": "https://arxiv.org/abs/2607.09936",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-14T04:00:00.000Z",
+      "summary": "arXiv:2607.09936v1 Announce Type: cross Abstract: Cybersecurity systems must adapt rapidly to emerging threats. However, labeled data for new threat categories is unavailable when those threats first appear. Generalized zero-shot learning offers a natural solution by enabling …"
+    },
+    {
+      "title": "MDQEC-QAS: Meta-Decoding for Quantum Error Correction with Hardware-Aware VQC Search and Confidence-Gated Recovery",
+      "url": "https://arxiv.org/abs/2607.10707",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-14T04:00:00.000Z",
+      "summary": "arXiv:2607.10707v1 Announce Type: cross Abstract: We propose a unified meta-decoding framework for quantum error correction that learns syndrome-to-recovery mappings across multiple stabilizer codes and noise settings, without requiring separate decoders for each configuration…"
     },
     {
       "title": "OpenAI debuts GPT-5.6 and ChatGPT Work to bring AI agents into the workplace",
@@ -130,29 +144,15 @@
       "source": "Indian Express Tech",
       "published": "2026-07-08T13:15:43.000Z",
       "summary": ""
-    },
-    {
-      "title": "Google Pixel 11 launch on August 12: Expected specs, AI features, Pixel 11 Pro Fold",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-pixel-11-launch-on-august-12-expected-specs-ai-features-pixel-11-pro-fold-10777647/",
-      "source": "Indian Express Tech",
-      "published": "2026-07-08T12:53:16.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Meta launches Muse Image AI generator, but users are already raising privacy concerns",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-launches-muse-image-ai-generator-but-users-are-already-raising-privacy-concerns-10777054/",
-      "source": "Indian Express Tech",
-      "published": "2026-07-08T08:09:27.000Z",
-      "summary": ""
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "article": "Your family’s $300 stake in OpenAI",
-      "source": "MIT Tech Review"
+      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "article": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "source": "TechCrunch AI"
     },
     {
       "name": "Demis Hassabis",
@@ -164,8 +164,8 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mulling-ai-investment-anthropic-lobbied-australia-on-copyright-law/articleshow/132360275.cms",
-      "article": "Mulling AI investment, Anthropic lobbied Australia on copyright law",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseeks-liang-wenfeng-tops-anthropics-dario-amodei-and-openais-greg-brockman-as-richest-ai-founder/articleshow/132382968.cms",
+      "article": "DeepSeek’s Liang Wenfeng tops Dario Amodei and Greg Brockman as richest AI founder",
       "source": "ET Tech"
     },
     {
