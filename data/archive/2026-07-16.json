@@ -1,0 +1,626 @@
+{
+  "daily": {
+    "date": "2026-07-16",
+    "top": {
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-16T04:00:00.000Z",
+      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry."
+    },
+    "topIndia": {
+      "title": "Physical AI Startup SwitchOn Raises $8 Mn To Scale Manufacturing Inspection",
+      "url": "https://inc42.com/buzz/physical-ai-startup-switchon-raises-8-mn-to-scale-manufacturing-inspection/",
+      "source": "Inc42",
+      "published": "2026-07-16T07:00:57.000Z",
+      "summary": "Physical AI startup SwitchOn has raised $8 Mn (about ₹ 77 Cr) in a pre-Series B funding round led by…"
+    },
+    "headlines": [
+      {
+        "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+        "url": "https://arxiv.org/abs/2607.13037",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-16T04:00:00.000Z"
+      },
+      {
+        "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+        "url": "https://arxiv.org/abs/2607.13049",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-16T04:00:00.000Z"
+      },
+      {
+        "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+        "url": "https://arxiv.org/abs/2607.13069",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-16T04:00:00.000Z"
+      },
+      {
+        "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+        "url": "https://arxiv.org/abs/2607.13073",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-16T04:00:00.000Z"
+      },
+      {
+        "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+        "url": "https://arxiv.org/abs/2607.13104",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-16T04:00:00.000Z"
+      },
+      {
+        "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
+        "url": "https://arxiv.org/abs/2607.13115",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-16T04:00:00.000Z"
+      },
+      {
+        "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+        "url": "https://arxiv.org/abs/2607.13157",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-16T04:00:00.000Z"
+      },
+      {
+        "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
+        "url": "https://arxiv.org/abs/2607.13172",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-16T04:00:00.000Z"
+      },
+      {
+        "title": "CayleyR: Solving the TopSpin puzzle via cycle intersection",
+        "url": "https://arxiv.org/abs/2607.13219",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-16T04:00:00.000Z"
+      },
+      {
+        "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
+        "url": "https://arxiv.org/abs/2607.13220",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-16T04:00:00.000Z"
+      },
+      {
+        "title": "AI-Native Insurance for Agentic AI: Pricing, Underwriting, and End-to-End Automation",
+        "url": "https://arxiv.org/abs/2607.13230",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-16T04:00:00.000Z"
+      },
+      {
+        "title": "Cost-Optimal Foundation Model Deployment Portfolio for Transportation Management",
+        "url": "https://arxiv.org/abs/2607.13239",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-16T04:00:00.000Z"
+      }
+    ],
+    "events": [
+      {
+        "title": "Nvidia partners with Japan robotics firms on AI development",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-partners-with-japan-robotics-firms-on-ai-development/articleshow/132430720.cms",
+        "source": "ET Tech",
+        "published": "2026-07-16T05:43:59.000Z",
+        "summary": "Nvidia announced a partnership with Japanese companies like Fanuc and Yaskawa Electric. This collaboration aims to advance robotics and artificial intelligence development significantly. Nvidia CEO Jensen Huang attended several events in Tokyo, generating considerable interest…"
+      },
+      {
+        "title": "OpenAI launches its hardware: Codex Micro. What is this programmable macropad?",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-enters-hardware-with-codex-micro-10788753/",
+        "source": "Indian Express Tech",
+        "published": "2026-07-16T03:47:37.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+        "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-15T15:29:33.000Z",
+        "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
+      },
+      {
+        "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+        "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-15T13:10:47.000Z",
+        "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption."
+      },
+      {
+        "title": "Apple Intelligence AI service registered with China's cyberspace regulator",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/apple-intelligence-ai-service-registered-with-chinas-cyberspace-regulator/articleshow/132411409.cms",
+        "source": "ET Tech",
+        "published": "2026-07-15T08:50:27.000Z",
+        "summary": "Apple's new AI service, Apple Intelligence, has officially been registered with China's cyberspace regulator. This move is crucial for the tech giant to launch its advanced AI features within the Chinese market, navigating the country's strict internet regulations and ensuring…"
+      },
+      {
+        "title": "Anthropic’s India Push, InsuranceDekho’s IPO & More",
+        "url": "https://inc42.com/buzz/anthropics-india-push-insurancedekhos-ipo-more/",
+        "source": "Inc42",
+        "published": "2026-07-15T02:30:46.000Z",
+        "summary": "Anthropic Banks On INR Anthropic is pulling all stops to boost adoption in India. The AI giant has now launched…"
+      },
+      {
+        "title": "Krishna Byre Gowda’s plan for Bengaluru; Google’s AI push in India",
+        "url": "https://yourstory.com/2026/07/krishna-byre-gowdas-plan-for-bengaluru-google-ai-push-india",
+        "source": "YourStory",
+        "published": "2026-07-15T02:00:00.000Z",
+        "summary": "In a candid conversation with Shradha Sharma, Founder and CEO of YourStory and The Bharat Project, Karnataka Minister for Greater Bengaluru Development Krishna Byre Gowda, talks about his vision for the city. Meanwhile, Google has unveiled a broad India AI strategy."
+      },
+      {
+        "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+        "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+        "source": "TechCrunch AI",
+        "published": "2026-07-15T00:27:04.000Z",
+        "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences."
+      }
+    ],
+    "people": [
+      {
+        "name": "Sam Altman",
+        "org": "OpenAI",
+        "link": "https://blog.samaltman.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Demis Hassabis",
+        "org": "Google DeepMind",
+        "link": "https://indianexpress.com/article/technology/artificial-intelligence/demis-hassabis-agi-proposes-frontier-ai-standards-body-10786981/",
+        "article": "Demis Hassabis says AGI could arrive within years, wants US body to review frontier AI models",
+        "source": "Indian Express Tech"
+      },
+      {
+        "name": "Dario Amodei",
+        "org": "Anthropic",
+        "link": "https://www.darioamodei.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Yann LeCun",
+        "org": "Meta · world models",
+        "link": "https://x.com/ylecun",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Jensen Huang",
+        "org": "NVIDIA",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-partners-with-japan-robotics-firms-on-ai-development/articleshow/132430720.cms",
+        "article": "Nvidia partners with Japan robotics firms on AI development",
+        "source": "ET Tech"
+      },
+      {
+        "name": "Andrej Karpathy",
+        "org": "AI educator",
+        "link": "https://karpathy.ai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Sundar Pichai",
+        "org": "Google",
+        "link": "https://x.com/sundarpichai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Mira Murati",
+        "org": "Thinking Machines",
+        "link": "https://x.com/miramurati",
+        "article": null,
+        "source": "Profile"
+      }
+    ]
+  },
+  "weekly": {
+    "weekOf": "2026-07-10 to 2026-07-16",
+    "generated": "2026-07-16T07:53:55.757Z",
+    "intro": "331 AI items this week (79 India-relevant) across 9 sources.",
+    "sections": [
+      {
+        "heading": "Large Language Models",
+        "items": [
+          {
+            "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+            "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+            "source": "TechCrunch AI",
+            "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry."
+          },
+          {
+            "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+            "url": "https://arxiv.org/abs/2607.13037",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13037v1 Announce Type: new Abstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which training records belong to a given author. Existing provenance systems operat…"
+          },
+          {
+            "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+            "url": "https://arxiv.org/abs/2607.13069",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13069v1 Announce Type: new Abstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its stated premises. We introduce interventional grounding audits, a black-box, step-level test of premis…"
+          },
+          {
+            "title": "Cost-Optimal Foundation Model Deployment Portfolio for Transportation Management",
+            "url": "https://arxiv.org/abs/2607.13239",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13239v1 Announce Type: new Abstract: Foundation models, including large language models (LLMs) and vision-language models (VLMs), are increasingly used for transportation management center (TMC) tasks such as anomaly detection, incident reporting, and traveler infor…"
+          },
+          {
+            "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
+            "url": "https://arxiv.org/abs/2607.13285",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13285v1 Announce Type: new Abstract: The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs, environments, and requireme…"
+          },
+          {
+            "title": "Set-shifting Behavioral Test for Harnessed Agents",
+            "url": "https://arxiv.org/abs/2607.13396",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13396v1 Announce Type: new Abstract: What happens to an LLM agent's tool choice when the reliable tool silently changes within an ongoing session? We borrow set-shifting from cognitive psychology to study how well agents adapt to hidden reliability shifts. Our bench…"
+          }
+        ]
+      },
+      {
+        "heading": "Multimodal & Media",
+        "items": [
+          {
+            "title": "How Far Can Root Cause Analysis Go on Real-World Telemetry Data?",
+            "url": "https://arxiv.org/abs/2607.13548",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13548v1 Announce Type: new Abstract: Identifying root causes in production microservice failures requires reasoning over large-scale, multimodal telemetry spanning metrics, logs, and traces, a problem that has proved resistant to both classical and LLM-based approac…"
+          },
+          {
+            "title": "Beyond Backbone Backpropagation: A Decoupled Strategy for Efficient Transfer Learning",
+            "url": "https://arxiv.org/abs/2607.13043",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13043v1 Announce Type: cross Abstract: Deep learning models achieve state-of-the-art image classification but face deployment challenges due to computational costs and energy demands. We propose a lightweight training strategy that adapts normalization layers of the…"
+          },
+          {
+            "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series: Pushing Hybrid SWA Efficiency to the Limit",
+            "url": "https://arxiv.org/abs/2607.13095",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13095v1 Announce Type: cross Abstract: We present a full-pipeline inference optimization for the MiMo-V2.5 model family, which combines Hybrid Sliding Window Attention (Hybrid SWA), sparse Mixture-of-Experts (MoE), and multimodal encoders. While Hybrid SWA can ideal…"
+          },
+          {
+            "title": "A Hybrid Mamba for Audio-Visual Navigation",
+            "url": "https://arxiv.org/abs/2607.13110",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13110v1 Announce Type: cross Abstract: Since the paradigm centered on convolutional neural networks and recurrent architectures was established in 2020, the fundamental backbone networks for audio-visual navigation have undergone no essential changes for more than f…"
+          },
+          {
+            "title": "CoDiffGRN: Rethinking Gene Regulatory Network Inference via the BEELINE-KGC Benchmark and Co-evolutionary Discrete Diffusion",
+            "url": "https://arxiv.org/abs/2607.13120",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13120v1 Announce Type: cross Abstract: Inferring gene regulatory networks (GRNs) from single-cell transcriptomic data is crucial for biological discovery, yet existing approaches suffer from a fundamental misalignment with real-world needs. Researchers typically see…"
+          },
+          {
+            "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
+            "url": "https://arxiv.org/abs/2607.13125",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13125v1 Announce Type: cross Abstract: We introduce Boogu-Image-0.1, an open-source unified multimodal understanding and generation model family, comprising Base, Turbo, Edit, and Edit-Turbo variants. It delivers competitive performance in high-quality text-to-image…"
+          }
+        ]
+      },
+      {
+        "heading": "Developer Tools & Agents",
+        "items": [
+          {
+            "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+            "url": "https://arxiv.org/abs/2607.13157",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13157v1 Announce Type: new Abstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended conversations, recovery of user-specific facts and preferences across sessions, and accumulation of …"
+          },
+          {
+            "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
+            "url": "https://arxiv.org/abs/2607.13172",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13172v1 Announce Type: new Abstract: We address the problem of safely training an agent policy and deploying a good and safe policy, in settings where the environment dynamics are unknown and no suitable reward function is available. In the context of safety-critica…"
+          },
+          {
+            "title": "Multi-Agent Collaborative Reasoning with Tool-Augmented Evidence for Urban Region Profiling",
+            "url": "https://arxiv.org/abs/2607.13558",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13558v1 Announce Type: new Abstract: Urban region profiling constitutes a core problem in urban computing, supporting applications such as population estimation, economic assessment, and environmental monitoring. Existing methods typically formulate this task as mul…"
+          },
+          {
+            "title": "SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing",
+            "url": "https://arxiv.org/abs/2607.13594",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13594v1 Announce Type: new Abstract: LLM agents act on real-world environments through tool calls, and a single misjudged action can cause irreversible harm. The standard safeguard is a guard model that labels each proposed action as safe or unsafe, but this binary …"
+          },
+          {
+            "title": "STOCKTAKE: Measuring the Gap Between Perception and Action in LLM Agents with a Fair Oracle",
+            "url": "https://arxiv.org/abs/2607.13618",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13618v1 Announce Type: new Abstract: LLM agents are increasingly evaluated on multi-week decision tasks in which the state that drives cost is never directly observed. On such tasks the final cost cannot say why an agent failed: it may have misread the world, or rea…"
+          },
+          {
+            "title": "When Bots Join the Team: Bot Adoption and the Institutional Fabric of Open-Source Software Projects",
+            "url": "https://arxiv.org/abs/2607.13679",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13679v1 Announce Type: new Abstract: AI agents are joining human teams, raising a basic question: when an automated agent becomes a regular participant, does group organization strengthen or weaken? We study this question in open-source software, where bots open pul…"
+          }
+        ]
+      },
+      {
+        "heading": "Open Source",
+        "items": [
+          {
+            "title": "A Self-Evolving Agent for Longitudinal Personal Health Management",
+            "url": "https://arxiv.org/abs/2607.13940",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13940v1 Announce Type: new Abstract: Personal health management unfolds over repeated encounters, yet most health AI systems treat each request in isolation. We developed HealthClaw, an open-source agent architecture that updates support as a person's routines, pref…"
+          },
+          {
+            "title": "What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors",
+            "url": "https://arxiv.org/abs/2607.13162",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13162v1 Announce Type: cross Abstract: What a language model will and will not do is largely set during post-training, but which behaviors it expresses, hides, or resists is not revealed by prompting alone. Persona vectors, behavioral directions in activation space,…"
+          },
+          {
+            "title": "Continuously Evolving Deepfake Detection: An Architecture and Public-Benchmark Evaluation of a Dynamic Detection System",
+            "url": "https://arxiv.org/abs/2607.13234",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13234v1 Announce Type: cross Abstract: Deepfake detectors that achieve near-perfect scores on academic benchmarks collapse on real-world content: recent in-the-wild evaluations report AUC drops of 45-50% for state-of-the-art open-source models. We argue this gap is …"
+          }
+        ]
+      },
+      {
+        "heading": "Industry & Research",
+        "items": [
+          {
+            "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+            "url": "https://arxiv.org/abs/2607.13049",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13049v1 Announce Type: new Abstract: Foundation models have given robots a sophisticated brain for complex decision-making, yet deploying that intelligence into a physical platform still demands tedious, expert-driven calibration. This deployment gap, the robot's sp…"
+          },
+          {
+            "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+            "url": "https://arxiv.org/abs/2607.13073",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13073v1 Announce Type: new Abstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely neural systems (like lack of interpretability and logical structure) with formal logical machinery f…"
+          },
+          {
+            "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+            "url": "https://arxiv.org/abs/2607.13104",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13104v1 Announce Type: new Abstract: Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input. This survey frames modern s…"
+          },
+          {
+            "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
+            "url": "https://arxiv.org/abs/2607.13115",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13115v1 Announce Type: new Abstract: Small language models (SLMs) have shown promise for zero-shot molecular property prediction from SMILES strings, yet they often suffer from structural blindness because sequence representations under-specify key graph-topological…"
+          },
+          {
+            "title": "CayleyR: Solving the TopSpin puzzle via cycle intersection",
+            "url": "https://arxiv.org/abs/2607.13219",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13219v1 Announce Type: new Abstract: We present cayleyR, an R package for solving permutation puzzles by detecting cycle intersections in Cayley graphs. The core algorithm performs an iterative bidirectional search: from both the initial and target permutation state…"
+          },
+          {
+            "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
+            "url": "https://arxiv.org/abs/2607.13220",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.13220v1 Announce Type: new Abstract: Most AI-for-science systems focus on scaling a single reasoning process through better models, larger context windows, long-horizon agentic execution, or digital co-scientists working with one principal user. However, challenging…"
+          }
+        ]
+      },
+      {
+        "heading": "India & Subcontinent",
+        "items": [
+          {
+            "title": "Physical AI Startup SwitchOn Raises $8 Mn To Scale Manufacturing Inspection",
+            "url": "https://inc42.com/buzz/physical-ai-startup-switchon-raises-8-mn-to-scale-manufacturing-inspection/",
+            "source": "Inc42",
+            "summary": "Physical AI startup SwitchOn has raised $8 Mn (about ₹ 77 Cr) in a pre-Series B funding round led by…"
+          },
+          {
+            "title": "Publicis raises growth target as AI-driven marketing demand stays strong",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/publicis-raises-growth-target-as-ai-driven-marketing-demand-stays-strong/articleshow/132431050.cms",
+            "source": "ET Tech",
+            "summary": "Publicis raised its growth target after strong second-quarter sales exceeded expectations. AI-powered marketing services and client wins boosted performance significantly. Marketing services grew robustly, offsetting a decline in technology consulting. The company now anticipa…"
+          },
+          {
+            "title": "Mandrake Bio raises Rs 16 crore to build AI-powered gene-editing platform for agriculture, medicine",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mandrake-bio-raises-rs-16-crore-to-build-ai-powered-gene-editing-platform-for-agriculture-medicine/articleshow/132431719.cms",
+            "source": "ET Tech",
+            "summary": "Bengaluru startup Mandrake Bio secured sixteen crore rupees in new funding. This capital will expand their AI and biophysics teams for platform validation. The company uses generative AI to design novel gene-editing enzymes. This technology promises faster development for impr…"
+          },
+          {
+            "title": "Magicpin rolls out AI assistant Vera across 6 international markets, eyes further overseas expansion",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/magicpin-rolls-out-ai-assistant-vera-across-6-international-markets-eyes-further-overseas-expansion/articleshow/132430781.cms",
+            "source": "ET Tech",
+            "summary": "Magicpin announced Vera's international rollout across six nations. The AI assistant offers real-time order insights to businesses. This expansion signifies strong demand for merchant tools beyond India. Magicpin plans further investment in multi-lingual capabilities and AI wo…"
+          },
+          {
+            "title": "Nvidia partners with Japan robotics firms on AI development",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-partners-with-japan-robotics-firms-on-ai-development/articleshow/132430720.cms",
+            "source": "ET Tech",
+            "summary": "Nvidia announced a partnership with Japanese companies like Fanuc and Yaskawa Electric. This collaboration aims to advance robotics and artificial intelligence development significantly. Nvidia CEO Jensen Huang attended several events in Tokyo, generating considerable interest…"
+          },
+          {
+            "title": "AI should amplify, not replace, human judgment: Report",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-should-amplify-not-replace-human-judgment-report/articleshow/132430683.cms",
+            "source": "ET Tech",
+            "summary": "Artificial intelligence (AI) should not replace human judgment but amplify it, according to a new manifesto released by AI research company Thinking Machines, which argues that the \"future worth building is human\" and calls for AI systems that evolve alongside people rather th…"
+          },
+          {
+            "title": "Csquare IPO raises $1.05 billion as investors bet on AI boom",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/csquare-ipo-raises-1-05-billion-as-investors-bet-on-ai-boom/articleshow/132430546.cms",
+            "source": "ET Tech",
+            "summary": "Data center provider Csquare successfully raised $1.05 billion in its United States initial public offering. Investors continue to support companies poised to benefit from the artificial intelligence boom. The Dallas-based company sold fifty million shares at twenty-one dollar…"
+          },
+          {
+            "title": "China's Xi to outline AI diplomacy vision at key Shanghai forum",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-xi-to-outline-ai-diplomacy-vision-at-key-shanghai-forum/articleshow/132429969.cms",
+            "source": "ET Tech",
+            "summary": "President Xi Jinping will present China's ambitious AI governance vision at a Shanghai forum. Huawei will debut its advanced AI computing system, showcasing domestic technological progress. This event serves as a geopolitical stage for China's AI strategy. Beijing aims to prom…"
+          }
+        ]
+      }
+    ],
+    "careers": {
+      "note": "Demand snapshot for 2026. ML Engineer is the most in-demand AI title; agentic-AI and deep-learning skills carry the highest pay premiums; Python + one cloud is the baseline. Specialisation beats generalisation for freshers.",
+      "paths": [
+        {
+          "field": "Machine Learning Engineering",
+          "demand": "Very high",
+          "note": "#1 AI title — build, deploy & maintain models in production. Best all-round entry into AI."
+        },
+        {
+          "field": "AI / Agent Engineering (LLM apps)",
+          "demand": "Surging",
+          "note": "RAG, tool-use & multi-agent systems. ~40% of enterprise apps will embed AI agents by year-end."
+        },
+        {
+          "field": "Deep Learning / Research",
+          "demand": "High (premium pay)",
+          "note": "Neural nets for vision & speech. Highest premiums; usually needs strong maths / grad study."
+        },
+        {
+          "field": "MLOps / AI Infrastructure",
+          "demand": "High",
+          "note": "Ship & scale models on the cloud. Cloud AI certs add 20–25% to salary."
+        },
+        {
+          "field": "Data Science / Analytics",
+          "demand": "Steady",
+          "note": "Foundational, widest entry door; a reliable first step into AI."
+        },
+        {
+          "field": "Computer Vision",
+          "demand": "High",
+          "note": "Imaging, robotics, autonomous systems, medical AI."
+        },
+        {
+          "field": "NLP / LLM Engineering",
+          "demand": "Very high",
+          "note": "Powers chatbots, search & agents — the hottest application area."
+        },
+        {
+          "field": "AI Product / Solutions Architect",
+          "demand": "High (senior)",
+          "note": "5–8 yrs experience; $140k–$332k bands. Translates AI into business value."
+        },
+        {
+          "field": "AI Safety / Governance",
+          "demand": "Growing",
+          "note": "Alignment, evals, red-teaming & policy — newer but expanding fast."
+        }
+      ],
+      "fresher": [
+        {
+          "skill": "Python (NumPy, Pandas)",
+          "why": "The lingua franca of ML — non-negotiable."
+        },
+        {
+          "skill": "Maths foundations",
+          "why": "Linear algebra, probability & calculus — enough to reason about models."
+        },
+        {
+          "skill": "Core ML (scikit-learn)",
+          "why": "Regression, classification, evaluation, the ML workflow."
+        },
+        {
+          "skill": "One deep-learning framework (PyTorch)",
+          "why": "Build & train neural nets; PyTorch dominates research & jobs."
+        },
+        {
+          "skill": "LLMs: prompting + RAG basics",
+          "why": "Ship a small LLM app — the most visible skill to recruiters now."
+        },
+        {
+          "skill": "SQL + data wrangling",
+          "why": "Real AI work is mostly data; SQL is everywhere."
+        },
+        {
+          "skill": "One cloud + Git/GitHub",
+          "why": "AWS leads (~40% of postings), then Azure & GCP. Version everything."
+        },
+        {
+          "skill": "Ship a portfolio project",
+          "why": "A deployed project that solves a real problem is the #1 differentiator."
+        }
+      ],
+      "experienced": [
+        {
+          "skill": "MLOps & deployment",
+          "why": "Docker, CI/CD, monitoring, model/versioning — production is where value lives."
+        },
+        {
+          "skill": "Agentic system design",
+          "why": "Multi-agent orchestration, tool-use, evals — the surging frontier."
+        },
+        {
+          "skill": "Cloud AI at scale",
+          "why": "AWS/Azure/GCP architecture; certs add a 20–25% salary premium."
+        },
+        {
+          "skill": "LLM fine-tuning & evals",
+          "why": "Adapt, measure and harden models for a domain."
+        },
+        {
+          "skill": "Distributed training / GPU optimisation",
+          "why": "Cost & latency engineering for large models."
+        },
+        {
+          "skill": "ML system design",
+          "why": "Trade-offs across data, latency, cost & reliability at scale."
+        },
+        {
+          "skill": "Domain specialisation",
+          "why": "CV, NLP, recsys, healthcare — depth beats breadth at senior levels."
+        },
+        {
+          "skill": "AI → business translation",
+          "why": "Leading teams and tying models to measurable outcomes."
+        }
+      ]
+    },
+    "profile": {
+      "name": "Harman Singh Sandhu",
+      "handle": "Ace",
+      "blurb": "I build AI/ML projects and write about them. This site is one of them — an automated daily AI digest.",
+      "linkedin": "https://www.linkedin.com/in/harman-singh-sandhu/",
+      "github": "https://github.com/Ace-2504",
+      "devto": "https://dev.to/ace2504",
+      "repos": [
+        {
+          "name": "Ace-2504",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/Ace-2504",
+          "stars": 1,
+          "language": ""
+        },
+        {
+          "name": "serenity",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/serenity",
+          "stars": 1,
+          "language": "TypeScript"
+        },
+        {
+          "name": "A-360",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/A-360",
+          "stars": 1,
+          "language": "EJS"
+        },
+        {
+          "name": "Ace-rentals",
+          "desc": "Ace Rentals: A full-stack property rental platform built with Node.js, Express, and MongoDB. Features user authentication, image uploads, geocoding, reviews, and secure account management. Inspired by Airbnb.",
+          "url": "https://github.com/Ace-2504/Ace-rentals",
+          "stars": 1,
+          "language": "JavaScript"
+        },
+        {
+          "name": "fine-tuned-125m-slm",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/fine-tuned-125m-slm",
+          "stars": 0,
+          "language": "Python"
+        },
+        {
+          "name": "ai-weekly-report",
+          "desc": "My personalized AI newsletter that runs on an agentic AI",
+          "url": "https://github.com/Ace-2504/ai-weekly-report",
+          "stars": 0,
+          "language": "HTML"
+        }
+      ]
+    }
+  }
+}
