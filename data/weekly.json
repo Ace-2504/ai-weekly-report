@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-07-11 to 2026-07-17",
-  "generated": "2026-07-17T07:51:13.859Z",
-  "intro": "394 AI items this week (68 India-relevant) across 11 sources.",
+  "weekOf": "2026-07-12 to 2026-07-18",
+  "generated": "2026-07-18T07:26:13.881Z",
+  "intro": "400 AI items this week (74 India-relevant) across 11 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -152,12 +152,24 @@
           "url": "https://arxiv.org/abs/2607.13162",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2607.13162v2 Announce Type: replace-cross Abstract: What a language model will and will not do is largely set during post-training, but which behaviors it expresses, hides, or resists is not revealed by prompting alone. Persona vectors, behavioral directions in activatio…"
+        },
+        {
+          "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "source": "TechCrunch AI",
+          "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding."
         }
       ]
     },
     {
       "heading": "Industry & Research",
       "items": [
+        {
+          "title": "Neil Rimer thinks the AI money is coming back out",
+          "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+          "source": "TechCrunch AI",
+          "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily."
+        },
         {
           "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
           "url": "https://arxiv.org/abs/2607.14093",
@@ -187,12 +199,6 @@
           "url": "https://arxiv.org/abs/2607.14169",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2607.14169v1 Announce Type: new Abstract: Large language models can synthesize a game's rules as executable code - a Code World Model (CWM) - which a classical planner then searches over. Such models are typically accepted when they reach high transition accuracy on samp…"
-        },
-        {
-          "title": "RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination",
-          "url": "https://arxiv.org/abs/2607.14187",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.14187v1 Announce Type: new Abstract: Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an embodied cognition foundation model with joint language-visual reasoning and im…"
         }
       ]
     },
@@ -200,52 +206,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Xi pitches China as leader of new global AI order, challenging US dominance",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/xi-pitches-china-as-leader-of-new-global-ai-order-challenging-us-dominance/articleshow/132455439.cms",
-          "source": "ET Tech",
-          "summary": "Chinese President Xi Jinping promoted open-source artificial intelligence at a major tech conference. He urged nations to embrace this technology and pledged support for developing countries. China aims to shape global AI governance and create new standards for the sector. Thi…"
+          "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal: Report",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-anthropic-in-talks-for-potential-10-billion-compute-lease-deal-report-10792147/",
+          "source": "Indian Express Tech",
+          "summary": ""
         },
         {
-          "title": "AI agent economics to shape next phase of enterprise GenAI adoption; 60% of agentic AI costs go to response refinement: McKinsey",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agent-economics-to-shape-next-phase-of-enterprise-genai-adoption-60-of-agentic-ai-costs-go-to-response-refinement-mckinsey/articleshow/132455285.cms",
+          "title": "Anthropic includes Fable 5 for top-tier subscriptions after weeks of extensions",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-includes-fable-5-for-top-tier-subscriptions-after-weeks-of-extensions/articleshow/132474218.cms",
           "source": "ET Tech",
-          "summary": "As generative artificial intelligence (Gen AI) moves beyond experimentation into enterprise-scale deployment, business leaders are increasingly grappling with the economics of AI agents rather than the technology itself, according to a new McKinsey report."
-        },
-        {
-          "title": "China's Moonshot AI chases 'DeepSeek moment' with much-hyped model",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-moonshot-ai-chases-deepseek-moment-with-much-hyped-model/articleshow/132454368.cms",
-          "source": "ET Tech",
-          "summary": "Chinese startup Moonshot AI released its Kimi K3 large language model on Friday. This new model is generating significant excitement within the technology sector. Experts suggest Kimi K3 could rival advanced offerings from American artificial intelligence labs. Its open-source…"
-        },
-        {
-          "title": "Among AI crowd, some investors position for slower hyperscaler spending growth",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/among-ai-crowd-some-investors-position-for-slower-hyperscaler-spending-growth/articleshow/132453866.cms",
-          "source": "ET Tech",
-          "summary": "For most of the past two years, the opposite trade prevailed: investors piled into semiconductor and infrastructure companies on the ​assumption that Microsoft, Amazon, Alphabet and Meta would keep accelerating spending on the buildout of data centers."
-        },
-        {
-          "title": "Startups bet on AI - and a leaner future",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/startups-bet-on-ai-and-a-leaner-future/articleshow/132453344.cms",
-          "source": "ET Tech",
-          "summary": "When Eric Lauer needs to hire at Giftory, the online gift-giving platform he runs, he's no longer looking for eager young coders fresh out of college. \"We're still in a hypergrowth phase,\" Lauer said."
-        },
-        {
-          "title": "Elon Musk announces X will open-source its entire codebase: What does he mean?",
-          "url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-announces-x-will-open-source-its-entire-code-base-what-does-he-mean/articleshow/132453234.cms",
-          "source": "ET Tech",
-          "summary": "Additionally, xAI also open-sourced its Grok Build coding agent following a data-privacy controversy. \"Open sourcing Grok Build allows anyone to support making a reliable and robust harness. Check out our code, including the Git repo for the Grok Build CLI,\" SpaceXAI said in a…"
-        },
-        {
-          "title": "AI won't replace people, it'll replace the incurious, says Hostinger CMO Kristina Strimaite",
-          "url": "https://yourstory.com/2026/07/hostinger-cmo-kristina-strimaite-ai-replace-incurious",
-          "source": "YourStory",
-          "summary": "Hostinger CMO Kristina Strimaite on why AI will replace the incurious, the rise of one-person companies, and building global from Lithuania."
+          "summary": "Under the new terms, Max and Team Premium subscribers will get Fable 5 built into their plans indefinitely, capped at 50% of their regular usage limits. Pro and Team Standard subscribers will not get the model included in their base plans, but will keep access through usage cr…"
         },
         {
           "title": "Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)",
           "url": "https://arxiv.org/abs/2607.14301",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2607.14301v1 Announce Type: new Abstract: As generative AI (GenAI) becomes increasingly embedded in undergraduate academic writing, how students rely on these tools, rather than simply whether they use them, has become a central question for learning, academic integrity,…"
+        },
+        {
+          "title": "RAD: Retrieval High-quality Demonstrations to Enhance Decision-making",
+          "url": "https://arxiv.org/abs/2507.15356",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2507.15356v2 Announce Type: replace Abstract: Offline reinforcement learning (RL) learns policies from fixed datasets, thereby avoiding costly or unsafe environment interactions. However, its reliance on finite static datasets inherently restricts the ability to generali…"
+        },
+        {
+          "title": "From Stateless to Situated: Building a Psychological World for LLM-Based Agents",
+          "url": "https://arxiv.org/abs/2603.25031",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2603.25031v2 Announce Type: replace Abstract: In psychological support and emotional companionship scenarios, the core limitation of large language models (LLMs) lies not merely in response quality, but in their reliance on local next-token prediction, which prevents the…"
+        },
+        {
+          "title": "TSHA: A Benchmark for Visual Language Models in Trustworthy Safety Hazard Assessment Scenarios",
+          "url": "https://arxiv.org/abs/2603.29759",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2603.29759v3 Announce Type: replace-cross Abstract: Recent advances in vision-language models (VLMs) have accelerated their application to indoor safety hazards assessment. However, existing benchmarks suffer from three fundamental limitations: (1) heavy reliance on synt…"
+        },
+        {
+          "title": "Elon Musk's SpaceX in talks to supply the Pentagon with computing power: Report",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musks-spacex-in-talks-to-supply-the-pentagon-with-computing-power-report/articleshow/132473061.cms",
+          "source": "ET Tech",
+          "summary": "According to the report, SpaceX employees have discussed plans to compete more directly with neocloud firms ​such as CoreWeave by selling computing capacity ⁠to AI ‌customers at lower prices."
+        },
+        {
+          "title": "Chinese AI model takes US tech industry by surprise with abilities rivalling Claude, ChatGPT",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-ai-model-takes-us-tech-industry-by-surprise-with-abilities-rivalling-claude-chatgpt/articleshow/132472800.cms",
+          "source": "ET Tech",
+          "summary": "The newest Kimi K3 model from Beijing-based startup Moonshot, run by a Pink Floyd-loving entrepreneur who earned his doctorate in Pittsburgh, appears to be catching up to the best versions of Anthropic's Claude and OpenAI's ChatGPT."
         }
       ]
     }
