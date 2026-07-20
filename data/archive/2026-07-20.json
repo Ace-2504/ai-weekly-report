@@ -2,20 +2,26 @@
   "daily": {
     "date": "2026-07-20",
     "top": {
-      "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
-      "url": "https://arxiv.org/abs/2607.15280",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z",
-      "summary": "arXiv:2607.15280v1 Announce Type: new Abstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Existing Large Language Model (LLM) approaches exhibit a critical knowledge-reasoning gap: despite encodi…"
+      "title": "AI is more likely than humans to form biases when hiring",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-20T08:39:01.000Z",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can al…"
     },
     "topIndia": {
-      "title": "China’s Moonshot AI pauses new signups for Kimi K3 as demand overwhelms GPUs",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/china-moonshot-ai-pauses-new-signups-kimi-k3-10794789/",
-      "source": "Indian Express Tech",
-      "published": "2026-07-20T07:04:34.000Z",
-      "summary": ""
+      "title": "AI-driven chip boom fuels 47% surge in entry-level semiconductor hiring in South Korea",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-driven-chip-boom-fuels-47-surge-in-entry-level-semiconductor-hiring-in-south-korea/articleshow/132511070.cms",
+      "source": "ET Tech",
+      "published": "2026-07-20T09:08:45.000Z",
+      "summary": "JobKorea said Monday that entry-level hiring in South Korea's semiconductor industry surged in the first half of the year, reflecting robust demand for talent as the AI-driven chip boom continues, The Korea Herald reported."
     },
     "headlines": [
+      {
+        "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+        "url": "https://arxiv.org/abs/2607.15280",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-20T04:00:00.000Z"
+      },
       {
         "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
         "url": "https://arxiv.org/abs/2607.15281",
@@ -79,12 +85,6 @@
       {
         "title": "SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction",
         "url": "https://arxiv.org/abs/2607.15550",
-        "source": "arXiv cs.AI",
-        "published": "2026-07-20T04:00:00.000Z"
-      },
-      {
-        "title": "MGDT: MLLM-Guided Diffusion Transformer with Relation-Adaptive Mixture-of-Experts for Multimodal Knowledge Graph Completion",
-        "url": "https://arxiv.org/abs/2607.15592",
         "source": "arXiv cs.AI",
         "published": "2026-07-20T04:00:00.000Z"
       }
@@ -173,8 +173,8 @@
   },
   "weekly": {
     "weekOf": "2026-07-14 to 2026-07-20",
-    "generated": "2026-07-20T08:38:29.986Z",
-    "intro": "306 AI items this week (70 India-relevant) across 11 sources.",
+    "generated": "2026-07-20T09:49:18.358Z",
+    "intro": "306 AI items this week (69 India-relevant) across 11 sources.",
     "sections": [
       {
         "heading": "Large Language Models",
@@ -332,6 +332,12 @@
         "heading": "Industry & Research",
         "items": [
           {
+            "title": "AI is more likely than humans to form biases when hiring",
+            "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+            "source": "MIT Tech Review",
+            "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can al…"
+          },
+          {
             "title": "Beyond a Joke: Multi-Angle Reasoning for Detecting and Explaining Harmful Humor in Memes",
             "url": "https://arxiv.org/abs/2607.15442",
             "source": "arXiv cs.AI",
@@ -360,18 +366,18 @@
             "url": "https://arxiv.org/abs/2607.15715",
             "source": "arXiv cs.AI",
             "summary": "arXiv:2607.15715v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly used for complex information-extraction tasks, yet it remains unclear whether agentic components such as reflection and memory lead to observable and controllable improvements ov…"
-          },
-          {
-            "title": "Knowledge-Centric Agents for Workflow Generation",
-            "url": "https://arxiv.org/abs/2607.15845",
-            "source": "arXiv cs.AI",
-            "summary": "arXiv:2607.15845v1 Announce Type: new Abstract: Workflow generation in visual creation systems such as ComfyUI demands not only syntactic accuracy but also expert-level reasoning over modular compositions. Existing large language model (LLM) approaches often treat this as a di…"
           }
         ]
       },
       {
         "heading": "India & Subcontinent",
         "items": [
+          {
+            "title": "AI-driven chip boom fuels 47% surge in entry-level semiconductor hiring in South Korea",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-driven-chip-boom-fuels-47-surge-in-entry-level-semiconductor-hiring-in-south-korea/articleshow/132511070.cms",
+            "source": "ET Tech",
+            "summary": "JobKorea said Monday that entry-level hiring in South Korea's semiconductor industry surged in the first half of the year, reflecting robust demand for talent as the AI-driven chip boom continues, The Korea Herald reported."
+          },
           {
             "title": "China’s Moonshot AI pauses new signups for Kimi K3 as demand overwhelms GPUs",
             "url": "https://indianexpress.com/article/technology/artificial-intelligence/china-moonshot-ai-pauses-new-signups-kimi-k3-10794789/",
@@ -413,12 +419,6 @@
             "url": "https://economictimes.indiatimes.com/tech/technology/tsmc-expects-strong-multi-year-demand-for-ai-chips-as-it-ramps-up-arizona-investment/articleshow/132505006.cms",
             "source": "ET Tech",
             "summary": "Speaking after blockbuster second-quarter results on Thursday, Chief ​Financial Officer Wendell Huang said the company is \"very happy\" with progress in Arizona, which is why it decided to ramp up investment to $265 billion."
-          },
-          {
-            "title": "China's Moonshot AI pauses new Kimi K3 subscriptions amid surge in demand",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-moonshot-ai-pauses-new-kimi-k3-subscriptions-amid-surge-in-demand/articleshow/132504650.cms",
-            "source": "ET Tech",
-            "summary": "In a social media post, Kimi AI stated the surge in demand over the last 48 hours has pushed the company's current capacity close to its limits. Hence, to ensure a stable experience for existing subscribers, new subscriptions have been temporarily paused."
           }
         ]
       }

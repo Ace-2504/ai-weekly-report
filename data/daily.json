@@ -1,20 +1,26 @@
 {
   "date": "2026-07-20",
   "top": {
-    "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
-    "url": "https://arxiv.org/abs/2607.15280",
-    "source": "arXiv cs.AI",
-    "published": "2026-07-20T04:00:00.000Z",
-    "summary": "arXiv:2607.15280v1 Announce Type: new Abstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Existing Large Language Model (LLM) approaches exhibit a critical knowledge-reasoning gap: despite encodi…"
+    "title": "AI is more likely than humans to form biases when hiring",
+    "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "source": "MIT Tech Review",
+    "published": "2026-07-20T08:39:01.000Z",
+    "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can al…"
   },
   "topIndia": {
-    "title": "China’s Moonshot AI pauses new signups for Kimi K3 as demand overwhelms GPUs",
-    "url": "https://indianexpress.com/article/technology/artificial-intelligence/china-moonshot-ai-pauses-new-signups-kimi-k3-10794789/",
-    "source": "Indian Express Tech",
-    "published": "2026-07-20T07:04:34.000Z",
-    "summary": ""
+    "title": "AI-driven chip boom fuels 47% surge in entry-level semiconductor hiring in South Korea",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-driven-chip-boom-fuels-47-surge-in-entry-level-semiconductor-hiring-in-south-korea/articleshow/132511070.cms",
+    "source": "ET Tech",
+    "published": "2026-07-20T09:08:45.000Z",
+    "summary": "JobKorea said Monday that entry-level hiring in South Korea's semiconductor industry surged in the first half of the year, reflecting robust demand for talent as the AI-driven chip boom continues, The Korea Herald reported."
   },
   "headlines": [
+    {
+      "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+      "url": "https://arxiv.org/abs/2607.15280",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-20T04:00:00.000Z"
+    },
     {
       "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
       "url": "https://arxiv.org/abs/2607.15281",
@@ -78,12 +84,6 @@
     {
       "title": "SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction",
       "url": "https://arxiv.org/abs/2607.15550",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z"
-    },
-    {
-      "title": "MGDT: MLLM-Guided Diffusion Transformer with Relation-Adaptive Mixture-of-Experts for Multimodal Knowledge Graph Completion",
-      "url": "https://arxiv.org/abs/2607.15592",
       "source": "arXiv cs.AI",
       "published": "2026-07-20T04:00:00.000Z"
     }
