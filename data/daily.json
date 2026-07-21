@@ -1,101 +1,94 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "top": {
-    "title": "AI is more likely than humans to form biases when hiring",
-    "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-    "source": "MIT Tech Review",
-    "published": "2026-07-20T08:39:01.000Z",
-    "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can al…"
+    "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+    "url": "https://arxiv.org/abs/2607.16195",
+    "source": "arXiv cs.AI",
+    "published": "2026-07-21T04:00:00.000Z",
+    "summary": "arXiv:2607.16195v1 Announce Type: new Abstract: We identify a structured confound in Reinforcement Learning from Human Feedback (RLHF). Pairwise preference labels are intended to reflect the compared outputs, but they may also reflect the rater's state during annotation. Under…"
   },
   "topIndia": {
-    "title": "AI-driven chip boom fuels 47% surge in entry-level semiconductor hiring in South Korea",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-driven-chip-boom-fuels-47-surge-in-entry-level-semiconductor-hiring-in-south-korea/articleshow/132511070.cms",
+    "title": "South Korea promises free homegrown AI chatbot this year",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-promises-free-homegrown-ai-chatbot-this-year/articleshow/132530655.cms",
     "source": "ET Tech",
-    "published": "2026-07-20T09:08:45.000Z",
-    "summary": "JobKorea said Monday that entry-level hiring in South Korea's semiconductor industry surged in the first half of the year, reflecting robust demand for talent as the AI-driven chip boom continues, The Korea Herald reported."
+    "published": "2026-07-21T07:27:28.000Z",
+    "summary": "As the technology has spread, countries have become increasingly concerned with so-called \"AI sovereignty\" -- developing domestic models serving their own security, privacy and business interests. A spokesperson for South Korea's science ministry told AFP Tuesday that a govern…"
   },
   "headlines": [
     {
-      "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
-      "url": "https://arxiv.org/abs/2607.15280",
+      "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+      "url": "https://arxiv.org/abs/2607.16196",
       "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z"
+      "published": "2026-07-21T04:00:00.000Z"
     },
     {
-      "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
-      "url": "https://arxiv.org/abs/2607.15281",
+      "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+      "url": "https://arxiv.org/abs/2607.16197",
       "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z"
+      "published": "2026-07-21T04:00:00.000Z"
     },
     {
-      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
-      "url": "https://arxiv.org/abs/2607.15314",
+      "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
+      "url": "https://arxiv.org/abs/2607.16198",
       "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z"
+      "published": "2026-07-21T04:00:00.000Z"
     },
     {
-      "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
-      "url": "https://arxiv.org/abs/2607.15367",
+      "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+      "url": "https://arxiv.org/abs/2607.16199",
       "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z"
+      "published": "2026-07-21T04:00:00.000Z"
     },
     {
-      "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
-      "url": "https://arxiv.org/abs/2607.15388",
+      "title": "Deterministic Replay for AI Agent Systems",
+      "url": "https://arxiv.org/abs/2607.16200",
       "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z"
+      "published": "2026-07-21T04:00:00.000Z"
     },
     {
-      "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
-      "url": "https://arxiv.org/abs/2607.15418",
+      "title": "Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models",
+      "url": "https://arxiv.org/abs/2607.16201",
       "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z"
+      "published": "2026-07-21T04:00:00.000Z"
     },
     {
-      "title": "Do Coding Agents Need Executable World Models, Simplification, and Verification to Solve ARC-AGI-3?",
-      "url": "https://arxiv.org/abs/2607.15439",
+      "title": "Democratizing AI with Small Language Models: Structured Benchmarking and Parameter-Efficient Fine-Tuning for Local Deployment",
+      "url": "https://arxiv.org/abs/2607.16202",
       "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z"
+      "published": "2026-07-21T04:00:00.000Z"
     },
     {
-      "title": "Beyond a Joke: Multi-Angle Reasoning for Detecting and Explaining Harmful Humor in Memes",
-      "url": "https://arxiv.org/abs/2607.15442",
+      "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
+      "url": "https://arxiv.org/abs/2607.16204",
       "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z"
+      "published": "2026-07-21T04:00:00.000Z"
     },
     {
-      "title": "From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems",
-      "url": "https://arxiv.org/abs/2607.15459",
+      "title": "It Takes 8 Tokens: Weak-to-Strong Off-Policy RL via Auxiliary Branches",
+      "url": "https://arxiv.org/abs/2607.16205",
       "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z"
+      "published": "2026-07-21T04:00:00.000Z"
     },
     {
-      "title": "A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms",
-      "url": "https://arxiv.org/abs/2607.15480",
+      "title": "PPO-HSC: An Exploratory Reinforcement Learning Framework Based on Wide-Area Policy Coverage Optimization",
+      "url": "https://arxiv.org/abs/2607.16206",
       "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z"
+      "published": "2026-07-21T04:00:00.000Z"
     },
     {
-      "title": "Logic, Optimization, and Artificial Intelligence",
-      "url": "https://arxiv.org/abs/2607.15532",
+      "title": "JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2607.16207",
       "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z"
+      "published": "2026-07-21T04:00:00.000Z"
     },
     {
-      "title": "SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction",
-      "url": "https://arxiv.org/abs/2607.15550",
+      "title": "ColGraphRAG: Late-Interaction Evidence Retrieval for Multimodal GraphRAG",
+      "url": "https://arxiv.org/abs/2607.16208",
       "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z"
+      "published": "2026-07-21T04:00:00.000Z"
     }
   ],
   "events": [
-    {
-      "title": "Scaling Time Series Classification via XAI-Driven Data Reduction",
-      "url": "https://arxiv.org/abs/2607.15774",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-20T04:00:00.000Z",
-      "summary": "arXiv:2607.15774v1 Announce Type: cross Abstract: Explainable AI (XAI) for time series has seen significant algorithmic growth, but its utility in providing measurable performance gains for downstream tasks remains under-explored. This paper bridges this gap by introducing drX…"
-    },
     {
       "title": "OpenAI launches its hardware: Codex Micro. What is this programmable macropad?",
       "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-enters-hardware-with-codex-micro-10788753/",
