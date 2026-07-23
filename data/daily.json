@@ -1,114 +1,121 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "top": {
-    "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-    "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-    "source": "TechCrunch AI",
-    "published": "2026-07-22T08:00:00.000Z",
-    "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness."
+    "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+    "url": "https://arxiv.org/abs/2607.19349",
+    "source": "arXiv cs.AI",
+    "published": "2026-07-23T04:00:00.000Z",
+    "summary": "arXiv:2607.19349v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achieving low latency and high throughput under volatile demand requires deep underst…"
   },
   "topIndia": {
-    "title": "UK's Bloomsbury among beneficiaries of $1.5 billion Anthropic copyright lawsuit settlement",
-    "url": "https://economictimes.indiatimes.com/tech/technology/uks-bloomsbury-among-beneficiaries-of-1-5-billion-anthropic-copyright-lawsuit-settlement/articleshow/132552966.cms",
+    "title": "Besi orders more than double as AI and hybrid bonding tech drive demand",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/besi-orders-more-than-double-as-ai-and-hybrid-bonding-tech-drive-demand/articleshow/132574476.cms",
     "source": "ET Tech",
-    "published": "2026-07-22T06:53:29.000Z",
-    "summary": "Bloomsbury Publishing is a beneficiary of a significant $1.5 billion settlement. This agreement resolves claims that Anthropic used copyrighted books without permission. A U.S. court identified over 14,000 Bloomsbury titles covered by this landmark payout. Authors and publishe…"
+    "published": "2026-07-23T07:24:33.000Z",
+    "summary": "Besi's quarterly orders more than doubled, fueled by AI and hybrid bonding technology. The company saw increased customer adoption of its advanced chip packaging solutions. Demand for AI applications continues to drive growth in data centers. Besi anticipates revenue growth be…"
   },
   "headlines": [
     {
-      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-      "url": "https://arxiv.org/abs/2607.18239",
+      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+      "url": "https://arxiv.org/abs/2607.19350",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z"
+      "published": "2026-07-23T04:00:00.000Z"
     },
     {
-      "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-      "url": "https://arxiv.org/abs/2607.18240",
+      "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+      "url": "https://arxiv.org/abs/2607.19351",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z"
+      "published": "2026-07-23T04:00:00.000Z"
     },
     {
-      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-      "url": "https://arxiv.org/abs/2607.18241",
+      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+      "url": "https://arxiv.org/abs/2607.19353",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z"
+      "published": "2026-07-23T04:00:00.000Z"
     },
     {
-      "title": "AI Tool Discovery at Scale: All You Need is DNS",
-      "url": "https://arxiv.org/abs/2607.18242",
+      "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
+      "url": "https://arxiv.org/abs/2607.19354",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z"
+      "published": "2026-07-23T04:00:00.000Z"
     },
     {
-      "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
-      "url": "https://arxiv.org/abs/2607.18243",
+      "title": "Information Discernment in Large Language Models",
+      "url": "https://arxiv.org/abs/2607.19355",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z"
+      "published": "2026-07-23T04:00:00.000Z"
     },
     {
-      "title": "SAAG: Structured Agent Assessment and Grounding",
-      "url": "https://arxiv.org/abs/2607.18245",
+      "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2607.19356",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z"
+      "published": "2026-07-23T04:00:00.000Z"
     },
     {
-      "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
-      "url": "https://arxiv.org/abs/2607.18246",
+      "title": "Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems",
+      "url": "https://arxiv.org/abs/2607.19357",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z"
+      "published": "2026-07-23T04:00:00.000Z"
     },
     {
-      "title": "Integro-differential equations in angular stabilization of drone motion by distributed feedback control",
-      "url": "https://arxiv.org/abs/2607.18251",
+      "title": "LISA: Linear-Indexed Sparse Attention for Efficient Long-Context Reasoning",
+      "url": "https://arxiv.org/abs/2607.19358",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z"
+      "published": "2026-07-23T04:00:00.000Z"
     },
     {
-      "title": "MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers",
-      "url": "https://arxiv.org/abs/2607.18252",
+      "title": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles",
+      "url": "https://arxiv.org/abs/2607.19359",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z"
+      "published": "2026-07-23T04:00:00.000Z"
     },
     {
-      "title": "Beyond Accuracy and Cost: Latency-Aware LLM Query Routing for Dynamic Workloads",
-      "url": "https://arxiv.org/abs/2607.18253",
+      "title": "Lifted Representation Hypothesis in Language Models",
+      "url": "https://arxiv.org/abs/2607.19360",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z"
+      "published": "2026-07-23T04:00:00.000Z"
     },
     {
-      "title": "Cross-Dialect Generalization Without Retraining: Benchmarks and Evaluation of Schema-Derived Constrained Decoding for MLIR",
-      "url": "https://arxiv.org/abs/2607.18254",
+      "title": "GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods",
+      "url": "https://arxiv.org/abs/2607.19362",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z"
+      "published": "2026-07-23T04:00:00.000Z"
     },
     {
-      "title": "Semantic Cooperative Games for Contribution Attribution in LLM-Based Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2607.18255",
+      "title": "AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally",
+      "url": "https://arxiv.org/abs/2607.19363",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z"
+      "published": "2026-07-23T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability",
-      "url": "https://arxiv.org/abs/2607.18368",
+      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+      "url": "https://arxiv.org/abs/2607.19353",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z",
-      "summary": "arXiv:2607.18368v1 Announce Type: new Abstract: Partially observable reinforcement learning requires deciding what to retain, retrieve, and forget over time. We introduce a neuro-symbolic meta-policy that learns which symbolic memory heuristic to apply at each decision point w…"
+      "published": "2026-07-23T04:00:00.000Z",
+      "summary": "arXiv:2607.19353v1 Announce Type: new Abstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs or protect proprietary model assets. However, the performance cost of enabling confidential execution …"
     },
     {
-      "title": "From Trajectories to Instructions: Language-Conditioned Meta-Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2607.18830",
+      "title": "BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators",
+      "url": "https://arxiv.org/abs/2607.19438",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z",
-      "summary": "arXiv:2607.18830v1 Announce Type: cross Abstract: Model-Agnostic Meta-Learning (MAML) is a widely used framework for reinforcement learning (RL) that enables efficient transfer by learning global policy parameters that can be rapidly adapted to new tasks. MAML training proceed…"
+      "published": "2026-07-23T04:00:00.000Z",
+      "summary": "arXiv:2607.19438v1 Announce Type: cross Abstract: Apple's M5 generation introduces a redesigned GPU architecture in which every core carries a dedicated Neural Accelerator: on-die matrix units exposed through the Metal~4 tensor API. We show that BaseRT, our native Metal infere…"
     },
     {
-      "title": "Variational meta-learning inference for low dimensional neural system identification",
-      "url": "https://arxiv.org/abs/2607.18965",
+      "title": "You Live More Than Once: Towards Hierarchical Skill Meta-Evolving",
+      "url": "https://arxiv.org/abs/2605.28390",
       "source": "arXiv cs.AI",
-      "published": "2026-07-22T04:00:00.000Z",
-      "summary": "arXiv:2607.18965v1 Announce Type: cross Abstract: Deep learning has proven highly effective for nonlinear system identification, but heavily parameterized neural networks are prone to overfitting in low-data regimes and lack reliable uncertainty quantification. The recently de…"
+      "published": "2026-07-23T04:00:00.000Z",
+      "summary": "arXiv:2605.28390v2 Announce Type: replace Abstract: Test-time skill evolving is regarded as a new paradigm for enhancing deployed agentic systems. Existing works mainly focus on hard-coded skill evolving strategies or parametric learning that rely on expensive parameter update…"
+    },
+    {
+      "title": "Scaling Time Series Classification via XAI-Driven Data Reduction",
+      "url": "https://arxiv.org/abs/2607.15774",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-23T04:00:00.000Z",
+      "summary": "arXiv:2607.15774v2 Announce Type: replace-cross Abstract: Explainable AI (XAI) for time series has seen significant algorithmic growth, but its utility in providing measurable performance gains for downstream tasks remains under-explored. This paper bridges this gap by introdu…"
     },
     {
       "title": "Nvidia supplier Wistron launches $700 million Texas factory for AI system production",
@@ -116,20 +123,6 @@
       "source": "ET Tech",
       "published": "2026-07-22T03:08:41.000Z",
       "summary": "The Fort Worth facility manufactures Nvidia's GB300 Grace Blackwell ​Ultra Superchip. Nvidia CEO Jensen Huang has described the AI system built around the ​product as \"the most powerful ⁠AI supercomputer in ‌the world.\" Wistron said ​the site ​is where Nvidia's first GB300 ⁠Gr…"
-    },
-    {
-      "title": "Google updates lightweight Gemini models, but flagship still delayed",
-      "url": "https://economictimes.indiatimes.com/tech/technology/google-updates-lightweight-gemini-models-but-flagship-still-delayed/articleshow/132540145.cms",
-      "source": "ET Tech",
-      "published": "2026-07-21T15:24:23.000Z",
-      "summary": "Google launched three new Gemini AI models, offering cost-effective solutions. The company has not provided a release date for its flagship Gemini 3.5 Pro. This top-tier model's delay is reportedly due to internal performance shortcomings. Google's rivals have recently introdu…"
-    },
-    {
-      "title": "OpenAI launches its hardware: Codex Micro. What is this programmable macropad?",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-enters-hardware-with-codex-micro-10788753/",
-      "source": "Indian Express Tech",
-      "published": "2026-07-16T03:47:37.000Z",
-      "summary": ""
     }
   ],
   "people": [
@@ -171,16 +164,16 @@
     {
       "name": "Andrej Karpathy",
       "org": "AI educator",
-      "link": "https://karpathy.ai",
-      "article": null,
-      "source": "Profile"
+      "link": "https://arxiv.org/abs/2607.19992",
+      "article": "TINY_SCHILLER: A Drop-In German Drama Corpus for Small Language Models",
+      "source": "arXiv cs.AI"
     },
     {
       "name": "Sundar Pichai",
       "org": "Google",
-      "link": "https://x.com/sundarpichai",
-      "article": null,
-      "source": "Profile"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/pichai-pushes-back-on-claims-google-is-losing-ground-in-ai-race/articleshow/132570467.cms",
+      "article": "Sundar Pichai pushes back on claims Google is losing ground in AI race",
+      "source": "ET Tech"
     },
     {
       "name": "Mira Murati",

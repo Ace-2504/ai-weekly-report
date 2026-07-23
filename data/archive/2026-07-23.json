@@ -1,0 +1,623 @@
+{
+  "daily": {
+    "date": "2026-07-23",
+    "top": {
+      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+      "url": "https://arxiv.org/abs/2607.19349",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-23T04:00:00.000Z",
+      "summary": "arXiv:2607.19349v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achieving low latency and high throughput under volatile demand requires deep underst…"
+    },
+    "topIndia": {
+      "title": "Besi orders more than double as AI and hybrid bonding tech drive demand",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/besi-orders-more-than-double-as-ai-and-hybrid-bonding-tech-drive-demand/articleshow/132574476.cms",
+      "source": "ET Tech",
+      "published": "2026-07-23T07:24:33.000Z",
+      "summary": "Besi's quarterly orders more than doubled, fueled by AI and hybrid bonding technology. The company saw increased customer adoption of its advanced chip packaging solutions. Demand for AI applications continues to drive growth in data centers. Besi anticipates revenue growth be…"
+    },
+    "headlines": [
+      {
+        "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+        "url": "https://arxiv.org/abs/2607.19350",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z"
+      },
+      {
+        "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+        "url": "https://arxiv.org/abs/2607.19351",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z"
+      },
+      {
+        "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+        "url": "https://arxiv.org/abs/2607.19353",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z"
+      },
+      {
+        "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
+        "url": "https://arxiv.org/abs/2607.19354",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z"
+      },
+      {
+        "title": "Information Discernment in Large Language Models",
+        "url": "https://arxiv.org/abs/2607.19355",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z"
+      },
+      {
+        "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
+        "url": "https://arxiv.org/abs/2607.19356",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z"
+      },
+      {
+        "title": "Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems",
+        "url": "https://arxiv.org/abs/2607.19357",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z"
+      },
+      {
+        "title": "LISA: Linear-Indexed Sparse Attention for Efficient Long-Context Reasoning",
+        "url": "https://arxiv.org/abs/2607.19358",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z"
+      },
+      {
+        "title": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles",
+        "url": "https://arxiv.org/abs/2607.19359",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z"
+      },
+      {
+        "title": "Lifted Representation Hypothesis in Language Models",
+        "url": "https://arxiv.org/abs/2607.19360",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z"
+      },
+      {
+        "title": "GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods",
+        "url": "https://arxiv.org/abs/2607.19362",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z"
+      },
+      {
+        "title": "AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally",
+        "url": "https://arxiv.org/abs/2607.19363",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z"
+      }
+    ],
+    "events": [
+      {
+        "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+        "url": "https://arxiv.org/abs/2607.19353",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z",
+        "summary": "arXiv:2607.19353v1 Announce Type: new Abstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs or protect proprietary model assets. However, the performance cost of enabling confidential execution …"
+      },
+      {
+        "title": "BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators",
+        "url": "https://arxiv.org/abs/2607.19438",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z",
+        "summary": "arXiv:2607.19438v1 Announce Type: cross Abstract: Apple's M5 generation introduces a redesigned GPU architecture in which every core carries a dedicated Neural Accelerator: on-die matrix units exposed through the Metal~4 tensor API. We show that BaseRT, our native Metal infere…"
+      },
+      {
+        "title": "You Live More Than Once: Towards Hierarchical Skill Meta-Evolving",
+        "url": "https://arxiv.org/abs/2605.28390",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z",
+        "summary": "arXiv:2605.28390v2 Announce Type: replace Abstract: Test-time skill evolving is regarded as a new paradigm for enhancing deployed agentic systems. Existing works mainly focus on hard-coded skill evolving strategies or parametric learning that rely on expensive parameter update…"
+      },
+      {
+        "title": "Scaling Time Series Classification via XAI-Driven Data Reduction",
+        "url": "https://arxiv.org/abs/2607.15774",
+        "source": "arXiv cs.AI",
+        "published": "2026-07-23T04:00:00.000Z",
+        "summary": "arXiv:2607.15774v2 Announce Type: replace-cross Abstract: Explainable AI (XAI) for time series has seen significant algorithmic growth, but its utility in providing measurable performance gains for downstream tasks remains under-explored. This paper bridges this gap by introdu…"
+      },
+      {
+        "title": "Nvidia supplier Wistron launches $700 million Texas factory for AI system production",
+        "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-supplier-wistron-launches-700-million-texas-factory-for-ai-system-production/articleshow/132550288.cms",
+        "source": "ET Tech",
+        "published": "2026-07-22T03:08:41.000Z",
+        "summary": "The Fort Worth facility manufactures Nvidia's GB300 Grace Blackwell ​Ultra Superchip. Nvidia CEO Jensen Huang has described the AI system built around the ​product as \"the most powerful ⁠AI supercomputer in ‌the world.\" Wistron said ​the site ​is where Nvidia's first GB300 ⁠Gr…"
+      }
+    ],
+    "people": [
+      {
+        "name": "Sam Altman",
+        "org": "OpenAI",
+        "link": "https://blog.samaltman.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Demis Hassabis",
+        "org": "Google DeepMind",
+        "link": "https://x.com/demishassabis",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Dario Amodei",
+        "org": "Anthropic",
+        "link": "https://www.darioamodei.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Yann LeCun",
+        "org": "Meta · world models",
+        "link": "https://x.com/ylecun",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Jensen Huang",
+        "org": "NVIDIA",
+        "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-supplier-wistron-launches-700-million-texas-factory-for-ai-system-production/articleshow/132550288.cms",
+        "article": "Nvidia supplier Wistron launches $700 million Texas factory for AI system production",
+        "source": "ET Tech"
+      },
+      {
+        "name": "Andrej Karpathy",
+        "org": "AI educator",
+        "link": "https://arxiv.org/abs/2607.19992",
+        "article": "TINY_SCHILLER: A Drop-In German Drama Corpus for Small Language Models",
+        "source": "arXiv cs.AI"
+      },
+      {
+        "name": "Sundar Pichai",
+        "org": "Google",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/pichai-pushes-back-on-claims-google-is-losing-ground-in-ai-race/articleshow/132570467.cms",
+        "article": "Sundar Pichai pushes back on claims Google is losing ground in AI race",
+        "source": "ET Tech"
+      },
+      {
+        "name": "Mira Murati",
+        "org": "Thinking Machines",
+        "link": "https://x.com/miramurati",
+        "article": null,
+        "source": "Profile"
+      }
+    ]
+  },
+  "weekly": {
+    "weekOf": "2026-07-17 to 2026-07-23",
+    "generated": "2026-07-23T08:10:13.970Z",
+    "intro": "344 AI items this week (68 India-relevant) across 11 sources.",
+    "sections": [
+      {
+        "heading": "Large Language Models",
+        "items": [
+          {
+            "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+            "url": "https://arxiv.org/abs/2607.19349",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19349v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achieving low latency and high throughput under volatile demand requires deep underst…"
+          },
+          {
+            "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+            "url": "https://arxiv.org/abs/2607.19351",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19351v1 Announce Type: new Abstract: LLM-based multi-agent systems (LLM-MAS) are increasingly deployed in safety-critical applications, where adversaries inject malicious instructions through inter-agent communication to propagate harmful behaviors. Unlike static th…"
+          },
+          {
+            "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+            "url": "https://arxiv.org/abs/2607.19353",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19353v1 Announce Type: new Abstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs or protect proprietary model assets. However, the performance cost of enabling confidential execution …"
+          },
+          {
+            "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
+            "url": "https://arxiv.org/abs/2607.19356",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19356v1 Announce Type: new Abstract: Tool-using LLM agents increasingly execute high-impact actions, making runtime safety monitoring essential. We present NEXUS (Neural EXecution Utility and Safety), a structured-plan safety monitor that applies a formal interventi…"
+          },
+          {
+            "title": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles",
+            "url": "https://arxiv.org/abs/2607.19359",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19359v1 Announce Type: new Abstract: Long-term memory is essential for LLM agents that interact across sessions, yet current memory benchmarks primarily evaluate single-hop recall, leaving multi-hop association largely unmeasured. We make three contributions. First,…"
+          },
+          {
+            "title": "Geometry-Guided Constraint Learning for LLM Safety Classification",
+            "url": "https://arxiv.org/abs/2607.19366",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19366v1 Announce Type: new Abstract: Safety as Polytope (SaP) learns linear half-space constraints in LLM hidden space but requires per-category tuning of the constraint count K. We show that sparse autoencoder (SAE) feature extraction resolves this: K=2 becomes opt…"
+          }
+        ]
+      },
+      {
+        "heading": "Multimodal & Media",
+        "items": [
+          {
+            "title": "Silent Failures in Multimodal Agentic Search:A Diagnostic Taxonomy and Cross-Judge Evaluation",
+            "url": "https://arxiv.org/abs/2607.19793",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19793v1 Announce Type: new Abstract: Multimodal agentic search systems increasingly rely on external tools to answer knowledge-intensive visual questions. However, existing evaluations mainly focus on final-answer accuracy and may miss failures in the search traject…"
+          },
+          {
+            "title": "The Giant Hippocampus: From Structural Monoculture to a System of Systems",
+            "url": "https://arxiv.org/abs/2607.19973",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19973v1 Announce Type: new Abstract: AI researchers describe state-of-the-art models as one thing repeated at scale: the Transformer, wired identically for text, pixels, or speech. Neuroscientists describe the cortex as a mosaic - dense Layer 4 in visual cortex for …"
+          },
+          {
+            "title": "Leveraging Offline Supervision for Efficient and Generalizable Reinforcement Learning in Large-Scale Vision-Language-Action Models",
+            "url": "https://arxiv.org/abs/2607.19399",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19399v1 Announce Type: cross Abstract: It is commonly observed that online reinforcement learning (RL) produces better-performing strategies than offline methods across a broad range of performance measures. In particular, RL-trained policies exhibit stronger out-of…"
+          },
+          {
+            "title": "Opto-ViT-v2: Noise-Resilient On-Chip Fine-Tuning for Photonic Near-Sensor Vision Transformer Accelerators",
+            "url": "https://arxiv.org/abs/2607.19421",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19421v1 Announce Type: cross Abstract: Silicon-photonic (SiPh) accelerators have emerged as a promising platform for Vision Transformer (ViT) inference by performing matrix multiplications on microring-resonator (MRR) banks with high throughput and energy efficiency…"
+          },
+          {
+            "title": "D3VL: Understanding Driving Scenes from 3D Time Series Data and Video with Language Models",
+            "url": "https://arxiv.org/abs/2607.19528",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19528v1 Announce Type: cross Abstract: Recent advances in Multimodal Large Language Models (MLLMs) have triggered the development of end-to-end MLLMs for autonomous driving. However, the main emphasis to date has been for MLLMs using 2D images and videos. In contras…"
+          },
+          {
+            "title": "Trustworthy Privacy-Preserving Multimodal Federated Learning for Personalised Breast Cancer Prediction",
+            "url": "https://arxiv.org/abs/2607.19532",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19532v1 Announce Type: cross Abstract: Federated learning has emerged as a potential solution to privacy concerns associated with using sensitive health data for training predictive models, particularly in personalised cancer care. This research investigates whether…"
+          }
+        ]
+      },
+      {
+        "heading": "Developer Tools & Agents",
+        "items": [
+          {
+            "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+            "url": "https://arxiv.org/abs/2607.19350",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19350v1 Announce Type: new Abstract: Financial institutions face significant challenges in detecting sophisticated money laundering patterns, such as smurfing and layering, due to extreme data imbalance (0.13% fraud rate) and evolving adversarial evasion tactics. Th…"
+          },
+          {
+            "title": "Knowledge-Centric Self-Improvement",
+            "url": "https://arxiv.org/abs/2607.19592",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19592v1 Announce Type: new Abstract: Self-improving AI systems typically treat the agent as the object that improves, by optimizing prompts, workflows, harnesses, or even the agent's own code. This agent-centric view can make improvements expensive to maintain and d…"
+          },
+          {
+            "title": "Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents",
+            "url": "https://arxiv.org/abs/2607.19837",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19837v1 Announce Type: new Abstract: Traditional pentesting uses reconnaissance at each step to uncover unseen weaknesses, build stronger attacks, and advance the objective; we argue that AI agents require the same treatment. We formalize agent reconnaissance by mod…"
+          },
+          {
+            "title": "JANUS: Foreseeing Latent Risk for Long-Horizon Agent Safety",
+            "url": "https://arxiv.org/abs/2607.19913",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19913v1 Announce Type: new Abstract: Agent safety is moving from content moderation toward preventing operational failures before tool-using agents act. We propose Janus, a foresight-oriented framework for long-horizon agent safety that trains guards to anticipate d…"
+          },
+          {
+            "title": "MOF-Sleuth: Tool-Grounded Reward Alignment for Explainable Fine-Grained MOF CIF Auditing",
+            "url": "https://arxiv.org/abs/2607.19935",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19935v1 Announce Type: new Abstract: Large metal-organic framework (MOF) databases support simulation, screening, and machine learning through crystallographic information files (CIFs). Subtle chemical and structural errors in these inputs can compromise downstream …"
+          },
+          {
+            "title": "Coordinating from Memory: Graph-Structured Experience Reuse for Multi-Agent Adaptation in Dynamic Manufacturing",
+            "url": "https://arxiv.org/abs/2607.19985",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19985v1 Announce Type: new Abstract: Dynamic manufacturing environments require multi-agent systems to coordinate effectively under frequent operational disturbances such as machine failures, urgent job arrivals, and processing time variations. Existing multi-agent …"
+          }
+        ]
+      },
+      {
+        "heading": "Open Source",
+        "items": [
+          {
+            "title": "Reading and Steering Representations of Materials-Science Mechanisms in an Open-Weight Language Model",
+            "url": "https://arxiv.org/abs/2607.20058",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.20058v1 Announce Type: new Abstract: Large language models can answer scientific questions, yet a correct output does not reveal whether the model represents or uses the governing physics. Here we show that materials science mechanism information in the open-weight …"
+          },
+          {
+            "title": "Economic Evaluations of Language Models",
+            "url": "https://arxiv.org/abs/2607.19375",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19375v1 Announce Type: cross Abstract: Language models perform economically valuable work, yet they are not currently assessed for how well they perform every economically valuable task. We introduce EconEvals as an open-source evaluation suite to measure capabiliti…"
+          },
+          {
+            "title": "ChainWatch: A Kill Chain-Aligned Sequential Detection Framework for Multi-Step Attacks in MCP-Based AI Agent Systems",
+            "url": "https://arxiv.org/abs/2607.19432",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19432v1 Announce Type: cross Abstract: The Model Context Protocol (MCP) is an open-source standard that allows AI agents to connect to external tools, databases, and services. While this connectivity enables powerful agent capabilities, it also introduces multi-step…"
+          },
+          {
+            "title": "SCPP: A Unified Python Library for Soft Clustering",
+            "url": "https://arxiv.org/abs/2607.19620",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19620v1 Announce Type: cross Abstract: In this paper, we present SCPP (Soft Clustering Python Package), an open-source Python framework for soft clustering. SCPP establishes a canonical, scikit-learn-compatible estimator interface that standardizes model training, p…"
+          },
+          {
+            "title": "G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection",
+            "url": "https://arxiv.org/abs/2607.19942",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19942v1 Announce Type: cross Abstract: This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, includi…"
+          },
+          {
+            "title": "Small, Free, and Effective: Orchestrating Open-Weight Small Language Models to Outperform Single LLM for Malware Analysis",
+            "url": "https://arxiv.org/abs/2607.20216",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.20216v1 Announce Type: cross Abstract: Malware analysis demands rapid interpretation of complex detonation reports spanning filesystem, network, and process behaviours. While large language models (LLMs) demonstrate impressive capabilities for technical artifact int…"
+          }
+        ]
+      },
+      {
+        "heading": "Industry & Research",
+        "items": [
+          {
+            "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
+            "url": "https://arxiv.org/abs/2607.19354",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19354v1 Announce Type: new Abstract: Spreadsheet applications are used by hundreds of millions worldwide, yet writing formulas remains a significant barrier. Existing approaches rely on static supervised data, which quickly saturates on limited annotations. In this …"
+          },
+          {
+            "title": "Information Discernment in Large Language Models",
+            "url": "https://arxiv.org/abs/2607.19355",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19355v1 Announce Type: new Abstract: LLMs are increasingly used with external knowledge sources like the internet. Do they weigh information appropriately -- updating more for reliable sources (source discernment) and more when claims bring priors closer to the trut…"
+          },
+          {
+            "title": "Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems",
+            "url": "https://arxiv.org/abs/2607.19357",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19357v1 Announce Type: new Abstract: Recent advances in recommender systems (RS) have shown substantial performance gains through generative modelling. In practice, recommendation often involves constructing slates -- ordered lists of items -- that must satisfy mult…"
+          },
+          {
+            "title": "LISA: Linear-Indexed Sparse Attention for Efficient Long-Context Reasoning",
+            "url": "https://arxiv.org/abs/2607.19358",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19358v1 Announce Type: new Abstract: Recent advances in long chain-of-thought reasoning models such as DeepSeek-R1 have led to increasingly longer inference context lengths under the test-time scaling paradigm. However, the O(n^2) computational complexity of standar…"
+          },
+          {
+            "title": "Lifted Representation Hypothesis in Language Models",
+            "url": "https://arxiv.org/abs/2607.19360",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19360v1 Announce Type: new Abstract: Large language models (LLMs) often answer queries by mapping individual observations to more general rule-like structures. However, it remains unclear how these structures are stored, selected, and revised. To study this process,…"
+          },
+          {
+            "title": "GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods",
+            "url": "https://arxiv.org/abs/2607.19362",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.19362v1 Announce Type: new Abstract: Graph RAG mitigates hallucinations and stale knowledge in LLMs, particularly for multi-hop question answering. However, existing approaches remain highly fragmented and incompatible. The structural heterogeneity of graph formats …"
+          }
+        ]
+      },
+      {
+        "heading": "India & Subcontinent",
+        "items": [
+          {
+            "title": "Besi orders more than double as AI and hybrid bonding tech drive demand",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/besi-orders-more-than-double-as-ai-and-hybrid-bonding-tech-drive-demand/articleshow/132574476.cms",
+            "source": "ET Tech",
+            "summary": "Besi's quarterly orders more than doubled, fueled by AI and hybrid bonding technology. The company saw increased customer adoption of its advanced chip packaging solutions. Demand for AI applications continues to drive growth in data centers. Besi anticipates revenue growth be…"
+          },
+          {
+            "title": "Travis Kalanick’s Atoms secures $1.7 billion from a16z, Uber, others to expand into industrial AI",
+            "url": "https://economictimes.indiatimes.com/tech/funding/travis-kalanicks-atoms-secures-1-7-billion-from-a16z-uber-others-to-expand-into-industrial-ai/articleshow/132574391.cms",
+            "source": "ET Tech",
+            "summary": "Atoms, Travis Kalanick's robotics firm, has secured $1.7 billion in funding. This investment, led by Andreessen Horowitz, will fuel industrial AI development. The company focuses on automation for mining, transport, and food production sectors. Atoms also acquired self-driving…"
+          },
+          {
+            "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+            "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+            "source": "TechCrunch AI",
+            "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally."
+          },
+          {
+            "title": "India's data centre sector poised for growth, but land, power access issues remain: Report",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-data-centre-sector-poised-for-strong-growth-but-land-power-access-remain-key-hurdles-report/articleshow/132573085.cms",
+            "source": "ET Tech",
+            "summary": "India's data centre sector is set for significant expansion as rising artificial intelligence (AI) adoption, cloud computing and enterprise digitalisation fuel demand, though challenges related to land acquisition, power availability and execution complexity are likely to shap…"
+          },
+          {
+            "title": "Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge",
+            "url": "https://economictimes.indiatimes.com/tech/technology/intel-amd-sign-long-term-server-cpu-deals-with-chinese-clients-as-prices-surge/articleshow/132572666.cms",
+            "source": "ET Tech",
+            "summary": "The move highlights a broader consequence of the AI boom: demand has spread beyond AI accelerators to memory, networking gear and server processors, giving suppliers greater leverage to seek long-term purchase deals."
+          },
+          {
+            "title": "AI catches up with humans to score 100% at top maths contest",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-catches-up-with-humans-to-score-100-at-top-maths-contest/articleshow/132572338.cms",
+            "source": "ET Tech",
+            "summary": "Artificial intelligence has reached a new milestone, unveiling the capability to score a perfect 100 at the International Mathematical Olympiad. Huawei and Xiaohongshu have declared that their AI systems excelled on this rigorous exam, marking a historic moment in AI developme…"
+          },
+          {
+            "title": "China has cracked down on AI companions. What can we learn from this?",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-has-cracked-down-on-ai-companions-what-can-we-learn-from-this/articleshow/132572175.cms",
+            "source": "ET Tech",
+            "summary": "Generative AI companions offer constant availability and support for lonely individuals. However, these virtual relationships risk dependency and displacing genuine human connections. China has implemented strict rules for AI companions, restricting emotional dependence and un…"
+          },
+          {
+            "title": "AI will not trigger employment collapse, staffing company Adecco Group says",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-will-not-trigger-employment-collapse-staffing-company-adecco-group-says/articleshow/132572117.cms",
+            "source": "ET Tech",
+            "summary": "AI will transform work by changing roles and tasks, not eliminating jobs. Employment rates remain high and unemployment is near historic lows globally. Companies must redesign junior roles to integrate AI and protect talent. Upskilling and reskilling are essential for this evo…"
+          }
+        ]
+      }
+    ],
+    "careers": {
+      "note": "Demand snapshot for 2026. ML Engineer is the most in-demand AI title; agentic-AI and deep-learning skills carry the highest pay premiums; Python + one cloud is the baseline. Specialisation beats generalisation for freshers.",
+      "paths": [
+        {
+          "field": "Machine Learning Engineering",
+          "demand": "Very high",
+          "note": "#1 AI title — build, deploy & maintain models in production. Best all-round entry into AI."
+        },
+        {
+          "field": "AI / Agent Engineering (LLM apps)",
+          "demand": "Surging",
+          "note": "RAG, tool-use & multi-agent systems. ~40% of enterprise apps will embed AI agents by year-end."
+        },
+        {
+          "field": "Deep Learning / Research",
+          "demand": "High (premium pay)",
+          "note": "Neural nets for vision & speech. Highest premiums; usually needs strong maths / grad study."
+        },
+        {
+          "field": "MLOps / AI Infrastructure",
+          "demand": "High",
+          "note": "Ship & scale models on the cloud. Cloud AI certs add 20–25% to salary."
+        },
+        {
+          "field": "Data Science / Analytics",
+          "demand": "Steady",
+          "note": "Foundational, widest entry door; a reliable first step into AI."
+        },
+        {
+          "field": "Computer Vision",
+          "demand": "High",
+          "note": "Imaging, robotics, autonomous systems, medical AI."
+        },
+        {
+          "field": "NLP / LLM Engineering",
+          "demand": "Very high",
+          "note": "Powers chatbots, search & agents — the hottest application area."
+        },
+        {
+          "field": "AI Product / Solutions Architect",
+          "demand": "High (senior)",
+          "note": "5–8 yrs experience; $140k–$332k bands. Translates AI into business value."
+        },
+        {
+          "field": "AI Safety / Governance",
+          "demand": "Growing",
+          "note": "Alignment, evals, red-teaming & policy — newer but expanding fast."
+        }
+      ],
+      "fresher": [
+        {
+          "skill": "Python (NumPy, Pandas)",
+          "why": "The lingua franca of ML — non-negotiable."
+        },
+        {
+          "skill": "Maths foundations",
+          "why": "Linear algebra, probability & calculus — enough to reason about models."
+        },
+        {
+          "skill": "Core ML (scikit-learn)",
+          "why": "Regression, classification, evaluation, the ML workflow."
+        },
+        {
+          "skill": "One deep-learning framework (PyTorch)",
+          "why": "Build & train neural nets; PyTorch dominates research & jobs."
+        },
+        {
+          "skill": "LLMs: prompting + RAG basics",
+          "why": "Ship a small LLM app — the most visible skill to recruiters now."
+        },
+        {
+          "skill": "SQL + data wrangling",
+          "why": "Real AI work is mostly data; SQL is everywhere."
+        },
+        {
+          "skill": "One cloud + Git/GitHub",
+          "why": "AWS leads (~40% of postings), then Azure & GCP. Version everything."
+        },
+        {
+          "skill": "Ship a portfolio project",
+          "why": "A deployed project that solves a real problem is the #1 differentiator."
+        }
+      ],
+      "experienced": [
+        {
+          "skill": "MLOps & deployment",
+          "why": "Docker, CI/CD, monitoring, model/versioning — production is where value lives."
+        },
+        {
+          "skill": "Agentic system design",
+          "why": "Multi-agent orchestration, tool-use, evals — the surging frontier."
+        },
+        {
+          "skill": "Cloud AI at scale",
+          "why": "AWS/Azure/GCP architecture; certs add a 20–25% salary premium."
+        },
+        {
+          "skill": "LLM fine-tuning & evals",
+          "why": "Adapt, measure and harden models for a domain."
+        },
+        {
+          "skill": "Distributed training / GPU optimisation",
+          "why": "Cost & latency engineering for large models."
+        },
+        {
+          "skill": "ML system design",
+          "why": "Trade-offs across data, latency, cost & reliability at scale."
+        },
+        {
+          "skill": "Domain specialisation",
+          "why": "CV, NLP, recsys, healthcare — depth beats breadth at senior levels."
+        },
+        {
+          "skill": "AI → business translation",
+          "why": "Leading teams and tying models to measurable outcomes."
+        }
+      ]
+    },
+    "profile": {
+      "name": "Harman Singh Sandhu",
+      "handle": "Ace",
+      "blurb": "I build AI/ML projects and write about them. This site is one of them — an automated daily AI digest.",
+      "linkedin": "https://www.linkedin.com/in/harman-singh-sandhu/",
+      "github": "https://github.com/Ace-2504",
+      "devto": "https://dev.to/ace2504",
+      "repos": [
+        {
+          "name": "Ace-2504",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/Ace-2504",
+          "stars": 1,
+          "language": ""
+        },
+        {
+          "name": "serenity",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/serenity",
+          "stars": 1,
+          "language": "TypeScript"
+        },
+        {
+          "name": "A-360",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/A-360",
+          "stars": 1,
+          "language": "EJS"
+        },
+        {
+          "name": "Ace-rentals",
+          "desc": "Ace Rentals: A full-stack property rental platform built with Node.js, Express, and MongoDB. Features user authentication, image uploads, geocoding, reviews, and secure account management. Inspired by Airbnb.",
+          "url": "https://github.com/Ace-2504/Ace-rentals",
+          "stars": 1,
+          "language": "JavaScript"
+        },
+        {
+          "name": "ai-weekly-report",
+          "desc": "My personalized AI newsletter that runs on an agentic AI",
+          "url": "https://github.com/Ace-2504/ai-weekly-report",
+          "stars": 0,
+          "language": "HTML"
+        },
+        {
+          "name": "125M-model-base",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/125M-model-base",
+          "stars": 0,
+          "language": "Python"
+        }
+      ]
+    }
+  }
+}
