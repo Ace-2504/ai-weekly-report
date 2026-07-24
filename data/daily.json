@@ -1,128 +1,135 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "top": {
-    "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
-    "url": "https://arxiv.org/abs/2607.19349",
+    "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+    "url": "https://arxiv.org/abs/2607.20452",
     "source": "arXiv cs.AI",
-    "published": "2026-07-23T04:00:00.000Z",
-    "summary": "arXiv:2607.19349v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achieving low latency and high throughput under volatile demand requires deep underst…"
+    "published": "2026-07-24T04:00:00.000Z",
+    "summary": "arXiv:2607.20452v1 Announce Type: new Abstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cloud environments. This paper presents AINTMA (Agentic Intelligent Test Management Architecture), a…"
   },
   "topIndia": {
-    "title": "Besi orders more than double as AI and hybrid bonding tech drive demand",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/besi-orders-more-than-double-as-ai-and-hybrid-bonding-tech-drive-demand/articleshow/132574476.cms",
-    "source": "ET Tech",
-    "published": "2026-07-23T07:24:33.000Z",
-    "summary": "Besi's quarterly orders more than doubled, fueled by AI and hybrid bonding technology. The company saw increased customer adoption of its advanced chip packaging solutions. Demand for AI applications continues to drive growth in data centers. Besi anticipates revenue growth be…"
+    "title": "AMD unveils Helios AI rack-scale system to challenge Nvidia’s dominance",
+    "url": "https://indianexpress.com/article/technology/tech-news-technology/amd-unveils-helios-ai-rack-scale-system-to-challenge-nvidias-dominance-10801446/",
+    "source": "Indian Express Tech",
+    "published": "2026-07-24T07:50:18.000Z",
+    "summary": ""
   },
   "headlines": [
     {
-      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
-      "url": "https://arxiv.org/abs/2607.19350",
+      "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+      "url": "https://arxiv.org/abs/2607.20462",
       "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z"
+      "published": "2026-07-24T04:00:00.000Z"
     },
     {
-      "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
-      "url": "https://arxiv.org/abs/2607.19351",
+      "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+      "url": "https://arxiv.org/abs/2607.20463",
       "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z"
+      "published": "2026-07-24T04:00:00.000Z"
     },
     {
-      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
-      "url": "https://arxiv.org/abs/2607.19353",
+      "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+      "url": "https://arxiv.org/abs/2607.20464",
       "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z"
+      "published": "2026-07-24T04:00:00.000Z"
     },
     {
-      "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
-      "url": "https://arxiv.org/abs/2607.19354",
+      "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+      "url": "https://arxiv.org/abs/2607.20466",
       "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z"
+      "published": "2026-07-24T04:00:00.000Z"
     },
     {
-      "title": "Information Discernment in Large Language Models",
-      "url": "https://arxiv.org/abs/2607.19355",
+      "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+      "url": "https://arxiv.org/abs/2607.20467",
       "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z"
+      "published": "2026-07-24T04:00:00.000Z"
     },
     {
-      "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
-      "url": "https://arxiv.org/abs/2607.19356",
+      "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+      "url": "https://arxiv.org/abs/2607.20468",
       "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z"
+      "published": "2026-07-24T04:00:00.000Z"
     },
     {
-      "title": "Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems",
-      "url": "https://arxiv.org/abs/2607.19357",
+      "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
+      "url": "https://arxiv.org/abs/2607.20469",
       "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z"
+      "published": "2026-07-24T04:00:00.000Z"
     },
     {
-      "title": "LISA: Linear-Indexed Sparse Attention for Efficient Long-Context Reasoning",
-      "url": "https://arxiv.org/abs/2607.19358",
+      "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
+      "url": "https://arxiv.org/abs/2607.20470",
       "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z"
+      "published": "2026-07-24T04:00:00.000Z"
     },
     {
-      "title": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles",
-      "url": "https://arxiv.org/abs/2607.19359",
+      "title": "Benchmarking the Personalization Capabilities of Large Language Models",
+      "url": "https://arxiv.org/abs/2607.20471",
       "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z"
+      "published": "2026-07-24T04:00:00.000Z"
     },
     {
-      "title": "Lifted Representation Hypothesis in Language Models",
-      "url": "https://arxiv.org/abs/2607.19360",
+      "title": "Robust Critics: Defending LLMs Against Multi-Turn Attacks",
+      "url": "https://arxiv.org/abs/2607.20472",
       "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z"
+      "published": "2026-07-24T04:00:00.000Z"
     },
     {
-      "title": "GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods",
-      "url": "https://arxiv.org/abs/2607.19362",
+      "title": "Incomplete Prompt Jailbreaks in Large Language Models",
+      "url": "https://arxiv.org/abs/2607.20473",
       "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z"
+      "published": "2026-07-24T04:00:00.000Z"
     },
     {
-      "title": "AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally",
-      "url": "https://arxiv.org/abs/2607.19363",
+      "title": "VeriSimpl: Robust Optimization Modeling from Natural Language using Simplification-based Verification",
+      "url": "https://arxiv.org/abs/2607.20474",
       "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z"
+      "published": "2026-07-24T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
-      "url": "https://arxiv.org/abs/2607.19353",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z",
-      "summary": "arXiv:2607.19353v1 Announce Type: new Abstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs or protect proprietary model assets. However, the performance cost of enabling confidential execution …"
+      "title": "AMD unveils Helios AI rack-scale system to challenge Nvidia’s dominance",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/amd-unveils-helios-ai-rack-scale-system-to-challenge-nvidias-dominance-10801446/",
+      "source": "Indian Express Tech",
+      "published": "2026-07-24T07:50:18.000Z",
+      "summary": ""
     },
     {
-      "title": "BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators",
-      "url": "https://arxiv.org/abs/2607.19438",
+      "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
+      "url": "https://arxiv.org/abs/2607.20470",
       "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z",
-      "summary": "arXiv:2607.19438v1 Announce Type: cross Abstract: Apple's M5 generation introduces a redesigned GPU architecture in which every core carries a dedicated Neural Accelerator: on-die matrix units exposed through the Metal~4 tensor API. We show that BaseRT, our native Metal infere…"
+      "published": "2026-07-24T04:00:00.000Z",
+      "summary": "arXiv:2607.20470v1 Announce Type: new Abstract: Enhancing the task-specific capabilities of Large Language Models (LLMs) primarily requires substantial instruction-tuning datasets. However, the sheer volume of such data imposes a considerable annotation cost, and a lack of opt…"
     },
     {
-      "title": "You Live More Than Once: Towards Hierarchical Skill Meta-Evolving",
-      "url": "https://arxiv.org/abs/2605.28390",
+      "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
+      "url": "https://arxiv.org/abs/2607.20709",
       "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z",
-      "summary": "arXiv:2605.28390v2 Announce Type: replace Abstract: Test-time skill evolving is regarded as a new paradigm for enhancing deployed agentic systems. Existing works mainly focus on hard-coded skill evolving strategies or parametric learning that rely on expensive parameter update…"
+      "published": "2026-07-24T04:00:00.000Z",
+      "summary": "arXiv:2607.20709v1 Announce Type: new Abstract: Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents.…"
     },
     {
-      "title": "Scaling Time Series Classification via XAI-Driven Data Reduction",
-      "url": "https://arxiv.org/abs/2607.15774",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-23T04:00:00.000Z",
-      "summary": "arXiv:2607.15774v2 Announce Type: replace-cross Abstract: Explainable AI (XAI) for time series has seen significant algorithmic growth, but its utility in providing measurable performance gains for downstream tasks remains under-explored. This paper bridges this gap by introdu…"
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-23T16:28:50.000Z",
+      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse."
     },
     {
-      "title": "Nvidia supplier Wistron launches $700 million Texas factory for AI system production",
-      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-supplier-wistron-launches-700-million-texas-factory-for-ai-system-production/articleshow/132550288.cms",
+      "title": "Anthropic mulls mandatory employee stock trading plans after IPO, The Information reports",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-mulls-mandatory-employee-stock-trading-plans-after-ipo-the-information-reports/articleshow/132584878.cms",
       "source": "ET Tech",
-      "published": "2026-07-22T03:08:41.000Z",
-      "summary": "The Fort Worth facility manufactures Nvidia's GB300 Grace Blackwell ​Ultra Superchip. Nvidia CEO Jensen Huang has described the AI system built around the ​product as \"the most powerful ⁠AI supercomputer in ‌the world.\" Wistron said ​the site ​is where Nvidia's first GB300 ⁠Gr…"
+      "published": "2026-07-23T14:28:31.000Z",
+      "summary": "Anthropic may require employees to sell stock via preset trading plans after its public debut. These plans aim to prevent insider trading concerns for all staff members. The AI firm is racing to go public amid investor interest in artificial intelligence. Discussions with advi…"
+    },
+    {
+      "title": "AMD expected to launch next generation of AI infrastructure to challenge Nvidia",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amd-expected-to-launch-next-generation-of-ai-infrastructure-to-challenge-nvidia/articleshow/132578211.cms",
+      "source": "ET Tech",
+      "published": "2026-07-23T10:47:17.000Z",
+      "summary": "Advanced Micro Devices is launching new artificial intelligence hardware on Thursday. This new hardware aims to compete directly with Nvidia's offerings. AMD is targeting the growing data center inference computing market. The company also announced significant deals with AI l…"
     }
   ],
   "people": [
@@ -157,16 +164,16 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-supplier-wistron-launches-700-million-texas-factory-for-ai-system-production/articleshow/132550288.cms",
-      "article": "Nvidia supplier Wistron launches $700 million Texas factory for AI system production",
-      "source": "ET Tech"
+      "link": "https://nvidianews.nvidia.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Andrej Karpathy",
       "org": "AI educator",
-      "link": "https://arxiv.org/abs/2607.19992",
-      "article": "TINY_SCHILLER: A Drop-In German Drama Corpus for Small Language Models",
-      "source": "arXiv cs.AI"
+      "link": "https://karpathy.ai",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Sundar Pichai",
