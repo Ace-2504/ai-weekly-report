@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-07-19 to 2026-07-25",
-  "generated": "2026-07-25T07:49:26.271Z",
-  "intro": "96 AI items this week (67 India-relevant) across 9 sources.",
+  "weekOf": "2026-07-20 to 2026-07-26",
+  "generated": "2026-07-26T08:06:13.061Z",
+  "intro": "98 AI items this week (69 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -37,10 +37,10 @@
           "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost."
         },
         {
-          "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-          "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-          "source": "TechCrunch AI",
-          "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says."
+          "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+          "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+          "source": "Ars Technica",
+          "summary": "\"Current economic conditions\" have shifted TreeSize's business model."
         }
       ]
     },
@@ -88,6 +88,24 @@
       "heading": "Industry & Research",
       "items": [
         {
+          "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "source": "TechCrunch AI",
+          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+        },
+        {
+          "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+          "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+          "source": "TechCrunch AI",
+          "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
+        },
+        {
+          "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+          "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+          "source": "TechCrunch AI",
+          "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
+        },
+        {
           "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
           "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
           "source": "TechCrunch AI",
@@ -104,24 +122,6 @@
           "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
           "source": "TechCrunch AI",
           "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work."
-        },
-        {
-          "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-          "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-          "source": "TechCrunch AI",
-          "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
-        },
-        {
-          "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-          "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-          "source": "TechCrunch AI",
-          "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch."
-        },
-        {
-          "title": "OpenAI makes ChatGPT Health available to all US users",
-          "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-          "source": "TechCrunch AI",
-          "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
         }
       ]
     },
@@ -129,52 +129,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "OpenAI eyeing ChatGPT integrations for smart glasses, wearables: Greg Brockman",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-eyeing-chatgpt-integrations-for-wearables-greg-brockman-10803022/",
+          "title": "Aerospace fights for young recruits as AI drains talent pool",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/aerospace-fights-for-young-recruits-as-ai-drains-talent-pool-10804010/",
           "source": "Indian Express Tech",
           "summary": ""
         },
         {
-          "title": "Government removes links to AI deepfake of union minister Piyush Goyal",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/government-removes-links-to-ai-deepfake-of-piyush-goyal/articleshow/132620052.cms",
+          "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cheaper-open-and-intelligent-chinese-ai-models-gain-ground-as-they-make-inroads-in-the-us/articleshow/132636291.cms",
           "source": "ET Tech",
-          "summary": "Minister for Commerce and Industry Piyush Goyal, in his post, flagged the altered video clip of his conversation with the media outside Parliament. He wrote that the video has been maliciously tampered with using AI to create a deepfake, which is being circulated on social med…"
+          "summary": "Chinese artificial intelligence models are increasingly adopted by American users and businesses. These advanced systems offer competitive performance at significantly lower costs. Companies are switching to Chinese AI for routine tasks and cost reduction efforts. While US tec…"
         },
         {
-          "title": "Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/its-ai-agent-spent-days-hacking-a-company-but-sources-say-openai-did-not-notice-for-a-week-10802756/",
+          "title": "Silicon Valley splits over closing the borders to Chinese AI",
+          "url": "https://indianexpress.com/article/technology/artificial-intelligence/silicon-valley-splits-over-closing-the-borders-to-chinese-ai-10803988/",
           "source": "Indian Express Tech",
           "summary": ""
         },
         {
-          "title": "Piyush Goyal files police complaint over AI deepfake video; FIR registered",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/piyush-goyal-says-ai-generated-deepfake-video-of-his-remarks-circulated-fir-registered/articleshow/132618654.cms",
-          "source": "ET Tech",
-          "summary": "Union Minister Piyush Goyal said strict legal action would be taken against everyone involved in creating, circulating or amplifying the alleged fake video. The government also debunked a video circulating on social media that claimed Goyal made threatening remarks about stude…"
-        },
-        {
-          "title": "Meta AI gets smarter: It can now plan your day, do research, and create presentations",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/meta-ai-muse-spark-1-1-new-features-10802642/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "Nvidia, SK Group unveil $500 billion-plus AI data centres initiative, memory partnership",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-sk-group-unveil-500-billion-plus-ai-data-centres-initiative-memory-partnership/articleshow/132617823.cms",
-          "source": "ET Tech",
-          "summary": "As part ⁠of the initiative, SK Telecom plans ​to build a 2-gigawatt ​AI data centre powered by Nvidia's Vera Rubin chips and SK Hynix's HBM4 high-bandwidth memory, with the ‌first facility due to come online in 2027, ​Nvidia added."
-        },
-        {
-          "title": "How to run B2B GTM when your buyer asks ChatGPT first",
-          "url": "https://yourstory.com/2026/07/how-to-run-b2b-gtm-when-your-buyer-asks-chatgpt-first-",
+          "title": "Manufacturing, AI, sustainability: Test your business creativity with Edition 242 of our weekly quiz!",
+          "url": "https://yourstory.com/2026/07/manufacturing-ai-sustainability-business-creativity-entrepreneur-quiz",
           "source": "YourStory",
-          "summary": "In this episode of the Prime Venture Partners podcast, Alon Waks, CMO at SpotDraft, talks about what actually works when Indian founders enter the US, and how AI is changing the shape of B2B buying itself."
+          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 242nd quiz. Ready?"
         },
         {
-          "title": "Preparing the workforce for agentic AI and autonomous systems",
-          "url": "https://yourstory.com/2026/07/preparing-the-workforce-for-agentic-ai-and-autonomous-systems",
-          "source": "YourStory",
-          "summary": "Technology is moving at warp speed but the big question is are organisations preparing their people at the same pace?"
+          "title": "DeepSeek tells prospective investors of funding pause, Bloomberg News reports",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-tells-prospective-investors-of-funding-pause-bloomberg-news-reports/articleshow/132629114.cms",
+          "source": "ET Tech",
+          "summary": "DeepSeek, a prominent AI company, has reportedly informed potential investors that it's temporarily halting its fundraising efforts. This news, as reported by Bloomberg News, suggests a strategic pause by the company as it navigates its current financial landscape and future i…"
+        },
+        {
+          "title": "Why Nvidia, Microsoft, and Meta want the US to support open-weight AI models",
+          "url": "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-microsoft-meta-push-for-open-weight-ai-10803122/",
+          "source": "Indian Express Tech",
+          "summary": ""
+        },
+        {
+          "title": "Bengaluru to host 3-day India Nano-2026 event from 3rd August",
+          "url": "https://economictimes.indiatimes.com/tech/technology/bengaluru-to-host-3-day-india-nano-2026-event-from-3rd-august/articleshow/132623366.cms",
+          "source": "ET Tech",
+          "summary": "Bengaluru will host the 14th Bengaluru India Nano conference from August 3 to 5. The event's theme focuses on nanotechnology and artificial intelligence convergence for commercialization. It will bring together researchers, innovators, startups, academia, and industry leaders.…"
+        },
+        {
+          "title": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push/articleshow/132622609.cms",
+          "source": "ET Tech",
+          "summary": "The tie-up comes as global technology companies increasingly develop their own custom ​AI accelerators, rather than relying solely on ⁠general-purpose graphics processors, ‌driving demand for specialised chip design and manufacturing ​partnerships. The next five years of colla…"
         }
       ]
     }
