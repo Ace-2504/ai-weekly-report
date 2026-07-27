@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-07-21 to 2026-07-27",
-  "generated": "2026-07-27T09:28:11.993Z",
-  "intro": "89 AI items this week (61 India-relevant) across 8 sources.",
+  "generated": "2026-07-27T10:31:58.483Z",
+  "intro": "96 AI items this week (68 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -94,6 +94,12 @@
       "heading": "Industry & Research",
       "items": [
         {
+          "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+          "source": "Hugging Face",
+          "summary": ""
+        },
+        {
           "title": "Are brain waves the next unlock for physical AI?",
           "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
           "source": "TechCrunch AI",
@@ -122,12 +128,6 @@
           "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
           "source": "TechCrunch AI",
           "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
-        },
-        {
-          "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-          "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-          "source": "TechCrunch AI",
-          "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
         }
       ]
     },
@@ -135,10 +135,34 @@
       "heading": "India & Subcontinent",
       "items": [
         {
+          "title": "This startup helps brands get discovered across AI search platforms",
+          "url": "https://yourstory.com/2026/07/this-startup-helps-brands-get-discovered-across-ai-search-platforms",
+          "source": "YourStory",
+          "summary": "As AI begins to reshape how people discover products and services online, Gurugram-based DareAISearch is building tools to help brands stay visible across platforms such as ChatGPT, Gemini, and Perplexity."
+        },
+        {
+          "title": "Why a 'Clean' Property File Isn't Enough: How Cubictree's AI Protects Lenders from Hidden Fraud",
+          "url": "https://yourstory.com/2026/07/why-clean-property-file-isnt-enough-how-cubictrees-ai-protects-lenders-from-hidden-fraud",
+          "source": "YourStory",
+          "summary": "Fragmented records, unlinked newspaper notices, and manual checks that routinely fail have left India's lending system exposed. Cubictree’s AI Property Compliant Report is changing that, one property at a time Gayatri Guha The file was complete. The legal opinion was clean. Th…"
+        },
+        {
           "title": "‘Unprecedented event’: Hugging Face CEO demands answers from OpenAI after AI agent-driven cyber attack",
           "url": "https://indianexpress.com/article/technology/artificial-intelligence/hugging-face-ceo-demands-answers-openai-agent-cyber-attack-10805305/",
           "source": "Indian Express Tech",
           "summary": ""
+        },
+        {
+          "title": "The next startup advantage isn’t bigger teams; it’s smarter AI systems",
+          "url": "https://yourstory.com/2026/07/the-next-startup-advantage-isnt-bigger-teams-its-smarter-ai-systems",
+          "source": "YourStory",
+          "summary": "At the Snowflake x AWS Mixer, founders, engineering leaders, and investors discussed how startups are using AI-native architectures to accelerate decision-making, improve customer experiences, and unlock growth without proportionately scaling headcount."
+        },
+        {
+          "title": "Why lifelong learning is becoming an economic imperative, not a personal choice",
+          "url": "https://yourstory.com/2026/07/lifelong-learning-becoming-economic-imperative-not-a-personal-choice",
+          "source": "YourStory",
+          "summary": "As AI reshapes the workplace, career growth is becoming less about accumulating credentials and more about developing the judgment, adaptability and skills that machines cannot replace. Continuous learning is no longer a competitive advantage—it's becoming a career necessity."
         },
         {
           "title": "Inside India's AI skilling push: 27 labs, 21 states, one still waiting",
@@ -147,40 +171,16 @@
           "summary": "IndiaAI has set up 27 data and AI labs, with 188 more planned, while over 5,500 people have enrolled for AI training."
         },
         {
+          "title": "Global Market Update | South Korea's Naver jumps 10% on Nvidia's $1 billion investment plan",
+          "url": "https://economictimes.indiatimes.com/tech/technology/global-market-update-south-koreas-naver-jumps-10-on-nvidias-1-billion-investment-plan/articleshow/132657749.cms",
+          "source": "ET Tech",
+          "summary": "Nvidia will invest one billion dollars in Naver's new shares. This investment supports expanding an AI data center project in South Korea. Brookfield will provide up to nine billion dollars in financing for this initiative. The expanded data center will utilize Nvidia's chip p…"
+        },
+        {
           "title": "Chinese chipmaker CXMT soars more than 500% on debut",
           "url": "https://economictimes.indiatimes.com/tech/technology/chinese-chipmaker-cxmt-soars-more-than-500-on-debut/articleshow/132651926.cms",
           "source": "ET Tech",
           "summary": "China's leading memory chipmaker CXMT became the most valuable company in the mainland after soaring 500 percent on its market debut Monday, underscoring the impact of AI-driven demand on the semiconductor sector. The firm's shares rocketed more than 500 percent by mid-morning…"
-        },
-        {
-          "title": "Could Apple make privacy-focused AI smart glasses a trend?",
-          "url": "https://indianexpress.com/article/technology/tech-news-technology/apple-may-take-on-meta-google-with-ai-glasses-early-2027-10805113/",
-          "source": "Indian Express Tech",
-          "summary": ""
-        },
-        {
-          "title": "New AI tools let readers talk to books",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-ai-tools-let-readers-talk-to-books/articleshow/132651310.cms",
-          "source": "ET Tech",
-          "summary": "With these tools, users get access to an e-book or audiobook alongside an AI chatbot. Readers can dig into a character's psychology, historical context, or a philosophical concept, no separate research required. Mid-listen, you can tap a button, ask your question, hear the ans…"
-        },
-        {
-          "title": "MFs push back on Zepto valuation; PEs take AI bets",
-          "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/zepto-valuation-row-pe-takes-ai-bets/articleshow/132650545.cms",
-          "source": "ET Tech",
-          "summary": "Happy Monday! Zepto's IPO pricing expectation has run into resistance from top mutual funds. This and more in today's ETtech Morning Dispatch."
-        },
-        {
-          "title": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data centre: WSJ",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-centre-wsj/articleshow/132650485.cms",
-          "source": "ET Tech",
-          "summary": "The power for the ⁠project is ‌controlled by the US government ​and ​funded separately by Japan under ⁠a recent trade deal, with US Commerce ​Secretary Howard Lutnick involved in deciding ​who will receive access to it, the report added."
-        },
-        {
-          "title": "Paytm Dreams The AI Dream",
-          "url": "https://inc42.com/features/paytm-dreams-the-ai-dream/",
-          "source": "Inc42",
-          "summary": "Diversification seems to be the common thread running through India’s fintech ecosystem right now. Last week, we took a closer…"
         }
       ]
     }
@@ -340,18 +340,18 @@
         "language": "JavaScript"
       },
       {
-        "name": "bpe-tokenizer",
-        "desc": "A byte-level BPE tokenizer built from scratch in Python (256 merges, 512-token vocab), with an interactive browser visualiser",
-        "url": "https://github.com/Ace-2504/bpe-tokenizer",
-        "stars": 0,
-        "language": "TypeScript"
-      },
-      {
         "name": "ai-weekly-report",
         "desc": "My personalized AI newsletter that runs on an agentic AI",
         "url": "https://github.com/Ace-2504/ai-weekly-report",
         "stars": 0,
         "language": "HTML"
+      },
+      {
+        "name": "bpe-tokenizer",
+        "desc": "A byte-level BPE tokenizer built from scratch in Python (256 merges, 512-token vocab), with an interactive browser visualiser",
+        "url": "https://github.com/Ace-2504/bpe-tokenizer",
+        "stars": 0,
+        "language": "TypeScript"
       }
     ]
   }
