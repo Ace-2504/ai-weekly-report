@@ -1,92 +1,135 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "top": {
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "source": "Hugging Face",
-    "published": "2026-07-27T09:32:20.000Z",
-    "summary": ""
+    "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
+    "url": "https://arxiv.org/abs/2607.22544",
+    "source": "arXiv cs.AI",
+    "published": "2026-07-28T04:00:00.000Z",
+    "summary": "arXiv:2607.22544v1 Announce Type: new Abstract: Visual counterfactual explanations aim to answer \"what minimal change to this image would flip the model's prediction?\", and are increasingly important as vision models are deployed in safety-critical domains (e.g., medicine). Ex…"
   },
   "topIndia": {
-    "title": "This startup helps brands get discovered across AI search platforms",
-    "url": "https://yourstory.com/2026/07/this-startup-helps-brands-get-discovered-across-ai-search-platforms",
-    "source": "YourStory",
-    "published": "2026-07-27T09:42:17.000Z",
-    "summary": "As AI begins to reshape how people discover products and services online, Gurugram-based DareAISearch is building tools to help brands stay visible across platforms such as ChatGPT, Gemini, and Perplexity."
+    "title": "Why Anthropic backs open-weight AI models but still won’t sign Nvidia CEO’s letter",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/why-anthropic-backs-open-weight-ai-not-nvidia-letter-10806982/",
+    "source": "Indian Express Tech",
+    "published": "2026-07-28T07:43:13.000Z",
+    "summary": ""
   },
   "headlines": [
     {
-      "title": "Are brain waves the next unlock for physical AI?",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-27T00:19:14.000Z"
+      "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
+      "url": "https://arxiv.org/abs/2607.22548",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T04:00:00.000Z"
     },
     {
-      "title": "Making sense of the panic over Chinese AI",
-      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-26T19:40:57.000Z"
+      "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
+      "url": "https://arxiv.org/abs/2607.22549",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T04:00:00.000Z"
     },
     {
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-26T16:33:13.000Z"
+      "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
+      "url": "https://arxiv.org/abs/2607.22554",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T04:00:00.000Z"
     },
     {
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-26T01:30:00.000Z"
+      "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
+      "url": "https://arxiv.org/abs/2607.22555",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T04:00:00.000Z"
     },
     {
-      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-25T16:00:00.000Z"
+      "title": "MIITA: Memory-Induced Inference-Time Adaptation for Continual Learning with Small Language Models",
+      "url": "https://arxiv.org/abs/2607.22556",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T04:00:00.000Z"
     },
     {
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-25T13:05:00.000Z"
+      "title": "Codifying the Judge: Scalable Evaluation via Program Distillation",
+      "url": "https://arxiv.org/abs/2607.22561",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T04:00:00.000Z"
+    },
+    {
+      "title": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent",
+      "url": "https://arxiv.org/abs/2607.22562",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T04:00:00.000Z"
+    },
+    {
+      "title": "Synthetic Scenario Generation for Evaluation of Industry 4.0 Agents",
+      "url": "https://arxiv.org/abs/2607.22563",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T04:00:00.000Z"
+    },
+    {
+      "title": "Loss-Aware Feature-Map Pruning in Convolutional Neural Networks Using Multi-Armed Bandits",
+      "url": "https://arxiv.org/abs/2607.22564",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T04:00:00.000Z"
+    },
+    {
+      "title": "DSTFView: Multi-View Cloud-Edge Workload Forecasting with Dual-Input Spatio-Temporal-Frequency Modeling",
+      "url": "https://arxiv.org/abs/2607.22565",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T04:00:00.000Z"
+    },
+    {
+      "title": "MedLoCoMo: A Long-Context Multi-Session Medical Dialogue Benchmark for Large Language Models",
+      "url": "https://arxiv.org/abs/2607.22566",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T04:00:00.000Z"
+    },
+    {
+      "title": "Keyword Matters: Unveiling the Energy Sensitivity of On-Device LLM Prompting",
+      "url": "https://arxiv.org/abs/2607.22568",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Nvidia, SK Group unveil $500 billion-plus AI data centres initiative, memory partnership",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-sk-group-unveil-500-billion-plus-ai-data-centres-initiative-memory-partnership/articleshow/132617823.cms",
-      "source": "ET Tech",
-      "published": "2026-07-25T02:26:31.000Z",
-      "summary": "As part ⁠of the initiative, SK Telecom plans ​to build a 2-gigawatt ​AI data centre powered by Nvidia's Vera Rubin chips and SK Hynix's HBM4 high-bandwidth memory, with the ‌first facility due to come online in 2027, ​Nvidia added."
+      "title": "NeurGO: Learning to Generate Elite Candidates for Meta-Black-Box Expensive Optimization",
+      "url": "https://arxiv.org/abs/2607.23408",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T04:00:00.000Z",
+      "summary": "arXiv:2607.23408v1 Announce Type: new Abstract: Expensive black-box optimization is ubiquitous in science and engineering, where function evaluations are costly and the evaluation budget is limited. Traditional evolutionary algorithms and Meta-BlackBox Optimization (MetaBBO) a…"
     },
     {
-      "title": "Anthropic launches Opus 5",
-      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "title": "Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability",
+      "url": "https://arxiv.org/abs/2607.18368",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T04:00:00.000Z",
+      "summary": "arXiv:2607.18368v2 Announce Type: replace Abstract: Partially observable reinforcement learning requires deciding what to retain, retrieve, and forget over time. We introduce a neuro-symbolic meta-policy that learns which symbolic memory heuristic to apply at each decision poi…"
+    },
+    {
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "source": "Ars Technica",
+      "published": "2026-07-27T21:56:14.000Z",
+      "summary": "Microsoft says tools cost less than competing ones and outperform them, too."
+    },
+    {
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
       "source": "TechCrunch AI",
-      "published": "2026-07-24T17:00:00.000Z",
-      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
+      "published": "2026-07-27T18:32:11.000Z",
+      "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
     },
     {
-      "title": "Top US tech players back open-weights AI, Nvidia founder Jensen Huang shares letter in debut X post",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/top-us-tech-players-back-open-weights-ai-nvidia-founder-jensen-huang-shares-letter-in-debut-x-post/articleshow/132607924.cms",
+      "title": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup",
+      "url": "https://economictimes.indiatimes.com/tech/startups/nvidia-to-invest-5-billion-in-ilya-sutskevers-ai-startup/articleshow/132669106.cms",
       "source": "ET Tech",
-      "published": "2026-07-24T14:11:10.000Z",
-      "summary": "Leading American technology firms have jointly endorsed open-weight artificial intelligence models. They believe this approach is crucial for maintaining United States leadership in AI development. Open models allow broader access, fostering innovation and economic participati…"
+      "published": "2026-07-27T18:27:10.000Z",
+      "summary": "The two ⁠companies announced ‌the deal ​Monday ​morning without disclosing ⁠financial terms. The funding will boost ​SSI's available computing resources, ​the companies said. The deal also gives SSI access to Nvidia's cutting-edge Vera ‌Rubin hardware."
     },
     {
-      "title": "Samsung, SK Hynix to announce major chip deals with US tech companies, Seoul says",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-to-announce-major-chip-deals-with-us-tech-companies-seoul-says/articleshow/132606358.cms",
-      "source": "ET Tech",
-      "published": "2026-07-24T12:57:26.000Z",
-      "summary": "Samsung Electronics and SK Hynix are set to announce major long-term memory chip supply deals with US technology companies during South Korean President Lee Jae Myung’s visit to San Francisco. The visit is also expected to bring strategic AI data centre investments and deepen …"
-    },
-    {
-      "title": "Meta launches new app 'Seller' to provide sales tools for merchants",
-      "url": "https://economictimes.indiatimes.com/tech/technology/meta-launches-new-app-seller-to-provide-sales-tools-for-merchants/articleshow/132605392.cms",
-      "source": "ET Tech",
-      "published": "2026-07-24T12:21:43.000Z",
-      "summary": "Meta launched a new \"Seller\" app for Facebook Marketplace merchants. This app offers dedicated tools to enhance the selling experience on the platform. It syncs with existing accounts and includes AI-powered listing creation features. The \"Seller\" app is now available for U.S.…"
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-27T15:01:50.000Z",
+      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase."
     },
     {
       "title": "AMD unveils Helios AI rack-scale system to challenge Nvidia’s dominance",
@@ -100,9 +143,9 @@
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://indianexpress.com/article/technology/artificial-intelligence/openai-sam-altman-humanity-singularity-ai-authoritarianism-10804471/",
-      "article": "Sam Altman says humanity already in the singularity, warns of AI authoritarianism",
-      "source": "Indian Express Tech"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altman-eyes-south-korea-as-testbed-for-openais-first-hardware-device/articleshow/132678332.cms",
+      "article": "Sam Altman eyes South Korea as testbed for OpenAI's first hardware device",
+      "source": "ET Tech"
     },
     {
       "name": "Demis Hassabis",
@@ -114,9 +157,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://www.darioamodei.com",
-      "article": null,
-      "source": "Profile"
+      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "article": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "source": "TechCrunch AI"
     },
     {
       "name": "Yann LeCun",
@@ -128,9 +171,9 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-president-lee-looking-to-open-new-era-of-ai-in-with-global-tech-companies/articleshow/132617368.cms",
-      "article": "South Korea President Lee looking to open new era of AI in with global tech companies",
-      "source": "ET Tech"
+      "link": "https://arxiv.org/abs/2607.22997",
+      "article": "Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline",
+      "source": "arXiv cs.AI"
     },
     {
       "name": "Andrej Karpathy",

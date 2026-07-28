@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-07-21 to 2026-07-27",
-  "generated": "2026-07-27T10:31:58.483Z",
-  "intro": "96 AI items this week (68 India-relevant) across 9 sources.",
+  "weekOf": "2026-07-22 to 2026-07-28",
+  "generated": "2026-07-28T08:13:05.852Z",
+  "intro": "685 AI items this week (73 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-          "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-          "source": "TechCrunch AI",
-          "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them."
+          "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
+          "url": "https://arxiv.org/abs/2607.22544",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22544v1 Announce Type: new Abstract: Visual counterfactual explanations aim to answer \"what minimal change to this image would flip the model's prediction?\", and are increasingly important as vision models are deployed in safety-critical domains (e.g., medicine). Ex…"
         },
         {
-          "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-          "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-          "source": "TechCrunch AI",
-          "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation."
+          "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
+          "url": "https://arxiv.org/abs/2607.22554",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22554v1 Announce Type: new Abstract: Large language models (LLMs) often achieve strong accuracy on benchmarks, yet it remains unclear how reliably they apply this knowledge when the same question is phrased in different but equivalent ways. In this work, we study ho…"
         },
         {
-          "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-          "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-          "source": "TechCrunch AI",
-          "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected t…"
+          "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
+          "url": "https://arxiv.org/abs/2607.22555",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22555v1 Announce Type: new Abstract: Medical diagnosis is a multi-stage process: extract facts, consult knowledge, generate a differential analysis, and select the best diagnosis with explanations. Frontier LLMs are strong generalists, but single-shot prompting ofte…"
         },
         {
-          "title": "Anthropic updates Claude voice mode with more capable models",
-          "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-          "source": "TechCrunch AI",
-          "summary": "Claude's new voice model will let you reschedule your meeting or draft an email."
+          "title": "MIITA: Memory-Induced Inference-Time Adaptation for Continual Learning with Small Language Models",
+          "url": "https://arxiv.org/abs/2607.22556",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22556v1 Announce Type: new Abstract: Continual learning (CL) is essential for small language models (SLMs) to adapt to evolving real-world needs in resource-constrained deployments. However, directly updating their limited parameter space causes catastrophic forgett…"
         },
         {
-          "title": "Runway launches AI model router as generative media gets crowded",
-          "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-          "source": "TechCrunch AI",
-          "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost."
+          "title": "Codifying the Judge: Scalable Evaluation via Program Distillation",
+          "url": "https://arxiv.org/abs/2607.22561",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22561v1 Announce Type: new Abstract: LLM-as-a-judge has become the standard for automated evaluation, but it suffers from high cost, significant latency, and opaque decisions -- limitations that undermine its scalability and reliability. We address these with a simp…"
         },
         {
-          "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-          "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
-          "source": "Ars Technica",
-          "summary": "\"Current economic conditions\" have shifted TreeSize's business model."
+          "title": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent",
+          "url": "https://arxiv.org/abs/2607.22562",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22562v1 Announce Type: new Abstract: Managing long-context dependencies remains a primary bottleneck in LLM agents, as redundant and irrelevant information can degrade multi-step reasoning. Strategic Forgetting for Agent Memory Systems (SF-AMS) is proposed as a fram…"
         }
       ]
     },
@@ -48,22 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Midjourney acquired the astrology app Co-Star",
-          "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-          "source": "TechCrunch AI",
-          "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation."
+          "title": "MM-ShiftKV: Decode-Aware Prefill-Stage KV Selection for Multimodal Large Language Models",
+          "url": "https://arxiv.org/abs/2607.22586",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22586v1 Announce Type: new Abstract: Key-Value (KV) caching is essential for efficient inference in multimodal large language models (MLLMs), yet its memory footprint grows linearly with context length and becomes a major bottleneck due to the large number of visual…"
         },
         {
-          "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-          "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-          "source": "TechCrunch AI",
-          "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
+          "title": "Differencing the Diffusion Trajectory toward Uncertain Components for Time Series Forecasting",
+          "url": "https://arxiv.org/abs/2607.22599",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22599v1 Announce Type: new Abstract: Diffusion models have become a widely used framework for probabilistic time series forecasting, modeling the distribution of future values given an observed history. In time series forecasting, however, the future continues the o…"
         },
         {
-          "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-          "url": "https://huggingface.co/blog/nunchaku-diffusers",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Chart Deception in Vision-Language Models: From Vulnerability to Mitigation",
+          "url": "https://arxiv.org/abs/2607.22600",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22600v1 Announce Type: new Abstract: Information visualizations are widely used to communicate patterns, trends, and outliers, yet deceptive design choices-such as truncated or inverted axes, distorted aspect ratios, inappropriate encodings, and misleading color map…"
+        },
+        {
+          "title": "Group Preference Collapse in Personalized Multimodal Large Language Models",
+          "url": "https://arxiv.org/abs/2607.22603",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22603v1 Announce Type: new Abstract: Personalized multimodal large language models (MLLMs) aim to generate user-specific responses, but existing methods mainly rely on profile-level information and overlook diverse user preferences. We identify group preference coll…"
+        },
+        {
+          "title": "PRESTO: Prefix-Aligned Tree Drafting for Diffusion Speculative Decoding",
+          "url": "https://arxiv.org/abs/2607.22634",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22634v1 Announce Type: new Abstract: Diffusion Large Language Models (dLLMs) have emerged as a promising alternative to autoregressive (AR) LLMs, generating tokens in parallel. This makes them effective draft models for speculative decoding (SD), producing an entire…"
+        },
+        {
+          "title": "Reason Before You Retrieve: Agentic Planning for Multi-modal RAG",
+          "url": "https://arxiv.org/abs/2607.22643",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22643v1 Announce Type: new Abstract: Multimodal retrieval-augmented generation (mRAG) aims to answer image-text queries with external knowledge, but most existing systems still retrieve directly from raw multimodal input over a flat evidence space. This design often…"
         }
       ]
     },
@@ -71,22 +89,81 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-          "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-          "source": "TechCrunch AI",
-          "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\""
+          "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
+          "url": "https://arxiv.org/abs/2607.22549",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22549v1 Announce Type: new Abstract: Hybrid quantum-classical protein structure prediction depends strongly on Hamiltonian penalty weights, yet existing lattice-based workflows typically fix these coefficients by hand and evaluate only very short fragments in simula…"
         },
         {
-          "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-          "source": "TechCrunch AI",
-          "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
+          "title": "Synthetic Scenario Generation for Evaluation of Industry 4.0 Agents",
+          "url": "https://arxiv.org/abs/2607.22563",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22563v1 Announce Type: new Abstract: Industrial agent benchmarks require realistic evaluation scenarios that integrate telemetry, failure modes, maintenance records, and domain standards. However, existing benchmarks such as AssetOpsBench rely on manually authored s…"
         },
         {
-          "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-          "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-          "source": "TechCrunch AI",
-          "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol."
+          "title": "Loss-Aware Feature-Map Pruning in Convolutional Neural Networks Using Multi-Armed Bandits",
+          "url": "https://arxiv.org/abs/2607.22564",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22564v1 Announce Type: new Abstract: Convolutional neural networks often contain redundant feature maps that increase storage and inference cost. This paper presents a loss-aware feature-map pruning framework using multi-armed bandits. Feature-map pruning is structu…"
+        },
+        {
+          "title": "Execution-Grounded Security Testing for Coding Agents in Software Engineering Pipelines",
+          "url": "https://arxiv.org/abs/2607.22569",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22569v1 Announce Type: new Abstract: Coding agents are increasingly integrated into system operations, where their tool use can directly modify project artifacts, execution environments, and the underlying system. For example, if a coding agent inserts a hook into a…"
+        },
+        {
+          "title": "The Scaffold Effect in Coding Agents: Harness Choice as a Hidden Variable in Coding-Agent Evaluation",
+          "url": "https://arxiv.org/abs/2607.22585",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22585v1 Announce Type: new Abstract: Public leaderboards for coding agents typically rank systems by model name and pass rate, while the surrounding harness (the scaffold that issues tools, manages context, and decides when to stop) is often under-specified. Model-t…"
+        },
+        {
+          "title": "An Agentic Orchestration of Atomistic Simulations",
+          "url": "https://arxiv.org/abs/2607.22596",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22596v1 Announce Type: new Abstract: Atomistic simulations are central to materials design, but their execution involves complex, multi-step workflows that require significant human expertise. Here, we present an agent-based system embedded within the URSA (Universa…"
+        }
+      ]
+    },
+    {
+      "heading": "Open Source",
+      "items": [
+        {
+          "title": "Generative Artificial Intelligence (GenAI) to convert images of queuing networks into verifiable simulation models: an open-weight LLM workflow approach",
+          "url": "https://arxiv.org/abs/2607.24259",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.24259v1 Announce Type: new Abstract: Recent work has explored the use of Large Language Models (LLMs) to automate simulation model building, typically by generating executable code directly from natural language descriptions. However, this raises challenges for veri…"
+        },
+        {
+          "title": "From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search",
+          "url": "https://arxiv.org/abs/2607.24280",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.24280v1 Announce Type: new Abstract: Agentic search enables large language models to solve knowledge-intensive tasks by interleaving multi-step reasoning with retrieval, yet optimizing this with outcome-based reinforcement learning (RL) provides only sparse supervis…"
+        },
+        {
+          "title": "KAYROS: An Anytime and Exact Open-Source Solver for Duration-Minimization Time-Dependent Vehicle Routing. A Technical Report and a Case Study in Human-AI Engineering",
+          "url": "https://arxiv.org/abs/2607.23116",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.23116v1 Announce Type: cross Abstract: KAYROS is an open-source solver for duration-minimization time-dependent vehicle routing problems, with or without time windows (TDVRPTW, TDVRP). In these variants, travel times change with departure time, and each route's disp…"
+        },
+        {
+          "title": "BoneAgeTW2: Automated Skeletal Maturation Assessment via the Tanner-Whitehouse 2 Method, Deep Learning, and Clinical Report Generation with Distribution Curves",
+          "url": "https://arxiv.org/abs/2607.23224",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.23224v1 Announce Type: cross Abstract: We present BoneAgeTW2, the first fully open-source system to automate the complete Tanner-Whitehouse 2 (TW2) clinical protocol for skeletal maturity assessment end-to-end. The system employs YOLOv8 for precise detection and loc…"
+        },
+        {
+          "title": "Graph Feedback Controls Consensus and Clique Formation in Open-Weight Language-Model Populations",
+          "url": "https://arxiv.org/abs/2607.12077",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.12077v2 Announce Type: replace Abstract: Multi-agent language-model (LM) systems often determine which agents communicate, yet routing is usually treated as an implementation detail. We ask whether routing itself determines whether a population converges on a shared…"
+        },
+        {
+          "title": "MedFailBench: A Clinician-Built Open-Source Benchmark for Medical AI Safety Boundary Inspection",
+          "url": "https://arxiv.org/abs/2607.15166",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.15166v2 Announce Type: replace Abstract: Most medical AI benchmarks measure whether a model knows the correct answer. MedFailBench asks a different question: which safety boundary failed? We present a synthetic benchmark and failure atlas built by a clinician. The r…"
         }
       ]
     },
@@ -94,40 +171,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
+          "url": "https://arxiv.org/abs/2607.22548",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22548v1 Announce Type: new Abstract: Data centers and their compute nodes require accurate and flexible digital twins capable of modeling the complex interplay of workloads, environmental parameters, and physical metrics. Current machine learning approaches for HPC …"
         },
         {
-          "title": "Are brain waves the next unlock for physical AI?",
-          "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-          "source": "TechCrunch AI",
-          "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings."
+          "title": "DSTFView: Multi-View Cloud-Edge Workload Forecasting with Dual-Input Spatio-Temporal-Frequency Modeling",
+          "url": "https://arxiv.org/abs/2607.22565",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22565v1 Announce Type: new Abstract: With the widespread deployment of edge-side AI inference, edge platforms are increasingly required to support latency-sensitive, highly concurrent, and reliability-critical applications. However, existing methods often struggle t…"
         },
         {
-          "title": "Making sense of the panic over Chinese AI",
-          "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-          "source": "TechCrunch AI",
-          "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
+          "title": "MedLoCoMo: A Long-Context Multi-Session Medical Dialogue Benchmark for Large Language Models",
+          "url": "https://arxiv.org/abs/2607.22566",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22566v1 Announce Type: new Abstract: MedLoCoMo is a Medical Long-Context Memory benchmark for patient-specific clinical reasoning over multi-admission medical dialogue. Existing medical QA benchmarks largely test short context knowledge or single document grounding,…"
         },
         {
-          "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-          "source": "TechCrunch AI",
-          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+          "title": "Keyword Matters: Unveiling the Energy Sensitivity of On-Device LLM Prompting",
+          "url": "https://arxiv.org/abs/2607.22568",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22568v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed on mobile and embedded devices to improve privacy and reduce network latency. Yet on-device inference faces a fundamental constraint: high energy consumption on battery-power…"
         },
         {
-          "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-          "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-          "source": "TechCrunch AI",
-          "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
+          "title": "Reference Feature Atlases for Mechanistic Auditing of Language Models",
+          "url": "https://arxiv.org/abs/2607.22570",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22570v1 Announce Type: new Abstract: Auditing a new language model usually means relearning and reinterpreting its internal features from scratch. We propose a reference feature atlas: a sparse feature library trained once on a reference panel and reused for new tar…"
         },
         {
-          "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-          "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-          "source": "TechCrunch AI",
-          "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
+          "title": "SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs",
+          "url": "https://arxiv.org/abs/2607.22571",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.22571v1 Announce Type: new Abstract: Knowledge Graph-based Retrieval-Augmented Generation (KG-RAG) enables natural language interaction with structured enterprise knowledge, yet existing agentic approaches that perform well on public benchmarks often fail to general…"
         }
       ]
     },
@@ -135,52 +212,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "This startup helps brands get discovered across AI search platforms",
-          "url": "https://yourstory.com/2026/07/this-startup-helps-brands-get-discovered-across-ai-search-platforms",
-          "source": "YourStory",
-          "summary": "As AI begins to reshape how people discover products and services online, Gurugram-based DareAISearch is building tools to help brands stay visible across platforms such as ChatGPT, Gemini, and Perplexity."
-        },
-        {
-          "title": "Why a 'Clean' Property File Isn't Enough: How Cubictree's AI Protects Lenders from Hidden Fraud",
-          "url": "https://yourstory.com/2026/07/why-clean-property-file-isnt-enough-how-cubictrees-ai-protects-lenders-from-hidden-fraud",
-          "source": "YourStory",
-          "summary": "Fragmented records, unlinked newspaper notices, and manual checks that routinely fail have left India's lending system exposed. Cubictree’s AI Property Compliant Report is changing that, one property at a time Gayatri Guha The file was complete. The legal opinion was clean. Th…"
-        },
-        {
-          "title": "‘Unprecedented event’: Hugging Face CEO demands answers from OpenAI after AI agent-driven cyber attack",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/hugging-face-ceo-demands-answers-openai-agent-cyber-attack-10805305/",
+          "title": "Why Anthropic backs open-weight AI models but still won’t sign Nvidia CEO’s letter",
+          "url": "https://indianexpress.com/article/technology/artificial-intelligence/why-anthropic-backs-open-weight-ai-not-nvidia-letter-10806982/",
           "source": "Indian Express Tech",
           "summary": ""
         },
         {
-          "title": "The next startup advantage isn’t bigger teams; it’s smarter AI systems",
-          "url": "https://yourstory.com/2026/07/the-next-startup-advantage-isnt-bigger-teams-its-smarter-ai-systems",
-          "source": "YourStory",
-          "summary": "At the Snowflake x AWS Mixer, founders, engineering leaders, and investors discussed how startups are using AI-native architectures to accelerate decision-making, improve customer experiences, and unlock growth without proportionately scaling headcount."
-        },
-        {
-          "title": "Why lifelong learning is becoming an economic imperative, not a personal choice",
-          "url": "https://yourstory.com/2026/07/lifelong-learning-becoming-economic-imperative-not-a-personal-choice",
-          "source": "YourStory",
-          "summary": "As AI reshapes the workplace, career growth is becoming less about accumulating credentials and more about developing the judgment, adaptability and skills that machines cannot replace. Continuous learning is no longer a competitive advantage—it's becoming a career necessity."
-        },
-        {
-          "title": "Inside India's AI skilling push: 27 labs, 21 states, one still waiting",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/inside-indias-ai-skilling-push-27-labs-21-states-one-still-waiting/articleshow/132652484.cms",
+          "title": "Sam Altman eyes South Korea as testbed for OpenAI's first hardware device",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altman-eyes-south-korea-as-testbed-for-openais-first-hardware-device/articleshow/132678332.cms",
           "source": "ET Tech",
-          "summary": "IndiaAI has set up 27 data and AI labs, with 188 more planned, while over 5,500 people have enrolled for AI training."
+          "summary": "OpenAI's CEO is keen to test its inaugural hardware in South Korea, aimed for release by the first quarter of next year. This innovative screenless smart speaker is designed to be a versatile, mobile AI assistant for households. However, potential legal hurdles and trademark c…"
         },
         {
-          "title": "Global Market Update | South Korea's Naver jumps 10% on Nvidia's $1 billion investment plan",
-          "url": "https://economictimes.indiatimes.com/tech/technology/global-market-update-south-koreas-naver-jumps-10-on-nvidias-1-billion-investment-plan/articleshow/132657749.cms",
-          "source": "ET Tech",
-          "summary": "Nvidia will invest one billion dollars in Naver's new shares. This investment supports expanding an AI data center project in South Korea. Brookfield will provide up to nine billion dollars in financing for this initiative. The expanded data center will utilize Nvidia's chip p…"
+          "title": "Krutrim Cuts Nearly Half Of Remaining Workforce In Fresh Layoffs",
+          "url": "https://inc42.com/buzz/krutrim-cuts-nearly-half-of-remaining-workforce-in-fresh-layoffs/",
+          "source": "Inc42",
+          "summary": "Bhavish Aggarwal-led AI startup Krutrim has reportedly laid off another 20-25 employees in its second round of layoffs this year,…"
         },
         {
-          "title": "Chinese chipmaker CXMT soars more than 500% on debut",
-          "url": "https://economictimes.indiatimes.com/tech/technology/chinese-chipmaker-cxmt-soars-more-than-500-on-debut/articleshow/132651926.cms",
+          "title": "Nvidia behind $50 billion lease on Texas data center, FT reports",
+          "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-behind-50-billion-lease-on-texas-data-center-ft-reports/articleshow/132676392.cms",
           "source": "ET Tech",
-          "summary": "China's leading memory chipmaker CXMT became the most valuable company in the mainland after soaring 500 percent on its market debut Monday, underscoring the impact of AI-driven demand on the semiconductor sector. The firm's shares rocketed more than 500 percent by mid-morning…"
+          "summary": "In an impressive move, Nvidia is reportedly set to lease Hut 8's data center in Texas, with the value of the arrangement potentially soaring to fifty billion dollars in the future. This state-of-the-art campus is designed to facilitate extensive artificial intelligence trainin…"
+        },
+        {
+          "title": "Made by AI? EU tells firms to stick a label on it from Sunday",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/made-by-ai-eu-tells-firms-to-stick-a-label-on-it-from-sunday/articleshow/132676042.cms",
+          "source": "ET Tech",
+          "summary": "European Union's new artificial intelligence rules mandate labeling of AI-generated content. These regulations aim to ensure users can distinguish real online material from synthetic creations. Companies face significant penalties for non-compliance with these transparency req…"
+        },
+        {
+          "title": "US faces risk of 'massive capital destruction' as Chinese AI models challenge hyperscalers: Jefferies",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-faces-risk-of-massive-capital-destruction-as-chinese-ai-models-challenge-hyperscalers-jefferies/articleshow/132675496.cms",
+          "source": "ET Tech",
+          "summary": "The United States could face \"massive capital destruction\" from its artificial intelligence (AI) investment boom as Chinese open-source AI models increasingly challenge the dominance and profitability of US hyperscalers, according to a report by Jefferies."
+        },
+        {
+          "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+          "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+          "source": "TechCrunch AI",
+          "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales."
+        },
+        {
+          "title": "Indic DiarBench: A Multilingual Joint Diarization and ASR Benchmark for Indian Languages",
+          "url": "https://arxiv.org/abs/2607.23808",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.23808v1 Announce Type: cross Abstract: In this work, we introduce Indic DiarBench, a speaker diarization and ASR benchmark dataset spanning all 22 scheduled languages of India. This corpus comprises approximately 108 hours of natural multi-speaker audio from near-fi…"
         }
       ]
     }
