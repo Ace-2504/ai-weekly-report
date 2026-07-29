@@ -1,107 +1,121 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "top": {
-    "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
-    "url": "https://arxiv.org/abs/2607.22544",
+    "title": "Do Models Fake Alignment Without Clear Consequences?",
+    "url": "https://arxiv.org/abs/2607.24758",
     "source": "arXiv cs.AI",
-    "published": "2026-07-28T04:00:00.000Z",
-    "summary": "arXiv:2607.22544v1 Announce Type: new Abstract: Visual counterfactual explanations aim to answer \"what minimal change to this image would flip the model's prediction?\", and are increasingly important as vision models are deployed in safety-critical domains (e.g., medicine). Ex…"
+    "published": "2026-07-29T04:00:00.000Z",
+    "summary": "arXiv:2607.24758v1 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why …"
   },
   "topIndia": {
-    "title": "Why Anthropic backs open-weight AI models but still won’t sign Nvidia CEO’s letter",
-    "url": "https://indianexpress.com/article/technology/artificial-intelligence/why-anthropic-backs-open-weight-ai-not-nvidia-letter-10806982/",
+    "title": "OpenAI, Google, Meta staff sign letter calling for mechanisms to pace AI progress",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-anthropic-meta-employees-letter-slow-ai-development-10808642/",
     "source": "Indian Express Tech",
-    "published": "2026-07-28T07:43:13.000Z",
+    "published": "2026-07-29T07:35:25.000Z",
     "summary": ""
   },
   "headlines": [
     {
-      "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
-      "url": "https://arxiv.org/abs/2607.22548",
+      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "url": "https://arxiv.org/abs/2607.24759",
       "source": "arXiv cs.AI",
-      "published": "2026-07-28T04:00:00.000Z"
+      "published": "2026-07-29T04:00:00.000Z"
     },
     {
-      "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
-      "url": "https://arxiv.org/abs/2607.22549",
+      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "url": "https://arxiv.org/abs/2607.24762",
       "source": "arXiv cs.AI",
-      "published": "2026-07-28T04:00:00.000Z"
+      "published": "2026-07-29T04:00:00.000Z"
     },
     {
-      "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
-      "url": "https://arxiv.org/abs/2607.22554",
+      "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2607.24763",
       "source": "arXiv cs.AI",
-      "published": "2026-07-28T04:00:00.000Z"
+      "published": "2026-07-29T04:00:00.000Z"
     },
     {
-      "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
-      "url": "https://arxiv.org/abs/2607.22555",
+      "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+      "url": "https://arxiv.org/abs/2607.24764",
       "source": "arXiv cs.AI",
-      "published": "2026-07-28T04:00:00.000Z"
+      "published": "2026-07-29T04:00:00.000Z"
     },
     {
-      "title": "MIITA: Memory-Induced Inference-Time Adaptation for Continual Learning with Small Language Models",
-      "url": "https://arxiv.org/abs/2607.22556",
+      "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
+      "url": "https://arxiv.org/abs/2607.24766",
       "source": "arXiv cs.AI",
-      "published": "2026-07-28T04:00:00.000Z"
+      "published": "2026-07-29T04:00:00.000Z"
     },
     {
-      "title": "Codifying the Judge: Scalable Evaluation via Program Distillation",
-      "url": "https://arxiv.org/abs/2607.22561",
+      "title": "PATHFinder Agent for Tailored Prenatal Care",
+      "url": "https://arxiv.org/abs/2607.24768",
       "source": "arXiv cs.AI",
-      "published": "2026-07-28T04:00:00.000Z"
+      "published": "2026-07-29T04:00:00.000Z"
     },
     {
-      "title": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent",
-      "url": "https://arxiv.org/abs/2607.22562",
+      "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+      "url": "https://arxiv.org/abs/2607.24769",
       "source": "arXiv cs.AI",
-      "published": "2026-07-28T04:00:00.000Z"
+      "published": "2026-07-29T04:00:00.000Z"
     },
     {
-      "title": "Synthetic Scenario Generation for Evaluation of Industry 4.0 Agents",
-      "url": "https://arxiv.org/abs/2607.22563",
+      "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
+      "url": "https://arxiv.org/abs/2607.24770",
       "source": "arXiv cs.AI",
-      "published": "2026-07-28T04:00:00.000Z"
+      "published": "2026-07-29T04:00:00.000Z"
     },
     {
-      "title": "Loss-Aware Feature-Map Pruning in Convolutional Neural Networks Using Multi-Armed Bandits",
-      "url": "https://arxiv.org/abs/2607.22564",
+      "title": "RoCo-ACE: Rollout-Conditioned Online Distillation for Retention-Aware Knowledge Injection",
+      "url": "https://arxiv.org/abs/2607.24771",
       "source": "arXiv cs.AI",
-      "published": "2026-07-28T04:00:00.000Z"
+      "published": "2026-07-29T04:00:00.000Z"
     },
     {
-      "title": "DSTFView: Multi-View Cloud-Edge Workload Forecasting with Dual-Input Spatio-Temporal-Frequency Modeling",
-      "url": "https://arxiv.org/abs/2607.22565",
+      "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
+      "url": "https://arxiv.org/abs/2607.24772",
       "source": "arXiv cs.AI",
-      "published": "2026-07-28T04:00:00.000Z"
+      "published": "2026-07-29T04:00:00.000Z"
     },
     {
-      "title": "MedLoCoMo: A Long-Context Multi-Session Medical Dialogue Benchmark for Large Language Models",
-      "url": "https://arxiv.org/abs/2607.22566",
+      "title": "Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations",
+      "url": "https://arxiv.org/abs/2607.24773",
       "source": "arXiv cs.AI",
-      "published": "2026-07-28T04:00:00.000Z"
+      "published": "2026-07-29T04:00:00.000Z"
     },
     {
-      "title": "Keyword Matters: Unveiling the Energy Sensitivity of On-Device LLM Prompting",
-      "url": "https://arxiv.org/abs/2607.22568",
+      "title": "Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear Radiation Forecasting",
+      "url": "https://arxiv.org/abs/2607.24774",
       "source": "arXiv cs.AI",
-      "published": "2026-07-28T04:00:00.000Z"
+      "published": "2026-07-29T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "NeurGO: Learning to Generate Elite Candidates for Meta-Black-Box Expensive Optimization",
-      "url": "https://arxiv.org/abs/2607.23408",
+      "title": "Game AI Not Fun? A Scoping Review and Meta-Analysis on the Differences in Enjoyment between Human and Computer Opponents",
+      "url": "https://arxiv.org/abs/2607.24749",
       "source": "arXiv cs.AI",
-      "published": "2026-07-28T04:00:00.000Z",
-      "summary": "arXiv:2607.23408v1 Announce Type: new Abstract: Expensive black-box optimization is ubiquitous in science and engineering, where function evaluations are costly and the evaluation budget is limited. Traditional evolutionary algorithms and Meta-BlackBox Optimization (MetaBBO) a…"
+      "published": "2026-07-29T04:00:00.000Z",
+      "summary": "arXiv:2607.24749v1 Announce Type: cross Abstract: Although advancements in game character AI aim to enhance player engagement, evidence suggests that perceiving an opponent as artificial can diminish the psychological experience. This paper presents a scoping review and meta-a…"
+    },
+    {
+      "title": "From Dyad to Triad: Eliciting XAI Requirements in Stroke Rehabilitation",
+      "url": "https://arxiv.org/abs/2607.25423",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-29T04:00:00.000Z",
+      "summary": "arXiv:2607.25423v1 Announce Type: cross Abstract: Eliciting explainable AI (XAI) requirements from stroke survivors presents a methodological challenge with direct implications for the design of trustworthy brain-computer interfaces for rehabilitation. How can patients and car…"
     },
     {
       "title": "Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability",
       "url": "https://arxiv.org/abs/2607.18368",
       "source": "arXiv cs.AI",
-      "published": "2026-07-28T04:00:00.000Z",
-      "summary": "arXiv:2607.18368v2 Announce Type: replace Abstract: Partially observable reinforcement learning requires deciding what to retain, retrieve, and forget over time. We introduce a neuro-symbolic meta-policy that learns which symbolic memory heuristic to apply at each decision poi…"
+      "published": "2026-07-29T04:00:00.000Z",
+      "summary": "arXiv:2607.18368v3 Announce Type: replace Abstract: Partially observable reinforcement learning requires deciding what to retain, retrieve, and forget over time. We introduce a neuro-symbolic meta-policy that learns which symbolic memory heuristic to apply at each decision poi…"
+    },
+    {
+      "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports",
+      "url": "https://economictimes.indiatimes.com/tech/technology/amazon-winds-down-most-flagship-ai-models-in-strategy-overhaul-business-insider-reports/articleshow/132682163.cms",
+      "source": "ET Tech",
+      "published": "2026-07-28T10:43:29.000Z",
+      "summary": "Amazon is shifting its artificial intelligence strategy towards new frontier models. The company is deprecating many of its existing Nova AI models. Resources are now moving towards a new frontier-model development effort. This new flagship model is expected to debut later thi…"
     },
     {
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
@@ -116,13 +130,6 @@
       "source": "TechCrunch AI",
       "published": "2026-07-27T18:32:11.000Z",
       "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
-    },
-    {
-      "title": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup",
-      "url": "https://economictimes.indiatimes.com/tech/startups/nvidia-to-invest-5-billion-in-ilya-sutskevers-ai-startup/articleshow/132669106.cms",
-      "source": "ET Tech",
-      "published": "2026-07-27T18:27:10.000Z",
-      "summary": "The two ⁠companies announced ‌the deal ​Monday ​morning without disclosing ⁠financial terms. The funding will boost ​SSI's available computing resources, ​the companies said. The deal also gives SSI access to Nvidia's cutting-edge Vera ‌Rubin hardware."
     },
     {
       "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
@@ -143,9 +150,9 @@
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altman-eyes-south-korea-as-testbed-for-openais-first-hardware-device/articleshow/132678332.cms",
-      "article": "Sam Altman eyes South Korea as testbed for OpenAI's first hardware device",
-      "source": "ET Tech"
+      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "article": "Sam Altman is ready to decelerate",
+      "source": "TechCrunch AI"
     },
     {
       "name": "Demis Hassabis",
@@ -157,9 +164,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "article": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "source": "TechCrunch AI"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-employees-call-for-us-backed-global-effort-to-manage-risks-of-advanced-ai/articleshow/132697696.cms",
+      "article": "Tech employees call for US-backed global effort to manage risks of advanced AI",
+      "source": "ET Tech"
     },
     {
       "name": "Yann LeCun",
@@ -171,9 +178,9 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://arxiv.org/abs/2607.22997",
-      "article": "Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline",
-      "source": "arXiv cs.AI"
+      "link": "https://nvidianews.nvidia.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Andrej Karpathy",
