@@ -1,107 +1,121 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "top": {
     "title": "Do Models Fake Alignment Without Clear Consequences?",
     "url": "https://arxiv.org/abs/2607.24758",
     "source": "arXiv cs.AI",
-    "published": "2026-07-29T04:00:00.000Z",
-    "summary": "arXiv:2607.24758v1 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why …"
+    "published": "2026-07-30T04:00:00.000Z",
+    "summary": "arXiv:2607.24758v2 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why …"
   },
   "topIndia": {
-    "title": "OpenAI, Google, Meta staff sign letter calling for mechanisms to pace AI progress",
-    "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-anthropic-meta-employees-letter-slow-ai-development-10808642/",
-    "source": "Indian Express Tech",
-    "published": "2026-07-29T07:35:25.000Z",
-    "summary": ""
+    "title": "At Unleash, Atlassian showed what it takes to move enterprise AI from demo to production",
+    "url": "https://yourstory.com/2026/07/unleash-atlassian-enterprise-ai-demo-to-production",
+    "source": "YourStory",
+    "published": "2026-07-30T07:45:27.000Z",
+    "summary": "From agent-generated workflows and incident investigation to security, cloud migration and product management, experts at the event discussed the various systems, safeguards and engineering discipline needed to advance enterprise AI beyond demo to dependable use-cases"
   },
   "headlines": [
     {
       "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
       "url": "https://arxiv.org/abs/2607.24759",
       "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z"
+      "published": "2026-07-30T04:00:00.000Z"
     },
     {
       "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
       "url": "https://arxiv.org/abs/2607.24762",
       "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z"
+      "published": "2026-07-30T04:00:00.000Z"
     },
     {
       "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
       "url": "https://arxiv.org/abs/2607.24763",
       "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z"
+      "published": "2026-07-30T04:00:00.000Z"
     },
     {
       "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
       "url": "https://arxiv.org/abs/2607.24764",
       "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z"
+      "published": "2026-07-30T04:00:00.000Z"
     },
     {
       "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
       "url": "https://arxiv.org/abs/2607.24766",
       "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z"
+      "published": "2026-07-30T04:00:00.000Z"
     },
     {
       "title": "PATHFinder Agent for Tailored Prenatal Care",
       "url": "https://arxiv.org/abs/2607.24768",
       "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z"
+      "published": "2026-07-30T04:00:00.000Z"
     },
     {
       "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
       "url": "https://arxiv.org/abs/2607.24769",
       "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z"
+      "published": "2026-07-30T04:00:00.000Z"
     },
     {
       "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
       "url": "https://arxiv.org/abs/2607.24770",
       "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z"
+      "published": "2026-07-30T04:00:00.000Z"
     },
     {
       "title": "RoCo-ACE: Rollout-Conditioned Online Distillation for Retention-Aware Knowledge Injection",
       "url": "https://arxiv.org/abs/2607.24771",
       "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z"
+      "published": "2026-07-30T04:00:00.000Z"
     },
     {
       "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
       "url": "https://arxiv.org/abs/2607.24772",
       "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z"
+      "published": "2026-07-30T04:00:00.000Z"
     },
     {
       "title": "Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations",
       "url": "https://arxiv.org/abs/2607.24773",
       "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z"
+      "published": "2026-07-30T04:00:00.000Z"
     },
     {
       "title": "Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear Radiation Forecasting",
       "url": "https://arxiv.org/abs/2607.24774",
       "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z"
+      "published": "2026-07-30T04:00:00.000Z"
     }
   ],
   "events": [
     {
+      "title": "GPT-5.6, ChatGPT Work lift OpenAI’s July ARR over Q2",
+      "url": "https://economictimes.indiatimes.com/tech/technology/gpt-5-6-chatgpt-work-lift-openais-july-arr-over-q2/articleshow/132728105.cms",
+      "source": "ET Tech",
+      "published": "2026-07-30T05:41:41.000Z",
+      "summary": "OpenAI's revenue growth has surpassed second-quarter levels, driven by new product launches. The company is expanding its customer base to support significant AI infrastructure investments. OpenAI aims for substantial compute spending by 2030 and seeks Nvidia funding. Rival An…"
+    },
+    {
       "title": "Game AI Not Fun? A Scoping Review and Meta-Analysis on the Differences in Enjoyment between Human and Computer Opponents",
       "url": "https://arxiv.org/abs/2607.24749",
       "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z",
+      "published": "2026-07-30T04:00:00.000Z",
       "summary": "arXiv:2607.24749v1 Announce Type: cross Abstract: Although advancements in game character AI aim to enhance player engagement, evidence suggests that perceiving an opponent as artificial can diminish the psychological experience. This paper presents a scoping review and meta-a…"
     },
     {
       "title": "From Dyad to Triad: Eliciting XAI Requirements in Stroke Rehabilitation",
       "url": "https://arxiv.org/abs/2607.25423",
       "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z",
+      "published": "2026-07-30T04:00:00.000Z",
       "summary": "arXiv:2607.25423v1 Announce Type: cross Abstract: Eliciting explainable AI (XAI) requirements from stroke survivors presents a methodological challenge with direct implications for the design of trustworthy brain-computer interfaces for rehabilitation. How can patients and car…"
+    },
+    {
+      "title": "Google launches Gemini Spark, a 24/7 personal AI agent, in India",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-launches-gemini-spark-24-7-personal-ai-agent-india-10808833/",
+      "source": "Indian Express Tech",
+      "published": "2026-07-29T10:05:30.000Z",
+      "summary": ""
     },
     {
       "title": "Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability",
@@ -111,32 +125,11 @@
       "summary": "arXiv:2607.18368v3 Announce Type: replace Abstract: Partially observable reinforcement learning requires deciding what to retain, retrieve, and forget over time. We introduce a neuro-symbolic meta-policy that learns which symbolic memory heuristic to apply at each decision poi…"
     },
     {
-      "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports",
-      "url": "https://economictimes.indiatimes.com/tech/technology/amazon-winds-down-most-flagship-ai-models-in-strategy-overhaul-business-insider-reports/articleshow/132682163.cms",
-      "source": "ET Tech",
-      "published": "2026-07-28T10:43:29.000Z",
-      "summary": "Amazon is shifting its artificial intelligence strategy towards new frontier models. The company is deprecating many of its existing Nova AI models. Resources are now moving towards a new frontier-model development effort. This new flagship model is expected to debut later thi…"
-    },
-    {
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
       "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
       "source": "Ars Technica",
       "published": "2026-07-27T21:56:14.000Z",
       "summary": "Microsoft says tools cost less than competing ones and outperform them, too."
-    },
-    {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-27T18:32:11.000Z",
-      "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
-    },
-    {
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "source": "TechCrunch AI",
-      "published": "2026-07-27T15:01:50.000Z",
-      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase."
     },
     {
       "title": "AMD unveils Helios AI rack-scale system to challenge Nvidia’s dominance",
@@ -150,9 +143,9 @@
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "article": "Sam Altman is ready to decelerate",
-      "source": "TechCrunch AI"
+      "link": "https://indianexpress.com/article/technology/artificial-intelligence/openais-sam-altman-discusses-rogue-agent-with-us-senators-as-trump-considers-ai-controls-10809842/",
+      "article": "OpenAI’s Sam Altman discusses rogue agent with US senators, as Trump considers AI controls",
+      "source": "Indian Express Tech"
     },
     {
       "name": "Demis Hassabis",
@@ -164,9 +157,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-employees-call-for-us-backed-global-effort-to-manage-risks-of-advanced-ai/articleshow/132697696.cms",
-      "article": "Tech employees call for US-backed global effort to manage risks of advanced AI",
-      "source": "ET Tech"
+      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "article": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "source": "TechCrunch AI"
     },
     {
       "name": "Yann LeCun",

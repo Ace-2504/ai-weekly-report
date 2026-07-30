@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-07-23 to 2026-07-29",
-  "generated": "2026-07-29T08:18:27.769Z",
-  "intro": "444 AI items this week (69 India-relevant) across 10 sources.",
+  "weekOf": "2026-07-24 to 2026-07-30",
+  "generated": "2026-07-30T08:06:06.378Z",
+  "intro": "441 AI items this week (67 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -136,6 +136,12 @@
           "summary": "arXiv:2607.24799v1 Announce Type: cross Abstract: Large Language Models tend to hallucinate when answering domain-specific ques tions from scientific documents without prior fine-tuning. Currently, methods such as Retrieval-Augmented Generation partially solve this problem but…"
         },
         {
+          "title": "The Hugging Face break-in explained",
+          "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+          "source": "TechCrunch AI",
+          "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)"
+        },
+        {
           "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
           "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
           "source": "Ars Technica",
@@ -158,12 +164,6 @@
           "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
           "source": "MIT Tech Review",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, …"
-        },
-        {
-          "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-          "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-          "source": "TechCrunch AI",
-          "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both."
         }
       ]
     },
@@ -174,7 +174,7 @@
           "title": "Do Models Fake Alignment Without Clear Consequences?",
           "url": "https://arxiv.org/abs/2607.24758",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.24758v1 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why …"
+          "summary": "arXiv:2607.24758v2 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why …"
         },
         {
           "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
@@ -212,52 +212,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "OpenAI, Google, Meta staff sign letter calling for mechanisms to pace AI progress",
-          "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-anthropic-meta-employees-letter-slow-ai-development-10808642/",
+          "title": "At Unleash, Atlassian showed what it takes to move enterprise AI from demo to production",
+          "url": "https://yourstory.com/2026/07/unleash-atlassian-enterprise-ai-demo-to-production",
+          "source": "YourStory",
+          "summary": "From agent-generated workflows and incident investigation to security, cloud migration and product management, experts at the event discussed the various systems, safeguards and engineering discipline needed to advance enterprise AI beyond demo to dependable use-cases"
+        },
+        {
+          "title": "AI to strengthen enterprise software firms, not replace them: Goldman Sachs",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-to-strengthen-enterprise-software-firms-not-replace-them-goldman-sachs/articleshow/132729646.cms",
+          "source": "ET Tech",
+          "summary": "Enterprise software firms will likely grow stronger in the AI era. AI adoption increases the value of enterprise data systems and contextual intelligence. Systems of record remain essential for AI applications and their execution. Integrated and well-governed data is increasin…"
+        },
+        {
+          "title": "Humanoid robot, powered by Qualcomm’s AI chips, collapses during Taipei event",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/humanoid-robot-powered-by-qualcomm-ai-chips-collapses-during-taipei-computex-event-10809988/",
           "source": "Indian Express Tech",
           "summary": ""
         },
         {
-          "title": "BharatGen CEO On Why Models Alone Can’t Help India Gain In The AI Race",
-          "url": "https://inc42.com/features/bharatgen-ceo-on-why-models-alone-cant-help-india-gain-in-the-ai-race/",
-          "source": "Inc42",
-          "summary": "With many homegrown foundation model initiatives competing for talent, compute and enterprise mindshare, the question of who will define the…"
-        },
-        {
-          "title": "India scores high on semiconductor sector but modest in tech sovereignty: Forrester",
-          "url": "https://yourstory.com/2026/07/india-scores-high-semiconductor-sector-modest-tech-sovereignty-forrester",
-          "source": "YourStory",
-          "summary": "India’s semiconductor sovereignty score is projected to rise sharply by 2030, but broader technology independence will require continued investments across AI, cloud, data centres, software, talent, and strategic partnerships, according to Forrester."
-        },
-        {
-          "title": "Paytm founder Vijay Shekhar Sharma calls AI a once-in-a-generation opportunity for India",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/paytm-founder-vijay-shekhar-sharma-calls-ai-a-once-in-a-generation-opportunity-for-india/articleshow/132704160.cms",
+          "title": "ADA acquires Algonomy, strengthening its intelligent growth platform for a fully agentic experience",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ada-acquires-algonomy-strengthening-its-intelligent-growth-platform-for-a-fully-agentic-experience/articleshow/132728135.cms",
           "source": "ET Tech",
-          "summary": "Paytm Founder Vijay Shekhar Sharma sees artificial intelligence as a major opportunity. India can create new jobs and economic growth through this technology. Government initiatives like IndiaAI Mission align with this global leadership goal. Sharma urges focus and ambition to…"
+          "summary": "ADA announced its acquisition of Algonomy, a retail agentic decisioning leader. This deal strengthens ADA's intelligent growth platform with AI decisioning technology. The acquisition extends ADA's market reach to thirty-four combined countries globally. Algonomy's technology …"
         },
         {
-          "title": "Sopra Steria raises growth target on strong European AI, cybersecurity demand",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sopra-steria-raises-growth-target-on-strong-european-ai-cybersecurity-demand/articleshow/132704072.cms",
+          "title": "GPT-5.6, ChatGPT Work lift OpenAI’s July ARR over Q2",
+          "url": "https://economictimes.indiatimes.com/tech/technology/gpt-5-6-chatgpt-work-lift-openais-july-arr-over-q2/articleshow/132728105.cms",
           "source": "ET Tech",
-          "summary": "The French IT firm Sopra Steria has announced a rise in its full-year revenue growth projections, underscoring strong financial backing for AI and cybersecurity projects. With expectations set for 2.0% to 2.5% in organic revenue growth by 2026, the company noted substantial ga…"
+          "summary": "OpenAI's revenue growth has surpassed second-quarter levels, driven by new product launches. The company is expanding its customer base to support significant AI infrastructure investments. OpenAI aims for substantial compute spending by 2030 and seeks Nvidia funding. Rival An…"
         },
         {
-          "title": "Gen-AI to boost India's labour productivity by 0.4 percentage points annually over next decade: Goldman Sachs",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gen-ai-to-boost-indias-labour-productivity-by-0-4-percentage-points-annually-over-next-decade-goldman-sachs/articleshow/132702423.cms",
+          "title": "Capgemini lifts 2026 revenue growth target on AI transformation demand",
+          "url": "https://economictimes.indiatimes.com/tech/information-tech/capgemini-lifts-2026-revenue-growth-target-on-ai-transformation-demand/articleshow/132728127.cms",
           "source": "ET Tech",
-          "summary": "Over the next decade, generative AI is poised to significantly enhance India's labour productivity, particularly in knowledge-driven sectors such as healthcare and education where improvements are set to be most notable. By automating routine tasks, workers can focus on more v…"
+          "summary": "The ​company now expects annual revenue growth of 8.5% to ​9% at constant currency, up ⁠from 6.5% ‌to 8.5% ​previously."
         },
         {
-          "title": "JanAI shares roadmap to prepare India’s higher education system for an AI-driven economy",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/janai-shares-roadmap-to-prepare-indias-higher-education-system-for-an-ai-driven-economy/articleshow/132702327.cms",
+          "title": "AI data centre supplier Zhongji InnoLight tumbles on Hong Kong debut",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-data-centre-supplier-zhongji-innolight-tumbles-on-hong-kong-debut/articleshow/132726871.cms",
           "source": "ET Tech",
-          "summary": "JanAI shared a draft report with NITI Aayog on preparing India's higher education for AI. The report examines shifts in higher education and generative AI adoption among students. It highlights gaps in assessment, faculty preparedness, and industry alignment for students. Reco…"
+          "summary": "Shares in Chinese data centre supplier Zhongji InnoLight tumbled more than nine percent in its Hong Kong debut on Thursday, after raising at least US$6.8 billion in the city's biggest IPO for seven years, driven by a demand for AI components. The Shenzhen-listed firm priced it…"
         },
         {
-          "title": "Building materials quick commerce startup Fixxly raises $5.5M in seed round",
-          "url": "https://yourstory.com/2026/07/building-materials-quick-commerce-startup-fixxly-seed-round",
-          "source": "YourStory",
-          "summary": "Fixxly has built an AI platform connecting all the players in ecosystem of building materials to ensure there is timely delivery and funding will be used for scaling technology & operations."
+          "title": "Meta’s profit falls 14% as AI spending continues",
+          "url": "https://indianexpress.com/article/technology/tech-news-technology/metas-profit-falls-14-as-ai-spending-continues-10809847/",
+          "source": "Indian Express Tech",
+          "summary": ""
         }
       ]
     }
