@@ -1,114 +1,107 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "top": {
-    "title": "Do Models Fake Alignment Without Clear Consequences?",
-    "url": "https://arxiv.org/abs/2607.24758",
+    "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+    "url": "https://arxiv.org/abs/2607.26119",
     "source": "arXiv cs.AI",
-    "published": "2026-07-30T04:00:00.000Z",
-    "summary": "arXiv:2607.24758v2 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why …"
+    "published": "2026-07-31T04:00:00.000Z",
+    "summary": "arXiv:2607.26119v1 Announce Type: new Abstract: Large reasoning models trained via reinforcement learning (RL) have been increasingly shown to outperform their supervised fine-tuned (SFT) counterparts on mathematical reasoning tasks; Yet the mechanistic basis for this advantag…"
   },
   "topIndia": {
-    "title": "At Unleash, Atlassian showed what it takes to move enterprise AI from demo to production",
-    "url": "https://yourstory.com/2026/07/unleash-atlassian-enterprise-ai-demo-to-production",
-    "source": "YourStory",
-    "published": "2026-07-30T07:45:27.000Z",
-    "summary": "From agent-generated workflows and incident investigation to security, cloud migration and product management, experts at the event discussed the various systems, safeguards and engineering discipline needed to advance enterprise AI beyond demo to dependable use-cases"
+    "title": "German court rules AI music firm Suno broke copyright rules",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/german-court-rules-ai-music-firm-suno-broke-copyright-rules/articleshow/132760821.cms",
+    "source": "ET Tech",
+    "published": "2026-07-31T07:49:00.000Z",
+    "summary": "A ​German court ruled ‌on ⁠Friday ⁠that ​AI music ​firm Suno ​has ⁠violated ‌copyright ​rules ​and has ⁠to provide information ​on illicit ​revenues."
   },
   "headlines": [
     {
-      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
-      "url": "https://arxiv.org/abs/2607.24759",
+      "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2607.26120",
       "source": "arXiv cs.AI",
-      "published": "2026-07-30T04:00:00.000Z"
+      "published": "2026-07-31T04:00:00.000Z"
     },
     {
-      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
-      "url": "https://arxiv.org/abs/2607.24762",
+      "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+      "url": "https://arxiv.org/abs/2607.26155",
       "source": "arXiv cs.AI",
-      "published": "2026-07-30T04:00:00.000Z"
+      "published": "2026-07-31T04:00:00.000Z"
     },
     {
-      "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2607.24763",
+      "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+      "url": "https://arxiv.org/abs/2607.26159",
       "source": "arXiv cs.AI",
-      "published": "2026-07-30T04:00:00.000Z"
+      "published": "2026-07-31T04:00:00.000Z"
     },
     {
-      "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
-      "url": "https://arxiv.org/abs/2607.24764",
+      "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
+      "url": "https://arxiv.org/abs/2607.26160",
       "source": "arXiv cs.AI",
-      "published": "2026-07-30T04:00:00.000Z"
+      "published": "2026-07-31T04:00:00.000Z"
     },
     {
-      "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
-      "url": "https://arxiv.org/abs/2607.24766",
+      "title": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure",
+      "url": "https://arxiv.org/abs/2607.26181",
       "source": "arXiv cs.AI",
-      "published": "2026-07-30T04:00:00.000Z"
+      "published": "2026-07-31T04:00:00.000Z"
     },
     {
-      "title": "PATHFinder Agent for Tailored Prenatal Care",
-      "url": "https://arxiv.org/abs/2607.24768",
+      "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
+      "url": "https://arxiv.org/abs/2607.26191",
       "source": "arXiv cs.AI",
-      "published": "2026-07-30T04:00:00.000Z"
+      "published": "2026-07-31T04:00:00.000Z"
     },
     {
-      "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
-      "url": "https://arxiv.org/abs/2607.24769",
+      "title": "TraceCoder: Explainable and Auditable Code Generation with Position-Key Snippet Versioning",
+      "url": "https://arxiv.org/abs/2607.26307",
       "source": "arXiv cs.AI",
-      "published": "2026-07-30T04:00:00.000Z"
+      "published": "2026-07-31T04:00:00.000Z"
     },
     {
-      "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
-      "url": "https://arxiv.org/abs/2607.24770",
+      "title": "Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?",
+      "url": "https://arxiv.org/abs/2607.26367",
       "source": "arXiv cs.AI",
-      "published": "2026-07-30T04:00:00.000Z"
+      "published": "2026-07-31T04:00:00.000Z"
     },
     {
-      "title": "RoCo-ACE: Rollout-Conditioned Online Distillation for Retention-Aware Knowledge Injection",
-      "url": "https://arxiv.org/abs/2607.24771",
+      "title": "CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games",
+      "url": "https://arxiv.org/abs/2607.26393",
       "source": "arXiv cs.AI",
-      "published": "2026-07-30T04:00:00.000Z"
+      "published": "2026-07-31T04:00:00.000Z"
     },
     {
-      "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
-      "url": "https://arxiv.org/abs/2607.24772",
+      "title": "CG-World: A Large-Scale World-State Dataset and Protocol for World Models",
+      "url": "https://arxiv.org/abs/2607.26452",
       "source": "arXiv cs.AI",
-      "published": "2026-07-30T04:00:00.000Z"
+      "published": "2026-07-31T04:00:00.000Z"
     },
     {
-      "title": "Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations",
-      "url": "https://arxiv.org/abs/2607.24773",
+      "title": "MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning",
+      "url": "https://arxiv.org/abs/2607.26465",
       "source": "arXiv cs.AI",
-      "published": "2026-07-30T04:00:00.000Z"
+      "published": "2026-07-31T04:00:00.000Z"
     },
     {
-      "title": "Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear Radiation Forecasting",
-      "url": "https://arxiv.org/abs/2607.24774",
+      "title": "EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks",
+      "url": "https://arxiv.org/abs/2607.26490",
       "source": "arXiv cs.AI",
-      "published": "2026-07-30T04:00:00.000Z"
+      "published": "2026-07-31T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-30T15:41:16.000Z",
+      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way."
+    },
     {
       "title": "GPT-5.6, ChatGPT Work lift OpenAI’s July ARR over Q2",
       "url": "https://economictimes.indiatimes.com/tech/technology/gpt-5-6-chatgpt-work-lift-openais-july-arr-over-q2/articleshow/132728105.cms",
       "source": "ET Tech",
       "published": "2026-07-30T05:41:41.000Z",
       "summary": "OpenAI's revenue growth has surpassed second-quarter levels, driven by new product launches. The company is expanding its customer base to support significant AI infrastructure investments. OpenAI aims for substantial compute spending by 2030 and seeks Nvidia funding. Rival An…"
-    },
-    {
-      "title": "Game AI Not Fun? A Scoping Review and Meta-Analysis on the Differences in Enjoyment between Human and Computer Opponents",
-      "url": "https://arxiv.org/abs/2607.24749",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-30T04:00:00.000Z",
-      "summary": "arXiv:2607.24749v1 Announce Type: cross Abstract: Although advancements in game character AI aim to enhance player engagement, evidence suggests that perceiving an opponent as artificial can diminish the psychological experience. This paper presents a scoping review and meta-a…"
-    },
-    {
-      "title": "From Dyad to Triad: Eliciting XAI Requirements in Stroke Rehabilitation",
-      "url": "https://arxiv.org/abs/2607.25423",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-30T04:00:00.000Z",
-      "summary": "arXiv:2607.25423v1 Announce Type: cross Abstract: Eliciting explainable AI (XAI) requirements from stroke survivors presents a methodological challenge with direct implications for the design of trustworthy brain-computer interfaces for rehabilitation. How can patients and car…"
     },
     {
       "title": "Google launches Gemini Spark, a 24/7 personal AI agent, in India",
@@ -118,25 +111,11 @@
       "summary": ""
     },
     {
-      "title": "Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability",
-      "url": "https://arxiv.org/abs/2607.18368",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-29T04:00:00.000Z",
-      "summary": "arXiv:2607.18368v3 Announce Type: replace Abstract: Partially observable reinforcement learning requires deciding what to retain, retrieve, and forget over time. We introduce a neuro-symbolic meta-policy that learns which symbolic memory heuristic to apply at each decision poi…"
-    },
-    {
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
       "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
       "source": "Ars Technica",
       "published": "2026-07-27T21:56:14.000Z",
       "summary": "Microsoft says tools cost less than competing ones and outperform them, too."
-    },
-    {
-      "title": "AMD unveils Helios AI rack-scale system to challenge Nvidia’s dominance",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/amd-unveils-helios-ai-rack-scale-system-to-challenge-nvidias-dominance-10801446/",
-      "source": "Indian Express Tech",
-      "published": "2026-07-24T07:50:18.000Z",
-      "summary": ""
     }
   ],
   "people": [
@@ -157,9 +136,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "article": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "source": "TechCrunch AI"
+      "link": "https://www.darioamodei.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Yann LeCun",
