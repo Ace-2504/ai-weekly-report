@@ -1,114 +1,121 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "top": {
-    "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
-    "url": "https://arxiv.org/abs/2607.26119",
-    "source": "arXiv cs.AI",
-    "published": "2026-07-31T04:00:00.000Z",
-    "summary": "arXiv:2607.26119v1 Announce Type: new Abstract: Large reasoning models trained via reinforcement learning (RL) have been increasingly shown to outperform their supervised fine-tuned (SFT) counterparts on mathematical reasoning tasks; Yet the mechanistic basis for this advantag…"
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-31T22:47:26.000Z",
+    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
   },
   "topIndia": {
-    "title": "German court rules AI music firm Suno broke copyright rules",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/german-court-rules-ai-music-firm-suno-broke-copyright-rules/articleshow/132760821.cms",
+    "title": "Taiwan's economy grows by almost 13% on AI demand",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwans-economy-grows-by-almost-13-on-ai-demand/articleshow/132782770.cms",
     "source": "ET Tech",
-    "published": "2026-07-31T07:49:00.000Z",
-    "summary": "A ​German court ruled ‌on ⁠Friday ⁠that ​AI music ​firm Suno ​has ⁠violated ‌copyright ​rules ​and has ⁠to provide information ​on illicit ​revenues."
+    "published": "2026-08-01T06:06:28.000Z",
+    "summary": "Taiwan's exports surged 21.6% year-on-year in the second quarter, which was \"mainly driven by the sustained strong external demand for artificial intelligence (AI) and related evolving applications\", the statement said. Imports over the same period grew by 18.3% from a year ago."
   },
   "headlines": [
     {
-      "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2607.26120",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-31T04:00:00.000Z"
+      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "source": "Ars Technica",
+      "published": "2026-07-31T20:39:14.000Z"
     },
     {
-      "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
-      "url": "https://arxiv.org/abs/2607.26155",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-31T04:00:00.000Z"
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T19:47:28.000Z"
     },
     {
-      "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
-      "url": "https://arxiv.org/abs/2607.26159",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-31T04:00:00.000Z"
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T17:26:32.000Z"
     },
     {
-      "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
-      "url": "https://arxiv.org/abs/2607.26160",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-31T04:00:00.000Z"
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T16:49:08.000Z"
     },
     {
-      "title": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure",
-      "url": "https://arxiv.org/abs/2607.26181",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-31T04:00:00.000Z"
+      "title": "Siri AI could come with a paywall for power users",
+      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T16:08:18.000Z"
     },
     {
-      "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
-      "url": "https://arxiv.org/abs/2607.26191",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-31T04:00:00.000Z"
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T15:16:17.000Z"
     },
     {
-      "title": "TraceCoder: Explainable and Auditable Code Generation with Position-Key Snippet Versioning",
-      "url": "https://arxiv.org/abs/2607.26307",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-31T04:00:00.000Z"
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T14:47:11.000Z"
     },
     {
-      "title": "Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?",
-      "url": "https://arxiv.org/abs/2607.26367",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-31T04:00:00.000Z"
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T14:00:00.000Z"
     },
     {
-      "title": "CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games",
-      "url": "https://arxiv.org/abs/2607.26393",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-31T04:00:00.000Z"
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T01:06:54.000Z"
     },
     {
-      "title": "CG-World: A Large-Scale World-State Dataset and Protocol for World Models",
-      "url": "https://arxiv.org/abs/2607.26452",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-31T04:00:00.000Z"
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-30T23:25:58.000Z"
     },
     {
-      "title": "MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning",
-      "url": "https://arxiv.org/abs/2607.26465",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-31T04:00:00.000Z"
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-30T23:08:58.000Z"
     },
     {
-      "title": "EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks",
-      "url": "https://arxiv.org/abs/2607.26490",
-      "source": "arXiv cs.AI",
-      "published": "2026-07-31T04:00:00.000Z"
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-30T22:41:41.000Z"
     }
   ],
   "events": [
+    {
+      "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-finds-evidence-other-ai-agents-escaped-containment-as-it-widens-hacking-probe/articleshow/132780218.cms",
+      "source": "ET Tech",
+      "published": "2026-08-01T03:03:02.000Z",
+      "summary": "The discovery of additional rogue behaviour at OpenAI, even if limited ​in nature, could feed growing appetite for regulation coming out of the White House and elsewhere. The expanded investigation by OpenAI was launched shortly before its primary rival, Anthropic, disclosed t…"
+    },
+    {
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T19:47:28.000Z",
+      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
+    },
+    {
+      "title": "Moonshot has Nvidia chip cluster from Alibaba computing deal: Bloomberg News reports",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/moonshot-has-nvidia-chip-cluster-from-alibaba-computing-deal-bloomberg-news-reports/articleshow/132771053.cms",
+      "source": "ET Tech",
+      "published": "2026-07-31T15:09:41.000Z",
+      "summary": "Chinese AI firm Moonshot has secured computing power from Alibaba. This deal involves approximately twenty thousand Nvidia chips for their models. Moonshot recently unveiled its Kimi K3 model, a large open-weight AI system. US export controls create computing power constraints…"
+    },
     {
       "title": "Meta says AI is making it easier to build new apps — and more are coming",
       "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
       "source": "TechCrunch AI",
       "published": "2026-07-30T15:41:16.000Z",
       "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way."
-    },
-    {
-      "title": "GPT-5.6, ChatGPT Work lift OpenAI’s July ARR over Q2",
-      "url": "https://economictimes.indiatimes.com/tech/technology/gpt-5-6-chatgpt-work-lift-openais-july-arr-over-q2/articleshow/132728105.cms",
-      "source": "ET Tech",
-      "published": "2026-07-30T05:41:41.000Z",
-      "summary": "OpenAI's revenue growth has surpassed second-quarter levels, driven by new product launches. The company is expanding its customer base to support significant AI infrastructure investments. OpenAI aims for substantial compute spending by 2030 and seeks Nvidia funding. Rival An…"
-    },
-    {
-      "title": "Google launches Gemini Spark, a 24/7 personal AI agent, in India",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-launches-gemini-spark-24-7-personal-ai-agent-india-10808833/",
-      "source": "Indian Express Tech",
-      "published": "2026-07-29T10:05:30.000Z",
-      "summary": ""
     },
     {
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
@@ -122,9 +129,9 @@
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://indianexpress.com/article/technology/artificial-intelligence/openais-sam-altman-discusses-rogue-agent-with-us-senators-as-trump-considers-ai-controls-10809842/",
-      "article": "OpenAI’s Sam Altman discusses rogue agent with US senators, as Trump considers AI controls",
-      "source": "Indian Express Tech"
+      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "article": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "source": "TechCrunch AI"
     },
     {
       "name": "Demis Hassabis",
