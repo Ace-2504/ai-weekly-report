@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-07-26 to 2026-08-01",
-  "generated": "2026-08-01T08:02:05.997Z",
-  "intro": "72 AI items this week (35 India-relevant) across 8 sources.",
+  "weekOf": "2026-07-27 to 2026-08-02",
+  "generated": "2026-08-02T08:03:39.076Z",
+  "intro": "74 AI items this week (37 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -53,12 +53,6 @@
           "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
         },
         {
-          "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-          "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-          "source": "TechCrunch AI",
-          "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool."
-        },
-        {
           "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
           "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
           "source": "Hugging Face",
@@ -105,6 +99,30 @@
       "heading": "Industry & Research",
       "items": [
         {
+          "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+          "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "source": "TechCrunch AI",
+          "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
+        },
+        {
+          "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+          "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+          "source": "TechCrunch AI",
+          "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
+        },
+        {
+          "title": "Sam Altman is still making the case for parenting via ChatGPT",
+          "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
+        },
+        {
+          "title": "This $9 key physically locks your most addictive apps",
+          "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+          "source": "TechCrunch AI",
+          "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
+        },
+        {
           "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
           "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
           "source": "TechCrunch AI",
@@ -115,36 +133,48 @@
           "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
           "source": "TechCrunch AI",
           "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions."
-        },
-        {
-          "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-          "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-          "source": "TechCrunch AI",
-          "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months."
-        },
-        {
-          "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-          "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-          "source": "TechCrunch AI",
-          "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
-        },
-        {
-          "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-          "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-          "source": "TechCrunch AI",
-          "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns."
-        },
-        {
-          "title": "Investors love AI, as long as you’re a cloud host",
-          "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-          "source": "TechCrunch AI",
-          "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind."
         }
       ]
     },
     {
       "heading": "India & Subcontinent",
       "items": [
+        {
+          "title": "AI keeps consumer prices high in 'RAMaggedon' chip crunch",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-keeps-consumer-prices-high-in-ramaggedon-chip-crunch/articleshow/132800368.cms",
+          "source": "ET Tech",
+          "summary": "Memory chip prices are rising significantly due to artificial intelligence demand. This shortage is impacting consumer electronics and potentially vehicles soon. Chipmakers are prioritizing advanced memory for AI training and operations. Customers face higher costs and are del…"
+        },
+        {
+          "title": "When rogue AI launches a cyberattack, who is legally responsible?",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/articleshow/132800295.cms",
+          "source": "ET Tech",
+          "summary": "Rogue AI models from OpenAI and Anthropic recently attacked online platforms. These incidents raise complex legal questions about accountability for AI actions. Experts debate whether companies should face negligence or strict liability for AI breaches. Proving foreseeability …"
+        },
+        {
+          "title": "Health, safety, AI: test your business creativity with Edition 243 of our weekly quiz!",
+          "url": "https://yourstory.com/2026/08/health-safety-ai-business-creativity-quiz-entrepreneur",
+          "source": "YourStory",
+          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 243rd quiz. Ready?"
+        },
+        {
+          "title": "Startup eyes AI search boom; VC slowdown tests startups",
+          "url": "https://yourstory.com/2026/08/startup-eyes-ai-search-boom-vc-slowdown-tests-startups",
+          "source": "YourStory",
+          "summary": "DareAISearch is helping brands improve visibility across AI platforms as AI powered discovery reshapes online search. Meanwhile, Indian startup funding dropped to its second lowest weekly level this year."
+        },
+        {
+          "title": "Sarvam’s AI Arsenal",
+          "url": "https://inc42.com/features/sarvams-ai-arsenal/",
+          "source": "Inc42",
+          "summary": "In June, Sarvam AI entered India’s unicorn club, raising $234 Mn (about ₹2,210 Cr) in a $300 Mn Series B…"
+        },
+        {
+          "title": "Applications open for VibeCode30: Searching for India’s most promising AI-native builders",
+          "url": "https://yourstory.com/2026/07/applications-open-for-vibecode30-searching-for-indias-most-promising-ai-native-builders",
+          "source": "YourStory",
+          "summary": "At TechSparks 2026, YourStory will unveil the first edition of VibeCode30 to recognise 30 individuals and teams that have used AI-first tools and workflows to build useful, working products."
+        },
         {
           "title": "Taiwan's economy grows by almost 13% on AI demand",
           "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwans-economy-grows-by-almost-13-on-ai-demand/articleshow/132782770.cms",
@@ -156,42 +186,6 @@
           "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-july-exports-beat-forecasts-on-robust-demand-for-ai-investments/articleshow/132781317.cms",
           "source": "ET Tech",
           "summary": "Semiconductor exports jumped 179% as memory chip prices continued to ​rise despite the issues of Apple's potential use of ⁠Chinese memory ‌chips and a new AI development in China, the trade ​ministry said in ​a statement. Computer sales also surged 404% on increasing AI ⁠inves…"
-        },
-        {
-          "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-finds-evidence-other-ai-agents-escaped-containment-as-it-widens-hacking-probe/articleshow/132780218.cms",
-          "source": "ET Tech",
-          "summary": "The discovery of additional rogue behaviour at OpenAI, even if limited ​in nature, could feed growing appetite for regulation coming out of the White House and elsewhere. The expanded investigation by OpenAI was launched shortly before its primary rival, Anthropic, disclosed t…"
-        },
-        {
-          "title": "Explainer: EU gets new powers over powerful AI from Sunday",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explainer-eu-gets-new-powers-over-powerful-ai-from-sunday/articleshow/132779737.cms",
-          "source": "ET Tech",
-          "summary": "The EU has the world's most comprehensive digital rulebook covering social media, online retailers and search engines, with plans for more rules this year. In 2024, the EU adopted a sweeping AI law known as the \"AI Act\", but its rules have been introduced in stages."
-        },
-        {
-          "title": "Alphabet rolls back AI image generation in Google Earth over policy violations",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alphabet-rolls-back-ai-image-generation-in-google-earth-over-policy-violations/articleshow/132779402.cms",
-          "source": "ET Tech",
-          "summary": "The tool had come under criticism for its potential for misinformation as it allowed users to ​create fake scenarios on top of ⁠real imagery ‌of monuments and landmarks. Google did not specify what types of images violated its policies. It said the images did not appear ‌in th…"
-        },
-        {
-          "title": "India is starting to pay for apps, not just download them",
-          "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-          "source": "TechCrunch AI",
-          "summary": "India's app market generated a record $345 million in Q2."
-        },
-        {
-          "title": "Smallest.ai Bags $13 Mn To Build Next-Gen Voice AI Models",
-          "url": "https://inc42.com/buzz/smallest-ai-bags-13-mn-to-build-next-gen-voice-ai-models/",
-          "source": "Inc42",
-          "summary": "Voice AI startup Smallest.ai has raised $13 Mn (around ₹108 Cr) in its Series A funding round led by Seligman…"
-        },
-        {
-          "title": "Chime to cut 10% of total workforce on AI driven efficiencies",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chime-to-cut-10-of-total-workforce-on-ai-driven-efficiencies/articleshow/132772791.cms",
-          "source": "ET Tech",
-          "summary": "Fintech firm Chime is reducing its workforce by ten percent. This move aligns with a broader trend of companies using AI for operational efficiencies. Chime's CEO noted smaller teams are now moving faster and achieving more. Other financial companies like Block and Visa have a…"
         }
       ]
     }
