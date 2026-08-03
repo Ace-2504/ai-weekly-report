@@ -1,22 +1,46 @@
 {
-  "weekOf": "2026-07-27 to 2026-08-02",
-  "generated": "2026-08-02T08:03:39.076Z",
-  "intro": "74 AI items this week (37 India-relevant) across 8 sources.",
+  "weekOf": "2026-07-28 to 2026-08-03",
+  "generated": "2026-08-03T09:19:28.212Z",
+  "intro": "334 AI items this week (39 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-          "source": "Ars Technica",
-          "summary": "Had the hacks used conventional methods, someone would likely go to prison."
+          "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+          "url": "https://arxiv.org/abs/2607.28631",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28631v1 Announce Type: new Abstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and comparing the quality of AI-generated papers remains an open challenge. We propose a…"
         },
         {
-          "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-          "source": "Google AI Blog",
-          "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
+          "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+          "url": "https://arxiv.org/abs/2607.28632",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28632v1 Announce Type: new Abstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures with substantial mathematical potential remains unavailable. We present a th…"
+        },
+        {
+          "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+          "url": "https://arxiv.org/abs/2607.28657",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28657v1 Announce Type: new Abstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This work addresses the challenge by introducing a Task-Aware Prompt Rewriter (TAPR…"
+        },
+        {
+          "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
+          "url": "https://arxiv.org/abs/2607.28659",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28659v1 Announce Type: new Abstract: Cross-domain sequential recommendation (CDSR) aims to model users' dynamic interest transitions and sequential patterns across multiple domains. Recently, generative recommendation (GR) has emerged. It first learns semantic ident…"
+        },
+        {
+          "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+          "url": "https://arxiv.org/abs/2607.28674",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28674v1 Announce Type: new Abstract: Understanding how computational effort is allocated across individual chain-of-thought (CoT) reasoning steps remains an open challenge: existing interpretability methods rely on output-level signals or collapse processing depth i…"
+        },
+        {
+          "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+          "url": "https://arxiv.org/abs/2607.28677",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28677v1 Announce Type: new Abstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developments have accelerated the use of LLMs for symptom assessment and clinical decision support in diagnost…"
         }
       ]
     },
@@ -24,16 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-          "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-          "source": "TechCrunch AI",
-          "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test."
+          "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
+          "url": "https://arxiv.org/abs/2607.28678",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28678v1 Announce Type: new Abstract: Multimodal agents operating in long-horizon environments must build and continually update multimedia memories to support entity-consistent, temporally grounded reasoning. However, existing agentic memory approaches often discard…"
         },
         {
-          "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-          "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-          "source": "TechCrunch AI",
-          "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price."
+          "title": "MMShopBench: A Real-Log Benchmark for Multimodal, Multi-Turn Shopping Agents",
+          "url": "https://arxiv.org/abs/2607.29002",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.29002v1 Announce Type: new Abstract: Online shoppers increasingly turn to AI shopping assistants, using images and multi-turn dialogue to express and refine product needs that are difficult to articulate in text alone. However, existing benchmarks largely rely on te…"
+        },
+        {
+          "title": "Beyond Retrieval: Analytic Memory for Multimodal Agents",
+          "url": "https://arxiv.org/abs/2607.29440",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.29440v1 Announce Type: new Abstract: Long-term multimodal memory must support not only retrieving relevant information but also computing over observations accumulated across interactions. Existing systems largely emphasize \\emph{retrieval memory}, organizing intera…"
+        },
+        {
+          "title": "Looks Right, Works Right: A Project-Level Benchmark for Multi-Screen Mobile App Generation",
+          "url": "https://arxiv.org/abs/2607.28645",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28645v1 Announce Type: cross Abstract: Recent multimodal large language models can convert visual designs directly into executable code, but real mobile products require multiple screenshots to become a buildable codebase with shared components and working navigatio…"
+        },
+        {
+          "title": "COSI-Lab: Conference Living Lab for Modeling Multi-Perspective Multimodal Social Intention",
+          "url": "https://arxiv.org/abs/2607.28649",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28649v1 Announce Type: cross Abstract: COSI-Lab presents a multimodal, multi-sensor dataset of an interdisciplinary scientific workshop containing 32 academics at an international conference. It captures ecologically valid social interactions in a weakly scripted se…"
+        },
+        {
+          "title": "HenTwin: A Multimodal Digital Twin Framework for Longitudinal Biological State Monitoring in Laying Hens",
+          "url": "https://arxiv.org/abs/2607.28652",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28652v1 Announce Type: cross Abstract: Early-life monitoring in laying hens remains constrained by fragmented single-modality sensing and the absence of formal system-level state representations. HenTwin, a multimodal digital twin framework implemented as a five-lay…"
         }
       ]
     },
@@ -41,28 +89,64 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-          "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-          "source": "TechCrunch AI",
-          "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
+          "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+          "url": "https://arxiv.org/abs/2607.28629",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration…"
         },
         {
-          "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-          "source": "TechCrunch AI",
-          "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
+          "title": "Multi-Agent Planning with Spatio-Temporal and Topological Constraints using STL-GO",
+          "url": "https://arxiv.org/abs/2607.28679",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28679v1 Announce Type: new Abstract: Multi-agent planning problems arise in a variety of engineering applications, such as multi-robot wildfire fighting and unmanned aerial inspection in factories. A particular challenge is the existence of spatio-temporal (i.e., wh…"
         },
         {
-          "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks",
+          "url": "https://arxiv.org/abs/2607.28685",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28685v1 Announce Type: new Abstract: Agent-safety benchmarks measure different behaviors, and their scores get quoted interchangeably as an agent's safety. We treat four of them (R-Judge, InjecAgent, AgentHarm, AgentDojo) as measurements to be validated, running eac…"
+        },
+        {
+          "title": "Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures",
+          "url": "https://arxiv.org/abs/2607.28802",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28802v1 Announce Type: new Abstract: Existing evaluations often reduce agent failures to system-level outcomes, obscuring where the fault originated and which intervention would improve the agent system. This creates a repair-assignment problem: the same visible fai…"
+        },
+        {
+          "title": "Identifying Informative Environments for Cognition Parameter Inference via Bayesian Experimental Design",
+          "url": "https://arxiv.org/abs/2607.28894",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28894v1 Announce Type: new Abstract: Computational cognitive modeling seeks to infer latent cognitive mechanisms underlying observed behavior. Bayesian inverse planning provides a principled framework for such inference, but its success depends critically on the exp…"
+        },
+        {
+          "title": "NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability",
+          "url": "https://arxiv.org/abs/2607.28942",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28942v1 Announce Type: new Abstract: Recently Large Language Models (LLMs) have been increasingly deployed as autonomous agents in applications such as self-reflection, retrieval-augmented generation, and scientific discovery. In these settings, agents must act base…"
         }
       ]
     },
     {
       "heading": "Open Source",
       "items": [
+        {
+          "title": "Here’s why AI agents lie and cheat to reach their goals",
+          "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+          "source": "MIT Tech Review",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make m…"
+        },
+        {
+          "title": "metasignal: A Python Package for Comprehensive Metacognitive Analysis and Decision-Making",
+          "url": "https://arxiv.org/abs/2607.29093",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.29093v1 Announce Type: cross Abstract: Metasignal is an open-source Python package for signal detection theory (SDT) and metacognitive measurement. It implements the 17 metacognitive measures evaluated by Rahnev (2025), together with the reference variables d' (perc…"
+        },
+        {
+          "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+          "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
+        },
         {
           "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
           "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
@@ -80,18 +164,6 @@
           "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
           "source": "TechCrunch AI",
           "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents."
-        },
-        {
-          "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-          "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-          "source": "Ars Technica",
-          "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch."
-        },
-        {
-          "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-          "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-          "source": "MIT Tech Review",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, …"
         }
       ]
     },
@@ -99,40 +171,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-          "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-          "source": "TechCrunch AI",
-          "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
+          "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+          "url": "https://arxiv.org/abs/2607.28642",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28642v1 Announce Type: new Abstract: Long chain-of-thought reasoning improves performance on complex problems, but it also introduces redundancy accumulation, context overflow, and error anchoring. We argue that under bounded context windows, the core bottleneck is …"
         },
         {
-          "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-          "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-          "source": "TechCrunch AI",
-          "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
+          "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
+          "url": "https://arxiv.org/abs/2607.28662",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28662v1 Announce Type: new Abstract: Large language models extract entities and relationships from unstructured documents fluently but inconsistently: type vocabularies fracture across documents, the same person surfaces under several name variants, relationships du…"
         },
         {
-          "title": "Sam Altman is still making the case for parenting via ChatGPT",
-          "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-          "source": "TechCrunch AI",
-          "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
+          "title": "Library Reachability in LSR-Synth: How Anti-Memorization Design Changes the Measurement of Symbolic Discovery",
+          "url": "https://arxiv.org/abs/2607.28684",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28684v1 Announce Type: new Abstract: Existing benchmarks for scientific equation discovery are largely composed of well-known equations available in the public domain, making it difficult to determine whether a model is discovering laws from data or merely recalling…"
         },
         {
-          "title": "This $9 key physically locks your most addictive apps",
-          "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-          "source": "TechCrunch AI",
-          "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
+          "title": "EarlyDx: An Admission-Anchored Benchmark for Open-Ended Generation of Evidence-Supported ED-Encounter Diagnoses",
+          "url": "https://arxiv.org/abs/2607.28788",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28788v1 Announce Type: new Abstract: Clinical diagnosis at hospital admission must be made rapidly from limited, incomplete evidence. Existing diagnosis-prediction benchmarks are poorly suited to this setting: they restrict prediction to closed code sets, exclude fr…"
         },
         {
-          "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-          "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-          "source": "TechCrunch AI",
-          "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop."
+          "title": "Best Friends, Not Forever: Evaluating Long-Horizon Persona Collapse and Behavioral Drift in AI Companions",
+          "url": "https://arxiv.org/abs/2607.28818",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28818v1 Announce Type: new Abstract: As AI companions increasingly mediate repeated social interaction, users may rely on a stable role and shared history, yet locally acceptable replies do not ensure that either persists. We study two observable long-horizon failur…"
         },
         {
-          "title": "Siri AI could come with a paywall for power users",
-          "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-          "source": "TechCrunch AI",
-          "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions."
+          "title": "Fragility of Value under Imperfect Alignment",
+          "url": "https://arxiv.org/abs/2607.28881",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28881v1 Announce Type: new Abstract: As more responsibility is placed upon AI systems, it becomes increasingly important to guarantee that these systems are aligned with humanity. A common fear in AI safety is that human value is fragile -- that is, optimizing too h…"
         }
       ]
     },
@@ -140,52 +212,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "AI keeps consumer prices high in 'RAMaggedon' chip crunch",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-keeps-consumer-prices-high-in-ramaggedon-chip-crunch/articleshow/132800368.cms",
-          "source": "ET Tech",
-          "summary": "Memory chip prices are rising significantly due to artificial intelligence demand. This shortage is impacting consumer electronics and potentially vehicles soon. Chipmakers are prioritizing advanced memory for AI training and operations. Customers face higher costs and are del…"
-        },
-        {
-          "title": "When rogue AI launches a cyberattack, who is legally responsible?",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/articleshow/132800295.cms",
-          "source": "ET Tech",
-          "summary": "Rogue AI models from OpenAI and Anthropic recently attacked online platforms. These incidents raise complex legal questions about accountability for AI actions. Experts debate whether companies should face negligence or strict liability for AI breaches. Proving foreseeability …"
-        },
-        {
-          "title": "Health, safety, AI: test your business creativity with Edition 243 of our weekly quiz!",
-          "url": "https://yourstory.com/2026/08/health-safety-ai-business-creativity-quiz-entrepreneur",
-          "source": "YourStory",
-          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 243rd quiz. Ready?"
-        },
-        {
-          "title": "Startup eyes AI search boom; VC slowdown tests startups",
-          "url": "https://yourstory.com/2026/08/startup-eyes-ai-search-boom-vc-slowdown-tests-startups",
-          "source": "YourStory",
-          "summary": "DareAISearch is helping brands improve visibility across AI platforms as AI powered discovery reshapes online search. Meanwhile, Indian startup funding dropped to its second lowest weekly level this year."
-        },
-        {
-          "title": "Sarvam’s AI Arsenal",
-          "url": "https://inc42.com/features/sarvams-ai-arsenal/",
+          "title": "Flipkart To Launch Food Delivery Service By Mid-August With 10-11% Commission Model",
+          "url": "https://inc42.com/buzz/flipkart-to-launch-food-delivery-service-by-mid-august-with-10-11-commission-model/",
           "source": "Inc42",
-          "summary": "In June, Sarvam AI entered India’s unicorn club, raising $234 Mn (about ₹2,210 Cr) in a $300 Mn Series B…"
+          "summary": "Flipkart is set to launch its food delivery service in Bengaluru by mid-August, with the ecommerce major planning to charge…"
         },
         {
-          "title": "Applications open for VibeCode30: Searching for India’s most promising AI-native builders",
-          "url": "https://yourstory.com/2026/07/applications-open-for-vibecode30-searching-for-indias-most-promising-ai-native-builders",
-          "source": "YourStory",
-          "summary": "At TechSparks 2026, YourStory will unveil the first edition of VibeCode30 to recognise 30 individuals and teams that have used AI-first tools and workflows to build useful, working products."
-        },
-        {
-          "title": "Taiwan's economy grows by almost 13% on AI demand",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwans-economy-grows-by-almost-13-on-ai-demand/articleshow/132782770.cms",
+          "title": "AI shrinks vulnerability exploitation window to one day, raises cyber risks: J.P. Morgan",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-shrinks-vulnerability-exploitation-window-to-one-day-raises-cyber-risks-j-p-morgan/articleshow/132821922.cms",
           "source": "ET Tech",
-          "summary": "Taiwan's exports surged 21.6% year-on-year in the second quarter, which was \"mainly driven by the sustained strong external demand for artificial intelligence (AI) and related evolving applications\", the statement said. Imports over the same period grew by 18.3% from a year ago."
+          "summary": "Artificial intelligence is rapidly finding software flaws, which attackers exploit quickly. The time between vulnerability disclosure and exploitation has narrowed significantly. Organisations struggle to patch discovered weaknesses before they are compromised. AI can also bol…"
         },
         {
-          "title": "South Korea July exports beat forecasts on robust demand for AI investments",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-july-exports-beat-forecasts-on-robust-demand-for-ai-investments/articleshow/132781317.cms",
+          "title": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseeks-new-ai-model-is-by-far-the-cheapest-of-well-known-models-to-run-research-firm-says/articleshow/132820248.cms",
           "source": "ET Tech",
-          "summary": "Semiconductor exports jumped 179% as memory chip prices continued to ​rise despite the issues of Apple's potential use of ⁠Chinese memory ‌chips and a new AI development in China, the trade ​ministry said in ​a statement. Computer sales also surged 404% on increasing AI ⁠inves…"
+          "summary": "A version of Chinese startup DeepSeek's flagship AI model is by far ​the least expensive to run on ​benchmark tests among well-known models globally and more than 100 times cheaper to ​run than Anthropic's Claude Fable 5, according to a research firm."
+        },
+        {
+          "title": "At colleges, the AI boom means everyone wants to dabble in computer science",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/at-colleges-the-ai-boom-means-everyone-wants-to-dabble-in-computer-science/articleshow/132818598.cms",
+          "source": "ET Tech",
+          "summary": "But the senior at Virginia Commonwealth University began to see it differently as she looked into graduate psychology programs that explore human behavior in the workplace, which is quickly being upended by machine learning. Maeba, 21, is now pursuing a minor in AI."
+        },
+        {
+          "title": "Alibaba unveils its most capable AI model to date, not far behind Moonshot's in size",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-unveils-its-most-capable-ai-model-to-date-not-far-behind-moonshots-in-size/articleshow/132818289.cms",
+          "source": "ET Tech",
+          "summary": "Chinese tech companies - a huge force in open-weight AI models globally - are locked in a fierce and fast-moving battle to build more powerful systems without ‌making them prohibitively ⁠expensive ⁠to run."
+        },
+        {
+          "title": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
+          "url": "https://arxiv.org/abs/2607.28692",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28692v1 Announce Type: new Abstract: Large language model (LLM) agents have been increasingly adopted in scientific research for organizing and invoking specialized computational tools. However, their reliance on predefined tool spaces with static semantics limits t…"
+        },
+        {
+          "title": "Dense Temporal Contrast Synthesis via Conditioned Latent Transport",
+          "url": "https://arxiv.org/abs/2607.29394",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.29394v1 Announce Type: cross Abstract: Dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) is essential for breast cancer management, but reliance on gadolinium-based contrast agents (GBCAs) restricts use in contraindicated populations, prolongs scan prot…"
+        },
+        {
+          "title": "PAIR: Prefix-Aware Internal Reward Model for Multi-Turn Agent Optimization",
+          "url": "https://arxiv.org/abs/2605.17877",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2605.17877v2 Announce Type: replace Abstract: A significant hurdle for current LLMs is the execution of complex, multi-stage tasks. Group Relative Policy Optimization (GRPO) has been emerging as a leading choice, but its reliance on sparse outcome rewards severely limits…"
         }
       ]
     }
