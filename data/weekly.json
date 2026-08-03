@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-07-28 to 2026-08-03",
-  "generated": "2026-08-03T09:19:28.212Z",
-  "intro": "334 AI items this week (39 India-relevant) across 9 sources.",
+  "generated": "2026-08-03T10:31:48.721Z",
+  "intro": "333 AI items this week (39 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -212,6 +212,24 @@
       "heading": "India & Subcontinent",
       "items": [
         {
+          "title": "SpaceX's first results put Elon Musk's AI spending under Wall Street microscope",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/spacexs-first-results-put-elon-musks-ai-spending-under-wall-street-microscope/articleshow/132828015.cms",
+          "source": "ET Tech",
+          "summary": "SpaceX is poised to reveal its next earnings report, signaling Starlink's profitability and its pivotal role in financing AI and space initiatives. Analysts predict notable advancements in Starlink and AI ventures for the April-June quarter. A key area of interest for investor…"
+        },
+        {
+          "title": "Google picks 20 AI startups for 2026 Play Accelerator India cohort",
+          "url": "https://yourstory.com/2026/08/google-picks-20-ai-startups-for-2026-play-accelerator-india-cohort",
+          "source": "YourStory",
+          "summary": "Google has selected 20 AI-powered Indian startups for its 2026 Google Play Accelerator India, offering three months of equity-free mentorship on AI, security, app quality, growth and monetisation to support global expansion."
+        },
+        {
+          "title": "Outcome-first AI: redesigning enterprise service delivery at scale",
+          "url": "https://yourstory.com/2026/07/outcome-first-ai-redesigning-enterprise-service-delivery-at-scale",
+          "source": "YourStory",
+          "summary": "By Gayatri Guha When EY GDS Partner Tanu Garg took the stage at DevSparks Bengaluru 2026, she challenged one of the most common assumptions about enterprise AI: that its primary role is automation. “Artificial Intelligence (AI) is not about making existing processes faster. It…"
+        },
+        {
           "title": "Flipkart To Launch Food Delivery Service By Mid-August With 10-11% Commission Model",
           "url": "https://inc42.com/buzz/flipkart-to-launch-food-delivery-service-by-mid-august-with-10-11-commission-model/",
           "source": "Inc42",
@@ -240,24 +258,6 @@
           "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-unveils-its-most-capable-ai-model-to-date-not-far-behind-moonshots-in-size/articleshow/132818289.cms",
           "source": "ET Tech",
           "summary": "Chinese tech companies - a huge force in open-weight AI models globally - are locked in a fierce and fast-moving battle to build more powerful systems without ‌making them prohibitively ⁠expensive ⁠to run."
-        },
-        {
-          "title": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
-          "url": "https://arxiv.org/abs/2607.28692",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.28692v1 Announce Type: new Abstract: Large language model (LLM) agents have been increasingly adopted in scientific research for organizing and invoking specialized computational tools. However, their reliance on predefined tool spaces with static semantics limits t…"
-        },
-        {
-          "title": "Dense Temporal Contrast Synthesis via Conditioned Latent Transport",
-          "url": "https://arxiv.org/abs/2607.29394",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.29394v1 Announce Type: cross Abstract: Dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) is essential for breast cancer management, but reliance on gadolinium-based contrast agents (GBCAs) restricts use in contraindicated populations, prolongs scan prot…"
-        },
-        {
-          "title": "PAIR: Prefix-Aware Internal Reward Model for Multi-Turn Agent Optimization",
-          "url": "https://arxiv.org/abs/2605.17877",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2605.17877v2 Announce Type: replace Abstract: A significant hurdle for current LLMs is the execution of complex, multi-stage tasks. Group Relative Policy Optimization (GRPO) has been emerging as a leading choice, but its reliance on sparse outcome rewards severely limits…"
         }
       ]
     }
