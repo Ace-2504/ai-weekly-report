@@ -1,121 +1,100 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "top": {
-    "title": "Here’s why AI agents lie and cheat to reach their goals",
-    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "source": "MIT Tech Review",
-    "published": "2026-08-03T08:30:05.000Z",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make m…"
+    "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+    "url": "https://arxiv.org/abs/2607.28629",
+    "source": "arXiv cs.AI",
+    "published": "2026-08-04T04:00:00.000Z",
+    "summary": "arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration…"
   },
   "topIndia": {
-    "title": "SpaceX's first results put Elon Musk's AI spending under Wall Street microscope",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/spacexs-first-results-put-elon-musks-ai-spending-under-wall-street-microscope/articleshow/132828015.cms",
+    "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case",
+    "url": "https://economictimes.indiatimes.com/tech/technology/apple-seeks-preliminary-injunction-against-openai-in-trade-secrets-case/articleshow/132852529.cms",
     "source": "ET Tech",
-    "published": "2026-08-03T10:18:43.000Z",
-    "summary": "SpaceX is poised to reveal its next earnings report, signaling Starlink's profitability and its pivotal role in financing AI and space initiatives. Analysts predict notable advancements in Starlink and AI ventures for the April-June quarter. A key area of interest for investor…"
+    "published": "2026-08-04T08:04:27.000Z",
+    "summary": "Apple has requested a judge to prevent former employees and OpenAI from using confidential information. The tech giant is suing OpenAI and two ex-employees for trade secret theft. Apple also filed a motion seeking expedited discovery of relevant documents. The lawsuit aims to …"
   },
   "headlines": [
-    {
-      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-      "url": "https://arxiv.org/abs/2607.28629",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-03T04:00:00.000Z"
-    },
     {
       "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
       "url": "https://arxiv.org/abs/2607.28631",
       "source": "arXiv cs.AI",
-      "published": "2026-08-03T04:00:00.000Z"
+      "published": "2026-08-04T04:00:00.000Z"
     },
     {
       "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
       "url": "https://arxiv.org/abs/2607.28632",
       "source": "arXiv cs.AI",
-      "published": "2026-08-03T04:00:00.000Z"
+      "published": "2026-08-04T04:00:00.000Z"
     },
     {
       "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
       "url": "https://arxiv.org/abs/2607.28642",
       "source": "arXiv cs.AI",
-      "published": "2026-08-03T04:00:00.000Z"
+      "published": "2026-08-04T04:00:00.000Z"
     },
     {
       "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
       "url": "https://arxiv.org/abs/2607.28657",
       "source": "arXiv cs.AI",
-      "published": "2026-08-03T04:00:00.000Z"
+      "published": "2026-08-04T04:00:00.000Z"
     },
     {
       "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
       "url": "https://arxiv.org/abs/2607.28659",
       "source": "arXiv cs.AI",
-      "published": "2026-08-03T04:00:00.000Z"
+      "published": "2026-08-04T04:00:00.000Z"
     },
     {
       "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
       "url": "https://arxiv.org/abs/2607.28662",
       "source": "arXiv cs.AI",
-      "published": "2026-08-03T04:00:00.000Z"
+      "published": "2026-08-04T04:00:00.000Z"
     },
     {
       "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
       "url": "https://arxiv.org/abs/2607.28674",
       "source": "arXiv cs.AI",
-      "published": "2026-08-03T04:00:00.000Z"
+      "published": "2026-08-04T04:00:00.000Z"
     },
     {
       "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
       "url": "https://arxiv.org/abs/2607.28677",
       "source": "arXiv cs.AI",
-      "published": "2026-08-03T04:00:00.000Z"
+      "published": "2026-08-04T04:00:00.000Z"
     },
     {
       "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
       "url": "https://arxiv.org/abs/2607.28678",
       "source": "arXiv cs.AI",
-      "published": "2026-08-03T04:00:00.000Z"
+      "published": "2026-08-04T04:00:00.000Z"
     },
     {
       "title": "Multi-Agent Planning with Spatio-Temporal and Topological Constraints using STL-GO",
       "url": "https://arxiv.org/abs/2607.28679",
       "source": "arXiv cs.AI",
-      "published": "2026-08-03T04:00:00.000Z"
+      "published": "2026-08-04T04:00:00.000Z"
     },
     {
       "title": "Library Reachability in LSR-Synth: How Anti-Memorization Design Changes the Measurement of Symbolic Discovery",
       "url": "https://arxiv.org/abs/2607.28684",
       "source": "arXiv cs.AI",
-      "published": "2026-08-03T04:00:00.000Z"
+      "published": "2026-08-04T04:00:00.000Z"
+    },
+    {
+      "title": "Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks",
+      "url": "https://arxiv.org/abs/2607.28685",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-04T04:00:00.000Z"
     }
   ],
   "events": [
-    {
-      "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-finds-evidence-other-ai-agents-escaped-containment-as-it-widens-hacking-probe/articleshow/132807763.cms",
-      "source": "ET Tech",
-      "published": "2026-08-02T13:36:33.000Z",
-      "summary": "The discovery of additional rogue behavior at OpenAI, even if limited ​in nature, could feed growing appetite for regulation coming out of the White House and elsewhere. The expanded investigation by OpenAI was launched shortly before its primary rival, Anthropic, disclosed th…"
-    },
     {
       "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
       "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
       "source": "TechCrunch AI",
       "published": "2026-07-31T19:47:28.000Z",
       "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
-    },
-    {
-      "title": "Moonshot has Nvidia chip cluster from Alibaba computing deal: Bloomberg News reports",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/moonshot-has-nvidia-chip-cluster-from-alibaba-computing-deal-bloomberg-news-reports/articleshow/132771053.cms",
-      "source": "ET Tech",
-      "published": "2026-07-31T15:09:41.000Z",
-      "summary": "Chinese AI firm Moonshot has secured computing power from Alibaba. This deal involves approximately twenty thousand Nvidia chips for their models. Moonshot recently unveiled its Kimi K3 model, a large open-weight AI system. US export controls create computing power constraints…"
-    },
-    {
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "source": "Ars Technica",
-      "published": "2026-07-27T21:56:14.000Z",
-      "summary": "Microsoft says tools cost less than competing ones and outperform them, too."
     }
   ],
   "people": [

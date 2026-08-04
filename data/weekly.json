@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-07-28 to 2026-08-03",
-  "generated": "2026-08-03T10:31:48.721Z",
-  "intro": "333 AI items this week (39 India-relevant) across 9 sources.",
+  "weekOf": "2026-07-29 to 2026-08-04",
+  "generated": "2026-08-04T08:17:48.819Z",
+  "intro": "328 AI items this week (38 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -116,7 +116,7 @@
           "title": "Identifying Informative Environments for Cognition Parameter Inference via Bayesian Experimental Design",
           "url": "https://arxiv.org/abs/2607.28894",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.28894v1 Announce Type: new Abstract: Computational cognitive modeling seeks to infer latent cognitive mechanisms underlying observed behavior. Bayesian inverse planning provides a principled framework for such inference, but its success depends critically on the exp…"
+          "summary": "arXiv:2607.28894v2 Announce Type: new Abstract: Computational cognitive modeling seeks to infer latent cognitive mechanisms underlying observed behavior. Bayesian inverse planning provides a principled framework for such inference, but its success depends critically on the exp…"
         },
         {
           "title": "NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability",
@@ -130,16 +130,16 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "Here’s why AI agents lie and cheat to reach their goals",
-          "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-          "source": "MIT Tech Review",
-          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make m…"
-        },
-        {
           "title": "metasignal: A Python Package for Comprehensive Metacognitive Analysis and Decision-Making",
           "url": "https://arxiv.org/abs/2607.29093",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2607.29093v1 Announce Type: cross Abstract: Metasignal is an open-source Python package for signal detection theory (SDT) and metacognitive measurement. It implements the 17 metacognitive measures evaluated by Rahnev (2025), together with the reference variables d' (perc…"
+        },
+        {
+          "title": "Here’s why AI agents lie and cheat to reach their goals",
+          "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+          "source": "MIT Tech Review",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make m…"
         },
         {
           "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -154,16 +154,10 @@
           "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — thoug…"
         },
         {
-          "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-          "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-          "source": "TechCrunch AI",
-          "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — thoug…"
-        },
-        {
-          "title": "Anthropic says its own AI models breached three companies during security tests",
-          "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-          "source": "TechCrunch AI",
-          "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents."
+          "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+          "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+          "source": "Ars Technica",
+          "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch."
         }
       ]
     },
@@ -212,52 +206,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "SpaceX's first results put Elon Musk's AI spending under Wall Street microscope",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/spacexs-first-results-put-elon-musks-ai-spending-under-wall-street-microscope/articleshow/132828015.cms",
+          "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case",
+          "url": "https://economictimes.indiatimes.com/tech/technology/apple-seeks-preliminary-injunction-against-openai-in-trade-secrets-case/articleshow/132852529.cms",
           "source": "ET Tech",
-          "summary": "SpaceX is poised to reveal its next earnings report, signaling Starlink's profitability and its pivotal role in financing AI and space initiatives. Analysts predict notable advancements in Starlink and AI ventures for the April-June quarter. A key area of interest for investor…"
+          "summary": "Apple has requested a judge to prevent former employees and OpenAI from using confidential information. The tech giant is suing OpenAI and two ex-employees for trade secret theft. Apple also filed a motion seeking expedited discovery of relevant documents. The lawsuit aims to …"
         },
         {
-          "title": "Google picks 20 AI startups for 2026 Play Accelerator India cohort",
-          "url": "https://yourstory.com/2026/08/google-picks-20-ai-startups-for-2026-play-accelerator-india-cohort",
-          "source": "YourStory",
-          "summary": "Google has selected 20 AI-powered Indian startups for its 2026 Google Play Accelerator India, offering three months of equity-free mentorship on AI, security, app quality, growth and monetisation to support global expansion."
-        },
-        {
-          "title": "Outcome-first AI: redesigning enterprise service delivery at scale",
-          "url": "https://yourstory.com/2026/07/outcome-first-ai-redesigning-enterprise-service-delivery-at-scale",
-          "source": "YourStory",
-          "summary": "By Gayatri Guha When EY GDS Partner Tanu Garg took the stage at DevSparks Bengaluru 2026, she challenged one of the most common assumptions about enterprise AI: that its primary role is automation. “Artificial Intelligence (AI) is not about making existing processes faster. It…"
-        },
-        {
-          "title": "Flipkart To Launch Food Delivery Service By Mid-August With 10-11% Commission Model",
-          "url": "https://inc42.com/buzz/flipkart-to-launch-food-delivery-service-by-mid-august-with-10-11-commission-model/",
+          "title": "AI-Native CRM Startup Superleap Bags ₹36 Cr Led By Peak XV’s Surge",
+          "url": "https://inc42.com/buzz/ai-native-crm-startup-superleap-bags-%e2%82%b936-cr-led-by-peak-xvs-surge/",
           "source": "Inc42",
-          "summary": "Flipkart is set to launch its food delivery service in Bengaluru by mid-August, with the ecommerce major planning to charge…"
+          "summary": "Enterprise tech startup Superleap has raised ₹36 Cr (around $4.2 Mn) in its pre-Series A funding round led by Peak…"
         },
         {
-          "title": "AI shrinks vulnerability exploitation window to one day, raises cyber risks: J.P. Morgan",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-shrinks-vulnerability-exploitation-window-to-one-day-raises-cyber-risks-j-p-morgan/articleshow/132821922.cms",
+          "title": "AI startup Kily secures Rs 30 crore from Sorin, Razorpay, Wyser",
+          "url": "https://economictimes.indiatimes.com/tech/funding/ai-startup-kily-secures-rs-30-crore-from-sorin-razorpay-wyser/articleshow/132850014.cms",
           "source": "ET Tech",
-          "summary": "Artificial intelligence is rapidly finding software flaws, which attackers exploit quickly. The time between vulnerability disclosure and exploitation has narrowed significantly. Organisations struggle to patch discovered weaknesses before they are compromised. AI can also bol…"
+          "summary": "The AI startup said that it plans to use the fresh capital to deepen Kily's product capabilities, strengthen its go-to market initiatives, and accelerate adoption across India's largest consumer brands. The company said its AI agents help brands manage pricing, advertising, in…"
         },
         {
-          "title": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseeks-new-ai-model-is-by-far-the-cheapest-of-well-known-models-to-run-research-firm-says/articleshow/132820248.cms",
+          "title": "SoftBank's AI funding plans to face reckoning at earnings",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbanks-ai-funding-plans-to-face-reckoning-at-earnings/articleshow/132849679.cms",
           "source": "ET Tech",
-          "summary": "A version of Chinese startup DeepSeek's flagship AI model is by far ​the least expensive to run on ​benchmark tests among well-known models globally and more than 100 times cheaper to ​run than Anthropic's Claude Fable 5, according to a research firm."
+          "summary": "SoftBank announced record net profit in the year ended March 2026, but its share price has dropped by almost half since the start of June, and the cost to insure its debt against default has soared. SoftBank is ‌expected to post net ⁠profit of ⁠148.4 billion yen ($941.2 millio…"
         },
         {
-          "title": "At colleges, the AI boom means everyone wants to dabble in computer science",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/at-colleges-the-ai-boom-means-everyone-wants-to-dabble-in-computer-science/articleshow/132818598.cms",
+          "title": "Anthropic, OpenAI listings a reality check for AI: Rocketship’s Venky Harinarayan",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-listings-a-reality-check-for-ai-rocketships-venky-harinarayan/articleshow/132847227.cms",
           "source": "ET Tech",
-          "summary": "But the senior at Virginia Commonwealth University began to see it differently as she looked into graduate psychology programs that explore human behavior in the workplace, which is quickly being upended by machine learning. Maeba, 21, is now pursuing a minor in AI."
+          "summary": "Public listings of Anthropic and OpenAI will test the AI ecosystem. Markets are judging AI winners and losers early, impacting sectors and countries. Foreign investors have pulled significant funds from Indian equity markets recently. SpaceX's valuation experienced a substanti…"
         },
         {
-          "title": "Alibaba unveils its most capable AI model to date, not far behind Moonshot's in size",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-unveils-its-most-capable-ai-model-to-date-not-far-behind-moonshots-in-size/articleshow/132818289.cms",
+          "title": "Enterprise AI CRM startup Superleap raises Rs 36 crore from Peak XV's Surge",
+          "url": "https://economictimes.indiatimes.com/tech/funding/enterprise-ai-crm-startup-superleap-raises-rs-36-crore-from-peak-xv/articleshow/132846809.cms",
           "source": "ET Tech",
-          "summary": "Chinese tech companies - a huge force in open-weight AI models globally - are locked in a fierce and fast-moving battle to build more powerful systems without ‌making them prohibitively ⁠expensive ⁠to run."
+          "summary": "Superleap, an enterprise AI CRM platform, secured Rs 36 crore funding from Peak XV Partners' Surge. This capital will fuel AI capabilities and expand its market presence both domestically and internationally. The startup focuses on large organizations migrating from legacy CRM…"
+        },
+        {
+          "title": "Anthropic taps Amazon Bedrock for Claude's local data processing",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-taps-amazon-bedrock-for-claudes-local-data-processing/articleshow/132846462.cms",
+          "source": "ET Tech",
+          "summary": "Anthropic will soon offer in-country inference for its Claude AI models in India. This means customer requests will be processed on Indian servers, keeping data within the region. The service will be available through Amazon Bedrock, enhancing data residency for Indian organiz…"
+        },
+        {
+          "title": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
+          "url": "https://arxiv.org/abs/2607.28692",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.28692v1 Announce Type: new Abstract: Large language model (LLM) agents have been increasingly adopted in scientific research for organizing and invoking specialized computational tools. However, their reliance on predefined tool spaces with static semantics limits t…"
         }
       ]
     }
