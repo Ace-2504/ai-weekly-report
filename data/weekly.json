@@ -1,87 +1,22 @@
 {
-  "weekOf": "2026-08-01 to 2026-08-07",
-  "generated": "2026-08-07T06:58:48.076Z",
-  "intro": "366 AI items this week (34 India-relevant) across 9 sources.",
+  "weekOf": "2026-08-02 to 2026-08-08",
+  "generated": "2026-08-08T06:33:29.419Z",
+  "intro": "58 AI items this week (31 India-relevant) across 7 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
-          "url": "https://arxiv.org/abs/2608.05160",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05160v1 Announce Type: new Abstract: We introduce the Ignition Index (I), a validated scalar metric that operationalizes Global Workspace Theory's (GWT) all-or-none ignition prediction in transformer language models. The metric fits a four-parameter sigmoid to per-l…"
+          "title": "OpenAI says it slowed Astra model development over security concerns",
+          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems."
         },
         {
-          "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
-          "url": "https://arxiv.org/abs/2608.05203",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05203v1 Announce Type: new Abstract: Machine learning models achieve strong predictive accuracy for 90-day outcome prediction in acute ischaemic stroke, yet clinical adoption is limited by the misalignment of model explanations with clinicians' reasoning. Motivated …"
-        },
-        {
-          "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
-          "url": "https://arxiv.org/abs/2608.05204",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05204v1 Announce Type: new Abstract: LLM-agent ecosystems are rapidly growing around reusable skills: mixed-modality packages of metadata, natural-language instructions, code, tools, references, and operational workflows. As skills become marketplace artifacts, audi…"
-        },
-        {
-          "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
-          "url": "https://arxiv.org/abs/2608.05206",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05206v1 Announce Type: new Abstract: Otter is a 15.3M-parameter human chess AI that predicts human move selection by modeling play as a time-aware, sequential process rather than treating each position in isolation. It combines two conditioning signals: (1) a move h…"
-        },
-        {
-          "title": "TriQua: Reconciling Granularity and Context in Factuality Evaluation",
-          "url": "https://arxiv.org/abs/2608.05228",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05228v1 Announce Type: new Abstract: The \"decompose-then-verify\" paradigm for LLM factuality evaluation faces a fundamental trade-off: atomic facts, i.e., one sentence conveying one unit of information, often omit essential context, while broader statements lack the…"
-        },
-        {
-          "title": "Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning",
-          "url": "https://arxiv.org/abs/2608.05245",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05245v1 Announce Type: new Abstract: Reusable skills, which encapsulate the procedural knowledge required to solve real-world professional tasks, offer LLM-based agents a path toward self-evolution in expert domains. Existing self-evolving skill methods construct sk…"
-        }
-      ]
-    },
-    {
-      "heading": "Multimodal & Media",
-      "items": [
-        {
-          "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
-          "url": "https://arxiv.org/abs/2608.05218",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05218v1 Announce Type: new Abstract: 3D Gaussian Splatting (3DGS) enables fast, photorealistic talking-head rendering, yet accurate lip articulation remains elusive: mouth motion is often over-smoothed and may violate hard articulatory constraints such as bilabial c…"
-        },
-        {
-          "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
-          "url": "https://arxiv.org/abs/2608.05248",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05248v1 Announce Type: new Abstract: Generating large-scale, freely explorable 3D worlds from open-ended text remains challenging because a system must jointly maintain global spatial coherence, rich local content, and explicit assets suitable for downstream editing…"
-        },
-        {
-          "title": "C$^3$PO: Evaluating Cross-Modal Composition and Counterfactual Performance in Omnimodal Models",
-          "url": "https://arxiv.org/abs/2608.05381",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05381v1 Announce Type: new Abstract: Current Multimodal Large Language Models (MLLMs) can process diverse sensory inputs, yet their reasoning remains heavily biased toward a dominant modality, resulting in brittle cross-modal reasoning. We introduce C$^3$PO, a bench…"
-        },
-        {
-          "title": "StepReflect: Structured UI Transition Reflection for Mobile GUI Agents",
-          "url": "https://arxiv.org/abs/2608.05587",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05587v1 Announce Type: new Abstract: Autonomous mobile GUI agents require accurate action reflection for reliable long-horizon execution. Existing approaches rely on open-ended multimodal reasoning after each action, which is costly and poorly matched to the structu…"
-        },
-        {
-          "title": "ViSR-KGC: Visual Subgraph Reasoning with Vision-Language Models for Multimodal Knowledge Graph Completion",
-          "url": "https://arxiv.org/abs/2608.05833",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05833v1 Announce Type: new Abstract: Knowledge graph completion (KGC) aims to infer missing entities or relations from incomplete graph structures, and has evolved into multimodal knowledge graph completion (MMKGC), where entities are associated with multiple modali…"
-        },
-        {
-          "title": "Seeing Is Not Deciding: Can Multimodal LLMs Act as Effective CEOs?",
-          "url": "https://arxiv.org/abs/2608.05864",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05864v1 Announce Type: new Abstract: Large language models are increasingly applied as autonomous decision-making agents. However, in executive business decisions, existing benchmarks are limited to textonly settings. This makes it unclear whether models can perceiv…"
+          "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+          "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+          "source": "TechCrunch AI",
+          "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a…"
         }
       ]
     },
@@ -89,52 +24,40 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "OrchestraBench: Evaluating Multi-Agent Orchestration Failure Modes, Recovery, and Decomposition Quality",
-          "url": "https://arxiv.org/abs/2608.05263",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05263v1 Announce Type: new Abstract: Multi-agent orchestration frameworks are moving from demos to production, yet benchmarks typically report task accuracy without diagnosing why a pipeline failed, where a cascade began, or which routing decision caused the breakdo…"
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "source": "TechCrunch AI",
+          "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
         },
         {
-          "title": "CASCADE: An Agentic Regulatory Network Framework for Patient-Data-Validated Downstream Perturbation Prediction",
-          "url": "https://arxiv.org/abs/2608.05359",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05359v1 Announce Type: new Abstract: CASCADE is an agentic framework that predicts downstream transcriptional effects of gene perturbation from precomputed ARACNe regulatory networks, exposed via MCP. Prior work validates such tools by checking whether predicted gen…"
+          "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+          "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+          "source": "TechCrunch AI",
+          "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business."
         },
         {
-          "title": "DoctorAgents: an agentic framework to iteratively refine AutoML pipeline for small clinical temporal data",
-          "url": "https://arxiv.org/abs/2608.05375",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05375v1 Announce Type: new Abstract: Clinical machine learning (ML) has the potential to support high-stakes medical decision-making, but reliable deployment is often constrained by scarce, heterogeneous, and temporal complexity. Developing effective ML pipelines fo…"
+          "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+          "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+          "source": "TechCrunch AI",
+          "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks."
         },
         {
-          "title": "EcoAgent-Bench: Evaluating Economic Decision-Making in Budget-Constrained LLM Agents",
-          "url": "https://arxiv.org/abs/2608.05519",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05519v1 Announce Type: new Abstract: Agent benchmarks usually measure task completion and treat resource use as an auxiliary statistic. In deployment, however, the choice among a local lookup, broad search, composite research tool, stronger model, or human escalatio…"
+          "title": "Meta launches Muse Code, an AI agent for large code bases",
+          "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+          "source": "TechCrunch AI",
+          "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
         },
         {
-          "title": "SkillTV-Bench: Benchmarking How Well Judges Perform on Skill-Augmented Agentic Execution",
-          "url": "https://arxiv.org/abs/2608.05573",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05573v1 Announce Type: new Abstract: LLM agents increasingly execute long-horizon tasks through tool use and environment interaction, shifting evaluation from final-response scoring to verification of complete executions. For skill-augmented agents, verification add…"
-        },
-        {
-          "title": "SkillHEX: Improving Agent Skills via Hypothesis-Driven Autonomous Exploration and Exploitation",
-          "url": "https://arxiv.org/abs/2608.05628",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05628v1 Announce Type: new Abstract: Although agent skills equip LLMs with reusable procedural knowledge, manual maintenance suffers from high costs, unscalability, and misalignment. Real-world deployments thus require autonomous, on-demand skill evolution at test t…"
+          "title": "Inside our 353,000-person vibe coding course",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+          "source": "Google AI Blog",
+          "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI."
         }
       ]
     },
     {
       "heading": "Open Source",
       "items": [
-        {
-          "title": "MameLoshnLM: Yiddish Language Model and Evaluation Benchmark",
-          "url": "https://arxiv.org/abs/2608.05850",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05850v1 Announce Type: cross Abstract: We present MameLoshnLM, the first open-source 8B-parameter language model built specifically for Yiddish. Despite Yiddish's rich textual tradition, its limited digital presence and the scarcity of reliable evaluation resources …"
-        },
         {
           "title": "Baseten on Hugging Face Inference Providers 🔥",
           "url": "https://huggingface.co/blog/baseten",
@@ -153,40 +76,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
-          "url": "https://arxiv.org/abs/2608.05159",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05159v1 Announce Type: new Abstract: Enterprise operations extensively rely on multiple heterogeneous business systems and information applications, which also result in severe data silos and process fragmentation. Enterprises have invested considerable financial an…"
+          "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "url": "https://huggingface.co/blog/allenai/tutormoments",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
-          "url": "https://arxiv.org/abs/2608.05168",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05168v1 Announce Type: new Abstract: Large language models often fail on reasoning tasks despite possessing the capability to solve them. We argue that many such failures arise from localized reasoning bugs in intermediate steps rather than from global incompetence.…"
+          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
         },
         {
-          "title": "Abstract Event Causal Rules: Induction and Application",
-          "url": "https://arxiv.org/abs/2608.05205",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05205v1 Announce Type: new Abstract: Event-centric intelligent analytical systems heavily depend on explicit causal event knowledge for risk early warning, decision-making support and narrative comprehension. Nevertheless, existing instance-level causal pairs suffer…"
+          "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+          "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+          "source": "TechCrunch AI",
+          "summary": "Airbnb will debut a new AI-powered search experience with a toggle."
         },
         {
-          "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
-          "url": "https://arxiv.org/abs/2608.05212",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05212v1 Announce Type: new Abstract: Deep search agents tackle challenging questions through long-horizon web interactions, a process that is both complex and fragile: small reasoning errors may propagate through long, noisy trajectories into fluent but incorrect an…"
+          "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+          "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+          "source": "TechCrunch AI",
+          "summary": "Meta's total fine has racked up to $942 million in this case."
         },
         {
-          "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
-          "url": "https://arxiv.org/abs/2608.05219",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05219v1 Announce Type: new Abstract: Privileged on-policy distillation provides dense supervision for multi-turn agents by allowing a synchronized teacher to re-score the student's response at every turn with access to training-only references, such as successful tr…"
+          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+          "source": "TechCrunch AI",
+          "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
         },
         {
-          "title": "Small Foundation Models of Human Cognition and Behaviour",
-          "url": "https://arxiv.org/abs/2608.05224",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05224v1 Announce Type: new Abstract: Large language models fine-tuned on human behavioural data have emerged as general-purpose cognitive proxies, but the scale this requires, and whether these models process task structure or exploit statistical shortcuts, remain o…"
+          "title": "ChatGPT brings unlimited text chats to free users",
+          "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
         }
       ]
     },
@@ -194,52 +117,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Can a services firm scale like a product company? This ex-Tally CFO is betting on AI",
-          "url": "https://yourstory.com/2026/08/northbound-advisors-sathya-pramod-ai-native-services-firm-scale",
+          "title": "Apple and OpenAI escalate legal battle over devices",
+          "url": "https://economictimes.indiatimes.com/tech/technology/apple-and-openai-escalate-legal-battle-over-devices/articleshow/133046522.cms",
+          "source": "ET Tech",
+          "summary": "The case comes at a sensitive time for OpenAI, which is worth a reported $852 billion as it works towards a potential IPO. The lab is also locked into a fierce competition with Anthropic, a rival AI lab in San Francisco that was founded by a group of former OpenAI employees."
+        },
+        {
+          "title": "Data centre firm Switch confidentially files for US IPO: Bloomberg",
+          "url": "https://economictimes.indiatimes.com/tech/technology/data-centre-firm-switch-confidentially-files-for-us-ipo-bloomberg/articleshow/133045976.cms",
+          "source": "ET Tech",
+          "summary": "The company operates ​large-scale data centre campuses that provide power, cooling and connectivity needed for AI computing, enabling cloud providers and enterprises ‌to deploy GPU clusters used to train and run ​AI ​models."
+        },
+        {
+          "title": "Trump-linked fintech firm AI Financial sells unit to Prime Delta",
+          "url": "https://economictimes.indiatimes.com/tech/technology/trump-linked-fintech-firm-ai-financial-sells-unit-to-prime-delta/articleshow/133045175.cms",
+          "source": "ET Tech",
+          "summary": "AI Financial will receive a $12 million secured promissory note - with $1 million due next ‌week and ⁠the rest ⁠paid over time - and about 11.6 million shares of Prime Delta stock for the ​sale of ALT5 Sigma Canada, an filing with the U.S. Securities and Exchange Commission sh…"
+        },
+        {
+          "title": "AI is reimagining service companies; Ola Electric narrows loss in Q1",
+          "url": "https://yourstory.com/2026/08/ai-is-reimagining-service-companies",
           "source": "YourStory",
-          "summary": "KayEss Square is now Northbound Advisors, and is raising to acquire 8 to 10 smaller firms, all served through a proprietary AI platform built on eight years of client work."
+          "summary": "Northbound Advisors is building a proprietary AI tool with a partner, trained on eight years of work across diligences, CFO advisory, legal, tax and risk engagements."
         },
         {
-          "title": "Epistemic Trustworthiness in Generative AI: A Normative Framework for Warranted Reliance in High-Stakes Workflows",
-          "url": "https://arxiv.org/abs/2608.05602",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.05602v1 Announce Type: new Abstract: Generative AI systems are increasingly deployed in high-stakes professional contexts, where their outputs shape what users believe, how they reason, and what they treat as settled. This raises a central question for responsible A…"
-        },
-        {
-          "title": "FormBharo: Designing and Evaluating a Voice Agent for Conversational Form Filling in Rural India",
-          "url": "https://arxiv.org/abs/2608.06027",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.06027v1 Announce Type: cross Abstract: In India, almost every social benefit starts with a form, yet the people who need these benefits most are often unable to read or write. Reaching them requires a spoken conversation. Today that work falls to frontline health wo…"
-        },
-        {
-          "title": "AMD deepens AI inference bet with Taalas deal as chip race heats up",
-          "url": "https://economictimes.indiatimes.com/tech/technology/amd-deepens-ai-inference-bet-with-taalas-deal-as-chip-race-heats-up/articleshow/133020434.cms",
+          "title": "OpenAI’s new device will be hockey puck-sized and cost over $300",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-new-device-will-be-hockey-puck-sized-and-cost-over-300/articleshow/133040914.cms",
           "source": "ET Tech",
-          "summary": "Toronto-based Taalas develops specialized silicon designed to reduce computing and memory bottlenecks in AI ‌inference, the ⁠process ⁠of running trained AI models to generate responses or predictions."
+          "summary": "The product — essentially a smart speaker without a display — will be shaped like a doughnut that’s roughly the size of a hockey puck, said the people, who asked not to be identified because the work is confidential. The idea is to make the device easy to carry around the home…"
         },
         {
-          "title": "Firmus nearly doubles valuation to over $10.5 billion in 4 months with Nvidia-backed fundraise",
-          "url": "https://economictimes.indiatimes.com/tech/funding/firmus-nearly-doubles-valuation-to-over-10-5-billion-in-4-months-with-nvidia-backed-fundraise/articleshow/133019688.cms",
+          "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-flags-possible-critical-cybersecurity-risk-in-upcoming-model-tightens-controls/articleshow/133040002.cms",
           "source": "ET Tech",
-          "summary": "Firmus secured two billion dollars in equity funding this week. This investment brings the company's valuation to over ten point five billion dollars. The funds will accelerate AI factory build-outs in Australia and Asia. Nvidia and Coatue Management participated in the latest…"
+          "summary": "Under OpenAI's safety guidelines, a model reaches the \"critical\" threshold if it can autonomously identify and exploit severe, real-world software vulnerabilities, known ‌as zero-day ⁠exploits, or ⁠execute complex cyberattacks against highly secure targets without human interv…"
         },
         {
-          "title": "Alibaba plans to charge big users of its next open-source AI model",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-plans-to-charge-big-users-of-its-next-open-source-ai-model/articleshow/133019587.cms",
+          "title": "Inside Nykaa’s Inventory Model: How The Beauty Giant Earns Its Margin",
+          "url": "https://inc42.com/features/inside-nykaa-inventory-model-where-the-margin-comes-from/",
+          "source": "Inc42",
+          "summary": "Nykaa was once called the “Amazon of beauty”. And it wasn’t an unfair comparison to some degree. Like Amazon, Nykaa…"
+        },
+        {
+          "title": "Trump says Congress wants to regulate AI industry 'out of business'",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-says-congress-wants-to-regulate-ai-industry-out-of-business/articleshow/133037164.cms",
           "source": "ET Tech",
-          "summary": "Like last month's blockbuster model release from Chinese AI startup Moonshot, ​Alibaba's Qwen3.8-Max model is an open-source, open-weight model, meaning that the underlying learned settings that allow developers to run or adapt the system are available for download. By contras…"
-        },
-        {
-          "title": "India’s healthcare AI race isn’t about bigger models. It’s about better diagnostics",
-          "url": "https://yourstory.com/2026/08/indias-healthcare-ai-race-isnt-about-bigger-models-its-about-better-diagnostics",
-          "source": "YourStory",
-          "summary": "AI is bound to have an impact on the future of medicine. But the most valuable thing that AI will do for us will definitely be beyond substituting doctors or automating clinical decisions."
-        },
-        {
-          "title": "Govt slashes online content takedown time to two hours for sensitive matters",
-          "url": "https://economictimes.indiatimes.com/tech/technology/govt-slashes-online-content-takedown-time-to-two-hours-for-sensitive-matters/articleshow/133009434.cms",
-          "source": "ET Tech",
-          "summary": "According to the statement, amendments were made on February 10, 2026, in the IT Rules 2021 to strengthen the regulatory framework to address harms arising from synthetically generated information (SGI), including deepfakes and AI-generated content."
+          "summary": "Trump's remarks underscore a widening debate in Washington over how aggressively to police a fast-moving AI industry that has ‌largely operated ⁠without ⁠new federal rules. Lawmakers have released a range of proposals that have ​not yet moved forward, including a bill that wou…"
         }
       ]
     }
@@ -399,18 +322,18 @@
         "language": "JavaScript"
       },
       {
-        "name": "v1-extended-qa-sft",
-        "desc": "125M SLM extended QA-SFT stage.",
-        "url": "https://github.com/Ace-2504/v1-extended-qa-sft",
+        "name": "ace-harness",
+        "desc": "",
+        "url": "https://github.com/Ace-2504/ace-harness",
         "stars": 0,
         "language": "Python"
       },
       {
-        "name": "pre-training-v2",
-        "desc": "125M SLM pretraining v2 pipeline: cleaning, dedup, tokenize, Modal training, eval.",
-        "url": "https://github.com/Ace-2504/pre-training-v2",
+        "name": "ai-weekly-report",
+        "desc": "My personalized AI newsletter that runs on an agentic AI",
+        "url": "https://github.com/Ace-2504/ai-weekly-report",
         "stars": 0,
-        "language": "Python"
+        "language": "HTML"
       }
     ]
   }

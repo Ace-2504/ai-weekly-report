@@ -1,108 +1,94 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "top": {
-    "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
-    "url": "https://arxiv.org/abs/2608.05159",
-    "source": "arXiv cs.AI",
-    "published": "2026-08-07T04:00:00.000Z",
-    "summary": "arXiv:2608.05159v1 Announce Type: new Abstract: Enterprise operations extensively rely on multiple heterogeneous business systems and information applications, which also result in severe data silos and process fragmentation. Enterprises have invested considerable financial an…"
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "source": "TechCrunch AI",
+    "published": "2026-08-07T22:48:24.000Z",
+    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems."
   },
   "topIndia": {
-    "title": "Can a services firm scale like a product company? This ex-Tally CFO is betting on AI",
-    "url": "https://yourstory.com/2026/08/northbound-advisors-sathya-pramod-ai-native-services-firm-scale",
-    "source": "YourStory",
-    "published": "2026-08-07T05:53:31.000Z",
-    "summary": "KayEss Square is now Northbound Advisors, and is raising to acquire 8 to 10 smaller firms, all served through a proprietary AI platform built on eight years of client work."
+    "title": "Apple and OpenAI escalate legal battle over devices",
+    "url": "https://economictimes.indiatimes.com/tech/technology/apple-and-openai-escalate-legal-battle-over-devices/articleshow/133046522.cms",
+    "source": "ET Tech",
+    "published": "2026-08-08T04:58:41.000Z",
+    "summary": "The case comes at a sensitive time for OpenAI, which is worth a reported $852 billion as it works towards a potential IPO. The lab is also locked into a fierce competition with Anthropic, a rival AI lab in San Francisco that was founded by a group of former OpenAI employees."
   },
   "headlines": [
     {
-      "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
-      "url": "https://arxiv.org/abs/2608.05160",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-07T04:00:00.000Z"
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-07T21:30:11.000Z"
     },
     {
-      "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
-      "url": "https://arxiv.org/abs/2608.05168",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-07T04:00:00.000Z"
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "source": "Hugging Face",
+      "published": "2026-08-07T17:53:32.000Z"
     },
     {
-      "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
-      "url": "https://arxiv.org/abs/2608.05203",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-07T04:00:00.000Z"
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-07T16:16:09.000Z"
     },
     {
-      "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
-      "url": "https://arxiv.org/abs/2608.05204",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-07T04:00:00.000Z"
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-07T14:22:49.000Z"
     },
     {
-      "title": "Abstract Event Causal Rules: Induction and Application",
-      "url": "https://arxiv.org/abs/2608.05205",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-07T04:00:00.000Z"
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-07T14:00:00.000Z"
     },
     {
-      "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
-      "url": "https://arxiv.org/abs/2608.05206",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-07T04:00:00.000Z"
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-07T11:40:37.000Z"
     },
     {
-      "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
-      "url": "https://arxiv.org/abs/2608.05212",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-07T04:00:00.000Z"
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-06T22:43:53.000Z"
     },
     {
-      "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
-      "url": "https://arxiv.org/abs/2608.05218",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-07T04:00:00.000Z"
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-06T17:34:42.000Z"
     },
     {
-      "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
-      "url": "https://arxiv.org/abs/2608.05219",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-07T04:00:00.000Z"
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-06T17:00:37.000Z"
     },
     {
-      "title": "Small Foundation Models of Human Cognition and Behaviour",
-      "url": "https://arxiv.org/abs/2608.05224",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-07T04:00:00.000Z"
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-06T15:53:03.000Z"
     },
     {
-      "title": "Project2Task: Graph-Guided Project-Level Planning for Autonomous Research",
-      "url": "https://arxiv.org/abs/2608.05225",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-07T04:00:00.000Z"
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-06T15:10:32.000Z"
     },
     {
-      "title": "TriQua: Reconciling Granularity and Context in Factuality Evaluation",
-      "url": "https://arxiv.org/abs/2608.05228",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-07T04:00:00.000Z"
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-06T13:31:57.000Z"
     }
   ],
   "events": [
-    {
-      "title": "OpenAI Privacy Filter: A Cross-Lingual, Cross-Domain PII Evaluation Across 32 Benchmarks",
-      "url": "https://arxiv.org/abs/2608.02616",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-07T04:00:00.000Z",
-      "summary": "arXiv:2608.02616v2 Announce Type: replace-cross Abstract: We present what is, to our knowledge, the first systematic evaluation of OpenAI's Privacy Filter (OPF), a 1.5B-parameter model that converts an autoregressive language model into a bidirectional PII detector, across 32 …"
-    },
-    {
-      "title": "Karnataka eyes Anthropic tie-up to expand AI across public service",
-      "url": "https://yourstory.com/2026/08/karnataka-anthropic-ai-governance-skilling-ai-university",
-      "source": "YourStory",
-      "published": "2026-08-06T14:42:11.000Z",
-      "summary": "Karnataka is exploring a long-term AI partnership with Anthropic to improve governance, launch AI skilling programmes and establish an AI University."
-    },
     {
       "title": "Shiprocket trims IPO size; Google's AI leadership shake-up",
       "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/shiprocket-trims-ipo-size-googles-ai-leadership-shake-up/articleshow/133006804.cms",
@@ -125,25 +111,18 @@
       "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks."
     },
     {
-      "title": "Meta launches new AI coding tool powered by Muse Spark 1.2",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-launches-new-ai-coding-tool-powered-by-muse-spark-1-2/articleshow/132979577.cms",
-      "source": "ET Tech",
-      "published": "2026-08-06T02:53:23.000Z",
-      "summary": "Meta Platforms has launched Muse Code, an AI tool for developers. This new coding assistant uses the Muse Spark 1.2 AI model. It helps developers write and debug software efficiently and quickly. The tool operates on a pay-as-you-go model for users. This launch signifies Meta'…"
-    },
-    {
-      "title": "Meta chases OpenAI, Anthropic with new AI coding app Muse Code",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-chases-openai-anthropic-with-new-ai-coding-app-muse-code/articleshow/132979303.cms",
-      "source": "ET Tech",
-      "published": "2026-08-06T02:17:16.000Z",
-      "summary": "Meta entered the race for automated coding tools on Wednesday when it announced a new app for developers of artificial intelligence products, as it competes with other major AI labs for customers and revenue. Microsoft, which has invested billions into both OpenAI and Anthropi…"
-    },
-    {
       "title": "Meta launches Muse Code, an AI agent for large code bases",
       "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
       "source": "TechCrunch AI",
       "published": "2026-08-05T21:21:28.000Z",
       "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+    },
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-05T19:30:19.000Z",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
     }
   ],
   "people": [
@@ -157,9 +136,9 @@
     {
       "name": "Demis Hassabis",
       "org": "Google DeepMind",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-shakes-up-ai-leadership-as-deepmind-chief-shifts-role/articleshow/132949041.cms",
-      "article": "Google shakes up AI leadership as DeepMind CEO Demis Hassabis shifts role",
-      "source": "ET Tech"
+      "link": "https://x.com/demishassabis",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Dario Amodei",
