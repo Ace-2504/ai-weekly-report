@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-08-02 to 2026-08-08",
-  "generated": "2026-08-08T06:33:29.419Z",
-  "intro": "58 AI items this week (31 India-relevant) across 7 sources.",
+  "weekOf": "2026-08-03 to 2026-08-09",
+  "generated": "2026-08-09T06:36:47.528Z",
+  "intro": "57 AI items this week (30 India-relevant) across 7 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -76,6 +76,18 @@
       "heading": "Industry & Research",
       "items": [
         {
+          "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+          "source": "TechCrunch AI",
+          "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States."
+        },
+        {
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "source": "TechCrunch AI",
+          "summary": "NextSlide says its team members are now working on ChatGPT."
+        },
+        {
           "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
           "url": "https://huggingface.co/blog/allenai/tutormoments",
           "source": "Hugging Face",
@@ -98,24 +110,36 @@
           "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
           "source": "TechCrunch AI",
           "summary": "Meta's total fine has racked up to $942 million in this case."
-        },
-        {
-          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-          "source": "TechCrunch AI",
-          "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
-        },
-        {
-          "title": "ChatGPT brings unlimited text chats to free users",
-          "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-          "source": "TechCrunch AI",
-          "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
         }
       ]
     },
     {
       "heading": "India & Subcontinent",
       "items": [
+        {
+          "title": "Data, AI, energy: test your business creativity with Edition 244 of our weekly quiz!",
+          "url": "https://yourstory.com/2026/08/data-ai-energy-business-creativity-entrepreneur-quiz",
+          "source": "YourStory",
+          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 244th quiz. Ready?"
+        },
+        {
+          "title": "Government examines Meta’s recommendation system for intermediary status",
+          "url": "https://yourstory.com/2026/08/govt-examines-meta-recommendation-system-intermediary-status",
+          "source": "YourStory",
+          "summary": "The Centre is examining whether Meta’s recommendation systems and paid content promotion align with its intermediary status under India’s IT Act, amid concerns over content moderation, deepfakes and unlabelled AI content."
+        },
+        {
+          "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
+          "url": "https://economictimes.indiatimes.com/tech/technology/apple-says-mac-users-in-china-can-connect-to-alibabas-qwen-ai-service/articleshow/133053048.cms",
+          "source": "ET Tech",
+          "summary": "Apple published a guide for Chinese Mac users to connect Alibaba's Qwen AI service. This integration allows enhanced Siri responses and Writing Tools capabilities for users. The arrangement aims to boost Apple's competitive edge in China's AI PC market. Domestic rivals like Le…"
+        },
+        {
+          "title": "PhonePe, Razorpay chiefs say UPI will stay free for users, back sustainable model",
+          "url": "https://economictimes.indiatimes.com/tech/technology/phonepe-razorpay-chiefs-say-upi-will-stay-free-for-users-back-sustainable-model/articleshow/133051530.cms",
+          "source": "ET Tech",
+          "summary": "PhonePe and Razorpay leaders affirmed UPI payments will stay free for consumers. They support sustainable revenue models for payment infrastructure and businesses. Larger businesses may face merchant charges, while small merchants remain exempt. This follows parliamentary appr…"
+        },
         {
           "title": "Apple and OpenAI escalate legal battle over devices",
           "url": "https://economictimes.indiatimes.com/tech/technology/apple-and-openai-escalate-legal-battle-over-devices/articleshow/133046522.cms",
@@ -139,30 +163,6 @@
           "url": "https://yourstory.com/2026/08/ai-is-reimagining-service-companies",
           "source": "YourStory",
           "summary": "Northbound Advisors is building a proprietary AI tool with a partner, trained on eight years of work across diligences, CFO advisory, legal, tax and risk engagements."
-        },
-        {
-          "title": "OpenAI’s new device will be hockey puck-sized and cost over $300",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-new-device-will-be-hockey-puck-sized-and-cost-over-300/articleshow/133040914.cms",
-          "source": "ET Tech",
-          "summary": "The product — essentially a smart speaker without a display — will be shaped like a doughnut that’s roughly the size of a hockey puck, said the people, who asked not to be identified because the work is confidential. The idea is to make the device easy to carry around the home…"
-        },
-        {
-          "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-flags-possible-critical-cybersecurity-risk-in-upcoming-model-tightens-controls/articleshow/133040002.cms",
-          "source": "ET Tech",
-          "summary": "Under OpenAI's safety guidelines, a model reaches the \"critical\" threshold if it can autonomously identify and exploit severe, real-world software vulnerabilities, known ‌as zero-day ⁠exploits, or ⁠execute complex cyberattacks against highly secure targets without human interv…"
-        },
-        {
-          "title": "Inside Nykaa’s Inventory Model: How The Beauty Giant Earns Its Margin",
-          "url": "https://inc42.com/features/inside-nykaa-inventory-model-where-the-margin-comes-from/",
-          "source": "Inc42",
-          "summary": "Nykaa was once called the “Amazon of beauty”. And it wasn’t an unfair comparison to some degree. Like Amazon, Nykaa…"
-        },
-        {
-          "title": "Trump says Congress wants to regulate AI industry 'out of business'",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-says-congress-wants-to-regulate-ai-industry-out-of-business/articleshow/133037164.cms",
-          "source": "ET Tech",
-          "summary": "Trump's remarks underscore a widening debate in Washington over how aggressively to police a fast-moving AI industry that has ‌largely operated ⁠without ⁠new federal rules. Lawmakers have released a range of proposals that have ​not yet moved forward, including a bill that wou…"
         }
       ]
     }
