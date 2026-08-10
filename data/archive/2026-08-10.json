@@ -1,0 +1,596 @@
+{
+  "daily": {
+    "date": "2026-08-10",
+    "top": {
+      "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+      "url": "https://arxiv.org/abs/2608.06394",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z",
+      "summary": "arXiv:2608.06394v1 Announce Type: new Abstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics simultaneously. Existing methods for multi-label node classification can effectively model multiple la…"
+    },
+    "topIndia": {
+      "title": "How building InMobi and Glance shaped Piyush Shah's vision for India's AI future",
+      "url": "https://yourstory.com/2026/08/building-inmobi-glance-piyush-shah-vision-india-ai-future",
+      "source": "YourStory",
+      "published": "2026-08-10T06:55:29.000Z",
+      "summary": "In this episode of the Prime Venture Partners podcast, Piyush Shah, Co-founder of InMobi and Glance, shares insights from his journey of building two unicorns in India. He discusses why distribution, purpose, and building on India’s unique strengths will be critical in the AI …"
+    },
+    "headlines": [
+      {
+        "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+        "url": "https://arxiv.org/abs/2608.06398",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-10T04:00:00.000Z"
+      },
+      {
+        "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+        "url": "https://arxiv.org/abs/2608.06400",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-10T04:00:00.000Z"
+      },
+      {
+        "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+        "url": "https://arxiv.org/abs/2608.06402",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-10T04:00:00.000Z"
+      },
+      {
+        "title": "ADIAS: Automated Design of Interactive Agentic Systems",
+        "url": "https://arxiv.org/abs/2608.06410",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-10T04:00:00.000Z"
+      },
+      {
+        "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
+        "url": "https://arxiv.org/abs/2608.06411",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-10T04:00:00.000Z"
+      },
+      {
+        "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
+        "url": "https://arxiv.org/abs/2608.06474",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-10T04:00:00.000Z"
+      },
+      {
+        "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+        "url": "https://arxiv.org/abs/2608.06501",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-10T04:00:00.000Z"
+      },
+      {
+        "title": "KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning",
+        "url": "https://arxiv.org/abs/2608.06530",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-10T04:00:00.000Z"
+      },
+      {
+        "title": "TaskSense: Focusing on What Matters in World Models",
+        "url": "https://arxiv.org/abs/2608.06544",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-10T04:00:00.000Z"
+      },
+      {
+        "title": "Divergent Response Modes in Frontier Language Models Under Steering Pressure",
+        "url": "https://arxiv.org/abs/2608.06578",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-10T04:00:00.000Z"
+      },
+      {
+        "title": "Automated item evaluation: Predicting item acceptance and rejection using LLM-generated critiques",
+        "url": "https://arxiv.org/abs/2608.06609",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-10T04:00:00.000Z"
+      },
+      {
+        "title": "NxN E-valuation: Hypothesis Certification via a Conformal CRT Null",
+        "url": "https://arxiv.org/abs/2608.06621",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-10T04:00:00.000Z"
+      }
+    ],
+    "events": [
+      {
+        "title": "Evaluating XAI Support From A Hierarchical Reinforcement Learning Policy in Human-Agent Collaboration",
+        "url": "https://arxiv.org/abs/2608.06381",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-10T04:00:00.000Z",
+        "summary": "arXiv:2608.06381v1 Announce Type: cross Abstract: Explainable AI (XAI) has shown promise for human-agent collaboration, yet results rely on hand-crafted policies in custom environments, limiting generalizability to state-of-the-art teaming research. We provide the first system…"
+      },
+      {
+        "title": "MetaSICL: Globalizing Auditory LLMs for Underserved Speakers and Languages via Meta Speech In-Context Learning",
+        "url": "https://arxiv.org/abs/2601.18904",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-10T04:00:00.000Z",
+        "summary": "arXiv:2601.18904v3 Announce Type: replace-cross Abstract: Generative AI for speech and audio is increasingly expected to serve users across languages, cultures, and communities, yet current auditory Large Language Models (LLMs) are still largely trained and evaluated on high-r…"
+      }
+    ],
+    "people": [
+      {
+        "name": "Sam Altman",
+        "org": "OpenAI",
+        "link": "https://blog.samaltman.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Demis Hassabis",
+        "org": "Google DeepMind",
+        "link": "https://x.com/demishassabis",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Dario Amodei",
+        "org": "Anthropic",
+        "link": "https://www.darioamodei.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Yann LeCun",
+        "org": "Meta · world models",
+        "link": "https://x.com/ylecun",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Jensen Huang",
+        "org": "NVIDIA",
+        "link": "https://nvidianews.nvidia.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Andrej Karpathy",
+        "org": "AI educator",
+        "link": "https://karpathy.ai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Sundar Pichai",
+        "org": "Google",
+        "link": "https://x.com/sundarpichai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Mira Murati",
+        "org": "Thinking Machines",
+        "link": "https://x.com/miramurati",
+        "article": null,
+        "source": "Profile"
+      }
+    ]
+  },
+  "weekly": {
+    "weekOf": "2026-08-04 to 2026-08-10",
+    "generated": "2026-08-10T07:08:11.367Z",
+    "intro": "349 AI items this week (27 India-relevant) across 8 sources.",
+    "sections": [
+      {
+        "heading": "Large Language Models",
+        "items": [
+          {
+            "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+            "url": "https://arxiv.org/abs/2608.06394",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06394v1 Announce Type: new Abstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics simultaneously. Existing methods for multi-label node classification can effectively model multiple la…"
+          },
+          {
+            "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+            "url": "https://arxiv.org/abs/2608.06402",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06402v1 Announce Type: new Abstract: Community detection is a fundamental task in graph analytics that aims to identify cohesive groups of entities with similar behaviors or interests. Classic objective-driven methods struggle with complex graph structures, while de…"
+          },
+          {
+            "title": "Automated item evaluation: Predicting item acceptance and rejection using LLM-generated critiques",
+            "url": "https://arxiv.org/abs/2608.06609",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06609v1 Announce Type: new Abstract: Automated item evaluation (AIE) refers to the use of computational methods to assess item quality without requiring manual expert review or field testing of the items under evaluation. We aimed to build a near-comprehensive AIE m…"
+          },
+          {
+            "title": "Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation",
+            "url": "https://arxiv.org/abs/2608.06632",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06632v1 Announce Type: new Abstract: Industrial recommendation systems predominantly adopt a passive ranking paradigm that infers user preferences from implicit behavioral signals (e.g., clicks, dwell time) rather than explicit, natural language inputs. As a result,…"
+          },
+          {
+            "title": "TRACE: A Multi-Layer Benchmark for Human AI Controller Coordination Under Drift and Failure",
+            "url": "https://arxiv.org/abs/2608.06657",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06657v1 Announce Type: new Abstract: Modern cyber-physical and AI-assisted systems couple human operators, AI decision modules, and automated controllers in a single control loop, so trustworthiness depends on the whole loop, not any one model. Yet no standard bench…"
+          },
+          {
+            "title": "A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers",
+            "url": "https://arxiv.org/abs/2608.06694",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06694v1 Announce Type: new Abstract: Coarse-grained (CG) molecular dynamics extends polymer simulation beyond the scales accessible to all-atom (AA) methods, but bottom-up CG modeling is laborious. The CG resolution is a design choice, so a transferable parameter se…"
+          }
+        ]
+      },
+      {
+        "heading": "Multimodal & Media",
+        "items": [
+          {
+            "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
+            "url": "https://arxiv.org/abs/2608.06411",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06411v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) achieve strong performance across diverse vision-language tasks, but their efficiency is limited by the cost of processing numerous visual tokens. Visual token pruning can reduce this cost…"
+          },
+          {
+            "title": "AgentPatch: Coarse-to-Fine Weak-Task Repair for Merging Agentic Multimodal Large Language Models",
+            "url": "https://arxiv.org/abs/2608.06699",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06699v1 Announce Type: new Abstract: Agentic multimodal large language models (MLLMs) extend multimodal perception and reasoning with planning, tool use, and interaction in dynamic environments. Yet current models are specialized for particular tools or environments…"
+          },
+          {
+            "title": "From Cheap Fakes to Pure Synthesis: Addressing the New Era of T2V Fake News Videos",
+            "url": "https://arxiv.org/abs/2608.06732",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06732v1 Announce Type: new Abstract: Recent text-to-video (T2V) generation models enable fake news videos to be synthesized from scratch, shifting the threat beyond cheap fakes assembled from existing footage. Such news videos can closely match fabricated narratives…"
+          },
+          {
+            "title": "Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence",
+            "url": "https://arxiv.org/abs/2608.06756",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06756v1 Announce Type: new Abstract: Vision-language models are increasingly serving as the reasoning core of embodied agents. Robot execution is inherently iterative: each action reshapes the scene and physical state, continually renewing what must be perceived, re…"
+          },
+          {
+            "title": "Surg-UniWorld: A Unified Surgical World Model with Multimodal Control Experts",
+            "url": "https://arxiv.org/abs/2608.06770",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06770v1 Announce Type: new Abstract: Controllable surgical world models can provide a generative foundation for surgical artificial intelligence and simulation by synthesizing realistic instrument--tissue interactions. However, existing methods lack a unified multim…"
+          },
+          {
+            "title": "ReGraph: Learning to Generate Recipe Graphs from Food Images",
+            "url": "https://arxiv.org/abs/2608.06917",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06917v1 Announce Type: new Abstract: Recent Large Multimodal Models (LMMs) have achieved impressive performance in recipe generation from food images.However, cooking is a structured transformation process in which ingredients undergo state changes through ordered a…"
+          }
+        ]
+      },
+      {
+        "heading": "Developer Tools & Agents",
+        "items": [
+          {
+            "title": "ADIAS: Automated Design of Interactive Agentic Systems",
+            "url": "https://arxiv.org/abs/2608.06410",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06410v1 Announce Type: new Abstract: Automated agent design improves agent harnesses through iterative revision, evaluation, and feedback summarization. Existing methods are largely candidate-centric: cross-round experience is organized around candidate agents, whic…"
+          },
+          {
+            "title": "The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows",
+            "url": "https://arxiv.org/abs/2608.06714",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06714v1 Announce Type: new Abstract: Recent systems for optimizing prompts, programs, and ML workflows typically rely on explicit outer-loop controllers such as evolutionary search, bandits, or textual-gradient methods. We ask a fundamentally different question: how…"
+          },
+          {
+            "title": "Mind the Gap: A Dual Knowledge Graph Framework for Unified Multi-task User Intent Inference",
+            "url": "https://arxiv.org/abs/2608.06752",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06752v1 Announce Type: new Abstract: This paper proposes DKG-MTI, a dual knowledge graph framework for unified multi-task user intent inference from online travel reviews. Existing approaches often rely on hierarchical pipelines that suffer from error propagation or…"
+          },
+          {
+            "title": "CEDAR: Agent-Orchestrated Tree Search for Goal-Directed Optimization of Complex Systems",
+            "url": "https://arxiv.org/abs/2608.06871",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06871v1 Announce Type: new Abstract: Complex systems, core objects of study in artificial life, model diverse phenomena through nonlinear, feedback-driven interactions that produce emergent behavior, with applications from population dynamics and biology to economic…"
+          },
+          {
+            "title": "SkillEval: Decomposing Agent Skill Quality into Interpretable Signals",
+            "url": "https://arxiv.org/abs/2608.06891",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06891v1 Announce Type: new Abstract: Agent skills provide reusable procedural knowledge that helps agents solve specialized tasks. As their use expands, evaluating skill quality becomes increasingly important. Existing evaluations often measure skill quality by test…"
+          },
+          {
+            "title": "From Points to Edges: Edge-Conditioned Spectral Operators for Physics-Sensitive PDE Learning",
+            "url": "https://arxiv.org/abs/2608.06894",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06894v1 Announce Type: new Abstract: Neural operators have become a central tool for solving partial differential equations (PDEs), with spectral operators offering efficient global mixing across spatial locations. However, many PDEs contain physics-sensitive local …"
+          }
+        ]
+      },
+      {
+        "heading": "Open Source",
+        "items": [
+          {
+            "title": "Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation",
+            "url": "https://arxiv.org/abs/2608.07154",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.07154v1 Announce Type: cross Abstract: Open-source robotics and foundation models have lowered the barrier to embodied AI, yet language-guided laboratory automation still requires reliable alignment from instructions and observations to safe actions. This field repo…"
+          },
+          {
+            "title": "Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools",
+            "url": "https://arxiv.org/abs/2608.07446",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.07446v1 Announce Type: cross Abstract: Rapid adoption of large language models (LLMs) in enterprise settings has introduced operational, security, and governance risks. As generative AI applications move from pilot to production, manual harm identification and mitig…"
+          },
+          {
+            "title": "Kimi K2.5: Visual Agentic Intelligence",
+            "url": "https://arxiv.org/abs/2602.02276",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2602.02276v2 Announce Type: replace-cross Abstract: We introduce Kimi K2.5, an open-source multimodal agentic model designed to advance general agentic intelligence. K2.5 emphasizes the joint optimization of text and vision so that two modalities enhance each other. This…"
+          },
+          {
+            "title": "Baseten on Hugging Face Inference Providers 🔥",
+            "url": "https://huggingface.co/blog/baseten",
+            "source": "Hugging Face",
+            "summary": ""
+          },
+          {
+            "title": "Here’s why AI agents lie and cheat to reach their goals",
+            "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+            "source": "MIT Tech Review",
+            "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make m…"
+          }
+        ]
+      },
+      {
+        "heading": "Industry & Research",
+        "items": [
+          {
+            "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+            "url": "https://arxiv.org/abs/2608.06398",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06398v1 Announce Type: new Abstract: Recent byte-level large language models (LLMs) have made tokenizer-free modeling increasingly competitive by grouping bytes into dynamically sized patches. However, existing byte-patch architectures still apply the same dense fee…"
+          },
+          {
+            "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+            "url": "https://arxiv.org/abs/2608.06400",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06400v1 Announce Type: new Abstract: Reward models are central to learning from human preferences, yet identifying what drives their predictions remains challenging. Recent sparse Mixture-of-Experts (MoE) reward models seek to improve interpretability by routing pro…"
+          },
+          {
+            "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
+            "url": "https://arxiv.org/abs/2608.06474",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06474v1 Announce Type: new Abstract: Large language models increasingly generate complete websites from natural-language descriptions, and reinforcement learning has become a central approach to closing their remaining functional gap. This training regime is bottlen…"
+          },
+          {
+            "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+            "url": "https://arxiv.org/abs/2608.06501",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06501v1 Announce Type: new Abstract: Creative capabilities of MLLMs matter in design, communication, education, and human--AI collaboration, yet remain difficult to evaluate because explicit targets and reward signals are scarce compared with accuracy-oriented tasks…"
+          },
+          {
+            "title": "KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning",
+            "url": "https://arxiv.org/abs/2608.06530",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06530v1 Announce Type: new Abstract: Planning a degree from official university sources requires solving two problems in order. The institution's curriculum must first be reconstructed from catalogs, departmental pages, JSON endpoints, and PDFs that share no schema,…"
+          },
+          {
+            "title": "TaskSense: Focusing on What Matters in World Models",
+            "url": "https://arxiv.org/abs/2608.06544",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.06544v1 Announce Type: new Abstract: World models for visual control typically learn compact latent states by reconstructing observations, implicitly encouraging representations to preserve information across the entire visual input. However, task-relevant content o…"
+          }
+        ]
+      },
+      {
+        "heading": "India & Subcontinent",
+        "items": [
+          {
+            "title": "How building InMobi and Glance shaped Piyush Shah's vision for India's AI future",
+            "url": "https://yourstory.com/2026/08/building-inmobi-glance-piyush-shah-vision-india-ai-future",
+            "source": "YourStory",
+            "summary": "In this episode of the Prime Venture Partners podcast, Piyush Shah, Co-founder of InMobi and Glance, shares insights from his journey of building two unicorns in India. He discusses why distribution, purpose, and building on India’s unique strengths will be critical in the AI …"
+          },
+          {
+            "title": "As AI grips world, the thrill of collecting vintage computers is growing",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/as-ai-grips-world-the-thrill-of-collecting-vintage-computers-is-growing/articleshow/133085350.cms",
+            "source": "ET Tech",
+            "summary": "Dersch is part of a growing community of vintage computer collectors who are preserving the classic machines that helped launch the digital revolution. While Silicon Valley has since moved on to shaping the future of artificial intelligence, these hardware enthusiasts are inte…"
+          },
+          {
+            "title": "Nearly 32% entities expect AI to drive re-skilling over job cuts: Survey",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nearly-32-entities-expect-ai-to-drive-re-skilling-over-job-cuts-survey/articleshow/133081111.cms",
+            "source": "ET Tech",
+            "summary": "Around 32 per cent of surveyed entities expect AI will drive significant re-skilling and job transformation rather than large net reductions, according to findings from the International Financial Services Centres Authority (IFSC) AI Survey 2026 report."
+          },
+          {
+            "title": "Shein finds there's no place like China after Vietnam warehouse experiment disappoints",
+            "url": "https://economictimes.indiatimes.com/tech/technology/shein-finds-theres-no-place-like-china-after-vietnam-warehouse-experiment-disappoints/articleshow/133078977.cms",
+            "source": "ET Tech",
+            "summary": "U.S. exemptions for duties on small parcels from China that underpinned its business model looked as if they would be abolished, Donald Trump had just been elected U.S. president for a second term and fears of a heightened trade war were soon realised, with U.S. tariffs on man…"
+          },
+          {
+            "title": "LinkedIn CEO on AI Jobs, Agentic Hiring and the AI Slop Problem",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/linkedin-ceo-on-ai-jobs-agentic-hiring-and-the-ai-slop-problem/videoshow/133077205.cms",
+            "source": "ET Tech",
+            "summary": ""
+          },
+          {
+            "title": "AI transformation likely to accelerate as companies shift from adoption to enterprise-wide value creation: Report",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-transformation-likely-to-accelerate-as-companies-shift-from-adoption-to-enterprise-wide-value-creation-report/articleshow/133069276.cms",
+            "source": "ET Tech",
+            "summary": "Companies are likely to move beyond simply deploying AI tools and increasingly focus on redesigning workflows, operating models and roles to unlock enterprise-level value, according to a research report by McKinsey."
+          },
+          {
+            "title": "OpenAI pauses Astra AI model over critical cybersecurity concerns",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-astra-ai-model-over-critical-cybersecurity-concerns/articleshow/133065840.cms",
+            "source": "ET Tech",
+            "summary": "Under OpenAI's Preparedness Framework, the potential development of such capabilities triggers stricter safeguards, particularly when models could create risks of severe harm.OpenAI said it is \"pausing\" activities involving Astra while it strengthens its security controls."
+          },
+          {
+            "title": "Data, AI, energy: test your business creativity with Edition 244 of our weekly quiz!",
+            "url": "https://yourstory.com/2026/08/data-ai-energy-business-creativity-entrepreneur-quiz",
+            "source": "YourStory",
+            "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 244th quiz. Ready?"
+          }
+        ]
+      }
+    ],
+    "careers": {
+      "note": "Demand snapshot for 2026. ML Engineer is the most in-demand AI title; agentic-AI and deep-learning skills carry the highest pay premiums; Python + one cloud is the baseline. Specialisation beats generalisation for freshers.",
+      "paths": [
+        {
+          "field": "Machine Learning Engineering",
+          "demand": "Very high",
+          "note": "#1 AI title — build, deploy & maintain models in production. Best all-round entry into AI."
+        },
+        {
+          "field": "AI / Agent Engineering (LLM apps)",
+          "demand": "Surging",
+          "note": "RAG, tool-use & multi-agent systems. ~40% of enterprise apps will embed AI agents by year-end."
+        },
+        {
+          "field": "Deep Learning / Research",
+          "demand": "High (premium pay)",
+          "note": "Neural nets for vision & speech. Highest premiums; usually needs strong maths / grad study."
+        },
+        {
+          "field": "MLOps / AI Infrastructure",
+          "demand": "High",
+          "note": "Ship & scale models on the cloud. Cloud AI certs add 20–25% to salary."
+        },
+        {
+          "field": "Data Science / Analytics",
+          "demand": "Steady",
+          "note": "Foundational, widest entry door; a reliable first step into AI."
+        },
+        {
+          "field": "Computer Vision",
+          "demand": "High",
+          "note": "Imaging, robotics, autonomous systems, medical AI."
+        },
+        {
+          "field": "NLP / LLM Engineering",
+          "demand": "Very high",
+          "note": "Powers chatbots, search & agents — the hottest application area."
+        },
+        {
+          "field": "AI Product / Solutions Architect",
+          "demand": "High (senior)",
+          "note": "5–8 yrs experience; $140k–$332k bands. Translates AI into business value."
+        },
+        {
+          "field": "AI Safety / Governance",
+          "demand": "Growing",
+          "note": "Alignment, evals, red-teaming & policy — newer but expanding fast."
+        }
+      ],
+      "fresher": [
+        {
+          "skill": "Python (NumPy, Pandas)",
+          "why": "The lingua franca of ML — non-negotiable."
+        },
+        {
+          "skill": "Maths foundations",
+          "why": "Linear algebra, probability & calculus — enough to reason about models."
+        },
+        {
+          "skill": "Core ML (scikit-learn)",
+          "why": "Regression, classification, evaluation, the ML workflow."
+        },
+        {
+          "skill": "One deep-learning framework (PyTorch)",
+          "why": "Build & train neural nets; PyTorch dominates research & jobs."
+        },
+        {
+          "skill": "LLMs: prompting + RAG basics",
+          "why": "Ship a small LLM app — the most visible skill to recruiters now."
+        },
+        {
+          "skill": "SQL + data wrangling",
+          "why": "Real AI work is mostly data; SQL is everywhere."
+        },
+        {
+          "skill": "One cloud + Git/GitHub",
+          "why": "AWS leads (~40% of postings), then Azure & GCP. Version everything."
+        },
+        {
+          "skill": "Ship a portfolio project",
+          "why": "A deployed project that solves a real problem is the #1 differentiator."
+        }
+      ],
+      "experienced": [
+        {
+          "skill": "MLOps & deployment",
+          "why": "Docker, CI/CD, monitoring, model/versioning — production is where value lives."
+        },
+        {
+          "skill": "Agentic system design",
+          "why": "Multi-agent orchestration, tool-use, evals — the surging frontier."
+        },
+        {
+          "skill": "Cloud AI at scale",
+          "why": "AWS/Azure/GCP architecture; certs add a 20–25% salary premium."
+        },
+        {
+          "skill": "LLM fine-tuning & evals",
+          "why": "Adapt, measure and harden models for a domain."
+        },
+        {
+          "skill": "Distributed training / GPU optimisation",
+          "why": "Cost & latency engineering for large models."
+        },
+        {
+          "skill": "ML system design",
+          "why": "Trade-offs across data, latency, cost & reliability at scale."
+        },
+        {
+          "skill": "Domain specialisation",
+          "why": "CV, NLP, recsys, healthcare — depth beats breadth at senior levels."
+        },
+        {
+          "skill": "AI → business translation",
+          "why": "Leading teams and tying models to measurable outcomes."
+        }
+      ]
+    },
+    "profile": {
+      "name": "Harman Singh Sandhu",
+      "handle": "Ace",
+      "blurb": "I build AI/ML projects and write about them. This site is one of them — an automated daily AI digest.",
+      "linkedin": "https://www.linkedin.com/in/harman-singh-sandhu/",
+      "github": "https://github.com/Ace-2504",
+      "devto": "https://dev.to/ace2504",
+      "repos": [
+        {
+          "name": "A-360",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/A-360",
+          "stars": 1,
+          "language": "EJS"
+        },
+        {
+          "name": "Ace-2504",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/Ace-2504",
+          "stars": 1,
+          "language": ""
+        },
+        {
+          "name": "serenity",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/serenity",
+          "stars": 1,
+          "language": "TypeScript"
+        },
+        {
+          "name": "Ace-rentals",
+          "desc": "Ace Rentals: A full-stack property rental platform built with Node.js, Express, and MongoDB. Features user authentication, image uploads, geocoding, reviews, and secure account management. Inspired by Airbnb.",
+          "url": "https://github.com/Ace-2504/Ace-rentals",
+          "stars": 1,
+          "language": "JavaScript"
+        },
+        {
+          "name": "ai-weekly-report",
+          "desc": "My personalized AI newsletter that runs on an agentic AI",
+          "url": "https://github.com/Ace-2504/ai-weekly-report",
+          "stars": 0,
+          "language": "HTML"
+        },
+        {
+          "name": "ace-harness",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/ace-harness",
+          "stars": 0,
+          "language": "Python"
+        }
+      ]
+    }
+  }
+}

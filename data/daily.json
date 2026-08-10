@@ -1,97 +1,107 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "top": {
-    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "source": "TechCrunch AI",
-    "published": "2026-08-08T21:24:02.000Z",
-    "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States."
+    "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+    "url": "https://arxiv.org/abs/2608.06394",
+    "source": "arXiv cs.AI",
+    "published": "2026-08-10T04:00:00.000Z",
+    "summary": "arXiv:2608.06394v1 Announce Type: new Abstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics simultaneously. Existing methods for multi-label node classification can effectively model multiple la…"
   },
   "topIndia": {
-    "title": "Data, AI, energy: test your business creativity with Edition 244 of our weekly quiz!",
-    "url": "https://yourstory.com/2026/08/data-ai-energy-business-creativity-entrepreneur-quiz",
+    "title": "How building InMobi and Glance shaped Piyush Shah's vision for India's AI future",
+    "url": "https://yourstory.com/2026/08/building-inmobi-glance-piyush-shah-vision-india-ai-future",
     "source": "YourStory",
-    "published": "2026-08-09T02:20:00.000Z",
-    "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 244th quiz. Ready?"
+    "published": "2026-08-10T06:55:29.000Z",
+    "summary": "In this episode of the Prime Venture Partners podcast, Piyush Shah, Co-founder of InMobi and Glance, shares insights from his journey of building two unicorns in India. He discusses why distribution, purpose, and building on India’s unique strengths will be critical in the AI …"
   },
   "headlines": [
     {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-08T19:41:13.000Z"
+      "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+      "url": "https://arxiv.org/abs/2608.06398",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z"
     },
     {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-07T22:48:24.000Z"
+      "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+      "url": "https://arxiv.org/abs/2608.06400",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z"
     },
     {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-07T21:30:11.000Z"
+      "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+      "url": "https://arxiv.org/abs/2608.06402",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z"
     },
     {
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "url": "https://huggingface.co/blog/allenai/tutormoments",
-      "source": "Hugging Face",
-      "published": "2026-08-07T17:53:32.000Z"
+      "title": "ADIAS: Automated Design of Interactive Agentic Systems",
+      "url": "https://arxiv.org/abs/2608.06410",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z"
     },
     {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-07T16:16:09.000Z"
+      "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
+      "url": "https://arxiv.org/abs/2608.06411",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z"
     },
     {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-07T14:22:49.000Z"
+      "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
+      "url": "https://arxiv.org/abs/2608.06474",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z"
     },
     {
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-07T14:00:00.000Z"
+      "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+      "url": "https://arxiv.org/abs/2608.06501",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z"
     },
     {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-07T11:40:37.000Z"
+      "title": "KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning",
+      "url": "https://arxiv.org/abs/2608.06530",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z"
+    },
+    {
+      "title": "TaskSense: Focusing on What Matters in World Models",
+      "url": "https://arxiv.org/abs/2608.06544",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z"
+    },
+    {
+      "title": "Divergent Response Modes in Frontier Language Models Under Steering Pressure",
+      "url": "https://arxiv.org/abs/2608.06578",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z"
+    },
+    {
+      "title": "Automated item evaluation: Predicting item acceptance and rejection using LLM-generated critiques",
+      "url": "https://arxiv.org/abs/2608.06609",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z"
+    },
+    {
+      "title": "NxN E-valuation: Hypothesis Certification via a Conformal CRT Null",
+      "url": "https://arxiv.org/abs/2608.06621",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Shiprocket trims IPO size; Google's AI leadership shake-up",
-      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/shiprocket-trims-ipo-size-googles-ai-leadership-shake-up/articleshow/133006804.cms",
-      "source": "ET Tech",
-      "published": "2026-08-06T13:40:01.000Z",
-      "summary": "Shiprocket is set to launch its IPO after lowering its issue size. This and more in today's ETtech Top 5."
+      "title": "Evaluating XAI Support From A Hierarchical Reinforcement Learning Policy in Human-Agent Collaboration",
+      "url": "https://arxiv.org/abs/2608.06381",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z",
+      "summary": "arXiv:2608.06381v1 Announce Type: cross Abstract: Explainable AI (XAI) has shown promise for human-agent collaboration, yet results rely on hand-crafted policies in custom environments, limiting generalizability to state-of-the-art teaming research. We provide the first system…"
     },
     {
-      "title": "Microsoft opens its largest India data center hub as AI race heats up",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-opens-its-largest-india-data-center-hub-as-ai-race-heats-up/articleshow/133004599.cms",
-      "source": "ET Tech",
-      "published": "2026-08-06T12:33:20.000Z",
-      "summary": "Microsoft launched its largest India data center in Hyderabad on Thursday. This new facility brings Microsoft's cloud regions in India to four. Adani Group and HDFC Bank are among the early users of this new center. Microsoft has committed $20.5 billion to expand its India ope…"
-    },
-    {
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-06T12:30:00.000Z",
-      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks."
-    },
-    {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-05T21:21:28.000Z",
-      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+      "title": "MetaSICL: Globalizing Auditory LLMs for Underserved Speakers and Languages via Meta Speech In-Context Learning",
+      "url": "https://arxiv.org/abs/2601.18904",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T04:00:00.000Z",
+      "summary": "arXiv:2601.18904v3 Announce Type: replace-cross Abstract: Generative AI for speech and audio is increasingly expected to serve users across languages, cultures, and communities, yet current auditory Large Language Models (LLMs) are still largely trained and evaluated on high-r…"
     }
   ],
   "people": [

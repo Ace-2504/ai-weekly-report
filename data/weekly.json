@@ -1,22 +1,87 @@
 {
-  "weekOf": "2026-08-03 to 2026-08-09",
-  "generated": "2026-08-09T06:36:47.528Z",
-  "intro": "57 AI items this week (30 India-relevant) across 7 sources.",
+  "weekOf": "2026-08-04 to 2026-08-10",
+  "generated": "2026-08-10T07:08:11.367Z",
+  "intro": "349 AI items this week (27 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "OpenAI says it slowed Astra model development over security concerns",
-          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-          "source": "TechCrunch AI",
-          "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems."
+          "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+          "url": "https://arxiv.org/abs/2608.06394",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06394v1 Announce Type: new Abstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics simultaneously. Existing methods for multi-label node classification can effectively model multiple la…"
         },
         {
-          "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-          "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-          "source": "TechCrunch AI",
-          "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a…"
+          "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+          "url": "https://arxiv.org/abs/2608.06402",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06402v1 Announce Type: new Abstract: Community detection is a fundamental task in graph analytics that aims to identify cohesive groups of entities with similar behaviors or interests. Classic objective-driven methods struggle with complex graph structures, while de…"
+        },
+        {
+          "title": "Automated item evaluation: Predicting item acceptance and rejection using LLM-generated critiques",
+          "url": "https://arxiv.org/abs/2608.06609",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06609v1 Announce Type: new Abstract: Automated item evaluation (AIE) refers to the use of computational methods to assess item quality without requiring manual expert review or field testing of the items under evaluation. We aimed to build a near-comprehensive AIE m…"
+        },
+        {
+          "title": "Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation",
+          "url": "https://arxiv.org/abs/2608.06632",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06632v1 Announce Type: new Abstract: Industrial recommendation systems predominantly adopt a passive ranking paradigm that infers user preferences from implicit behavioral signals (e.g., clicks, dwell time) rather than explicit, natural language inputs. As a result,…"
+        },
+        {
+          "title": "TRACE: A Multi-Layer Benchmark for Human AI Controller Coordination Under Drift and Failure",
+          "url": "https://arxiv.org/abs/2608.06657",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06657v1 Announce Type: new Abstract: Modern cyber-physical and AI-assisted systems couple human operators, AI decision modules, and automated controllers in a single control loop, so trustworthiness depends on the whole loop, not any one model. Yet no standard bench…"
+        },
+        {
+          "title": "A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers",
+          "url": "https://arxiv.org/abs/2608.06694",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06694v1 Announce Type: new Abstract: Coarse-grained (CG) molecular dynamics extends polymer simulation beyond the scales accessible to all-atom (AA) methods, but bottom-up CG modeling is laborious. The CG resolution is a design choice, so a transferable parameter se…"
+        }
+      ]
+    },
+    {
+      "heading": "Multimodal & Media",
+      "items": [
+        {
+          "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
+          "url": "https://arxiv.org/abs/2608.06411",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06411v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) achieve strong performance across diverse vision-language tasks, but their efficiency is limited by the cost of processing numerous visual tokens. Visual token pruning can reduce this cost…"
+        },
+        {
+          "title": "AgentPatch: Coarse-to-Fine Weak-Task Repair for Merging Agentic Multimodal Large Language Models",
+          "url": "https://arxiv.org/abs/2608.06699",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06699v1 Announce Type: new Abstract: Agentic multimodal large language models (MLLMs) extend multimodal perception and reasoning with planning, tool use, and interaction in dynamic environments. Yet current models are specialized for particular tools or environments…"
+        },
+        {
+          "title": "From Cheap Fakes to Pure Synthesis: Addressing the New Era of T2V Fake News Videos",
+          "url": "https://arxiv.org/abs/2608.06732",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06732v1 Announce Type: new Abstract: Recent text-to-video (T2V) generation models enable fake news videos to be synthesized from scratch, shifting the threat beyond cheap fakes assembled from existing footage. Such news videos can closely match fabricated narratives…"
+        },
+        {
+          "title": "Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence",
+          "url": "https://arxiv.org/abs/2608.06756",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06756v1 Announce Type: new Abstract: Vision-language models are increasingly serving as the reasoning core of embodied agents. Robot execution is inherently iterative: each action reshapes the scene and physical state, continually renewing what must be perceived, re…"
+        },
+        {
+          "title": "Surg-UniWorld: A Unified Surgical World Model with Multimodal Control Experts",
+          "url": "https://arxiv.org/abs/2608.06770",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06770v1 Announce Type: new Abstract: Controllable surgical world models can provide a generative foundation for surgical artificial intelligence and simulation by synthesizing realistic instrument--tissue interactions. However, existing methods lack a unified multim…"
+        },
+        {
+          "title": "ReGraph: Learning to Generate Recipe Graphs from Food Images",
+          "url": "https://arxiv.org/abs/2608.06917",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06917v1 Announce Type: new Abstract: Recent Large Multimodal Models (LMMs) have achieved impressive performance in recipe generation from food images.However, cooking is a structured transformation process in which ingredients undergo state changes through ordered a…"
         }
       ]
     },
@@ -24,40 +89,64 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-          "source": "TechCrunch AI",
-          "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
+          "title": "ADIAS: Automated Design of Interactive Agentic Systems",
+          "url": "https://arxiv.org/abs/2608.06410",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06410v1 Announce Type: new Abstract: Automated agent design improves agent harnesses through iterative revision, evaluation, and feedback summarization. Existing methods are largely candidate-centric: cross-round experience is organized around candidate agents, whic…"
         },
         {
-          "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-          "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-          "source": "TechCrunch AI",
-          "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business."
+          "title": "The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows",
+          "url": "https://arxiv.org/abs/2608.06714",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06714v1 Announce Type: new Abstract: Recent systems for optimizing prompts, programs, and ML workflows typically rely on explicit outer-loop controllers such as evolutionary search, bandits, or textual-gradient methods. We ask a fundamentally different question: how…"
         },
         {
-          "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-          "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-          "source": "TechCrunch AI",
-          "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks."
+          "title": "Mind the Gap: A Dual Knowledge Graph Framework for Unified Multi-task User Intent Inference",
+          "url": "https://arxiv.org/abs/2608.06752",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06752v1 Announce Type: new Abstract: This paper proposes DKG-MTI, a dual knowledge graph framework for unified multi-task user intent inference from online travel reviews. Existing approaches often rely on hierarchical pipelines that suffer from error propagation or…"
         },
         {
-          "title": "Meta launches Muse Code, an AI agent for large code bases",
-          "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-          "source": "TechCrunch AI",
-          "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+          "title": "CEDAR: Agent-Orchestrated Tree Search for Goal-Directed Optimization of Complex Systems",
+          "url": "https://arxiv.org/abs/2608.06871",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06871v1 Announce Type: new Abstract: Complex systems, core objects of study in artificial life, model diverse phenomena through nonlinear, feedback-driven interactions that produce emergent behavior, with applications from population dynamics and biology to economic…"
         },
         {
-          "title": "Inside our 353,000-person vibe coding course",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-          "source": "Google AI Blog",
-          "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI."
+          "title": "SkillEval: Decomposing Agent Skill Quality into Interpretable Signals",
+          "url": "https://arxiv.org/abs/2608.06891",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06891v1 Announce Type: new Abstract: Agent skills provide reusable procedural knowledge that helps agents solve specialized tasks. As their use expands, evaluating skill quality becomes increasingly important. Existing evaluations often measure skill quality by test…"
+        },
+        {
+          "title": "From Points to Edges: Edge-Conditioned Spectral Operators for Physics-Sensitive PDE Learning",
+          "url": "https://arxiv.org/abs/2608.06894",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06894v1 Announce Type: new Abstract: Neural operators have become a central tool for solving partial differential equations (PDEs), with spectral operators offering efficient global mixing across spatial locations. However, many PDEs contain physics-sensitive local …"
         }
       ]
     },
     {
       "heading": "Open Source",
       "items": [
+        {
+          "title": "Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation",
+          "url": "https://arxiv.org/abs/2608.07154",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.07154v1 Announce Type: cross Abstract: Open-source robotics and foundation models have lowered the barrier to embodied AI, yet language-guided laboratory automation still requires reliable alignment from instructions and observations to safe actions. This field repo…"
+        },
+        {
+          "title": "Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools",
+          "url": "https://arxiv.org/abs/2608.07446",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.07446v1 Announce Type: cross Abstract: Rapid adoption of large language models (LLMs) in enterprise settings has introduced operational, security, and governance risks. As generative AI applications move from pilot to production, manual harm identification and mitig…"
+        },
+        {
+          "title": "Kimi K2.5: Visual Agentic Intelligence",
+          "url": "https://arxiv.org/abs/2602.02276",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2602.02276v2 Announce Type: replace-cross Abstract: We introduce Kimi K2.5, an open-source multimodal agentic model designed to advance general agentic intelligence. K2.5 emphasizes the joint optimization of text and vision so that two modalities enhance each other. This…"
+        },
         {
           "title": "Baseten on Hugging Face Inference Providers 🔥",
           "url": "https://huggingface.co/blog/baseten",
@@ -76,40 +165,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-          "source": "TechCrunch AI",
-          "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States."
+          "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+          "url": "https://arxiv.org/abs/2608.06398",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06398v1 Announce Type: new Abstract: Recent byte-level large language models (LLMs) have made tokenizer-free modeling increasingly competitive by grouping bytes into dynamically sized patches. However, existing byte-patch architectures still apply the same dense fee…"
         },
         {
-          "title": "OpenAI acquires presentation startup NextSlide",
-          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-          "source": "TechCrunch AI",
-          "summary": "NextSlide says its team members are now working on ChatGPT."
+          "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+          "url": "https://arxiv.org/abs/2608.06400",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06400v1 Announce Type: new Abstract: Reward models are central to learning from human preferences, yet identifying what drives their predictions remains challenging. Recent sparse Mixture-of-Experts (MoE) reward models seek to improve interpretability by routing pro…"
         },
         {
-          "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "url": "https://huggingface.co/blog/allenai/tutormoments",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
+          "url": "https://arxiv.org/abs/2608.06474",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06474v1 Announce Type: new Abstract: Large language models increasingly generate complete websites from natural-language descriptions, and reinforcement learning has become a central approach to closing their remaining functional gap. This training regime is bottlen…"
         },
         {
-          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-          "source": "TechCrunch AI",
-          "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
+          "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+          "url": "https://arxiv.org/abs/2608.06501",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06501v1 Announce Type: new Abstract: Creative capabilities of MLLMs matter in design, communication, education, and human--AI collaboration, yet remain difficult to evaluate because explicit targets and reward signals are scarce compared with accuracy-oriented tasks…"
         },
         {
-          "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-          "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-          "source": "TechCrunch AI",
-          "summary": "Airbnb will debut a new AI-powered search experience with a toggle."
+          "title": "KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning",
+          "url": "https://arxiv.org/abs/2608.06530",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06530v1 Announce Type: new Abstract: Planning a degree from official university sources requires solving two problems in order. The institution's curriculum must first be reconstructed from catalogs, departmental pages, JSON endpoints, and PDFs that share no schema,…"
         },
         {
-          "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-          "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-          "source": "TechCrunch AI",
-          "summary": "Meta's total fine has racked up to $942 million in this case."
+          "title": "TaskSense: Focusing on What Matters in World Models",
+          "url": "https://arxiv.org/abs/2608.06544",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.06544v1 Announce Type: new Abstract: World models for visual control typically learn compact latent states by reconstructing observations, implicitly encouraging representations to preserve information across the entire visual input. However, task-relevant content o…"
         }
       ]
     },
@@ -117,52 +206,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
+          "title": "How building InMobi and Glance shaped Piyush Shah's vision for India's AI future",
+          "url": "https://yourstory.com/2026/08/building-inmobi-glance-piyush-shah-vision-india-ai-future",
+          "source": "YourStory",
+          "summary": "In this episode of the Prime Venture Partners podcast, Piyush Shah, Co-founder of InMobi and Glance, shares insights from his journey of building two unicorns in India. He discusses why distribution, purpose, and building on India’s unique strengths will be critical in the AI …"
+        },
+        {
+          "title": "As AI grips world, the thrill of collecting vintage computers is growing",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/as-ai-grips-world-the-thrill-of-collecting-vintage-computers-is-growing/articleshow/133085350.cms",
+          "source": "ET Tech",
+          "summary": "Dersch is part of a growing community of vintage computer collectors who are preserving the classic machines that helped launch the digital revolution. While Silicon Valley has since moved on to shaping the future of artificial intelligence, these hardware enthusiasts are inte…"
+        },
+        {
+          "title": "Nearly 32% entities expect AI to drive re-skilling over job cuts: Survey",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nearly-32-entities-expect-ai-to-drive-re-skilling-over-job-cuts-survey/articleshow/133081111.cms",
+          "source": "ET Tech",
+          "summary": "Around 32 per cent of surveyed entities expect AI will drive significant re-skilling and job transformation rather than large net reductions, according to findings from the International Financial Services Centres Authority (IFSC) AI Survey 2026 report."
+        },
+        {
+          "title": "Shein finds there's no place like China after Vietnam warehouse experiment disappoints",
+          "url": "https://economictimes.indiatimes.com/tech/technology/shein-finds-theres-no-place-like-china-after-vietnam-warehouse-experiment-disappoints/articleshow/133078977.cms",
+          "source": "ET Tech",
+          "summary": "U.S. exemptions for duties on small parcels from China that underpinned its business model looked as if they would be abolished, Donald Trump had just been elected U.S. president for a second term and fears of a heightened trade war were soon realised, with U.S. tariffs on man…"
+        },
+        {
+          "title": "LinkedIn CEO on AI Jobs, Agentic Hiring and the AI Slop Problem",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/linkedin-ceo-on-ai-jobs-agentic-hiring-and-the-ai-slop-problem/videoshow/133077205.cms",
+          "source": "ET Tech",
+          "summary": ""
+        },
+        {
+          "title": "AI transformation likely to accelerate as companies shift from adoption to enterprise-wide value creation: Report",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-transformation-likely-to-accelerate-as-companies-shift-from-adoption-to-enterprise-wide-value-creation-report/articleshow/133069276.cms",
+          "source": "ET Tech",
+          "summary": "Companies are likely to move beyond simply deploying AI tools and increasingly focus on redesigning workflows, operating models and roles to unlock enterprise-level value, according to a research report by McKinsey."
+        },
+        {
+          "title": "OpenAI pauses Astra AI model over critical cybersecurity concerns",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-astra-ai-model-over-critical-cybersecurity-concerns/articleshow/133065840.cms",
+          "source": "ET Tech",
+          "summary": "Under OpenAI's Preparedness Framework, the potential development of such capabilities triggers stricter safeguards, particularly when models could create risks of severe harm.OpenAI said it is \"pausing\" activities involving Astra while it strengthens its security controls."
+        },
+        {
           "title": "Data, AI, energy: test your business creativity with Edition 244 of our weekly quiz!",
           "url": "https://yourstory.com/2026/08/data-ai-energy-business-creativity-entrepreneur-quiz",
           "source": "YourStory",
           "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 244th quiz. Ready?"
-        },
-        {
-          "title": "Government examines Meta’s recommendation system for intermediary status",
-          "url": "https://yourstory.com/2026/08/govt-examines-meta-recommendation-system-intermediary-status",
-          "source": "YourStory",
-          "summary": "The Centre is examining whether Meta’s recommendation systems and paid content promotion align with its intermediary status under India’s IT Act, amid concerns over content moderation, deepfakes and unlabelled AI content."
-        },
-        {
-          "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
-          "url": "https://economictimes.indiatimes.com/tech/technology/apple-says-mac-users-in-china-can-connect-to-alibabas-qwen-ai-service/articleshow/133053048.cms",
-          "source": "ET Tech",
-          "summary": "Apple published a guide for Chinese Mac users to connect Alibaba's Qwen AI service. This integration allows enhanced Siri responses and Writing Tools capabilities for users. The arrangement aims to boost Apple's competitive edge in China's AI PC market. Domestic rivals like Le…"
-        },
-        {
-          "title": "PhonePe, Razorpay chiefs say UPI will stay free for users, back sustainable model",
-          "url": "https://economictimes.indiatimes.com/tech/technology/phonepe-razorpay-chiefs-say-upi-will-stay-free-for-users-back-sustainable-model/articleshow/133051530.cms",
-          "source": "ET Tech",
-          "summary": "PhonePe and Razorpay leaders affirmed UPI payments will stay free for consumers. They support sustainable revenue models for payment infrastructure and businesses. Larger businesses may face merchant charges, while small merchants remain exempt. This follows parliamentary appr…"
-        },
-        {
-          "title": "Apple and OpenAI escalate legal battle over devices",
-          "url": "https://economictimes.indiatimes.com/tech/technology/apple-and-openai-escalate-legal-battle-over-devices/articleshow/133046522.cms",
-          "source": "ET Tech",
-          "summary": "The case comes at a sensitive time for OpenAI, which is worth a reported $852 billion as it works towards a potential IPO. The lab is also locked into a fierce competition with Anthropic, a rival AI lab in San Francisco that was founded by a group of former OpenAI employees."
-        },
-        {
-          "title": "Data centre firm Switch confidentially files for US IPO: Bloomberg",
-          "url": "https://economictimes.indiatimes.com/tech/technology/data-centre-firm-switch-confidentially-files-for-us-ipo-bloomberg/articleshow/133045976.cms",
-          "source": "ET Tech",
-          "summary": "The company operates ​large-scale data centre campuses that provide power, cooling and connectivity needed for AI computing, enabling cloud providers and enterprises ‌to deploy GPU clusters used to train and run ​AI ​models."
-        },
-        {
-          "title": "Trump-linked fintech firm AI Financial sells unit to Prime Delta",
-          "url": "https://economictimes.indiatimes.com/tech/technology/trump-linked-fintech-firm-ai-financial-sells-unit-to-prime-delta/articleshow/133045175.cms",
-          "source": "ET Tech",
-          "summary": "AI Financial will receive a $12 million secured promissory note - with $1 million due next ‌week and ⁠the rest ⁠paid over time - and about 11.6 million shares of Prime Delta stock for the ​sale of ALT5 Sigma Canada, an filing with the U.S. Securities and Exchange Commission sh…"
-        },
-        {
-          "title": "AI is reimagining service companies; Ola Electric narrows loss in Q1",
-          "url": "https://yourstory.com/2026/08/ai-is-reimagining-service-companies",
-          "source": "YourStory",
-          "summary": "Northbound Advisors is building a proprietary AI tool with a partner, trained on eight years of work across diligences, CFO advisory, legal, tax and risk engagements."
         }
       ]
     }
@@ -322,18 +411,18 @@
         "language": "JavaScript"
       },
       {
-        "name": "ace-harness",
-        "desc": "",
-        "url": "https://github.com/Ace-2504/ace-harness",
-        "stars": 0,
-        "language": "Python"
-      },
-      {
         "name": "ai-weekly-report",
         "desc": "My personalized AI newsletter that runs on an agentic AI",
         "url": "https://github.com/Ace-2504/ai-weekly-report",
         "stars": 0,
         "language": "HTML"
+      },
+      {
+        "name": "ace-harness",
+        "desc": "",
+        "url": "https://github.com/Ace-2504/ace-harness",
+        "stars": 0,
+        "language": "Python"
       }
     ]
   }
