@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-08-09 to 2026-08-15",
-  "generated": "2026-08-15T06:18:58.699Z",
-  "intro": "366 AI items this week (29 India-relevant) across 9 sources.",
+  "weekOf": "2026-08-10 to 2026-08-16",
+  "generated": "2026-08-16T06:21:39.569Z",
+  "intro": "70 AI items this week (30 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
-          "url": "https://arxiv.org/abs/2608.12368",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agent…"
+          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+          "source": "TechCrunch AI",
+          "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
         },
         {
-          "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
-          "url": "https://arxiv.org/abs/2608.12371",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized …"
+          "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+          "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+          "source": "TechCrunch AI",
+          "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI…"
         },
         {
-          "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
-          "url": "https://arxiv.org/abs/2608.12373",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12373v1 Announce Type: new Abstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from six providers and ask whether the language of a prompt ca…"
+          "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+          "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+          "source": "TechCrunch AI",
+          "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI…"
         },
         {
-          "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
-          "url": "https://arxiv.org/abs/2608.12389",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12389v1 Announce Type: new Abstract: Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from only a handful of target-domain interactions. Existing adaptation methods struggle to calibrate update…"
+          "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+          "source": "TechCrunch AI",
+          "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
         },
         {
-          "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
-          "url": "https://arxiv.org/abs/2608.12395",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12395v1 Announce Type: new Abstract: We describe Research Assistant, an internal LLM-based system developed at AstraZeneca to help scientists and clinicians explore biomedical questions across a broad range of data sources. The system provides a chat-style interface…"
+          "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
         },
         {
-          "title": "$\\varepsilon$-MemEvo: Adaptive Cross-Task Memory Transfer for LLM Program Evolution",
-          "url": "https://arxiv.org/abs/2608.12522",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12522v1 Announce Type: new Abstract: LLM-based program evolution systems such as FunSearch and AlphaEvolve have shown strong ability to discover novel algorithms, but typically optimize each task in isolation, discarding search experience after completion. We introd…"
+          "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+          "source": "TechCrunch AI",
+          "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
         }
       ]
     },
@@ -48,40 +48,28 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "The Role of Natural Language Understanding in Multimodal Video-Based Dengue Diagnosis",
-          "url": "https://arxiv.org/abs/2608.12677",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12677v1 Announce Type: new Abstract: Detecting infection-related behavioral changes in mosquitoes from video data is challenging because mosquitoes are small, move rapidly and irregularly, and are affected by environmental factors such as background, lighting, and s…"
+          "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence",
-          "url": "https://arxiv.org/abs/2608.12743",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12743v1 Announce Type: new Abstract: Spatial intelligence is becoming a foundation for embodied agents, robotic planning, and multimodal assistants. To improve the spatial reasoning ability of VLM agents, existing work has mainly followed two lines. One line uses po…"
+          "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+          "source": "Google AI Blog",
+          "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
         },
         {
-          "title": "Polish Medical Visual Question Answering: Vision-Language Models Underutilize Visual Evidence",
-          "url": "https://arxiv.org/abs/2608.12928",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12928v1 Announce Type: new Abstract: We introduce a Polish-language medical visual question answering (VQA) benchmark, built from Polish Board Certification Examination questions for licensed physicians and dentists pursuing specialist certification. The benchmark c…"
+          "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving",
-          "url": "https://arxiv.org/abs/2608.12932",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12932v1 Announce Type: new Abstract: Vision-Language-Action (VLA) models promise to bring end-to-end reasoning to autonomous driving, but their computational cost remains far too high for real-time control. The core challenge is structural: VLA inference is not a si…"
-        },
-        {
-          "title": "From Local Mismatch to Global Impact: Optimizing Cache Reuse Policy for Efficient Diffusion",
-          "url": "https://arxiv.org/abs/2608.13043",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.13043v1 Announce Type: new Abstract: Diffusion models have achieved dominant performance in visual generation but suffer from substantial inference overhead. While cache-based acceleration has emerged as a promising solution, existing policies rely on local similari…"
-        },
-        {
-          "title": "Towards Context-Aware Clinical Motion Understanding in Daily Living at Home: Freezing of Gait Detection with Egocentric Vision",
-          "url": "https://arxiv.org/abs/2608.13283",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.13283v1 Announce Type: new Abstract: Understanding motion in daily living requires context beyond kinematics, because similar inertial patterns during activities of daily living (ADLs) can reflect intentional stopping, object interaction, or pathological movement im…"
+          "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "url": "https://huggingface.co/blog/muse-glimmer",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -89,40 +77,28 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents",
-          "url": "https://arxiv.org/abs/2608.12476",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12476v1 Announce Type: new Abstract: Long-term agent memory is usually treated as select--store--retrieve, but retrieval does not decide whether contradictory, superseded, retracted, deleted, or stale records may support an outgoing claim. We introduce Governed Pers…"
+          "title": "SpaceX officially closes its Cursor acquisition",
+          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+          "source": "TechCrunch AI",
+          "summary": "AI coding startup Cursor is now officially a part of SpaceX."
         },
         {
-          "title": "@skills: Attention is all you have",
-          "url": "https://arxiv.org/abs/2608.12610",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12610v1 Announce Type: new Abstract: There are 56,804 public agent skills today, and teams write many more privately. The dominant delivery model is installation: once installed, a skill's description remains in the system prompt, competing for fewer than 100 reliab…"
+          "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+          "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
         },
         {
-          "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
-          "url": "https://arxiv.org/abs/2608.12654",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12654v1 Announce Type: new Abstract: Long-running LLM agents act through tools, and a single step can send an email, merge a pull request, or wire a payment. The steering decision is the pre-commit choice at that boundary: proceed, or hold for human or policy review…"
+          "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+          "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
         },
         {
-          "title": "Lines and Ladders: A Context-Aware Multi-Agent Framework for Large-Scale Retail Price Taxonomy",
-          "url": "https://arxiv.org/abs/2608.12674",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12674v1 Announce Type: new Abstract: Maintaining price consistency and executing an Every Day Low Price strategy is critical for global retailers. However, with catalogs spanning millions of active items, manual governance of price relationships is infeasible. Incon…"
-        },
-        {
-          "title": "Beyond Retrieval: Query-Conditioned Reuse of Long-Horizon Agent Trajectories",
-          "url": "https://arxiv.org/abs/2608.12847",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12847v1 Announce Type: new Abstract: Retrieval can identify a past trajectory that may matter, yet it does not specify how an acting agent should use that trajectory after users, entities, constraints, or environment state have changed. We identify this post-retriev…"
-        },
-        {
-          "title": "Agent Behavioral Contracts II: Certifying Compositional Reliability Without Assuming Independence",
-          "url": "https://arxiv.org/abs/2608.12895",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12895v1 Announce Type: new Abstract: Compositional reliability bounds for multi-agent systems multiply component reliabilities, a step licensed by a conditional-independence assumption that is routinely stated and rarely tested. We test it. Two instances of one mode…"
+          "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
         }
       ]
     },
@@ -130,40 +106,10 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "Behavioral Reprogramming of Open-Weights Models: Cognitive Plasticity and Alignment Bounds",
-          "url": "https://arxiv.org/abs/2608.13069",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.13069v1 Announce Type: new Abstract: Large language models (LLMs) are predominantly aligned to function as passive, sycophantic assistants. We challenge this default paradigm by empirically evaluating the cognitive plasticity of open-weight architectures when subjec…"
-        },
-        {
-          "title": "MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination",
-          "url": "https://arxiv.org/abs/2608.13476",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.13476v1 Announce Type: new Abstract: We present Multi-Agent Reasoning and Coordination (MARC), an open-source framework that replaces monolithic LLM prompting with deterministic multi-agent orchestration for clinical reasoning. MARC coordinates role-specialized agen…"
-        },
-        {
-          "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
-          "url": "https://arxiv.org/abs/2608.13517",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.13517v1 Announce Type: cross Abstract: Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce Mimir v1, a 1-billion-paramet…"
-        },
-        {
-          "title": "MatchMiner-AI: Open-source, Privacy-preserving Cancer Clinical Trial Matching using Artificial Intelligence",
-          "url": "https://arxiv.org/abs/2412.17228",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2412.17228v4 Announce Type: replace Abstract: Background: Clinical trials are essential to advancing cancer treatments, but fewer than 10% of adults with cancer enroll in therapeutic trials. Open-source AI trial matching tools could democratize access to trial options. M…"
-        },
-        {
-          "title": "Time-Series Forecasting in Safety-Critical Environments: An Open-Source Package for EU-AI-Act-Compliant Development / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein Open-Source-Paket f\\\"ur die KI-VO-konforme Entwicklung",
-          "url": "https://arxiv.org/abs/2604.23859",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2604.23859v3 Announce Type: replace Abstract: With spotforecast2-safe we present an integrated Compliance-by-Design approach to Python-based point forecasting of time series in safety-critical environments. A review of the relevant open-source tooling shows that existing…"
-        },
-        {
-          "title": "The Impact of Generative AI on Collaborative Open-Source Software Development: Evidence from GitHub Copilot",
-          "url": "https://arxiv.org/abs/2410.02091",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2410.02091v4 Announce Type: replace-cross Abstract: Generative artificial intelligence (AI) facilitates content production and enhances ideation, with potentially important implications for developer productivity and participation in software development. To explore its …"
+          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -171,46 +117,76 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Position: Reasoning is a Learnable Rule-Based Process",
-          "url": "https://arxiv.org/abs/2608.12325",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite…"
+          "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+          "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+          "source": "TechCrunch AI",
+          "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
         },
         {
-          "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-          "url": "https://arxiv.org/abs/2608.12345",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classifica…"
+          "title": "Google will now allow users to remove visible watermark from its AI generations",
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+          "source": "TechCrunch AI",
+          "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
         },
         {
-          "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
-          "url": "https://arxiv.org/abs/2608.12346",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping cu…"
+          "title": "Kog is going deeper to squeeze more inference out of GPUs",
+          "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+          "source": "TechCrunch AI",
+          "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
         },
         {
-          "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
-          "url": "https://arxiv.org/abs/2608.12372",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12372v1 Announce Type: new Abstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we need accurate cognitively-al…"
+          "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+          "source": "Ars Technica",
+          "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
         },
         {
-          "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
-          "url": "https://arxiv.org/abs/2608.12385",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12385v1 Announce Type: new Abstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stress hardware differently: prompt prefill is parallel and t…"
+          "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+          "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+          "source": "TechCrunch AI",
+          "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
         },
         {
-          "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
-          "url": "https://arxiv.org/abs/2608.12426",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12426v1 Announce Type: new Abstract: Large language models are increasingly deployed in settings that require simultaneous adherence to multiple explicit constraints - reasoning structure, safety boundaries, output schemas. Individual constraints are handled profici…"
+          "title": "State of Open Models: Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
     {
       "heading": "India & Subcontinent",
       "items": [
+        {
+          "title": "Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power/articleshow/133271001.cms",
+          "source": "ET Tech",
+          "summary": "Responding to a debate sparked by comments from investor Gavin Baker, Amodei said the choice between concentrating AI power through regulation and distributing it widely was a \"false choice\". He argued that fair institutional processes can constrain corporate power and protect…"
+        },
+        {
+          "title": "PM Modi’s AI bet: Train 1 crore youth in one year",
+          "url": "https://yourstory.com/2026/08/pm-modis-ai-bet-train-1-crore-youth-in-one-year",
+          "source": "YourStory",
+          "summary": "Startups announced funding worth $146 million across 15 deals this week, down from $323 million last week."
+        },
+        {
+          "title": "Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast/articleshow/133259667.cms",
+          "source": "ET Tech",
+          "summary": "Anthropic is projecting 2028 revenue of roughly $190 billion to $200 billion, according to two people familiar ​with the company's financials, a figure that has not previously been reported. The projection dwarfs the $47 billion revenue \"run rate,\" reflecting the firm's curren…"
+        },
+        {
+          "title": "Josh Kushner’s Thrive Fund grows sevenfold to $3.7 billion on AI bets",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/kushners-thrive-fund-grows-sevenfold-to-3-7-billion-on-ai-bets/articleshow/133257697.cms",
+          "source": "ET Tech",
+          "summary": "The letter highlights an investing strategy that Thrive pioneered in the venture capital industry: concentrating on a small subset of companies, rather than indexing an entire market. While many VC firms spread bets across dozens of companies, Thrive’s strategy is much more fo…"
+        },
+        {
+          "title": "PM Modi Bets On Tech To Empower Youth With AI Skilling, Online Coaching",
+          "url": "https://inc42.com/buzz/pm-modi-bets-on-tech-to-empower-youth-with-ai-skilling-online-coaching/",
+          "source": "Inc42",
+          "summary": "Addressing the nation on the occasion of the country’s 80th Independence day, Prime Minister Narendra Modi reiterated the country’s ongoing…"
+        },
         {
           "title": "CM Shivakumar announces AI education programme for schools in Karnataka",
           "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cm-shivakumar-announces-ai-education-programme-for-schools-in-ktaka/articleshow/133256595.cms",
@@ -228,36 +204,6 @@
           "url": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-august/",
           "source": "Inc42",
           "summary": "India’s AI story has grown beyond building an Indian equivalent of ChatGPT. The current phase is about building the infrastructure,…"
-        },
-        {
-          "title": "We will train 1 crore youth in AI skills over next year: PM Modi",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/we-will-work-to-provide-ai-skill-training-to-1-crore-youth-in-coming-one-year-pm-modi/articleshow/133256036.cms",
-          "source": "ET Tech",
-          "summary": "Prime Minister Narendra Modi, referring to India's recent AI Summit, announced a major initiative aimed at expanding AI skills among the country's youth. He also said that India has witnessed a significant rise in entrepreneurship, with more than 2.5 lakh startups operating ac…"
-        },
-        {
-          "title": "AI and Consumer Rights in India Working Paper",
-          "url": "https://arxiv.org/abs/2608.12863",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.12863v1 Announce Type: new Abstract: As AI systems proliferate in consumer facing applications, questions about liability for AI related harms remain unresolved. This working paper examines whether India's Consumer Protection Act, 2019, adequately addresses harm cau…"
-        },
-        {
-          "title": "TCS-BENCH: Benchmarking State-of-the-Art Generative AI Theoretical Computer Science Research Ability",
-          "url": "https://arxiv.org/abs/2608.09538",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.09538v2 Announce Type: replace-cross Abstract: We introduce TCS-Bench, a benchmark for evaluating Large Language Models (LLMs) on research-level Theoretical Computer Science (TCS) proof generation. TCS-Bench consists of theorem-proving tasks from papers published at…"
-        },
-        {
-          "title": "Nvidia scales back funding guarantee for Ohio OpenAI data centre: WSJ",
-          "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-scales-back-funding-guarantee-for-ohio-openai-data-centre-wsj/articleshow/133253982.cms",
-          "source": "ET Tech",
-          "summary": "According to the report Nvidia and OpenAI are nearing an ​agreement, with the chipmaker expected to provide a financial backstop only ​for the first phase of the project. A deal could be signed as early as this weekend, the report said. The change ⁠were made ‌after investors r…"
-        },
-        {
-          "title": "Tagbin has built an AI platform that turns words into 3D building designs",
-          "url": "https://yourstory.com/2026/08/tagbin-brixx-ai-building-design-bim-platform",
-          "source": "YourStory",
-          "summary": "Tagbin is taking Brixx to large enterprises first, promising faster BIM generation, cost estimation and regulatory compliance"
         }
       ]
     }
