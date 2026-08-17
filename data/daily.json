@@ -1,83 +1,114 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "top": {
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "source": "TechCrunch AI",
-    "published": "2026-08-15T21:29:19.000Z",
-    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+    "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+    "url": "https://arxiv.org/abs/2608.13564",
+    "source": "arXiv cs.AI",
+    "published": "2026-08-17T04:00:00.000Z",
+    "summary": "arXiv:2608.13564v1 Announce Type: new Abstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executable environment reward, is expensive, slow, or unavailable at deployment time. Suc…"
   },
   "topIndia": {
-    "title": "Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power/articleshow/133271001.cms",
-    "source": "ET Tech",
-    "published": "2026-08-16T06:19:57.000Z",
-    "summary": "Responding to a debate sparked by comments from investor Gavin Baker, Amodei said the choice between concentrating AI power through regulation and distributing it widely was a \"false choice\". He argued that fair institutional processes can constrain corporate power and protect…"
+    "title": "Residual Dominance as a Structural Account of Last-Item Reliance in Causal Self-Attention Recommenders",
+    "url": "https://arxiv.org/abs/2608.14021",
+    "source": "arXiv cs.AI",
+    "published": "2026-08-17T04:00:00.000Z",
+    "summary": "arXiv:2608.14021v1 Announce Type: new Abstract: Transformer-based sequential recommenders with causal self-attention often rely heavily on the most recent interaction at inference time, but how this behavior is structurally expressed in the representation used for prediction r…"
   },
   "headlines": [
     {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-15T18:58:39.000Z"
+      "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+      "url": "https://arxiv.org/abs/2608.13565",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-17T04:00:00.000Z"
     },
     {
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-15T16:30:00.000Z"
+      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+      "url": "https://arxiv.org/abs/2608.13567",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-17T04:00:00.000Z"
     },
     {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-14T16:13:40.000Z"
+      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+      "url": "https://arxiv.org/abs/2608.13573",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-17T04:00:00.000Z"
     },
     {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-14T15:43:28.000Z"
+      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2608.13574",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-17T04:00:00.000Z"
     },
     {
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-14T14:50:11.000Z"
+      "title": "AI Evaluation Should Work With Humans",
+      "url": "https://arxiv.org/abs/2608.13577",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-17T04:00:00.000Z"
     },
     {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "source": "Ars Technica",
-      "published": "2026-08-14T14:27:14.000Z"
+      "title": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
+      "url": "https://arxiv.org/abs/2608.13591",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-17T04:00:00.000Z"
     },
     {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-14T14:05:00.000Z"
+      "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
+      "url": "https://arxiv.org/abs/2608.13598",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-17T04:00:00.000Z"
     },
     {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-14T14:00:00.000Z"
+      "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
+      "url": "https://arxiv.org/abs/2608.13604",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-17T04:00:00.000Z"
+    },
+    {
+      "title": "Active Perception for Embodied Disambiguation",
+      "url": "https://arxiv.org/abs/2608.13605",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-17T04:00:00.000Z"
+    },
+    {
+      "title": "MobileMem: Learning from a Year of Mobile Experiences",
+      "url": "https://arxiv.org/abs/2608.13606",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-17T04:00:00.000Z"
+    },
+    {
+      "title": "No Universal Signal Predicts Sample-Level LLM Regression under Version Updates",
+      "url": "https://arxiv.org/abs/2608.13607",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-17T04:00:00.000Z"
+    },
+    {
+      "title": "Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis",
+      "url": "https://arxiv.org/abs/2608.13608",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-17T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead",
+      "url": "https://arxiv.org/abs/2608.13987",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-17T04:00:00.000Z",
+      "summary": "arXiv:2608.13987v1 Announce Type: new Abstract: Nanbeige4.2-3B is a 3B-parameter agentic model built around a Looped Transformer (LT) that reuses one stack of layers for a second forward pass, adding effective depth without additional parameters. Evaluated on Apple Silicon (MP…"
+    },
+    {
+      "title": "The Architect: Interactive Visualization of Deep Learning Mathematics Directly in Microsoft Excel",
+      "url": "https://arxiv.org/abs/2608.13572",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-17T04:00:00.000Z",
+      "summary": "arXiv:2608.13572v1 Announce Type: cross Abstract: We present The Architect, a system that turns Microsoft Excel into an interactive view of deep learning mathematics. A user describes a neural network in a compact table. The system then generates a workbook that shows the full…"
+    },
     {
       "title": "Goldman in talks with investors on Nvidia financing deal after landing prized role",
       "url": "https://economictimes.indiatimes.com/tech/technology/goldman-in-talks-with-investors-on-nvidia-financing-deal-after-landing-prized-role/articleshow/133241463.cms",
       "source": "ET Tech",
       "published": "2026-08-14T12:31:09.000Z",
       "summary": "Nvidia announced on August 10 it has partnered with six major financial institutions including Goldman to launch compute platforms aimed at raising over $500 billion in third-party capital for ‌AI infrastructure. The move ⁠highlights how ⁠surging demand for AI computing capaci…"
-    },
-    {
-      "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows",
-      "url": "https://economictimes.indiatimes.com/tech/technology/google-unveils-gemini-3-7-flash-ai-model-for-coding-agent-workflows/articleshow/133220152.cms",
-      "source": "ET Tech",
-      "published": "2026-08-13T17:22:57.000Z",
-      "summary": "Investors have been closely watching for Gemini 3.5 Pro, Google's premium model, as a test of whether its DeepMind AI unit can keep pace with rivals Anthropic ‌and OpenAI. Google had ⁠said ⁠in July Gemini 3.5 Pro was being tested with partners and would be coming \"soon\"."
     }
   ],
   "people": [
@@ -98,9 +129,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power/articleshow/133271001.cms",
-      "article": "Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power",
-      "source": "ET Tech"
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "article": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "source": "TechCrunch AI"
     },
     {
       "name": "Yann LeCun",
