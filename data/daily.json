@@ -1,114 +1,135 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "top": {
-    "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
-    "url": "https://arxiv.org/abs/2608.13564",
+    "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+    "url": "https://arxiv.org/abs/2608.14550",
     "source": "arXiv cs.AI",
-    "published": "2026-08-17T04:00:00.000Z",
-    "summary": "arXiv:2608.13564v1 Announce Type: new Abstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executable environment reward, is expensive, slow, or unavailable at deployment time. Suc…"
+    "published": "2026-08-18T04:00:00.000Z",
+    "summary": "arXiv:2608.14550v1 Announce Type: new Abstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and environmental costs. While reporting Floating Point Operations (FLOPs) is a traditional approach fo…"
   },
   "topIndia": {
-    "title": "Residual Dominance as a Structural Account of Last-Item Reliance in Causal Self-Attention Recommenders",
-    "url": "https://arxiv.org/abs/2608.14021",
-    "source": "arXiv cs.AI",
-    "published": "2026-08-17T04:00:00.000Z",
-    "summary": "arXiv:2608.14021v1 Announce Type: new Abstract: Transformer-based sequential recommenders with causal self-attention often rely heavily on the most recent interaction at inference time, but how this behavior is structurally expressed in the representation used for prediction r…"
+    "title": "Why Rubrik believes cyber resilience, not prevention, is the next frontier",
+    "url": "https://yourstory.com/2026/08/why-rubrik-believes-cyber-resilience-not-prevention-is-the-next-frontier",
+    "source": "YourStory",
+    "published": "2026-08-18T05:45:56.000Z",
+    "summary": "As AI compresses cyberattacks from weeks to seconds, enterprises must prepare to recover from breaches, not just prevent them. Rubrik's Ananth Nag explains why cyber resilience is becoming a boardroom priority."
   },
   "headlines": [
     {
-      "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
-      "url": "https://arxiv.org/abs/2608.13565",
+      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+      "url": "https://arxiv.org/abs/2608.14552",
       "source": "arXiv cs.AI",
-      "published": "2026-08-17T04:00:00.000Z"
+      "published": "2026-08-18T04:00:00.000Z"
     },
     {
-      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
-      "url": "https://arxiv.org/abs/2608.13567",
+      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+      "url": "https://arxiv.org/abs/2608.14558",
       "source": "arXiv cs.AI",
-      "published": "2026-08-17T04:00:00.000Z"
+      "published": "2026-08-18T04:00:00.000Z"
     },
     {
-      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
-      "url": "https://arxiv.org/abs/2608.13573",
+      "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
+      "url": "https://arxiv.org/abs/2608.14559",
       "source": "arXiv cs.AI",
-      "published": "2026-08-17T04:00:00.000Z"
+      "published": "2026-08-18T04:00:00.000Z"
     },
     {
-      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
-      "url": "https://arxiv.org/abs/2608.13574",
+      "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+      "url": "https://arxiv.org/abs/2608.14562",
       "source": "arXiv cs.AI",
-      "published": "2026-08-17T04:00:00.000Z"
+      "published": "2026-08-18T04:00:00.000Z"
     },
     {
-      "title": "AI Evaluation Should Work With Humans",
-      "url": "https://arxiv.org/abs/2608.13577",
+      "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
+      "url": "https://arxiv.org/abs/2608.14565",
       "source": "arXiv cs.AI",
-      "published": "2026-08-17T04:00:00.000Z"
+      "published": "2026-08-18T04:00:00.000Z"
     },
     {
-      "title": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
-      "url": "https://arxiv.org/abs/2608.13591",
+      "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
+      "url": "https://arxiv.org/abs/2608.14566",
       "source": "arXiv cs.AI",
-      "published": "2026-08-17T04:00:00.000Z"
+      "published": "2026-08-18T04:00:00.000Z"
     },
     {
-      "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
-      "url": "https://arxiv.org/abs/2608.13598",
+      "title": "From Doyle to AGM: A Survey and an Implementation Roadmap for Belief Change",
+      "url": "https://arxiv.org/abs/2608.14567",
       "source": "arXiv cs.AI",
-      "published": "2026-08-17T04:00:00.000Z"
+      "published": "2026-08-18T04:00:00.000Z"
     },
     {
-      "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
-      "url": "https://arxiv.org/abs/2608.13604",
+      "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
+      "url": "https://arxiv.org/abs/2608.14568",
       "source": "arXiv cs.AI",
-      "published": "2026-08-17T04:00:00.000Z"
+      "published": "2026-08-18T04:00:00.000Z"
     },
     {
-      "title": "Active Perception for Embodied Disambiguation",
-      "url": "https://arxiv.org/abs/2608.13605",
+      "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
+      "url": "https://arxiv.org/abs/2608.14569",
       "source": "arXiv cs.AI",
-      "published": "2026-08-17T04:00:00.000Z"
+      "published": "2026-08-18T04:00:00.000Z"
     },
     {
-      "title": "MobileMem: Learning from a Year of Mobile Experiences",
-      "url": "https://arxiv.org/abs/2608.13606",
+      "title": "Position: Want Better ML Reviews? Stop Asking Nicely and Start Incentivizing with a Credit System",
+      "url": "https://arxiv.org/abs/2608.14571",
       "source": "arXiv cs.AI",
-      "published": "2026-08-17T04:00:00.000Z"
+      "published": "2026-08-18T04:00:00.000Z"
     },
     {
-      "title": "No Universal Signal Predicts Sample-Level LLM Regression under Version Updates",
-      "url": "https://arxiv.org/abs/2608.13607",
+      "title": "Longitudinal and Graph-Augmented Prediction of Adolescent Substance Use Onset in the ABCD Study",
+      "url": "https://arxiv.org/abs/2608.14578",
       "source": "arXiv cs.AI",
-      "published": "2026-08-17T04:00:00.000Z"
+      "published": "2026-08-18T04:00:00.000Z"
     },
     {
-      "title": "Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis",
-      "url": "https://arxiv.org/abs/2608.13608",
+      "title": "SKILL: Self-correcting Knowledge-guided Iterative Large Language Model Agent for Logic Optimization",
+      "url": "https://arxiv.org/abs/2608.14579",
       "source": "arXiv cs.AI",
-      "published": "2026-08-17T04:00:00.000Z"
+      "published": "2026-08-18T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead",
-      "url": "https://arxiv.org/abs/2608.13987",
+      "title": "iFuzz-Meta: An Interpretable Fuzzy Learning Framework Bridging Top-Down and Bottom-Up Knowledge Integration",
+      "url": "https://arxiv.org/abs/2608.14646",
       "source": "arXiv cs.AI",
-      "published": "2026-08-17T04:00:00.000Z",
-      "summary": "arXiv:2608.13987v1 Announce Type: new Abstract: Nanbeige4.2-3B is a 3B-parameter agentic model built around a Looped Transformer (LT) that reuses one stack of layers for a second forward pass, adding effective depth without additional parameters. Evaluated on Apple Silicon (MP…"
+      "published": "2026-08-18T04:00:00.000Z",
+      "summary": "arXiv:2608.14646v1 Announce Type: cross Abstract: Interpretable representation learning remains a key challenge in modern neural computation, particularly when models are expected not only to perform but also to explain their reasoning. This paper introduces iFuzz-Meta, an int…"
     },
     {
-      "title": "The Architect: Interactive Visualization of Deep Learning Mathematics Directly in Microsoft Excel",
-      "url": "https://arxiv.org/abs/2608.13572",
+      "title": "MetaReason: Precise Interleaved Multimodal Reasoning via Editing Meta Information for Solving Geometry Problems",
+      "url": "https://arxiv.org/abs/2608.15006",
       "source": "arXiv cs.AI",
-      "published": "2026-08-17T04:00:00.000Z",
-      "summary": "arXiv:2608.13572v1 Announce Type: cross Abstract: We present The Architect, a system that turns Microsoft Excel into an interactive view of deep learning mathematics. A user describes a neural network in a compact table. The system then generates a workbook that shows the full…"
+      "published": "2026-08-18T04:00:00.000Z",
+      "summary": "arXiv:2608.15006v1 Announce Type: cross Abstract: Although visual reasoning is crucial for solving complex geometry tasks, existing vision-language models rely heavily on text-only reasoning. Some recent methods introduce intermediate visual states to facilitate reasoning, but…"
     },
     {
-      "title": "Goldman in talks with investors on Nvidia financing deal after landing prized role",
-      "url": "https://economictimes.indiatimes.com/tech/technology/goldman-in-talks-with-investors-on-nvidia-financing-deal-after-landing-prized-role/articleshow/133241463.cms",
-      "source": "ET Tech",
-      "published": "2026-08-14T12:31:09.000Z",
-      "summary": "Nvidia announced on August 10 it has partnered with six major financial institutions including Goldman to launch compute platforms aimed at raising over $500 billion in third-party capital for ‌AI infrastructure. The move ⁠highlights how ⁠surging demand for AI computing capaci…"
+      "title": "Identifying Confusion Trends in Concept-based XAI for Multi-Label Classification",
+      "url": "https://arxiv.org/abs/2608.15731",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-18T04:00:00.000Z",
+      "summary": "arXiv:2608.15731v1 Announce Type: cross Abstract: Deep Neural Networks (DNNs) deployed in high-risk domains, such as healthcare and autonomous driving, must be not only accurate but also understandable to ensure user trust. In real-world computer vision tasks, these models oft…"
+    },
+    {
+      "title": "MUSE: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems",
+      "url": "https://arxiv.org/abs/2608.16181",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-18T04:00:00.000Z",
+      "summary": "arXiv:2608.16181v1 Announce Type: cross Abstract: Recent advances in large language models have enabled a new class of agentic data science systems that allow users to complete complex data science workflows through natural language. Although these systems can significantly re…"
+    },
+    {
+      "title": "Calibrated Generative AI as Meta-Reviewer: A Systemic Functional Linguistics Discourse Analysis of Reviews of Peer Reviews",
+      "url": "https://arxiv.org/abs/2509.15035",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-18T04:00:00.000Z",
+      "summary": "arXiv:2509.15035v2 Announce Type: replace Abstract: This study investigates the use of generative AI to support formative assessment through machine generated reviews of peer reviews in graduate online courses in a public university in the United States. Drawing on Systemic Fu…"
+    },
+    {
+      "title": "The Energy Blind Spot: NVIDIA's Flagship Edge AI Hardware Cannot Support Process-Level Energy Attribution",
+      "url": "https://arxiv.org/abs/2605.27599",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-18T04:00:00.000Z",
+      "summary": "arXiv:2605.27599v3 Announce Type: replace-cross Abstract: Agentic AI workloads - where a single user goal triggers multi-step orchestration, tool calls, retries, and failure recovery - are being targeted for edge deployment, with NVIDIA, Dell, HP, ASUS, MSI, Acer, and Gigabyte…"
     }
   ],
   "people": [
