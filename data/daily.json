@@ -1,135 +1,100 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "top": {
-    "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
-    "url": "https://arxiv.org/abs/2608.14550",
+    "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+    "url": "https://arxiv.org/abs/2608.16890",
     "source": "arXiv cs.AI",
-    "published": "2026-08-18T04:00:00.000Z",
-    "summary": "arXiv:2608.14550v1 Announce Type: new Abstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and environmental costs. While reporting Floating Point Operations (FLOPs) is a traditional approach fo…"
+    "published": "2026-08-19T04:00:00.000Z",
+    "summary": "arXiv:2608.16890v1 Announce Type: new Abstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissions, yet LLM-based code generation fails catastrophically on this task: across…"
   },
   "topIndia": {
-    "title": "Why Rubrik believes cyber resilience, not prevention, is the next frontier",
-    "url": "https://yourstory.com/2026/08/why-rubrik-believes-cyber-resilience-not-prevention-is-the-next-frontier",
-    "source": "YourStory",
-    "published": "2026-08-18T05:45:56.000Z",
-    "summary": "As AI compresses cyberattacks from weeks to seconds, enterprises must prepare to recover from breaches, not just prevent them. Rubrik's Ananth Nag explains why cyber resilience is becoming a boardroom priority."
+    "title": "The Enterprise Fight Against Runaway AI Costs",
+    "url": "https://inc42.com/features/the-enterprise-fight-against-runaway-ai-costs/",
+    "source": "Inc42",
+    "published": "2026-08-19T05:30:34.000Z",
+    "summary": "As enterprises increasingly turn to AI to get work done, three new weapons are emerging in their fight to control…"
   },
   "headlines": [
     {
-      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
-      "url": "https://arxiv.org/abs/2608.14552",
+      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+      "url": "https://arxiv.org/abs/2608.16891",
       "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z"
+      "published": "2026-08-19T04:00:00.000Z"
     },
     {
-      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
-      "url": "https://arxiv.org/abs/2608.14558",
+      "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+      "url": "https://arxiv.org/abs/2608.16956",
       "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z"
+      "published": "2026-08-19T04:00:00.000Z"
     },
     {
-      "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
-      "url": "https://arxiv.org/abs/2608.14559",
+      "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
+      "url": "https://arxiv.org/abs/2608.16971",
       "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z"
+      "published": "2026-08-19T04:00:00.000Z"
     },
     {
-      "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
-      "url": "https://arxiv.org/abs/2608.14562",
+      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
+      "url": "https://arxiv.org/abs/2608.16977",
       "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z"
+      "published": "2026-08-19T04:00:00.000Z"
     },
     {
-      "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
-      "url": "https://arxiv.org/abs/2608.14565",
+      "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
+      "url": "https://arxiv.org/abs/2608.17007",
       "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z"
+      "published": "2026-08-19T04:00:00.000Z"
     },
     {
-      "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
-      "url": "https://arxiv.org/abs/2608.14566",
+      "title": "Memory Is Communication: The Frontier Between Remembering and Signaling",
+      "url": "https://arxiv.org/abs/2608.17053",
       "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z"
+      "published": "2026-08-19T04:00:00.000Z"
     },
     {
-      "title": "From Doyle to AGM: A Survey and an Implementation Roadmap for Belief Change",
-      "url": "https://arxiv.org/abs/2608.14567",
+      "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
+      "url": "https://arxiv.org/abs/2608.17067",
       "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z"
+      "published": "2026-08-19T04:00:00.000Z"
     },
     {
-      "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
-      "url": "https://arxiv.org/abs/2608.14568",
+      "title": "KernelArc: A Multi-Agent Framework for GPU Kernel Optimization",
+      "url": "https://arxiv.org/abs/2608.17071",
       "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z"
+      "published": "2026-08-19T04:00:00.000Z"
     },
     {
-      "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
-      "url": "https://arxiv.org/abs/2608.14569",
+      "title": "A decodability criterion predicts when hidden-state selection beats majority voting in large language models",
+      "url": "https://arxiv.org/abs/2608.17124",
       "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z"
+      "published": "2026-08-19T04:00:00.000Z"
     },
     {
-      "title": "Position: Want Better ML Reviews? Stop Asking Nicely and Start Incentivizing with a Credit System",
-      "url": "https://arxiv.org/abs/2608.14571",
+      "title": "Toward Personal Intelligence Through Cooperative Observation",
+      "url": "https://arxiv.org/abs/2608.17128",
       "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z"
+      "published": "2026-08-19T04:00:00.000Z"
     },
     {
-      "title": "Longitudinal and Graph-Augmented Prediction of Adolescent Substance Use Onset in the ABCD Study",
-      "url": "https://arxiv.org/abs/2608.14578",
+      "title": "KnowSim: Evaluating Information Calibration in LLM Assistants with User Simulators that Learn",
+      "url": "https://arxiv.org/abs/2608.17150",
       "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z"
+      "published": "2026-08-19T04:00:00.000Z"
     },
     {
-      "title": "SKILL: Self-correcting Knowledge-guided Iterative Large Language Model Agent for Logic Optimization",
-      "url": "https://arxiv.org/abs/2608.14579",
+      "title": "Synthesizing Feature Extractors: An Agentic Approach for Algorithm Selection",
+      "url": "https://arxiv.org/abs/2608.17170",
       "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z"
+      "published": "2026-08-19T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "iFuzz-Meta: An Interpretable Fuzzy Learning Framework Bridging Top-Down and Bottom-Up Knowledge Integration",
-      "url": "https://arxiv.org/abs/2608.14646",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z",
-      "summary": "arXiv:2608.14646v1 Announce Type: cross Abstract: Interpretable representation learning remains a key challenge in modern neural computation, particularly when models are expected not only to perform but also to explain their reasoning. This paper introduces iFuzz-Meta, an int…"
-    },
-    {
-      "title": "MetaReason: Precise Interleaved Multimodal Reasoning via Editing Meta Information for Solving Geometry Problems",
-      "url": "https://arxiv.org/abs/2608.15006",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z",
-      "summary": "arXiv:2608.15006v1 Announce Type: cross Abstract: Although visual reasoning is crucial for solving complex geometry tasks, existing vision-language models rely heavily on text-only reasoning. Some recent methods introduce intermediate visual states to facilitate reasoning, but…"
-    },
-    {
-      "title": "Identifying Confusion Trends in Concept-based XAI for Multi-Label Classification",
-      "url": "https://arxiv.org/abs/2608.15731",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z",
-      "summary": "arXiv:2608.15731v1 Announce Type: cross Abstract: Deep Neural Networks (DNNs) deployed in high-risk domains, such as healthcare and autonomous driving, must be not only accurate but also understandable to ensure user trust. In real-world computer vision tasks, these models oft…"
-    },
-    {
-      "title": "MUSE: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems",
-      "url": "https://arxiv.org/abs/2608.16181",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z",
-      "summary": "arXiv:2608.16181v1 Announce Type: cross Abstract: Recent advances in large language models have enabled a new class of agentic data science systems that allow users to complete complex data science workflows through natural language. Although these systems can significantly re…"
-    },
-    {
-      "title": "Calibrated Generative AI as Meta-Reviewer: A Systemic Functional Linguistics Discourse Analysis of Reviews of Peer Reviews",
-      "url": "https://arxiv.org/abs/2509.15035",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z",
-      "summary": "arXiv:2509.15035v2 Announce Type: replace Abstract: This study investigates the use of generative AI to support formative assessment through machine generated reviews of peer reviews in graduate online courses in a public university in the United States. Drawing on Systemic Fu…"
-    },
-    {
-      "title": "The Energy Blind Spot: NVIDIA's Flagship Edge AI Hardware Cannot Support Process-Level Energy Attribution",
-      "url": "https://arxiv.org/abs/2605.27599",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-18T04:00:00.000Z",
-      "summary": "arXiv:2605.27599v3 Announce Type: replace-cross Abstract: Agentic AI workloads - where a single user goal triggers multi-step orchestration, tool calls, retries, and failure recovery - are being targeted for edge deployment, with NVIDIA, Dell, HP, ASUS, MSI, Acer, and Gigabyte…"
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-18T13:50:30.000Z",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework."
     }
   ],
   "people": [
