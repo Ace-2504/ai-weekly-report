@@ -1,94 +1,122 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "top": {
-    "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
-    "url": "https://arxiv.org/abs/2608.16890",
+    "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+    "url": "https://arxiv.org/abs/2608.18078",
     "source": "arXiv cs.AI",
-    "published": "2026-08-19T04:00:00.000Z",
-    "summary": "arXiv:2608.16890v1 Announce Type: new Abstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissions, yet LLM-based code generation fails catastrophically on this task: across…"
+    "published": "2026-08-20T04:00:00.000Z",
+    "summary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect ec…"
   },
   "topIndia": {
-    "title": "The Enterprise Fight Against Runaway AI Costs",
-    "url": "https://inc42.com/features/the-enterprise-fight-against-runaway-ai-costs/",
-    "source": "Inc42",
-    "published": "2026-08-19T05:30:34.000Z",
-    "summary": "As enterprises increasingly turn to AI to get work done, three new weapons are emerging in their fight to control…"
+    "title": "Nebius upsizes debt sale to $5 billion to fund data centers, AI platform",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nebius-upsizes-debt-sale-to-5-billion-to-fund-data-centers-ai-platform/articleshow/133364868.cms",
+    "source": "ET Tech",
+    "published": "2026-08-20T05:03:12.000Z",
+    "summary": "The Amsterdam-headquartered company plans to ‌issue private ⁠convertible ⁠notes worth $3 billion maturing in 2030, and notes ​worth $2 billion maturing in 2034. It may also sell ​an additional $450 million of the 2030 notes and $300 million of the 2034 notes if ​purchasers exe…"
   },
   "headlines": [
     {
-      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
-      "url": "https://arxiv.org/abs/2608.16891",
+      "title": "Position: Profiling Game Worlds by Transition Complexity",
+      "url": "https://arxiv.org/abs/2608.18079",
       "source": "arXiv cs.AI",
-      "published": "2026-08-19T04:00:00.000Z"
+      "published": "2026-08-20T04:00:00.000Z"
     },
     {
-      "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
-      "url": "https://arxiv.org/abs/2608.16956",
+      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+      "url": "https://arxiv.org/abs/2608.18080",
       "source": "arXiv cs.AI",
-      "published": "2026-08-19T04:00:00.000Z"
+      "published": "2026-08-20T04:00:00.000Z"
     },
     {
-      "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
-      "url": "https://arxiv.org/abs/2608.16971",
+      "title": "Position: Behavioral Systems Require Behavioral Tests",
+      "url": "https://arxiv.org/abs/2608.18081",
       "source": "arXiv cs.AI",
-      "published": "2026-08-19T04:00:00.000Z"
+      "published": "2026-08-20T04:00:00.000Z"
     },
     {
-      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
-      "url": "https://arxiv.org/abs/2608.16977",
+      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+      "url": "https://arxiv.org/abs/2608.18086",
       "source": "arXiv cs.AI",
-      "published": "2026-08-19T04:00:00.000Z"
+      "published": "2026-08-20T04:00:00.000Z"
     },
     {
-      "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
-      "url": "https://arxiv.org/abs/2608.17007",
+      "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+      "url": "https://arxiv.org/abs/2608.18088",
       "source": "arXiv cs.AI",
-      "published": "2026-08-19T04:00:00.000Z"
+      "published": "2026-08-20T04:00:00.000Z"
     },
     {
-      "title": "Memory Is Communication: The Frontier Between Remembering and Signaling",
-      "url": "https://arxiv.org/abs/2608.17053",
+      "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
+      "url": "https://arxiv.org/abs/2608.18092",
       "source": "arXiv cs.AI",
-      "published": "2026-08-19T04:00:00.000Z"
+      "published": "2026-08-20T04:00:00.000Z"
     },
     {
-      "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
-      "url": "https://arxiv.org/abs/2608.17067",
+      "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
+      "url": "https://arxiv.org/abs/2608.18099",
       "source": "arXiv cs.AI",
-      "published": "2026-08-19T04:00:00.000Z"
+      "published": "2026-08-20T04:00:00.000Z"
     },
     {
-      "title": "KernelArc: A Multi-Agent Framework for GPU Kernel Optimization",
-      "url": "https://arxiv.org/abs/2608.17071",
+      "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
+      "url": "https://arxiv.org/abs/2608.18104",
       "source": "arXiv cs.AI",
-      "published": "2026-08-19T04:00:00.000Z"
+      "published": "2026-08-20T04:00:00.000Z"
     },
     {
-      "title": "A decodability criterion predicts when hidden-state selection beats majority voting in large language models",
-      "url": "https://arxiv.org/abs/2608.17124",
+      "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
+      "url": "https://arxiv.org/abs/2608.18110",
       "source": "arXiv cs.AI",
-      "published": "2026-08-19T04:00:00.000Z"
+      "published": "2026-08-20T04:00:00.000Z"
     },
     {
-      "title": "Toward Personal Intelligence Through Cooperative Observation",
-      "url": "https://arxiv.org/abs/2608.17128",
+      "title": "Solving Is Not Drawing: A Benchmark for Diagrammatic Reasoning in Olympiad Geometry",
+      "url": "https://arxiv.org/abs/2608.18111",
       "source": "arXiv cs.AI",
-      "published": "2026-08-19T04:00:00.000Z"
+      "published": "2026-08-20T04:00:00.000Z"
     },
     {
-      "title": "KnowSim: Evaluating Information Calibration in LLM Assistants with User Simulators that Learn",
-      "url": "https://arxiv.org/abs/2608.17150",
+      "title": "Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs",
+      "url": "https://arxiv.org/abs/2608.18131",
       "source": "arXiv cs.AI",
-      "published": "2026-08-19T04:00:00.000Z"
+      "published": "2026-08-20T04:00:00.000Z"
     },
     {
-      "title": "Synthesizing Feature Extractors: An Agentic Approach for Algorithm Selection",
-      "url": "https://arxiv.org/abs/2608.17170",
+      "title": "Optimized Fuzzy Logic Approach with the IEEE Key Gas Method for Diagnosing Power Transformer Faults Using Dissolved Gas Analysis",
+      "url": "https://arxiv.org/abs/2608.18133",
       "source": "arXiv cs.AI",
-      "published": "2026-08-19T04:00:00.000Z"
+      "published": "2026-08-20T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery",
+      "url": "https://arxiv.org/abs/2608.19047",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-20T04:00:00.000Z",
+      "summary": "arXiv:2608.19047v1 Announce Type: new Abstract: We present Eureka, a task-conditioned Meta-Agent architecture that compiles long-horizon tasks into dynamic obligation graphs with explicit acceptance semantics. During execution, Eureka forms Macro-Agents with specialized state,…"
+    },
+    {
+      "title": "When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't",
+      "url": "https://arxiv.org/abs/2604.06422",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-20T04:00:00.000Z",
+      "summary": "arXiv:2604.06422v2 Announce Type: replace-cross Abstract: Understanding when Vision-Language Models (VLMs) will behave unexpectedly, whether models can reliably predict their own behavior, and if models adhere to their introspective reasoning are central challenges for trustwo…"
+    },
+    {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-19T19:00:00.000Z",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI."
+    },
+    {
+      "title": "India startup aims to compete with OpenAI in crowded voice arena",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-startup-aims-to-compete-with-openai-in-crowded-voice-arena/articleshow/133353544.cms",
+      "source": "ET Tech",
+      "published": "2026-08-19T16:41:14.000Z",
+      "summary": "Murf AI has launched Falcon 2, a text-to-speech model designed to deliver human-like voices at lower costs and faster speeds. Priced at $0.01 per generated minute, the model has outperformed some offerings from OpenAI and other global players in independent benchmarks, targeti…"
+    },
     {
       "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
       "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
@@ -115,9 +143,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "article": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "source": "TechCrunch AI"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-prepares-supervoting-power-for-founders-ahead-of-ipo/articleshow/133336180.cms",
+      "article": "Anthropic prepares supervoting power for founders ahead of IPO",
+      "source": "ET Tech"
     },
     {
       "name": "Yann LeCun",
