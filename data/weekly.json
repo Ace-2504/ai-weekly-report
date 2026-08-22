@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-08-15 to 2026-08-21",
-  "generated": "2026-08-21T06:26:19.470Z",
-  "intro": "283 AI items this week (28 India-relevant) across 10 sources.",
+  "weekOf": "2026-08-16 to 2026-08-22",
+  "generated": "2026-08-22T06:20:25.338Z",
+  "intro": "57 AI items this week (22 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
-          "url": "https://arxiv.org/abs/2608.19216",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19216v1 Announce Type: new Abstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model and its surrounding pipeline. That assumption often fails for reg…"
+          "title": "Anthropic’s Opus 4.6 is a smut-machine",
+          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
         },
         {
-          "title": "From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG",
-          "url": "https://arxiv.org/abs/2608.19535",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19535v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) improves language-model responses by grounding generation in external passages, which comes with overhead: retrieved context lengthens the prompt, increasing prefill work, KV-cache footprint, …"
+          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
         },
         {
-          "title": "Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics",
-          "url": "https://arxiv.org/abs/2608.19579",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19579v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in high-stakes applications, yet their tendency to generate toxic, harmful, or policy-violating content poses significant risks. Detecting these unsafe outputs efficiently in…"
+          "title": "Ramp launches its own AI model router, called Router",
+          "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+          "source": "TechCrunch AI",
+          "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
         },
         {
-          "title": "Can Agent Memory Systems Track Evolving State?",
-          "url": "https://arxiv.org/abs/2608.19652",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19652v1 Announce Type: new Abstract: As LLM-based agents are deployed for longer and higher-stakes tasks, their memory systems continue to have crucial gaps. While existing memory benchmarks focus largely on recall-shaped tasks, we argue an effective memory system m…"
+          "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+          "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+          "source": "Ars Technica",
+          "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
         },
         {
-          "title": "Frequency-Aware Continual Learning for Smart Contract Vulnerability Detection with Large Language Models",
-          "url": "https://arxiv.org/abs/2608.19680",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19680v1 Announce Type: new Abstract: Smart contract vulnerability detection with Large Language Models (LLMs) faces three causally linked challenges. First, new vulnerability categories demand parameter-efficient adaptation, since full retraining is prohibitive for …"
+          "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+          "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+          "source": "TechCrunch AI",
+          "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor."
         },
         {
-          "title": "Rethinking the Evaluation and Optimization of LLM-Based Social Simulation",
-          "url": "https://arxiv.org/abs/2608.19689",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19689v1 Announce Type: new Abstract: LLM-based social simulation is a promising complement to traditional methods such as surveys and behavioral experiments. A core question is how to evaluate the fidelity of LLM-simulated human behavior and optimize LLMs toward it.…"
+          "title": "We still don’t know how people are really using AI",
+          "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+          "source": "MIT Tech Review",
+          "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a computer sc…"
         }
       ]
     },
@@ -48,40 +48,10 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "SafeBranch: Branch-Pair Safety Alignment for Embodied Agents",
-          "url": "https://arxiv.org/abs/2608.19729",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19729v1 Announce Type: new Abstract: Vision-language-model-based embodied agents can complete instructed tasks but often violate safety constraints in the process, a problem recently framed as interactive safety. Training such agents to act safely is difficult, sinc…"
-        },
-        {
-          "title": "ADAPT: Physics-Aware Diffusion-based World Models for Adaptive Predictive Transferable HVAC Control",
-          "url": "https://arxiv.org/abs/2608.19804",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19804v1 Announce Type: new Abstract: Buildings account for roughly one-third of global energy consumption and CO$_2$ emissions. Optimizing indoor climate systems plays a critical role for urban climate mitigation aligned with UN Sustainable Development Goals 11 and …"
-        },
-        {
-          "title": "When Saying No Makes Better Videos: Designing Dual Gatekeeping for Pedagogically Grounded AI Content Creation",
-          "url": "https://arxiv.org/abs/2608.19812",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19812v1 Announce Type: new Abstract: To prevent the adoption of aesthetically polished but pedagogically flawed AI content, we study a video authoring pipeline featuring two layers of structured refusal. The first layer empowers educators to iteratively reshape AI s…"
-        },
-        {
-          "title": "EXIMO: VLM Guided Exploration of VLA Policies",
-          "url": "https://arxiv.org/abs/2608.19891",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19891v1 Announce Type: new Abstract: How to efficiently finetune robot policies to learn new tasks on the fly? State of the art robotic manipulation policies are based on behaviour cloning of large vision-language-action (VLA) models with billions of parameters on h…"
-        },
-        {
-          "title": "Contrastive Mixed Prompt Learning for Incomplete Multimodal Sentiment Analysis with Unseen Modality Combination",
-          "url": "https://arxiv.org/abs/2608.20019",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.20019v1 Announce Type: new Abstract: Incomplete multimodal sentiment analysis has garnered significant attention in recent years. Existing approaches typically assume that data is missing at random or are designed specifically for certain missing patterns, ignoring …"
-        },
-        {
-          "title": "DARS: Dual-Level Credit Assignment RL with Structured Reasoning for Instruction-Based Image Editing",
-          "url": "https://arxiv.org/abs/2608.20161",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.20161v1 Announce Type: new Abstract: Instruction-based image editing uses a planner-renderer pipeline: a vision-language model (VLM) first converts the instruction into an edit plan, and a diffusion model then executes that plan. Training such systems with only fina…"
+          "title": "Measuring benchmark optimization in speech recognition",
+          "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -89,51 +59,22 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Active Inference as Context Acquisition for AI Agents",
-          "url": "https://arxiv.org/abs/2608.19202",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19202v1 Announce Type: new Abstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an agent can proceed with a default assumption or spend tokens on a clarifying q…"
+          "title": "Nvidia partners with data center developer Cloverleaf",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
         },
         {
-          "title": "Interaction valence reveals contrasting social networks in dairy cattle",
-          "url": "https://arxiv.org/abs/2608.19222",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19222v1 Announce Type: new Abstract: Social relationships shape access to resources, exposure to conflict and group stability, yet automated livestock monitoring typically treats behaviour as isolated events. Here, we present a valence-aware social-network framework…"
+          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+          "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+          "source": "TechCrunch AI",
+          "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
         },
         {
-          "title": "Outcome Monitors: Recovery Affordances for Silent Tool Failures",
-          "url": "https://arxiv.org/abs/2608.19303",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19303v1 Announce Type: new Abstract: When a tool call times out, the agent sees the failure and can route around it. A cached error page or negative price can instead arrive in the expected format and be consumed as fact. We introduce Outcome Monitors, which detect …"
-        },
-        {
-          "title": "Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress",
-          "url": "https://arxiv.org/abs/2608.19408",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19408v1 Announce Type: new Abstract: On-policy distillation (OPD) has emerged as an effective framework for post-training language models by pairing student-generated trajectories with dense token-level supervision from a teacher. However, OPD implicitly assumes tha…"
-        },
-        {
-          "title": "Symposium: Trust via Auditable Records for Communities of AI Scientist Agents",
-          "url": "https://arxiv.org/abs/2608.19511",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19511v1 Announce Type: new Abstract: Symposium is a formal framework and practical implementation to record the operation of AI agents deployed by small scientific research communities. Symposium provides long-term, immutable histories of agent-driven research activ…"
-        },
-        {
-          "title": "Scientific Data Skills: Enabling Agent-Ready Scientific Data Services at Scale",
-          "url": "https://arxiv.org/abs/2608.19625",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19625v1 Announce Type: new Abstract: Scientific data are increasingly used by AI agents, yet existing dataset representations provide limited support for autonomous discovery, interpretation, and invocation. This limitation stems from the fragmentation of scientific…"
-        }
-      ]
-    },
-    {
-      "heading": "Open Source",
-      "items": [
-        {
-          "title": "Write Once, Run Everywhere: The Axon DSL for Shape-Safe and Framework-Agnostic LLM Architectures",
-          "url": "https://arxiv.org/abs/2608.19889",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19889v1 Announce Type: new Abstract: The entire ecosystem of open-source language models effectively relies on a single platform. What if this platform was forced to shut down tomorrow? Implementing and maintaining efficient model definitions and translating them be…"
+          "title": "How Much Memory Does Your Agent Actually Need?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -141,40 +82,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
-          "url": "https://arxiv.org/abs/2608.19214",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19214v1 Announce Type: new Abstract: The berth allocation and quay crane assignment problem (BACAP) is a representative port-terminal scheduling problem in maritime transportation and freight logistics, where vessel arrivals, berth positions, service durations, and …"
+          "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+          "source": "TechCrunch AI",
+          "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arr…"
         },
         {
-          "title": "How to Navigate Uncertainty About AI Consciousness",
-          "url": "https://arxiv.org/abs/2608.19215",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19215v1 Announce Type: new Abstract: Given deep uncertainty about the possibility of artificial consciousness, it is unclear how we should treat potentially sentient AI. On the one hand, we could assume insentience but risk doing terrible harms to entities that dese…"
+          "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+          "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+          "source": "TechCrunch AI",
+          "summary": "There's about to be a big fight to secure access to space."
         },
         {
-          "title": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
-          "url": "https://arxiv.org/abs/2608.19299",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19299v1 Announce Type: new Abstract: Air traffic control (ATC) communication is a safety-critical dialogue that remains largely human-driven even as other parts of air traffic management have been semi-automated. In this article, we experimentally evaluate whether l…"
+          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "source": "TechCrunch AI",
+          "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
         },
         {
-          "title": "Learning Hierarchical Skill Policies with Offline Quality-Diversity Reinforcement Learning",
-          "url": "https://arxiv.org/abs/2608.19684",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19684v1 Announce Type: new Abstract: Recent studies investigate how to leverage pre-collected datasets to improve the policy performance and sample efficiency of RL. One promising approach to achieve this goal is to employ a two-stage strategy: In the first stage, d…"
+          "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+          "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+          "source": "TechCrunch AI",
+          "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
         },
         {
-          "title": "Beyond Memory Majority: Latent-Source Reasoning for Multi-Agent Memory Arbitration",
-          "url": "https://arxiv.org/abs/2608.19701",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19701v1 Announce Type: new Abstract: Long-term multi-agent systems continuously accumulate the memories produced by different agents. Existing memory methods typically treat retrieved memories as independent evidence and combine them through voting or weighting. How…"
+          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+          "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+          "source": "TechCrunch AI",
+          "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
         },
         {
-          "title": "GenMatch: An End-to-End Generative Matching Framework for Micro-View Order-Dispatching in Ride-Hailing",
-          "url": "https://arxiv.org/abs/2608.19751",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19751v1 Announce Type: new Abstract: Micro-View Order-Dispatching assigns available drivers to passenger orders within each dispatch batch and is critical to the service quality and operational efficiency of ride-hailing platforms. Mainstream industrial solutions fo…"
+          "title": "OK, can we actually cool data centers with our pee?",
+          "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+          "source": "TechCrunch AI",
+          "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous."
         }
       ]
     },
@@ -182,52 +123,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Google Rolls Out AI-Powered JEE, NEET Preparation Tools",
-          "url": "https://inc42.com/buzz/google-rolls-out-ai-powered-jee-neet-preparation-tools/",
-          "source": "Inc42",
-          "summary": "Google has rolled out a suite of AI-powered learning features across Search and Gemini, including tools to help students prepare…"
-        },
-        {
-          "title": "Schools are starting to teach AI literacy. For many, that means helping kids see chatbots' flaws",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/schools-are-starting-to-teach-ai-literacy-for-many-that-means-helping-kids-see-chatbots-flaws/articleshow/133393842.cms",
+          "title": "AI capex slowdown could derail India's cyclical recovery, weigh on growth: Nuvama",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-capex-slowdown-could-derail-indias-cyclical-recovery-weigh-on-growth-nuvama/articleshow/133416739.cms",
           "source": "ET Tech",
-          "summary": "The result drew gasps of disbelief and laughter. Projected on a large screen was a map riddled with bizarre errors. Mali was spelled \"Mail.\" Egypt was identified as \"Sopth.\" In place of Libya was something simply called \"Africa.\" Dozens of other countries' names were misspelle…"
+          "summary": "Any slowdown in the global artificial intelligence (AI) capital expenditure boom could pose a significant risk to India's ongoing cyclical recovery, with weaker global demand and commodity prices likely to weigh on corporate revenue and credit growth, while a still narrow dome…"
         },
         {
-          "title": "Google rolls out AI learning tools, free AI Plus access for eligible Indian college students",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-rolls-out-ai-learning-tools-free-ai-plus-access-for-eligible-indian-college-students-jee-neet-aspirants-to-benefit/articleshow/133393785.cms",
+          "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-cuts-developer-pricing-for-frontier-gpt-5-6-sol-model-by-more-than-20/articleshow/133416508.cms",
           "source": "ET Tech",
-          "summary": "Google has announced a series of new AI-powered education tools and student offers for the 2026 academic year, including a 12-month free Google AI Plus plan for eligible college students outside the US, a move that could benefit students in India, including those preparing for…"
+          "summary": "The price cuts ​are effective on OpenAI's application programming interface, or API, and ​are rolling out across eligible plans for credits on its agentic AI product ChatGPT Work ​and its coding tool Codex, ⁠OpenAI said."
         },
         {
-          "title": "South Korea plans chip windfall fund to back youth, AI investment",
-          "url": "https://economictimes.indiatimes.com/tech/technology/south-korea-plans-chip-windfall-fund-to-back-youth-ai-investment/articleshow/133393709.cms",
+          "title": "Karnataka govt launches low cost AI computing device KEO",
+          "url": "https://yourstory.com/2026/08/karnataka-govt-launches-low-cost-ai-computing-device-keo",
+          "source": "YourStory",
+          "summary": "The government aims to democratise the access to artificial intelligence (AI) through the introduction of KEO."
+        },
+        {
+          "title": "SUSE Women in Technology event: Why AI’s next opportunity is also a leadership test",
+          "url": "https://yourstory.com/2026/08/suse-women-in-technology-event-why-ais-next-opportunity-is-also-a-leadership-test",
+          "source": "YourStory",
+          "summary": "Senior women leaders from SUSE and Accenture discussed AI’s business value, the skills India needs, and why women must move beyond governance to shape the technology."
+        },
+        {
+          "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
+          "url": "https://economictimes.indiatimes.com/tech/information-tech/ai-reshapes-indias-it-services-sector-contracts-as-clients-demand-more-for-less/articleshow/133401839.cms",
           "source": "ET Tech",
-          "summary": "The proposed \"Future Response Fund\" would finance programmes aimed at helping young people find jobs, buy ‌homes and ⁠start families, ⁠while also supporting investments in AI, regional development and talent development, according to a ​ministry press release."
+          "summary": "Outsourcing giants like Tata Consultancy Services, Infosys, Wipro, HCLTech and Cognizant are rejigging business models, increasingly ​tying fees to performance outcomes instead of hours worked, as clients demand steep ​price cuts and more productivity."
         },
         {
-          "title": "ContractScrub: A benchmark for final review of legal contracts",
-          "url": "https://arxiv.org/abs/2608.20204",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.20204v1 Announce Type: new Abstract: Legal work, with its heavy reliance on processing large amounts of text, is often considered one of the domains most exposed to the use of LLMs. Contract ``scrubbing,'' the final review of transactional agreements for errors and …"
-        },
-        {
-          "title": "CVSD-Reg: Cross-Modal Visual Semantic Prior Distillation for Robust LiDAR Registration",
-          "url": "https://arxiv.org/abs/2608.19536",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.19536v1 Announce Type: cross Abstract: Learning-based global point cloud registration has achieved remarkable progress, yet its reliance on geometric representations makes existing methods sensitive to variations in point density, scan pattern, viewpoint, and sensor…"
-        },
-        {
-          "title": "Lawyers square off in fight over voice data used to train AI",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/lawyers-square-off-in-fight-over-voice-data-used-to-train-ai/articleshow/133391894.cms",
+          "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
+          "url": "https://economictimes.indiatimes.com/tech/technology/us-corporate-ai-debt-surge-tests-investor-limits-as-fatigue-emerges/articleshow/133400902.cms",
           "source": "ET Tech",
-          "summary": "Ross Kimbarovsky of Loevy & Loevy is representing the plaintiffs - a group of journalists, podcasters and audiobook narrators - in the proposed class action lawsuits. He said each of the defendants faces hundreds of millions of dollars in potential damages."
+          "summary": "While fund managers remain comfortable with the credit ​quality of companies such as Amazon and Alphabet, Google's parent company, they are increasingly demanding higher yields to accommodate the flood of ​issuance. This has raised concerns that a tipping point could emerge if…"
         },
         {
-          "title": "Broadcom seeks more than $60 billion in latest AI debt deal",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal/articleshow/133391787.cms",
+          "title": "Brazil launches AI supercomputer push, splits projects between Chinese, US firms",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/brazil-launches-ai-supercomputer-push-splits-projects-between-chinese-us-firms/articleshow/133398770.cms",
           "source": "ET Tech",
-          "summary": "The numbers under discussion would potentially bring the total ​raise to as much as $100 billion, according to the report."
+          "summary": "Just over half the total, 1.3 billion reais, will fund a supercomputing infrastructure project in Rio de Janeiro developed in partnership with China's Huawei Technologies and iFlytek. President Luiz Inacio ‌Lula da Silva's ⁠government ⁠said the infrastructure will be used prim…"
+        },
+        {
+          "title": "One of a Kind Awards: Honouring AI that solves problems beyond the hype",
+          "url": "https://economictimes.indiatimes.com/tech/startups/one-of-a-kind-awards-honouring-ai-that-solves-problems-beyond-the-hype/articleshow/133396885.cms",
+          "source": "ET Tech",
+          "summary": "At the One of a Kind Awards - for early stage startups, presented by The Economic Times and Cashfree Payments, the AI Innovator Award recognised an early-stage, internet-first startup using AI to solve a real-world problem or create fundamentally new product capabilities."
         }
       ]
     }
