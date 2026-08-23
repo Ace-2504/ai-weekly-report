@@ -1,11 +1,17 @@
 {
-  "weekOf": "2026-08-16 to 2026-08-22",
-  "generated": "2026-08-22T06:20:25.338Z",
-  "intro": "57 AI items this week (22 India-relevant) across 9 sources.",
+  "weekOf": "2026-08-17 to 2026-08-23",
+  "generated": "2026-08-23T06:22:13.575Z",
+  "intro": "60 AI items this week (25 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
+        {
+          "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+          "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+          "source": "TechCrunch AI",
+          "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
+        },
         {
           "title": "Anthropic’s Opus 4.6 is a smut-machine",
           "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -31,12 +37,6 @@
           "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
         },
         {
-          "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-          "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-          "source": "TechCrunch AI",
-          "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor."
-        },
-        {
           "title": "We still don’t know how people are really using AI",
           "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
           "source": "MIT Tech Review",
@@ -58,6 +58,12 @@
     {
       "heading": "Developer Tools & Agents",
       "items": [
+        {
+          "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+          "source": "TechCrunch AI",
+          "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
+        },
         {
           "title": "Nvidia partners with data center developer Cloverleaf",
           "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
@@ -82,16 +88,28 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+          "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
           "source": "TechCrunch AI",
-          "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arr…"
+          "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+        },
+        {
+          "title": "OpenAI says California should strengthen its AI safety bill",
+          "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
         },
         {
           "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
           "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
           "source": "TechCrunch AI",
           "summary": "There's about to be a big fight to secure access to space."
+        },
+        {
+          "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+          "source": "TechCrunch AI",
+          "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arr…"
         },
         {
           "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
@@ -104,24 +122,42 @@
           "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
           "source": "TechCrunch AI",
           "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
-        },
-        {
-          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-          "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-          "source": "TechCrunch AI",
-          "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
-        },
-        {
-          "title": "OK, can we actually cool data centers with our pee?",
-          "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-          "source": "TechCrunch AI",
-          "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous."
         }
       ]
     },
     {
       "heading": "India & Subcontinent",
       "items": [
+        {
+          "title": "Software, services, AI: test your business creativity with Edition 246 of our weekly quiz!",
+          "url": "https://yourstory.com/2026/08/software-services-ai-business-creativity-entrepreneur-quiz",
+          "source": "YourStory",
+          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 246th quiz. Ready?"
+        },
+        {
+          "title": "AI volumes may outweigh revenue deflation for IT sector by FY30: Report",
+          "url": "https://economictimes.indiatimes.com/tech/information-tech/ai-volumes-may-outweigh-revenue-deflation-for-it-sector-by-fy30-report/articleshow/133423374.cms",
+          "source": "ET Tech",
+          "summary": "CLSA said the industry is facing \"multiple macro/micro headwinds\", but expects AI to eventually create new growth opportunities. It said AI could initially compress revenues as productivity gains are passed on to clients, but \"AI volumes could supersede deflation by FY30.\""
+        },
+        {
+          "title": "VCs becoming marginal in AI cycle, enterprises should invest in the sector: Peak XV’s Shailendra Singh",
+          "url": "https://economictimes.indiatimes.com/tech/technology/vcs-becoming-marginal-in-ai-cycle-enterprises-should-invest-in-the-sector-peak-xvs-shailendra-singh/articleshow/133423304.cms",
+          "source": "ET Tech",
+          "summary": "“Every large enterprise should be investing in AI,” Singh said at The Economic Times World Leaders Forum in New Delhi. Pointing to HCLTech’s investment in Indian foundational model startup Sarvam AI, and global bets such as Amazon’s backing of Anthropic, he said corporate bala…"
+        },
+        {
+          "title": "Nvidia invests in data center developer Cloverleaf Infrastructure",
+          "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-invests-in-data-center-developer-cloverleaf-infrastructure/articleshow/133419940.cms",
+          "source": "ET Tech",
+          "summary": "The investment ⁠will ⁠help Cloverleaf develop sites for the ​data centers, while Nvidia will support infrastructure buildouts for ​AI computing."
+        },
+        {
+          "title": "Only 9% of India's finance aspirants feel ready to compete in AI-driven job market: Study",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/only-9-of-indias-finance-aspirants-feel-ready-to-compete-in-ai-driven-job-market-study/articleshow/133419250.cms",
+          "source": "ET Tech",
+          "summary": "The study found that the gap in AI readiness was the widest difference between the two groups. About 56% of Indian respondents said AI and automation were making it slightly or much harder to get their desired job. This was close to the 59% of global graduates who saw AI as a …"
+        },
         {
           "title": "AI capex slowdown could derail India's cyclical recovery, weigh on growth: Nuvama",
           "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-capex-slowdown-could-derail-indias-cyclical-recovery-weigh-on-growth-nuvama/articleshow/133416739.cms",
@@ -139,36 +175,6 @@
           "url": "https://yourstory.com/2026/08/karnataka-govt-launches-low-cost-ai-computing-device-keo",
           "source": "YourStory",
           "summary": "The government aims to democratise the access to artificial intelligence (AI) through the introduction of KEO."
-        },
-        {
-          "title": "SUSE Women in Technology event: Why AI’s next opportunity is also a leadership test",
-          "url": "https://yourstory.com/2026/08/suse-women-in-technology-event-why-ais-next-opportunity-is-also-a-leadership-test",
-          "source": "YourStory",
-          "summary": "Senior women leaders from SUSE and Accenture discussed AI’s business value, the skills India needs, and why women must move beyond governance to shape the technology."
-        },
-        {
-          "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
-          "url": "https://economictimes.indiatimes.com/tech/information-tech/ai-reshapes-indias-it-services-sector-contracts-as-clients-demand-more-for-less/articleshow/133401839.cms",
-          "source": "ET Tech",
-          "summary": "Outsourcing giants like Tata Consultancy Services, Infosys, Wipro, HCLTech and Cognizant are rejigging business models, increasingly ​tying fees to performance outcomes instead of hours worked, as clients demand steep ​price cuts and more productivity."
-        },
-        {
-          "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
-          "url": "https://economictimes.indiatimes.com/tech/technology/us-corporate-ai-debt-surge-tests-investor-limits-as-fatigue-emerges/articleshow/133400902.cms",
-          "source": "ET Tech",
-          "summary": "While fund managers remain comfortable with the credit ​quality of companies such as Amazon and Alphabet, Google's parent company, they are increasingly demanding higher yields to accommodate the flood of ​issuance. This has raised concerns that a tipping point could emerge if…"
-        },
-        {
-          "title": "Brazil launches AI supercomputer push, splits projects between Chinese, US firms",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/brazil-launches-ai-supercomputer-push-splits-projects-between-chinese-us-firms/articleshow/133398770.cms",
-          "source": "ET Tech",
-          "summary": "Just over half the total, 1.3 billion reais, will fund a supercomputing infrastructure project in Rio de Janeiro developed in partnership with China's Huawei Technologies and iFlytek. President Luiz Inacio ‌Lula da Silva's ⁠government ⁠said the infrastructure will be used prim…"
-        },
-        {
-          "title": "One of a Kind Awards: Honouring AI that solves problems beyond the hype",
-          "url": "https://economictimes.indiatimes.com/tech/startups/one-of-a-kind-awards-honouring-ai-that-solves-problems-beyond-the-hype/articleshow/133396885.cms",
-          "source": "ET Tech",
-          "summary": "At the One of a Kind Awards - for early stage startups, presented by The Economic Times and Cashfree Payments, the AI Innovator Award recognised an early-stage, internet-first startup using AI to solve a real-world problem or create fundamentally new product capabilities."
         }
       ]
     }
