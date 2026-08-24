@@ -1,70 +1,115 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "top": {
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "source": "TechCrunch AI",
-    "published": "2026-08-22T21:46:56.000Z",
-    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+    "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+    "url": "https://arxiv.org/abs/2608.20341",
+    "source": "arXiv cs.AI",
+    "published": "2026-08-24T04:00:00.000Z",
+    "summary": "arXiv:2608.20341v1 Announce Type: new Abstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life Cycle (SDLC). Rich context handling and multi-step reaso…"
   },
   "topIndia": {
-    "title": "Software, services, AI: test your business creativity with Edition 246 of our weekly quiz!",
-    "url": "https://yourstory.com/2026/08/software-services-ai-business-creativity-entrepreneur-quiz",
+    "title": "NSDC launches nationwide cloud, AI skilling initiative",
+    "url": "https://yourstory.com/2026/08/nsdc-launches-nationwide-cloud-ai-skilling-initiative",
     "source": "YourStory",
-    "published": "2026-08-23T02:15:00.000Z",
-    "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 246th quiz. Ready?"
+    "published": "2026-08-24T05:49:18.000Z",
+    "summary": "NSDC has launched a nationwide cloud and AI skilling initiative to train 1.5 lakh learners, including 10,000 participants through AWS re/Start. The programme aims to expand access to job-ready tech skills, particularly for youth in Tier II and Tier III cities."
   },
   "headlines": [
     {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-22T19:00:00.000Z"
+      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+      "url": "https://arxiv.org/abs/2608.20342",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T04:00:00.000Z"
     },
     {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-22T16:30:34.000Z"
+      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+      "url": "https://arxiv.org/abs/2608.20378",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T04:00:00.000Z"
     },
     {
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-22T16:00:00.000Z"
+      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+      "url": "https://arxiv.org/abs/2608.20379",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T04:00:00.000Z"
     },
     {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-21T23:07:25.000Z"
+      "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
+      "url": "https://arxiv.org/abs/2608.20384",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T04:00:00.000Z"
     },
     {
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-21T22:37:38.000Z"
+      "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+      "url": "https://arxiv.org/abs/2608.20389",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T04:00:00.000Z"
     },
     {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-21T19:43:39.000Z"
+      "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+      "url": "https://arxiv.org/abs/2608.20397",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T04:00:00.000Z"
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-21T14:00:00.000Z"
+      "title": "Environmental Slow AI: Design Principles for Generative Systems",
+      "url": "https://arxiv.org/abs/2608.20398",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T04:00:00.000Z"
     },
     {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-21T14:00:00.000Z"
+      "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
+      "url": "https://arxiv.org/abs/2608.20400",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T04:00:00.000Z"
+    },
+    {
+      "title": "World models of environment, agent and joint agent-environment systems",
+      "url": "https://arxiv.org/abs/2608.20401",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T04:00:00.000Z"
+    },
+    {
+      "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2608.20414",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T04:00:00.000Z"
+    },
+    {
+      "title": "Categorical AI phenomenology: A first-person approach",
+      "url": "https://arxiv.org/abs/2608.20420",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T04:00:00.000Z"
+    },
+    {
+      "title": "Who Delegates to AI? Evidence from 53,000 Agent Configurations",
+      "url": "https://arxiv.org/abs/2608.20425",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work",
+      "url": "https://arxiv.org/abs/2608.20622",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T04:00:00.000Z",
+      "summary": "arXiv:2608.20622v1 Announce Type: new Abstract: Frontier models have collapsed the cost of writing custom code: a niche problem a specialist sees in their own domain now costs an afternoon. The cost of reviewing and maintaining that code hasn't collapsed. Each solution drifts …"
+    },
+    {
+      "title": "Making Deployments Safe at Meta: Health Checks for Continuous Change-Safety",
+      "url": "https://arxiv.org/abs/2608.20513",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T04:00:00.000Z",
+      "summary": "arXiv:2608.20513v1 Announce Type: cross Abstract: Continuous deployment to large scale production systems creates a tension between release velocity and reliability. Every change is a potential reliability incident, yet every delay is a missed opportunity. This paper describes…"
+    },
+    {
+      "title": "Anthropic market debut could break SpaceX IPO record",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-market-debut-could-break-spacex-ipo-record/articleshow/133442327.cms",
+      "source": "ET Tech",
+      "published": "2026-08-23T16:09:52.000Z",
+      "summary": "The company's bankers have told potential investors it could seek to raise \"more than $100 billion\" in its IPO, which could put the company's value at $2 trillion, The New York Times reported Friday, citing two unnamed sources with knowledge of the talks."
+    },
     {
       "title": "Google rolls out AI learning tools, free AI Plus access for eligible Indian college students",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-rolls-out-ai-learning-tools-free-ai-plus-access-for-eligible-indian-college-students-jee-neet-aspirants-to-benefit/articleshow/133393785.cms",
