@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-08-18 to 2026-08-24",
-  "generated": "2026-08-24T06:34:40.457Z",
-  "intro": "359 AI items this week (36 India-relevant) across 10 sources.",
+  "generated": "2026-08-24T07:49:23.307Z",
+  "intro": "358 AI items this week (35 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -212,6 +212,24 @@
       "heading": "India & Subcontinent",
       "items": [
         {
+          "title": "Taiwan indicts nine over alleged illegal export of AI servers to China",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwan-indicts-nine-over-alleged-illegal-export-of-ai-servers-to-china/articleshow/133456490.cms",
+          "source": "ET Tech",
+          "summary": "Semiconductor powerhouse Taiwan is the world's largest ‌producer of ⁠advanced ⁠chips used in AI applications. Prosecutors this year investigated ​the suspected illegal export of servers equipped with Nvidia ​chips subject to US export controls."
+        },
+        {
+          "title": "Sonova unveils new AI-powered hearing-aid platform to support growth targets",
+          "url": "https://economictimes.indiatimes.com/tech/technology/sonova-unveils-new-ai-powered-hearing-aid-platform-to-support-growth-targets/articleshow/133456403.cms",
+          "source": "ET Tech",
+          "summary": "The Swiss company was the first ‌one to ⁠roll ⁠out a hearing aid that used real-time AI to separate speech from ​background noise in 2024."
+        },
+        {
+          "title": "From pilot to platform: A practical playbook for Gemini Enterprise",
+          "url": "https://yourstory.com/2026/08/from-pilot-to-platform-a-practical-playbook-for-gemini-enterprise",
+          "source": "YourStory",
+          "summary": "Join Google Cloud AI/ML experts for a hands-on session on deploying, grounding, and measuring ROI from your Gemini Enterprise environment."
+        },
+        {
           "title": "NSDC launches nationwide cloud, AI skilling initiative",
           "url": "https://yourstory.com/2026/08/nsdc-launches-nationwide-cloud-ai-skilling-initiative",
           "source": "YourStory",
@@ -240,24 +258,6 @@
           "url": "https://arxiv.org/abs/2605.05040",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2605.05040v2 Announce Type: replace-cross Abstract: On-policy distillation is an efficient alternative to reinforcement learning, offering dense token-level training signals. However, its reliance on a stronger external teacher has driven recent work on on-policy self-di…"
-        },
-        {
-          "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/workers-in-china-worry-over-being-replaced-as-they-adapt-to-the-growing-impact-of-ai-on-jobs/articleshow/133450542.cms",
-          "source": "ET Tech",
-          "summary": "Rapid adoption of AI in many fields, from computer programmers to script writing and physical tasks, is pushing people out of their jobs or leaving them afraid that it might. China is at the vanguard of AI adoption as government policies encourage people and businesses to use …"
-        },
-        {
-          "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-discusses-perplexity-investment-at-30-billion-plus-valuation/articleshow/133450280.cms",
-          "source": "ET Tech",
-          "summary": "Nvidia ​is discussing ​investing in Perplexity as ‌part ⁠of ⁠an ​equity round that would ​value the ​AI startup ⁠at ‌more ​than $30 ​billion, ⁠the Information reported on ​Sunday citing ​people with knowledge of ‌the discussion."
-        },
-        {
-          "title": "SoftBank plans $6.29 billion corporate bond issuance amid AI fundraising boom",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-plans-6-29-billion-corporate-bond-issuance-amid-ai-fundraising-boom/articleshow/133450228.cms",
-          "source": "ET Tech",
-          "summary": "The issuance is SoftBank's largest ever and ​nearly ​twice the size ⁠of its previous record - a 600 billion yen offering issued in April 2025."
         }
       ]
     }
