@@ -1,107 +1,135 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "top": {
-    "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
-    "url": "https://arxiv.org/abs/2608.20341",
+    "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+    "url": "https://arxiv.org/abs/2608.21362",
     "source": "arXiv cs.AI",
-    "published": "2026-08-24T04:00:00.000Z",
-    "summary": "arXiv:2608.20341v1 Announce Type: new Abstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life Cycle (SDLC). Rich context handling and multi-step reaso…"
+    "published": "2026-08-25T04:00:00.000Z",
+    "summary": "arXiv:2608.21362v1 Announce Type: new Abstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing prefix-caching systems reduce this cost but require prompts to share a leading…"
   },
   "topIndia": {
-    "title": "Taiwan indicts nine over alleged illegal export of AI servers to China",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwan-indicts-nine-over-alleged-illegal-export-of-ai-servers-to-china/articleshow/133456490.cms",
+    "title": "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chipmaker-enflame-sets-subscription-date-for-near-900-million-shanghai-ipo/articleshow/133491888.cms",
     "source": "ET Tech",
-    "published": "2026-08-24T07:41:48.000Z",
-    "summary": "Semiconductor powerhouse Taiwan is the world's largest ‌producer of ⁠advanced ⁠chips used in AI applications. Prosecutors this year investigated ​the suspected illegal export of servers equipped with Nvidia ​chips subject to US export controls."
+    "published": "2026-08-25T04:31:02.000Z",
+    "summary": "The chipmaker, backed by technology company Tencent Holdings , will issue 43.04 million new ‌shares, representing ⁠a 10% stake ⁠in its enlarged share capital of approximately 430 million shares, with preliminary ​price consultations set to begin on August 28, the filing showed."
   },
   "headlines": [
     {
-      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
-      "url": "https://arxiv.org/abs/2608.20342",
+      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+      "url": "https://arxiv.org/abs/2608.21363",
       "source": "arXiv cs.AI",
-      "published": "2026-08-24T04:00:00.000Z"
+      "published": "2026-08-25T04:00:00.000Z"
     },
     {
-      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
-      "url": "https://arxiv.org/abs/2608.20378",
+      "title": "Reviewing Model Collapse and Countermeasures",
+      "url": "https://arxiv.org/abs/2608.21366",
       "source": "arXiv cs.AI",
-      "published": "2026-08-24T04:00:00.000Z"
+      "published": "2026-08-25T04:00:00.000Z"
     },
     {
-      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
-      "url": "https://arxiv.org/abs/2608.20379",
+      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
+      "url": "https://arxiv.org/abs/2608.21372",
       "source": "arXiv cs.AI",
-      "published": "2026-08-24T04:00:00.000Z"
+      "published": "2026-08-25T04:00:00.000Z"
     },
     {
-      "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
-      "url": "https://arxiv.org/abs/2608.20384",
+      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
+      "url": "https://arxiv.org/abs/2608.21374",
       "source": "arXiv cs.AI",
-      "published": "2026-08-24T04:00:00.000Z"
+      "published": "2026-08-25T04:00:00.000Z"
     },
     {
-      "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
-      "url": "https://arxiv.org/abs/2608.20389",
+      "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+      "url": "https://arxiv.org/abs/2608.21375",
       "source": "arXiv cs.AI",
-      "published": "2026-08-24T04:00:00.000Z"
+      "published": "2026-08-25T04:00:00.000Z"
     },
     {
-      "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
-      "url": "https://arxiv.org/abs/2608.20397",
+      "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
+      "url": "https://arxiv.org/abs/2608.21379",
       "source": "arXiv cs.AI",
-      "published": "2026-08-24T04:00:00.000Z"
+      "published": "2026-08-25T04:00:00.000Z"
     },
     {
-      "title": "Environmental Slow AI: Design Principles for Generative Systems",
-      "url": "https://arxiv.org/abs/2608.20398",
+      "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+      "url": "https://arxiv.org/abs/2608.21382",
       "source": "arXiv cs.AI",
-      "published": "2026-08-24T04:00:00.000Z"
+      "published": "2026-08-25T04:00:00.000Z"
     },
     {
-      "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
-      "url": "https://arxiv.org/abs/2608.20400",
+      "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
+      "url": "https://arxiv.org/abs/2608.21393",
       "source": "arXiv cs.AI",
-      "published": "2026-08-24T04:00:00.000Z"
+      "published": "2026-08-25T04:00:00.000Z"
     },
     {
-      "title": "World models of environment, agent and joint agent-environment systems",
-      "url": "https://arxiv.org/abs/2608.20401",
+      "title": "Hate Speech Classification In Roman Urdu: A Comparative Study On Parameter Efficient Fine-Tuning And Prompt Engineering",
+      "url": "https://arxiv.org/abs/2608.21408",
       "source": "arXiv cs.AI",
-      "published": "2026-08-24T04:00:00.000Z"
+      "published": "2026-08-25T04:00:00.000Z"
     },
     {
-      "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2608.20414",
+      "title": "The Abstention Protocol: RCA for Clos Fabrics",
+      "url": "https://arxiv.org/abs/2608.21412",
       "source": "arXiv cs.AI",
-      "published": "2026-08-24T04:00:00.000Z"
+      "published": "2026-08-25T04:00:00.000Z"
     },
     {
-      "title": "Categorical AI phenomenology: A first-person approach",
-      "url": "https://arxiv.org/abs/2608.20420",
+      "title": "Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol",
+      "url": "https://arxiv.org/abs/2608.21417",
       "source": "arXiv cs.AI",
-      "published": "2026-08-24T04:00:00.000Z"
+      "published": "2026-08-25T04:00:00.000Z"
     },
     {
-      "title": "Who Delegates to AI? Evidence from 53,000 Agent Configurations",
-      "url": "https://arxiv.org/abs/2608.20425",
+      "title": "Composable Trust Infrastructure for Manufacturing Knowledge Graphs: Cross-System Provenance, Temporal Reasoning, and Decision Traceability",
+      "url": "https://arxiv.org/abs/2608.21418",
       "source": "arXiv cs.AI",
-      "published": "2026-08-24T04:00:00.000Z"
+      "published": "2026-08-25T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work",
-      "url": "https://arxiv.org/abs/2608.20622",
+      "title": "ExplainGuard: A Zero Trust Framework for Post-Hoc Explanation Integrity Guarantees in Blackbox XAI Models",
+      "url": "https://arxiv.org/abs/2608.21803",
       "source": "arXiv cs.AI",
-      "published": "2026-08-24T04:00:00.000Z",
-      "summary": "arXiv:2608.20622v1 Announce Type: new Abstract: Frontier models have collapsed the cost of writing custom code: a niche problem a specialist sees in their own domain now costs an afternoon. The cost of reviewing and maintaining that code hasn't collapsed. Each solution drifts …"
+      "published": "2026-08-25T04:00:00.000Z",
+      "summary": "arXiv:2608.21803v1 Announce Type: cross Abstract: As machine learning (ML) models are increasingly deployed in high-stakes environments, explainable AI (XAI) methods like SHAP and LIME have become essential for regulatory compliance and trust. However, the current auditing par…"
     },
     {
-      "title": "Making Deployments Safe at Meta: Health Checks for Continuous Change-Safety",
-      "url": "https://arxiv.org/abs/2608.20513",
+      "title": "BioMed-Agent-RL: A Meta Learning, All You Need for Biomedical Applications",
+      "url": "https://arxiv.org/abs/2608.21864",
       "source": "arXiv cs.AI",
-      "published": "2026-08-24T04:00:00.000Z",
-      "summary": "arXiv:2608.20513v1 Announce Type: cross Abstract: Continuous deployment to large scale production systems creates a tension between release velocity and reliability. Every change is a potential reliability incident, yet every delay is a missed opportunity. This paper describes…"
+      "published": "2026-08-25T04:00:00.000Z",
+      "summary": "arXiv:2608.21864v1 Announce Type: cross Abstract: The current progress of Clinical Vision Large Language Models (C-VLLMs) has substantially improved digital diagnostics, still these frameworks often endure lesion noises, modality misalignment, hallucination, and missed context…"
+    },
+    {
+      "title": "Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints",
+      "url": "https://arxiv.org/abs/2608.22149",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-25T04:00:00.000Z",
+      "summary": "arXiv:2608.22149v1 Announce Type: cross Abstract: LLMs generate fluent plans for robots but routinely violate the syntactic and se8mantic constraints they must satisfy to execute, and existing remedies trade formal guarantees against plan quality: soft methods (affordance scor…"
+    },
+    {
+      "title": "MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters",
+      "url": "https://arxiv.org/abs/2608.23473",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-25T04:00:00.000Z",
+      "summary": "arXiv:2608.23473v1 Announce Type: cross Abstract: Time series forecasting (TSF) is evolving toward multimodal and agentic settings, yet using foundation models remains uneconomical in resource-constrained scenarios, where compact, specialized forecasters are more desirable. Ho…"
+    },
+    {
+      "title": "SpaceX, Nvidia develop space-optimized AI system for orbital launch next year",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/spacex-nvidia-develop-space-optimized-ai-system-for-orbital-launch-next-year/articleshow/133488899.cms",
+      "source": "ET Tech",
+      "published": "2026-08-25T03:09:00.000Z",
+      "summary": "SpaceX and Nvidia have developed a space-optimized Vera Rubin NVL72 AI system that is planned for launch into orbit in the fourth quarter of 2027, said Elon Musk."
+    },
+    {
+      "title": "Alabama launches probe into OpenAI after Hugging Face breach",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alabama-launches-probe-into-openai-after-hugging-face-breach/articleshow/133488741.cms",
+      "source": "ET Tech",
+      "published": "2026-08-25T03:04:18.000Z",
+      "summary": "Last week, IPO-bound OpenAI said it would slow the ‌pace of model development ⁠while ⁠overhauling its research and training systems after company officials were caught unawares when an AI agent ​being tested hacked Hugging Face."
     },
     {
       "title": "Anthropic market debut could break SpaceX IPO record",
@@ -109,13 +137,6 @@
       "source": "ET Tech",
       "published": "2026-08-23T16:09:52.000Z",
       "summary": "The company's bankers have told potential investors it could seek to raise \"more than $100 billion\" in its IPO, which could put the company's value at $2 trillion, The New York Times reported Friday, citing two unnamed sources with knowledge of the talks."
-    },
-    {
-      "title": "Google rolls out AI learning tools, free AI Plus access for eligible Indian college students",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-rolls-out-ai-learning-tools-free-ai-plus-access-for-eligible-indian-college-students-jee-neet-aspirants-to-benefit/articleshow/133393785.cms",
-      "source": "ET Tech",
-      "published": "2026-08-21T05:03:49.000Z",
-      "summary": "Google has announced a series of new AI-powered education tools and student offers for the 2026 academic year, including a 12-month free Google AI Plus plan for eligible college students outside the US, a move that could benefit students in India, including those preparing for…"
     }
   ],
   "people": [
