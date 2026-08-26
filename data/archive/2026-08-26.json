@@ -1,0 +1,632 @@
+{
+  "daily": {
+    "date": "2026-08-26",
+    "top": {
+      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+      "url": "https://arxiv.org/abs/2608.23568",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-26T04:00:00.000Z",
+      "summary": "arXiv:2608.23568v1 Announce Type: new Abstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benc…"
+    },
+    "topIndia": {
+      "title": "SoftBank mulls up to $20 billion bond sale for OpenAI financing",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing/articleshow/133531221.cms",
+      "source": "ET Tech",
+      "published": "2026-08-26T05:45:44.000Z",
+      "summary": "The offering could be denominated in dollars and euros and could come as early as September, said the people, who asked not to be identified discussing private matters. The talks are still ongoing and details could change, the people added."
+    },
+    "headlines": [
+      {
+        "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+        "url": "https://arxiv.org/abs/2608.23569",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-26T04:00:00.000Z"
+      },
+      {
+        "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+        "url": "https://arxiv.org/abs/2608.23622",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-26T04:00:00.000Z"
+      },
+      {
+        "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+        "url": "https://arxiv.org/abs/2608.23626",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-26T04:00:00.000Z"
+      },
+      {
+        "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+        "url": "https://arxiv.org/abs/2608.23631",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-26T04:00:00.000Z"
+      },
+      {
+        "title": "Function-Level Execution Feedback for Code Preference Optimization",
+        "url": "https://arxiv.org/abs/2608.23632",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-26T04:00:00.000Z"
+      },
+      {
+        "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
+        "url": "https://arxiv.org/abs/2608.23640",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-26T04:00:00.000Z"
+      },
+      {
+        "title": "How much of a measured AI preference is the model, and how much is the instrument?",
+        "url": "https://arxiv.org/abs/2608.23641",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-26T04:00:00.000Z"
+      },
+      {
+        "title": "AI Agents Push Humans Out of the Loop",
+        "url": "https://arxiv.org/abs/2608.23642",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-26T04:00:00.000Z"
+      },
+      {
+        "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
+        "url": "https://arxiv.org/abs/2608.23643",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-26T04:00:00.000Z"
+      },
+      {
+        "title": "Ethical LLM-Assisted Research: A Framework for Responsible Delegation, Verification, and Epistemic Value",
+        "url": "https://arxiv.org/abs/2608.23644",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-26T04:00:00.000Z"
+      },
+      {
+        "title": "MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models",
+        "url": "https://arxiv.org/abs/2608.23646",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-26T04:00:00.000Z"
+      },
+      {
+        "title": "Gated Activation Steering for Reducing Sycophancy & Hallucination in Medical Question Answering",
+        "url": "https://arxiv.org/abs/2608.23666",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-26T04:00:00.000Z"
+      }
+    ],
+    "events": [
+      {
+        "title": "Five things to know about Anthropic ahead of Wall Street debut",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/five-things-to-know-about-anthropic-ahead-of-wall-street-debut/articleshow/133530437.cms",
+        "source": "ET Tech",
+        "published": "2026-08-26T05:09:59.000Z",
+        "summary": "Anthropic, the OpenAI rival that bet everything on computer coding, is expected to go public within weeks in a listing that could eclipse SpaceX's record Wall Street debut in June. - Stomaching the losses - According to Bloomberg, Anthropic intends to surpass the record $86.2 …"
+      },
+      {
+        "title": "Meta$^n$: Recursive Self-Improvement through Emergent Depth",
+        "url": "https://arxiv.org/abs/2608.24735",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-26T04:00:00.000Z",
+        "summary": "arXiv:2608.24735v1 Announce Type: new Abstract: Self-improving LLM agents refine answers, not the process that produces those answers. Systems that add a meta-level hold that level fixed, and those that edit themselves must leave part of their own editing machinery untouched t…"
+      },
+      {
+        "title": "Auditing an AI-Generated Mathematical Proof: Human Assessment of OpenAI's Quantum Parallel-Repetition Argument",
+        "url": "https://arxiv.org/abs/2608.14673",
+        "source": "arXiv cs.AI",
+        "published": "2026-08-26T04:00:00.000Z",
+        "summary": "arXiv:2608.14673v2 Announce Type: replace Abstract: We present an independent human assessment of the proof developed in Chapter 6 of OpenAI's Ten Advances in Mathematics and Theoretical Computer Science. An initial audit appeared to identify a polarity error in a greedy condi…"
+      },
+      {
+        "title": "Apple launches faster Mac mini, Mac Studio to tap AI boom",
+        "url": "https://economictimes.indiatimes.com/tech/technology/apple-launches-faster-mac-mini-mac-studio-to-tap-ai-boom/articleshow/133517463.cms",
+        "source": "ET Tech",
+        "published": "2026-08-25T15:46:29.000Z",
+        "summary": "The new mini, unveiled alongside a beefed-up Mac Studio, starts at $899 and comes with either Apple's new M6 chip or the M5 Pro. It ‌is $100 more ⁠expensive than ⁠its predecessor. The unveiling ⁠is likely Apple's ‌last major launch before Tim Cook hands over the ​reins to ​har…"
+      },
+      {
+        "title": "Google expands Gemini AI platform for law firms, lawyers",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-expands-gemini-ai-platform-for-law-firms-lawyers/articleshow/133509761.cms",
+        "source": "ET Tech",
+        "published": "2026-08-25T12:07:31.000Z",
+        "summary": "The ⁠new plug-in for Gemini Enterprise includes integration with legal software and data platforms and a stable of AI agents that Google said can handle ​specialised legal and administrative functions without significant human oversight. Alphabet launched Gemini Enterprise for…"
+      },
+      {
+        "title": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
+        "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-faces-growth-test-as-rubin-debut-meets-ai-financing-scrutiny/articleshow/133506191.cms",
+        "source": "ET Tech",
+        "published": "2026-08-25T10:42:42.000Z",
+        "summary": "The chipmaker has been the biggest beneficiary of the race to ​build AI infrastructure. Recently, though, its stock has come under pressure as the company has pumped billions of dollars back into the AI ecosystem, stoking fears about its role in so-called circular deals that c…"
+      },
+      {
+        "title": "SpaceX, Nvidia develop space-optimised AI system for orbital launch next year",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/spacex-nvidia-develop-space-optimized-ai-system-for-orbital-launch-next-year/articleshow/133488899.cms",
+        "source": "ET Tech",
+        "published": "2026-08-25T03:09:00.000Z",
+        "summary": "SpaceX and Nvidia have developed a space-optimised Vera Rubin NVL72 AI system that is planned for launch into orbit in the fourth quarter of 2027, said Elon Musk. Resharing an Nvidia post, Musk said the system will see significant scale-up in 2028 as SpaceXAI is expanding its …"
+      },
+      {
+        "title": "Alabama launches probe into OpenAI after Hugging Face breach",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alabama-launches-probe-into-openai-after-hugging-face-breach/articleshow/133488741.cms",
+        "source": "ET Tech",
+        "published": "2026-08-25T03:04:18.000Z",
+        "summary": "Last week, IPO-bound OpenAI said it would slow the ‌pace of model development ⁠while ⁠overhauling its research and training systems after company officials were caught unawares when an AI agent ​being tested hacked Hugging Face."
+      }
+    ],
+    "people": [
+      {
+        "name": "Sam Altman",
+        "org": "OpenAI",
+        "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+        "article": "Debates over AI consciousness are a trap",
+        "source": "MIT Tech Review"
+      },
+      {
+        "name": "Demis Hassabis",
+        "org": "Google DeepMind",
+        "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+        "article": "Debates over AI consciousness are a trap",
+        "source": "MIT Tech Review"
+      },
+      {
+        "name": "Dario Amodei",
+        "org": "Anthropic",
+        "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+        "article": "Debates over AI consciousness are a trap",
+        "source": "MIT Tech Review"
+      },
+      {
+        "name": "Yann LeCun",
+        "org": "Meta · world models",
+        "link": "https://x.com/ylecun",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Jensen Huang",
+        "org": "NVIDIA",
+        "link": "https://nvidianews.nvidia.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Andrej Karpathy",
+        "org": "AI educator",
+        "link": "https://karpathy.ai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Sundar Pichai",
+        "org": "Google",
+        "link": "https://x.com/sundarpichai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Mira Murati",
+        "org": "Thinking Machines",
+        "link": "https://x.com/miramurati",
+        "article": null,
+        "source": "Profile"
+      }
+    ]
+  },
+  "weekly": {
+    "weekOf": "2026-08-20 to 2026-08-26",
+    "generated": "2026-08-26T06:28:42.724Z",
+    "intro": "422 AI items this week (36 India-relevant) across 10 sources.",
+    "sections": [
+      {
+        "heading": "Large Language Models",
+        "items": [
+          {
+            "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+            "url": "https://arxiv.org/abs/2608.23568",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23568v1 Announce Type: new Abstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benc…"
+          },
+          {
+            "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+            "url": "https://arxiv.org/abs/2608.23622",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23622v1 Announce Type: new Abstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require more than plausible text and code generation. They require understanding how a sy…"
+          },
+          {
+            "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+            "url": "https://arxiv.org/abs/2608.23626",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23626v1 Announce Type: new Abstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Those catalogues are incomplete at a measurable rate, and a model trained on both inherits that incomple…"
+          },
+          {
+            "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+            "url": "https://arxiv.org/abs/2608.23631",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23631v1 Announce Type: new Abstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation informs the next search step. Existing agents mainly sto…"
+          },
+          {
+            "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
+            "url": "https://arxiv.org/abs/2608.23640",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23640v1 Announce Type: new Abstract: When a large language model (LLM) is asked to write a person's life, how much of what it writes actually happened? We present a scene-level case-study audit - the first quantified audit of LLM-generated autobiography against a su…"
+          },
+          {
+            "title": "How much of a measured AI preference is the model, and how much is the instrument?",
+            "url": "https://arxiv.org/abs/2608.23641",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23641v1 Announce Type: new Abstract: Model welfare research infers what a model prefers from the answers returned to prompts written to elicit preferences. Keeling et al. (2024), Mazeika et al. (2025), Mikaelson et al. (2025), Tagliabue and Dung (2025) and Trhlik et…"
+          }
+        ]
+      },
+      {
+        "heading": "Multimodal & Media",
+        "items": [
+          {
+            "title": "MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models",
+            "url": "https://arxiv.org/abs/2608.23646",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23646v1 Announce Type: new Abstract: Molecular embedding models can serve as foundational infrastructure for computational chemistry and drug discovery, where reusable vector representations support property prediction, virtual screening, and retrieval. Most molecul…"
+          },
+          {
+            "title": "Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware",
+            "url": "https://arxiv.org/abs/2608.23807",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23807v1 Announce Type: new Abstract: Masked diffusion language models (dLLMs) can in principle generate text faster than autoregressive (AR) models, since they denoise many tokens at once. Recent systems have begun building serving infrastructure for dLLMs, but none…"
+          },
+          {
+            "title": "In-Context Inpainting for Time Series Forecasting",
+            "url": "https://arxiv.org/abs/2608.23855",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23855v1 Announce Type: new Abstract: We propose ICI-Time, a novel framework that reframes time series forecasting as a visual inpainting task, leveraging the generalisation power of large vision models (LVMs). Unlike methods that require specialised temporal archite…"
+          },
+          {
+            "title": "Giraffe: A Mapping Architecture from Hidden Text Representations to Visual Embeddings for Efficient Graphic Design",
+            "url": "https://arxiv.org/abs/2608.23970",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23970v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have made significant progress in understanding and interpreting mul- timedia content. However, their ability to generate me- dia remains limited. Recent approaches have attempted to bridg…"
+          },
+          {
+            "title": "Relative Time Intervals Representation for Word-level Timestamping with Masked Training",
+            "url": "https://arxiv.org/abs/2608.24041",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.24041v1 Announce Type: new Abstract: Although Speech Large Language Models (SpeechLLMs) excel at speech understanding and generation, their capacity for fine-grained, temporally aligned outputs remains underexplored. Our work addresses this gap by enabling SpeechLLM…"
+          },
+          {
+            "title": "Scalable Question-Centric Text-to-Image Evaluation: Reliable Ranking, Fine-Grained Diagnosis, and Cost-Aware Routing",
+            "url": "https://arxiv.org/abs/2608.24112",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.24112v1 Announce Type: new Abstract: Modern text-to-image (T2I) models often have similar total scores but different strengths, making practical selection difficult. Fine-grained benchmarks decompose prompts into questions, yet often return them to prompt scores and…"
+          }
+        ]
+      },
+      {
+        "heading": "Developer Tools & Agents",
+        "items": [
+          {
+            "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
+            "url": "https://arxiv.org/abs/2608.23643",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23643v1 Announce Type: new Abstract: Artificial intelligence is increasingly being introduced into healthcare workflows, yet most evaluations emphasize model accuracy rather than whether adoption is economically worthwhile in real clinical settings. This study propo…"
+          },
+          {
+            "title": "Ethical LLM-Assisted Research: A Framework for Responsible Delegation, Verification, and Epistemic Value",
+            "url": "https://arxiv.org/abs/2608.23644",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23644v1 Announce Type: new Abstract: Large language models (LLMs) are becoming routine instruments of scientific research, assisting with literature synthesis, hypothesis development, coding, and formal reasoning. Their use raises a central epistemic question: when …"
+          },
+          {
+            "title": "Automata from Agent Traces: Failure and Next-Step Prediction",
+            "url": "https://arxiv.org/abs/2608.23670",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23670v1 Announce Type: new Abstract: LLM-based agents execute multi-step tasks, but their behavioral structure remains opaque: long unstructured traces resist the safety auditing and runtime monitoring that deployment requires. Existing approaches operate per-trace …"
+          },
+          {
+            "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+            "url": "https://arxiv.org/abs/2608.23691",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23691v1 Announce Type: new Abstract: We study autonomous mathematical discovery in the Station, an open-world multi-agent environment in which AI agents from different model families pursue a shared research goal without a central coordinator or scripted pipeline. A…"
+          },
+          {
+            "title": "AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace",
+            "url": "https://arxiv.org/abs/2608.23740",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23740v1 Announce Type: new Abstract: Concurrent multi-agent coding promises division of labor across modules, robustness through redundancy, and parallel exploration at the natural granularity of multi-file projects. Realtime collaborative editing protocols solve th…"
+          },
+          {
+            "title": "A Formal Methodological Framework for Auditing Robustness and Fidelity in Explainable AI: From Application to Trust Certification",
+            "url": "https://arxiv.org/abs/2608.23817",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23817v1 Announce Type: new Abstract: SHAP and LIME are now standard tools for interpreting black-box predictions, yet their outputs can vary substantially when the input is perturbed by small amounts of noise--a problem we observed firsthand in our previous work on …"
+          }
+        ]
+      },
+      {
+        "heading": "Open Source",
+        "items": [
+          {
+            "title": "LEMMA-RCA: A Large Multi-modal Multi-domain Dataset for Root Cause Analysis",
+            "url": "https://arxiv.org/abs/2406.05375",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2406.05375v4 Announce Type: replace Abstract: Root cause analysis (RCA) is crucial for enhancing the reliability and performance of complex systems. However, progress in this field has been hindered by the lack of large-scale, open-source datasets tailored for RCA. To br…"
+          },
+          {
+            "title": "Seeing vs. Believing: Evaluating the Language Bias of Open-Source MLLMs in Counter-Intuitive Scenes",
+            "url": "https://arxiv.org/abs/2601.07737",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2601.07737v3 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated remarkable performance in mainstream visual understanding tasks, but their ability to process action scenes that contradict everyday common sense remains undert…"
+          },
+          {
+            "title": "Hugging Face reportedly in talks to be acquired for $13B",
+            "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+            "source": "TechCrunch AI",
+            "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen."
+          },
+          {
+            "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+            "url": "https://huggingface.co/blog/pwc-search",
+            "source": "Hugging Face",
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "heading": "Industry & Research",
+        "items": [
+          {
+            "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+            "url": "https://arxiv.org/abs/2608.23569",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23569v1 Announce Type: new Abstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BIRD. However, these benchmarks rely on simplified academic schemas and open-sou…"
+          },
+          {
+            "title": "Function-Level Execution Feedback for Code Preference Optimization",
+            "url": "https://arxiv.org/abs/2608.23632",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23632v1 Announce Type: new Abstract: Process supervision has improved mathematical reasoning, where intermediate steps are naturally expressed as chains of thought. In code generation, however, process supervision remains underexplored because there is no standard n…"
+          },
+          {
+            "title": "AI Agents Push Humans Out of the Loop",
+            "url": "https://arxiv.org/abs/2608.23642",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23642v1 Announce Type: new Abstract: AI agents pose significant risks as they are granted increasing autonomy. A commonly proposed solution is human oversight and keeping a ''human in the loop'', but this is not a simple solution: Not only do current approaches to A…"
+          },
+          {
+            "title": "Gated Activation Steering for Reducing Sycophancy & Hallucination in Medical Question Answering",
+            "url": "https://arxiv.org/abs/2608.23666",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23666v1 Announce Type: new Abstract: Sycophancy and hallucination are persistent failure modes of Large Language Models (LLMs) across domains. However, it becomes particularly consequential in clinical question answering, where responses must remain grounded in the …"
+          },
+          {
+            "title": "Do LLMs Understand Limit Order Book Dynamics?",
+            "url": "https://arxiv.org/abs/2608.23706",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23706v1 Announce Type: new Abstract: A large language model (LLM) trained on synthetic limit order book (LOB) data achieves near perfect scores in generating valid sequences of LOB events. However, the LLM's implicit world model fails to learn the state of the LOB. …"
+          },
+          {
+            "title": "Generating Biomedical Fact-Checking Reports with RL-Enhanced Agentic Search",
+            "url": "https://arxiv.org/abs/2608.23811",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.23811v1 Announce Type: new Abstract: Automated fact-checking is essential for ensuring the reliability of public health information, yet the biomedical domain poses unique challenges. Validating biomedical claims requires rigorous interpretation of scientific litera…"
+          }
+        ]
+      },
+      {
+        "heading": "India & Subcontinent",
+        "items": [
+          {
+            "title": "SoftBank mulls up to $20 billion bond sale for OpenAI financing",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing/articleshow/133531221.cms",
+            "source": "ET Tech",
+            "summary": "The offering could be denominated in dollars and euros and could come as early as September, said the people, who asked not to be identified discussing private matters. The talks are still ongoing and details could change, the people added."
+          },
+          {
+            "title": "Voice AI startup Ringg AI raises $10M in Series A led by Peak XV Partners",
+            "url": "https://yourstory.com/2026/08/voice-ai-startup-ringg-ai-raises-10m-series-a-peak-xv-partners",
+            "source": "YourStory",
+            "summary": "Ringg AI is currently working with Policybazaar, CRED, Flipkart, Groww, Practo, Tabby, SuperNova, GoodScore, among others, and serving customers across marketplaces, healthcare, banking, fintech, and IT."
+          },
+          {
+            "title": "Ringg AI raises $10 million in funding from Peak XV Partners, others",
+            "url": "https://economictimes.indiatimes.com/tech/funding/ringg-ai-raises-10-million-in-funding-from-peak-xv-partners-others/articleshow/133530474.cms",
+            "source": "ET Tech",
+            "summary": "Founded in 2023 by Siddharth Tripathi, Kali Charan Vemuru and Utkarsh Shukla, the startup counts Policybazaar, CRED, Flipkart, Groww and Practo among its customers."
+          },
+          {
+            "title": "[Update] Ringg AI Nets Additional $10 Mn, Closes Series A At $15.5 Mn",
+            "url": "https://inc42.com/buzz/voice-ai-startup-ringg-bags-5-5-mn-from-arkam-ventures/",
+            "source": "Inc42",
+            "summary": "Update | August 26, 2026, 10:55 IST Bengaluru-based AI startup Ringg AI has raised an additional $10 Mn (₹95 Cr),…"
+          },
+          {
+            "title": "What’s next for Chandra after Ta-ta",
+            "url": "https://yourstory.com/2026/08/whats-next-for-chandra-after-ta-ta",
+            "source": "YourStory",
+            "summary": "From public service and AI to private equity and backing founders, Tata Group Chairman N Chandrasekaran will have no shortage of options when his four-decade Tata innings ends."
+          },
+          {
+            "title": "Five things to know about Anthropic ahead of Wall Street debut",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/five-things-to-know-about-anthropic-ahead-of-wall-street-debut/articleshow/133530437.cms",
+            "source": "ET Tech",
+            "summary": "Anthropic, the OpenAI rival that bet everything on computer coding, is expected to go public within weeks in a listing that could eclipse SpaceX's record Wall Street debut in June. - Stomaching the losses - According to Bloomberg, Anthropic intends to surpass the record $86.2 …"
+          },
+          {
+            "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+            "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+            "source": "TechCrunch AI",
+            "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension."
+          },
+          {
+            "title": "The AI founders who walked away from Bezos-backed Prometheus to model the universe",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-ai-founders-who-walked-away-from-bezos-backed-prometheus-to-model-the-universe/articleshow/133527534.cms",
+            "source": "ET Tech",
+            "summary": "The difference is that this new system is not built for understanding language. It is built for physics, said co-founders Anima Anandkumar and Benedikt Jenik, in an exclusive interview ahead of Tuesday's corporate launch."
+          }
+        ]
+      }
+    ],
+    "careers": {
+      "note": "Demand snapshot for 2026. ML Engineer is the most in-demand AI title; agentic-AI and deep-learning skills carry the highest pay premiums; Python + one cloud is the baseline. Specialisation beats generalisation for freshers.",
+      "paths": [
+        {
+          "field": "Machine Learning Engineering",
+          "demand": "Very high",
+          "note": "#1 AI title — build, deploy & maintain models in production. Best all-round entry into AI."
+        },
+        {
+          "field": "AI / Agent Engineering (LLM apps)",
+          "demand": "Surging",
+          "note": "RAG, tool-use & multi-agent systems. ~40% of enterprise apps will embed AI agents by year-end."
+        },
+        {
+          "field": "Deep Learning / Research",
+          "demand": "High (premium pay)",
+          "note": "Neural nets for vision & speech. Highest premiums; usually needs strong maths / grad study."
+        },
+        {
+          "field": "MLOps / AI Infrastructure",
+          "demand": "High",
+          "note": "Ship & scale models on the cloud. Cloud AI certs add 20–25% to salary."
+        },
+        {
+          "field": "Data Science / Analytics",
+          "demand": "Steady",
+          "note": "Foundational, widest entry door; a reliable first step into AI."
+        },
+        {
+          "field": "Computer Vision",
+          "demand": "High",
+          "note": "Imaging, robotics, autonomous systems, medical AI."
+        },
+        {
+          "field": "NLP / LLM Engineering",
+          "demand": "Very high",
+          "note": "Powers chatbots, search & agents — the hottest application area."
+        },
+        {
+          "field": "AI Product / Solutions Architect",
+          "demand": "High (senior)",
+          "note": "5–8 yrs experience; $140k–$332k bands. Translates AI into business value."
+        },
+        {
+          "field": "AI Safety / Governance",
+          "demand": "Growing",
+          "note": "Alignment, evals, red-teaming & policy — newer but expanding fast."
+        }
+      ],
+      "fresher": [
+        {
+          "skill": "Python (NumPy, Pandas)",
+          "why": "The lingua franca of ML — non-negotiable."
+        },
+        {
+          "skill": "Maths foundations",
+          "why": "Linear algebra, probability & calculus — enough to reason about models."
+        },
+        {
+          "skill": "Core ML (scikit-learn)",
+          "why": "Regression, classification, evaluation, the ML workflow."
+        },
+        {
+          "skill": "One deep-learning framework (PyTorch)",
+          "why": "Build & train neural nets; PyTorch dominates research & jobs."
+        },
+        {
+          "skill": "LLMs: prompting + RAG basics",
+          "why": "Ship a small LLM app — the most visible skill to recruiters now."
+        },
+        {
+          "skill": "SQL + data wrangling",
+          "why": "Real AI work is mostly data; SQL is everywhere."
+        },
+        {
+          "skill": "One cloud + Git/GitHub",
+          "why": "AWS leads (~40% of postings), then Azure & GCP. Version everything."
+        },
+        {
+          "skill": "Ship a portfolio project",
+          "why": "A deployed project that solves a real problem is the #1 differentiator."
+        }
+      ],
+      "experienced": [
+        {
+          "skill": "MLOps & deployment",
+          "why": "Docker, CI/CD, monitoring, model/versioning — production is where value lives."
+        },
+        {
+          "skill": "Agentic system design",
+          "why": "Multi-agent orchestration, tool-use, evals — the surging frontier."
+        },
+        {
+          "skill": "Cloud AI at scale",
+          "why": "AWS/Azure/GCP architecture; certs add a 20–25% salary premium."
+        },
+        {
+          "skill": "LLM fine-tuning & evals",
+          "why": "Adapt, measure and harden models for a domain."
+        },
+        {
+          "skill": "Distributed training / GPU optimisation",
+          "why": "Cost & latency engineering for large models."
+        },
+        {
+          "skill": "ML system design",
+          "why": "Trade-offs across data, latency, cost & reliability at scale."
+        },
+        {
+          "skill": "Domain specialisation",
+          "why": "CV, NLP, recsys, healthcare — depth beats breadth at senior levels."
+        },
+        {
+          "skill": "AI → business translation",
+          "why": "Leading teams and tying models to measurable outcomes."
+        }
+      ]
+    },
+    "profile": {
+      "name": "Harman Singh Sandhu",
+      "handle": "Ace",
+      "blurb": "I build AI/ML projects and write about them. This site is one of them — an automated daily AI digest.",
+      "linkedin": "https://www.linkedin.com/in/harman-singh-sandhu/",
+      "github": "https://github.com/Ace-2504",
+      "devto": "https://dev.to/ace2504",
+      "repos": [
+        {
+          "name": "ai-weekly-report",
+          "desc": "My personalized AI newsletter that runs on an agentic AI",
+          "url": "https://github.com/Ace-2504/ai-weekly-report",
+          "stars": 0,
+          "language": "HTML"
+        },
+        {
+          "name": "slm-inference-benchmarks",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/slm-inference-benchmarks",
+          "stars": 0,
+          "language": "HTML"
+        },
+        {
+          "name": "ace-harness",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/ace-harness",
+          "stars": 0,
+          "language": "Python"
+        },
+        {
+          "name": "pre-training-v1-extended",
+          "desc": "125M SLM continued-pretraining (extended / e-series): corpus build, dedup, Modal training, eval.",
+          "url": "https://github.com/Ace-2504/pre-training-v1-extended",
+          "stars": 0,
+          "language": "Python"
+        },
+        {
+          "name": "slm-arena-15",
+          "desc": "15-model SLM arena — side-by-side demo across the 125M/500M/Gemma family (base/QA-SFT/RAFT/DPO/RLAIF).",
+          "url": "https://github.com/Ace-2504/slm-arena-15",
+          "stars": 0,
+          "language": "TypeScript"
+        },
+        {
+          "name": "slm-arena-13",
+          "desc": "13-model SLM arena — side-by-side demo across the 125M/500M/Gemma family.",
+          "url": "https://github.com/Ace-2504/slm-arena-13",
+          "stars": 0,
+          "language": "TypeScript"
+        }
+      ]
+    }
+  }
+}
