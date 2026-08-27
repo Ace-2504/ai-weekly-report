@@ -1,11 +1,23 @@
 {
-  "weekOf": "2026-08-20 to 2026-08-26",
-  "generated": "2026-08-26T06:28:42.724Z",
-  "intro": "422 AI items this week (36 India-relevant) across 10 sources.",
+  "weekOf": "2026-08-21 to 2026-08-27",
+  "generated": "2026-08-27T17:02:53.117Z",
+  "intro": "423 AI items this week (31 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
+        {
+          "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+          "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+          "source": "Ars Technica",
+          "summary": "227 install commands were found in corporate docs pointing at code nobody owns."
+        },
+        {
+          "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+          "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+          "source": "Ars Technica",
+          "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test."
+        },
         {
           "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
           "url": "https://arxiv.org/abs/2608.23568",
@@ -29,24 +41,18 @@
           "url": "https://arxiv.org/abs/2608.23631",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2608.23631v1 Announce Type: new Abstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation informs the next search step. Existing agents mainly sto…"
-        },
-        {
-          "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
-          "url": "https://arxiv.org/abs/2608.23640",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23640v1 Announce Type: new Abstract: When a large language model (LLM) is asked to write a person's life, how much of what it writes actually happened? We present a scene-level case-study audit - the first quantified audit of LLM-generated autobiography against a su…"
-        },
-        {
-          "title": "How much of a measured AI preference is the model, and how much is the instrument?",
-          "url": "https://arxiv.org/abs/2608.23641",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23641v1 Announce Type: new Abstract: Model welfare research infers what a model prefers from the answers returned to prompts written to elicit preferences. Keeling et al. (2024), Mazeika et al. (2025), Mikaelson et al. (2025), Tagliabue and Dung (2025) and Trhlik et…"
         }
       ]
     },
     {
       "heading": "Multimodal & Media",
       "items": [
+        {
+          "title": "Orchestration is the new challenge for CX in the age of AI agents",
+          "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+          "source": "VentureBeat AI",
+          "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems nev…"
+        },
         {
           "title": "MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models",
           "url": "https://arxiv.org/abs/2608.23646",
@@ -76,18 +82,30 @@
           "url": "https://arxiv.org/abs/2608.24041",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2608.24041v1 Announce Type: new Abstract: Although Speech Large Language Models (SpeechLLMs) excel at speech understanding and generation, their capacity for fine-grained, temporally aligned outputs remains underexplored. Our work addresses this gap by enabling SpeechLLM…"
-        },
-        {
-          "title": "Scalable Question-Centric Text-to-Image Evaluation: Reliable Ranking, Fine-Grained Diagnosis, and Cost-Aware Routing",
-          "url": "https://arxiv.org/abs/2608.24112",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.24112v1 Announce Type: new Abstract: Modern text-to-image (T2I) models often have similar total scores but different strengths, making practical selection difficult. Fine-grained benchmarks decompose prompts into questions, yet often return them to prompt scores and…"
         }
       ]
     },
     {
       "heading": "Developer Tools & Agents",
       "items": [
+        {
+          "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+          "source": "TechCrunch AI",
+          "summary": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process itself."
+        },
+        {
+          "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+          "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+          "source": "VentureBeat AI",
+          "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reachin…"
+        },
+        {
+          "title": "When agents act on their own, governance has to live in the data layer",
+          "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+          "source": "VentureBeat AI",
+          "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was neve…"
+        },
         {
           "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
           "url": "https://arxiv.org/abs/2608.23643",
@@ -105,30 +123,24 @@
           "url": "https://arxiv.org/abs/2608.23670",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2608.23670v1 Announce Type: new Abstract: LLM-based agents execute multi-step tasks, but their behavioral structure remains opaque: long unstructured traces resist the safety auditing and runtime monitoring that deployment requires. Existing approaches operate per-trace …"
-        },
-        {
-          "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23691v1 Announce Type: new Abstract: We study autonomous mathematical discovery in the Station, an open-world multi-agent environment in which AI agents from different model families pursue a shared research goal without a central coordinator or scripted pipeline. A…"
-        },
-        {
-          "title": "AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace",
-          "url": "https://arxiv.org/abs/2608.23740",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23740v1 Announce Type: new Abstract: Concurrent multi-agent coding promises division of labor across modules, robustness through redundancy, and parallel exploration at the natural granularity of multi-file projects. Realtime collaborative editing protocols solve th…"
-        },
-        {
-          "title": "A Formal Methodological Framework for Auditing Robustness and Fidelity in Explainable AI: From Application to Trust Certification",
-          "url": "https://arxiv.org/abs/2608.23817",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23817v1 Announce Type: new Abstract: SHAP and LIME are now standard tools for interpreting black-box predictions, yet their outputs can vary substantially when the input is perturbed by small amounts of noise--a problem we observed firsthand in our previous work on …"
         }
       ]
     },
     {
       "heading": "Open Source",
       "items": [
+        {
+          "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+          "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+          "source": "TechCrunch AI",
+          "summary": "Hugging Face is taking orders for the Microduck, a $399 tiny open source duck robot that developers can train at home out of the box."
+        },
+        {
+          "title": "Nvidia closes in on Hugging Face acquisition",
+          "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business."
+        },
         {
           "title": "LEMMA-RCA: A Large Multi-modal Multi-domain Dataset for Root Cause Analysis",
           "url": "https://arxiv.org/abs/2406.05375",
@@ -142,22 +154,46 @@
           "summary": "arXiv:2601.07737v3 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated remarkable performance in mainstream visual understanding tasks, but their ability to process action scenes that contradict everyday common sense remains undert…"
         },
         {
-          "title": "Hugging Face reportedly in talks to be acquired for $13B",
-          "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+          "title": "OpenAI releases its official report on the Hugging Face breach",
+          "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
           "source": "TechCrunch AI",
-          "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen."
+          "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
         },
         {
-          "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-          "url": "https://huggingface.co/blog/pwc-search",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "The inside story on why OpenAI agents hacked Hugging Face",
+          "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+          "source": "MIT Tech Review",
+          "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecur…"
         }
       ]
     },
     {
       "heading": "Industry & Research",
       "items": [
+        {
+          "title": "3 new ways to plan and book travel in Search",
+          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+          "source": "Google AI Blog",
+          "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
+        },
+        {
+          "title": "AI’s memory crunch is coming for Android apps",
+          "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+          "source": "TechCrunch AI",
+          "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory."
+        },
+        {
+          "title": "Here’s all the times AI has gone rogue and hacked other companies",
+          "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+          "source": "TechCrunch AI",
+          "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet."
+        },
+        {
+          "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+          "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Plaud's new 'agentic' earbuds are priced at $249."
+        },
         {
           "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
           "url": "https://arxiv.org/abs/2608.23569",
@@ -169,30 +205,6 @@
           "url": "https://arxiv.org/abs/2608.23632",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2608.23632v1 Announce Type: new Abstract: Process supervision has improved mathematical reasoning, where intermediate steps are naturally expressed as chains of thought. In code generation, however, process supervision remains underexplored because there is no standard n…"
-        },
-        {
-          "title": "AI Agents Push Humans Out of the Loop",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23642v1 Announce Type: new Abstract: AI agents pose significant risks as they are granted increasing autonomy. A commonly proposed solution is human oversight and keeping a ''human in the loop'', but this is not a simple solution: Not only do current approaches to A…"
-        },
-        {
-          "title": "Gated Activation Steering for Reducing Sycophancy & Hallucination in Medical Question Answering",
-          "url": "https://arxiv.org/abs/2608.23666",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23666v1 Announce Type: new Abstract: Sycophancy and hallucination are persistent failure modes of Large Language Models (LLMs) across domains. However, it becomes particularly consequential in clinical question answering, where responses must remain grounded in the …"
-        },
-        {
-          "title": "Do LLMs Understand Limit Order Book Dynamics?",
-          "url": "https://arxiv.org/abs/2608.23706",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23706v1 Announce Type: new Abstract: A large language model (LLM) trained on synthetic limit order book (LOB) data achieves near perfect scores in generating valid sequences of LOB events. However, the LLM's implicit world model fails to learn the state of the LOB. …"
-        },
-        {
-          "title": "Generating Biomedical Fact-Checking Reports with RL-Enhanced Agentic Search",
-          "url": "https://arxiv.org/abs/2608.23811",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23811v1 Announce Type: new Abstract: Automated fact-checking is essential for ensuring the reliability of public health information, yet the biomedical domain poses unique challenges. Validating biomedical claims requires rigorous interpretation of scientific litera…"
         }
       ]
     },
@@ -200,52 +212,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "SoftBank mulls up to $20 billion bond sale for OpenAI financing",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing/articleshow/133531221.cms",
+          "title": "Child abuse victim sues Elon Musk's xAI over AI-generated images",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/child-abuse-victim-sues-musks-xai-over-ai-generated-images/articleshow/133573332.cms",
           "source": "ET Tech",
-          "summary": "The offering could be denominated in dollars and euros and could come as early as September, said the people, who asked not to be identified discussing private matters. The talks are still ongoing and details could change, the people added."
+          "summary": "The complaint, lodged Wednesday in the Northern District of California by an anonymous plaintiff identified as Jane Doe 1, alleges that xAI designed Grok to alter real photographs of identifiable people into sexual content and then published the results directly to the X socia…"
         },
         {
-          "title": "Voice AI startup Ringg AI raises $10M in Series A led by Peak XV Partners",
-          "url": "https://yourstory.com/2026/08/voice-ai-startup-ringg-ai-raises-10m-series-a-peak-xv-partners",
+          "title": "Karnataka explores voice AI pilots with ElevenLabs across skilling, health and citizen services",
+          "url": "https://yourstory.com/2026/08/karnataka-voice-ai-elevenlabs-skills",
           "source": "YourStory",
-          "summary": "Ringg AI is currently working with Policybazaar, CRED, Flipkart, Groww, Practo, Tabby, SuperNova, GoodScore, among others, and serving customers across marketplaces, healthcare, banking, fintech, and IT."
+          "summary": "Karnataka is exploring voice AI pilots with ElevenLabs for skilling, healthcare, investor services, culture and citizen services."
         },
         {
-          "title": "Ringg AI raises $10 million in funding from Peak XV Partners, others",
-          "url": "https://economictimes.indiatimes.com/tech/funding/ringg-ai-raises-10-million-in-funding-from-peak-xv-partners-others/articleshow/133530474.cms",
+          "title": "Dream11 pivots to sports engagement platform",
+          "url": "https://yourstory.com/2026/08/dream11-pivots-to-sports-engagement-platform",
+          "source": "YourStory",
+          "summary": "Dream11 aims to transition to an AI first platform to engage users based on their sports, leagues, teams and players."
+        },
+        {
+          "title": "SK Hynix holds groundbreaking ceremony for $4 billion Indiana AI chip packaging facility",
+          "url": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-holds-groundbreaking-ceremony-for-4-billion-indiana-ai-chip-packaging-facility/articleshow/133571010.cms",
           "source": "ET Tech",
-          "summary": "Founded in 2023 by Siddharth Tripathi, Kali Charan Vemuru and Utkarsh Shukla, the startup counts Policybazaar, CRED, Flipkart, Groww and Practo among its customers."
+          "summary": "The facility, at the Purdue Research Park in West Lafayette, is scheduled to begin cleanroom operations in the second half of 2028, according to SK Hynix's website and press statements. The site will house a next-generation high-bandwidth memory (HBM) packaging line as well as…"
         },
         {
-          "title": "[Update] Ringg AI Nets Additional $10 Mn, Closes Series A At $15.5 Mn",
-          "url": "https://inc42.com/buzz/voice-ai-startup-ringg-bags-5-5-mn-from-arkam-ventures/",
+          "title": "Caught In The GPU Pricing Paradox, Can ESDS Deliver A Bumper IPO?",
+          "url": "https://inc42.com/features/caught-in-the-gpu-pricing-paradox-can-esds-deliver-a-bumper-ipo/",
           "source": "Inc42",
-          "summary": "Update | August 26, 2026, 10:55 IST Bengaluru-based AI startup Ringg AI has raised an additional $10 Mn (₹95 Cr),…"
+          "summary": "Two decades on, enterprise cloud and AI ecosystem provider ESDS Software Solution is setting sail for its next big quest…"
         },
         {
-          "title": "What’s next for Chandra after Ta-ta",
-          "url": "https://yourstory.com/2026/08/whats-next-for-chandra-after-ta-ta",
-          "source": "YourStory",
-          "summary": "From public service and AI to private equity and backing founders, Tata Group Chairman N Chandrasekaran will have no shortage of options when his four-decade Tata innings ends."
-        },
-        {
-          "title": "Five things to know about Anthropic ahead of Wall Street debut",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/five-things-to-know-about-anthropic-ahead-of-wall-street-debut/articleshow/133530437.cms",
-          "source": "ET Tech",
-          "summary": "Anthropic, the OpenAI rival that bet everything on computer coding, is expected to go public within weeks in a listing that could eclipse SpaceX's record Wall Street debut in June. - Stomaching the losses - According to Bloomberg, Anthropic intends to surpass the record $86.2 …"
-        },
-        {
-          "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-          "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+          "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+          "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
           "source": "TechCrunch AI",
-          "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension."
+          "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers."
         },
         {
-          "title": "The AI founders who walked away from Bezos-backed Prometheus to model the universe",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-ai-founders-who-walked-away-from-bezos-backed-prometheus-to-model-the-universe/articleshow/133527534.cms",
+          "title": "NITI Aayog Proposes Skilling Overhaul With Outcome-Linked Financing Model",
+          "url": "https://inc42.com/buzz/niti-aayog-proposes-skilling-overhaul-with-outcome-linked-financing-model/",
+          "source": "Inc42",
+          "summary": "In a bid to address persistent gaps in India’s labour market, NITI Aayog has proposed linking government funding for skilling…"
+        },
+        {
+          "title": "As AI agents go rogue, cyber insurers are adapting their policies",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/as-ai-agents-go-rogue-cyber-insurers-are-adapting-their-policies/articleshow/133566365.cms",
           "source": "ET Tech",
-          "summary": "The difference is that this new system is not built for understanding language. It is built for physics, said co-founders Anima Anandkumar and Benedikt Jenik, in an exclusive interview ahead of Tuesday's corporate launch."
+          "summary": "Insurers, including MSIG, QBE and Beazley, are reviewing traditional cyber policies and adapting their language to account for emerging risks posed by such systems taking on more autonomous tasks, according to eight executives at major companies, and analysts."
         }
       ]
     }

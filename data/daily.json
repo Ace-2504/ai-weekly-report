@@ -1,172 +1,137 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "top": {
-    "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
-    "url": "https://arxiv.org/abs/2608.23568",
-    "source": "arXiv cs.AI",
-    "published": "2026-08-26T04:00:00.000Z",
-    "summary": "arXiv:2608.23568v1 Announce Type: new Abstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benc…"
+    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+    "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "source": "TechCrunch AI",
+    "published": "2026-08-27T16:00:00.000Z",
+    "summary": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process itself."
   },
   "topIndia": {
-    "title": "SoftBank mulls up to $20 billion bond sale for OpenAI financing",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing/articleshow/133531221.cms",
+    "title": "Child abuse victim sues Elon Musk's xAI over AI-generated images",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/child-abuse-victim-sues-musks-xai-over-ai-generated-images/articleshow/133573332.cms",
     "source": "ET Tech",
-    "published": "2026-08-26T05:45:44.000Z",
-    "summary": "The offering could be denominated in dollars and euros and could come as early as September, said the people, who asked not to be identified discussing private matters. The talks are still ongoing and details could change, the people added."
+    "published": "2026-08-27T16:15:15.000Z",
+    "summary": "The complaint, lodged Wednesday in the Northern District of California by an anonymous plaintiff identified as Jane Doe 1, alleges that xAI designed Grok to alter real photographs of identifiable people into sexual content and then published the results directly to the X socia…"
   },
   "headlines": [
     {
-      "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
-      "url": "https://arxiv.org/abs/2608.23569",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-26T04:00:00.000Z"
+      "title": "3 new ways to plan and book travel in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "source": "Google AI Blog",
+      "published": "2026-08-27T16:00:00.000Z"
     },
     {
-      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
-      "url": "https://arxiv.org/abs/2608.23622",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-26T04:00:00.000Z"
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-27T14:56:52.000Z"
     },
     {
-      "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
-      "url": "https://arxiv.org/abs/2608.23626",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-26T04:00:00.000Z"
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "source": "VentureBeat AI",
+      "published": "2026-08-27T14:30:00.000Z"
     },
     {
-      "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
-      "url": "https://arxiv.org/abs/2608.23631",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-26T04:00:00.000Z"
+      "title": "AI’s memory crunch is coming for Android apps",
+      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-27T14:27:04.000Z"
     },
     {
-      "title": "Function-Level Execution Feedback for Code Preference Optimization",
-      "url": "https://arxiv.org/abs/2608.23632",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-26T04:00:00.000Z"
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-27T14:01:42.000Z"
     },
     {
-      "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
-      "url": "https://arxiv.org/abs/2608.23640",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-26T04:00:00.000Z"
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat AI",
+      "published": "2026-08-27T14:01:00.000Z"
     },
     {
-      "title": "How much of a measured AI preference is the model, and how much is the instrument?",
-      "url": "https://arxiv.org/abs/2608.23641",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-26T04:00:00.000Z"
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "source": "Ars Technica",
+      "published": "2026-08-27T14:00:13.000Z"
     },
     {
-      "title": "AI Agents Push Humans Out of the Loop",
-      "url": "https://arxiv.org/abs/2608.23642",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-26T04:00:00.000Z"
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-27T13:00:00.000Z"
     },
     {
-      "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
-      "url": "https://arxiv.org/abs/2608.23643",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-26T04:00:00.000Z"
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "source": "Ars Technica",
+      "published": "2026-08-27T12:58:59.000Z"
     },
     {
-      "title": "Ethical LLM-Assisted Research: A Framework for Responsible Delegation, Verification, and Epistemic Value",
-      "url": "https://arxiv.org/abs/2608.23644",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-26T04:00:00.000Z"
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "source": "VentureBeat AI",
+      "published": "2026-08-27T12:01:00.000Z"
     },
     {
-      "title": "MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models",
-      "url": "https://arxiv.org/abs/2608.23646",
-      "source": "arXiv cs.AI",
-      "published": "2026-08-26T04:00:00.000Z"
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-27T06:32:51.000Z"
     },
     {
-      "title": "Gated Activation Steering for Reducing Sycophancy & Hallucination in Medical Question Answering",
-      "url": "https://arxiv.org/abs/2608.23666",
+      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+      "url": "https://arxiv.org/abs/2608.23568",
       "source": "arXiv cs.AI",
-      "published": "2026-08-26T04:00:00.000Z"
+      "published": "2026-08-27T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Five things to know about Anthropic ahead of Wall Street debut",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/five-things-to-know-about-anthropic-ahead-of-wall-street-debut/articleshow/133530437.cms",
+      "title": "OpenAI launches ChatGPT ads in India",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-chatgpt-ads-in-india/articleshow/133557730.cms",
       "source": "ET Tech",
-      "published": "2026-08-26T05:09:59.000Z",
-      "summary": "Anthropic, the OpenAI rival that bet everything on computer coding, is expected to go public within weeks in a listing that could eclipse SpaceX's record Wall Street debut in June. - Stomaching the losses - According to Bloomberg, Anthropic intends to surpass the record $86.2 …"
+      "published": "2026-08-27T05:46:47.000Z",
+      "summary": "The ads will be for logged-in adult customers, the OpenAI announced in a statement. The company said that Plus, Pro, Business, Enterprise, and Education subscriptions will remain ad-free. WPP and Omnicom will be OpenAI’s first agency partners for ChatGPT Ads in India."
     },
     {
       "title": "Meta$^n$: Recursive Self-Improvement through Emergent Depth",
       "url": "https://arxiv.org/abs/2608.24735",
       "source": "arXiv cs.AI",
-      "published": "2026-08-26T04:00:00.000Z",
+      "published": "2026-08-27T04:00:00.000Z",
       "summary": "arXiv:2608.24735v1 Announce Type: new Abstract: Self-improving LLM agents refine answers, not the process that produces those answers. Systems that add a meta-level hold that level fixed, and those that edit themselves must leave part of their own editing machinery untouched t…"
     },
     {
       "title": "Auditing an AI-Generated Mathematical Proof: Human Assessment of OpenAI's Quantum Parallel-Repetition Argument",
       "url": "https://arxiv.org/abs/2608.14673",
       "source": "arXiv cs.AI",
-      "published": "2026-08-26T04:00:00.000Z",
+      "published": "2026-08-27T04:00:00.000Z",
       "summary": "arXiv:2608.14673v2 Announce Type: replace Abstract: We present an independent human assessment of the proof developed in Chapter 6 of OpenAI's Ten Advances in Mathematics and Theoretical Computer Science. An initial audit appeared to identify a polarity error in a greedy condi…"
-    },
-    {
-      "title": "Apple launches faster Mac mini, Mac Studio to tap AI boom",
-      "url": "https://economictimes.indiatimes.com/tech/technology/apple-launches-faster-mac-mini-mac-studio-to-tap-ai-boom/articleshow/133517463.cms",
-      "source": "ET Tech",
-      "published": "2026-08-25T15:46:29.000Z",
-      "summary": "The new mini, unveiled alongside a beefed-up Mac Studio, starts at $899 and comes with either Apple's new M6 chip or the M5 Pro. It ‌is $100 more ⁠expensive than ⁠its predecessor. The unveiling ⁠is likely Apple's ‌last major launch before Tim Cook hands over the ​reins to ​har…"
-    },
-    {
-      "title": "Google expands Gemini AI platform for law firms, lawyers",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-expands-gemini-ai-platform-for-law-firms-lawyers/articleshow/133509761.cms",
-      "source": "ET Tech",
-      "published": "2026-08-25T12:07:31.000Z",
-      "summary": "The ⁠new plug-in for Gemini Enterprise includes integration with legal software and data platforms and a stable of AI agents that Google said can handle ​specialised legal and administrative functions without significant human oversight. Alphabet launched Gemini Enterprise for…"
-    },
-    {
-      "title": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
-      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-faces-growth-test-as-rubin-debut-meets-ai-financing-scrutiny/articleshow/133506191.cms",
-      "source": "ET Tech",
-      "published": "2026-08-25T10:42:42.000Z",
-      "summary": "The chipmaker has been the biggest beneficiary of the race to ​build AI infrastructure. Recently, though, its stock has come under pressure as the company has pumped billions of dollars back into the AI ecosystem, stoking fears about its role in so-called circular deals that c…"
-    },
-    {
-      "title": "SpaceX, Nvidia develop space-optimised AI system for orbital launch next year",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/spacex-nvidia-develop-space-optimized-ai-system-for-orbital-launch-next-year/articleshow/133488899.cms",
-      "source": "ET Tech",
-      "published": "2026-08-25T03:09:00.000Z",
-      "summary": "SpaceX and Nvidia have developed a space-optimised Vera Rubin NVL72 AI system that is planned for launch into orbit in the fourth quarter of 2027, said Elon Musk. Resharing an Nvidia post, Musk said the system will see significant scale-up in 2028 as SpaceXAI is expanding its …"
-    },
-    {
-      "title": "Alabama launches probe into OpenAI after Hugging Face breach",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alabama-launches-probe-into-openai-after-hugging-face-breach/articleshow/133488741.cms",
-      "source": "ET Tech",
-      "published": "2026-08-25T03:04:18.000Z",
-      "summary": "Last week, IPO-bound OpenAI said it would slow the ‌pace of model development ⁠while ⁠overhauling its research and training systems after company officials were caught unawares when an AI agent ​being tested hacked Hugging Face."
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "article": "Debates over AI consciousness are a trap",
-      "source": "MIT Tech Review"
+      "link": "https://blog.samaltman.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Demis Hassabis",
       "org": "Google DeepMind",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "article": "Debates over AI consciousness are a trap",
-      "source": "MIT Tech Review"
+      "link": "https://x.com/demishassabis",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "article": "Debates over AI consciousness are a trap",
-      "source": "MIT Tech Review"
+      "link": "https://www.darioamodei.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Yann LeCun",
@@ -178,9 +143,9 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://nvidianews.nvidia.com",
-      "article": null,
-      "source": "Profile"
+      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-forecasts-70-sales-growth-next-year-signals-ai-spending-boom-has-years-left-to-run/articleshow/133554544.cms",
+      "article": "Nvidia forecasts 70% sales growth next year, signals AI spending boom has years left to run",
+      "source": "ET Tech"
     },
     {
       "name": "Andrej Karpathy",
