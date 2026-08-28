@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-08-21 to 2026-08-27",
-  "generated": "2026-08-27T17:02:53.117Z",
-  "intro": "423 AI items this week (31 India-relevant) across 10 sources.",
+  "weekOf": "2026-08-22 to 2026-08-28",
+  "generated": "2026-08-28T17:51:22.145Z",
+  "intro": "385 AI items this week (38 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-          "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-          "source": "Ars Technica",
-          "summary": "227 install commands were found in corporate docs pointing at code nobody owns."
-        },
-        {
-          "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-          "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-          "source": "Ars Technica",
-          "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test."
-        },
-        {
-          "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
-          "url": "https://arxiv.org/abs/2608.23568",
+          "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+          "url": "https://arxiv.org/abs/2608.26109",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23568v1 Announce Type: new Abstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benc…"
+          "summary": "arXiv:2608.26109v1 Announce Type: new Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step ag…"
         },
         {
-          "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
-          "url": "https://arxiv.org/abs/2608.23622",
+          "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+          "url": "https://arxiv.org/abs/2608.26114",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23622v1 Announce Type: new Abstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require more than plausible text and code generation. They require understanding how a sy…"
+          "summary": "arXiv:2608.26114v1 Announce Type: new Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on nat…"
         },
         {
-          "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
-          "url": "https://arxiv.org/abs/2608.23626",
+          "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+          "url": "https://arxiv.org/abs/2608.26145",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23626v1 Announce Type: new Abstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Those catalogues are incomplete at a measurable rate, and a model trained on both inherits that incomple…"
+          "summary": "arXiv:2608.26145v1 Announce Type: new Abstract: Our research focuses on evaluating literature reviews generated in short and long context settings of large language models (LLMs) to investigate the impact of context window on the quality of AI-generated literature reviews and …"
         },
         {
-          "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
-          "url": "https://arxiv.org/abs/2608.23631",
+          "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
+          "url": "https://arxiv.org/abs/2608.26150",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23631v1 Announce Type: new Abstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation informs the next search step. Existing agents mainly sto…"
+          "summary": "arXiv:2608.26150v1 Announce Type: new Abstract: Recent advancements in Large Language Models (LLMs) have created new opportunities to streamline and potentially automate many research processes, including systematic literature reviews (SLRs). This study reports an LLM pipeline…"
+        },
+        {
+          "title": "GROUND: Reducing Hallucinations in LLM-Based Enterprise Analytics Through Governed Semantic Definitions",
+          "url": "https://arxiv.org/abs/2608.26157",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.26157v1 Announce Type: new Abstract: Natural-language analytics over enterprise data warehouses is increasingly important, but production use is limited by hallucinated metrics, invalid joins, wrong grain, unsafe data access, and unsupported explanations. Existing t…"
+        },
+        {
+          "title": "Refusal Is Not Robustness: Auditing Confident Fabrication in Large Language Models on a Provably Uninformative Clinical Pain Speech Transcript",
+          "url": "https://arxiv.org/abs/2608.26167",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.26167v1 Announce Type: new Abstract: Hallucination and abstention benchmarks rarely establish that a model could not have known the correct answer, making it difficult to distinguish appropriate abstention from an unsupported prediction. Seven large language models …"
         }
       ]
     },
@@ -48,40 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Orchestration is the new challenge for CX in the age of AI agents",
-          "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-          "source": "VentureBeat AI",
-          "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems nev…"
+          "title": "A Safety-Gated Multimodal AI Backend for Mental-Health Support: Hierarchical State Representation, Conservative Risk Fusion, and Controlled Generation in Anian",
+          "url": "https://arxiv.org/abs/2608.26162",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.26162v1 Announce Type: new Abstract: Safety-critical mental-health support systems must distinguish when supportive conversation is appropriate from when free-form generation should be blocked. This paper presents Anian, a safety-gated multimodal AI backend for peri…"
         },
         {
-          "title": "MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models",
-          "url": "https://arxiv.org/abs/2608.23646",
+          "title": "Structured Evidence Routing for Incident Risk Prediction from Multimodal Longitudinal EHRs",
+          "url": "https://arxiv.org/abs/2608.26191",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23646v1 Announce Type: new Abstract: Molecular embedding models can serve as foundational infrastructure for computational chemistry and drug discovery, where reusable vector representations support property prediction, virtual screening, and retrieval. Most molecul…"
+          "summary": "arXiv:2608.26191v1 Announce Type: new Abstract: Incident risk prediction from longitudinal electronic health records (EHRs) is challenging because relevant signals are multimodal, weak in isolation, and distributed across irregular patient histories. We propose structured evid…"
         },
         {
-          "title": "Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware",
-          "url": "https://arxiv.org/abs/2608.23807",
+          "title": "AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes",
+          "url": "https://arxiv.org/abs/2608.26193",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23807v1 Announce Type: new Abstract: Masked diffusion language models (dLLMs) can in principle generate text faster than autoregressive (AR) models, since they denoise many tokens at once. Recent systems have begun building serving infrastructure for dLLMs, but none…"
+          "summary": "arXiv:2608.26193v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) achieve strong performance on VQA and scene understanding, yet affective reasoning remains vulnerable to shortcut behavior. Models may predict correct answers while neglecting people-centr…"
         },
         {
-          "title": "In-Context Inpainting for Time Series Forecasting",
-          "url": "https://arxiv.org/abs/2608.23855",
+          "title": "GameWAM: A World Action Model for Video Games",
+          "url": "https://arxiv.org/abs/2608.26200",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23855v1 Announce Type: new Abstract: We propose ICI-Time, a novel framework that reframes time series forecasting as a visual inpainting task, leveraging the generalisation power of large vision models (LVMs). Unlike methods that require specialised temporal archite…"
+          "summary": "arXiv:2608.26200v1 Announce Type: new Abstract: Modern video games combine first-person perception, rapid visual changes, persistent world state, and heterogeneous native controls. Existing game agents map visual and task context directly to actions but lack explicit world dyn…"
         },
         {
-          "title": "Giraffe: A Mapping Architecture from Hidden Text Representations to Visual Embeddings for Efficient Graphic Design",
-          "url": "https://arxiv.org/abs/2608.23970",
+          "title": "Multi2AV-Safety: Benchmarking Safety in Multimodal-to-Audio-Video Generation",
+          "url": "https://arxiv.org/abs/2608.26535",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23970v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have made significant progress in understanding and interpreting mul- timedia content. However, their ability to generate me- dia remains limited. Recent approaches have attempted to bridg…"
+          "summary": "arXiv:2608.26535v1 Announce Type: new Abstract: Audio-video generation is rapidly moving from prompt-driven synthesis toward multimodal conditioning, where text, images, audio, and video can jointly shape the generated output. This shift changes the nature of safety evaluation…"
         },
         {
-          "title": "Relative Time Intervals Representation for Word-level Timestamping with Masked Training",
-          "url": "https://arxiv.org/abs/2608.24041",
+          "title": "Decoupling Planning and Control for Instructable Agents",
+          "url": "https://arxiv.org/abs/2608.26788",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.24041v1 Announce Type: new Abstract: Although Speech Large Language Models (SpeechLLMs) excel at speech understanding and generation, their capacity for fine-grained, temporally aligned outputs remains underexplored. Our work addresses this gap by enabling SpeechLLM…"
+          "summary": "arXiv:2608.26788v1 Announce Type: new Abstract: Recent work shows that pre-trained, instruction-tuned vision-language models (VLMs) perform well at mapping from instructions and observations to high-level plans, but struggle to realize such plans as reliable low-latency action…"
         }
       ]
     },
@@ -89,40 +89,40 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-          "source": "TechCrunch AI",
-          "summary": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process itself."
-        },
-        {
-          "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-          "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-          "source": "VentureBeat AI",
-          "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reachin…"
-        },
-        {
-          "title": "When agents act on their own, governance has to live in the data layer",
-          "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-          "source": "VentureBeat AI",
-          "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was neve…"
-        },
-        {
-          "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
-          "url": "https://arxiv.org/abs/2608.23643",
+          "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+          "url": "https://arxiv.org/abs/2608.26107",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23643v1 Announce Type: new Abstract: Artificial intelligence is increasingly being introduced into healthcare workflows, yet most evaluations emphasize model accuracy rather than whether adoption is economically worthwhile in real clinical settings. This study propo…"
+          "summary": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability a…"
         },
         {
-          "title": "Ethical LLM-Assisted Research: A Framework for Responsible Delegation, Verification, and Epistemic Value",
-          "url": "https://arxiv.org/abs/2608.23644",
+          "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+          "url": "https://arxiv.org/abs/2608.26113",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23644v1 Announce Type: new Abstract: Large language models (LLMs) are becoming routine instruments of scientific research, assisting with literature synthesis, hypothesis development, coding, and formal reasoning. Their use raises a central epistemic question: when …"
+          "summary": "arXiv:2608.26113v1 Announce Type: new Abstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -> YAML -> GDS gene…"
         },
         {
-          "title": "Automata from Agent Traces: Failure and Next-Step Prediction",
-          "url": "https://arxiv.org/abs/2608.23670",
+          "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
+          "url": "https://arxiv.org/abs/2608.26149",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23670v1 Announce Type: new Abstract: LLM-based agents execute multi-step tasks, but their behavioral structure remains opaque: long unstructured traces resist the safety auditing and runtime monitoring that deployment requires. Existing approaches operate per-trace …"
+          "summary": "arXiv:2608.26149v1 Announce Type: new Abstract: Multi-table learning remains a major challenge in machine learning for healthcare and other complex information systems. Relational data combine several sources of complexity, including large data volume, high-dimensional variabl…"
+        },
+        {
+          "title": "Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration",
+          "url": "https://arxiv.org/abs/2608.26151",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.26151v1 Announce Type: new Abstract: Subscriber attrition is a costly, persistent challenge for telecommunications providers, with monthly churn of roughly 1.9% in mature markets eroding billions in revenue annually. Predictive models can flag at-risk customers accu…"
+        },
+        {
+          "title": "EEG-to-Report: An Annotation and Feature-Text Framework for Training Language Models on Clinical EEG",
+          "url": "https://arxiv.org/abs/2608.26153",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.26153v1 Announce Type: new Abstract: Clinical electroencephalography (EEG) reporting remains largely manual and time-consuming, and current EEG software ecosystems do not produce the structured EEG-text supervision needed for training modern language models. Most to…"
+        },
+        {
+          "title": "Invocation-Level Reliability of Tool-Using Agents",
+          "url": "https://arxiv.org/abs/2608.26189",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.26189v1 Announce Type: new Abstract: Tool-using agents fail two ways: choosing the wrong tool, or forming wrong arguments, and an early failure of either kind can silently corrupt everything downstream. We measure a correct-invocation rate that separates the two, un…"
         }
       ]
     },
@@ -133,25 +133,19 @@
           "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
           "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
           "source": "TechCrunch AI",
-          "summary": "Hugging Face is taking orders for the Microduck, a $399 tiny open source duck robot that developers can train at home out of the box."
+          "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”"
+        },
+        {
+          "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+          "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+          "source": "Ars Technica",
+          "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test."
         },
         {
           "title": "Nvidia closes in on Hugging Face acquisition",
           "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
           "source": "TechCrunch AI",
           "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business."
-        },
-        {
-          "title": "LEMMA-RCA: A Large Multi-modal Multi-domain Dataset for Root Cause Analysis",
-          "url": "https://arxiv.org/abs/2406.05375",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2406.05375v4 Announce Type: replace Abstract: Root cause analysis (RCA) is crucial for enhancing the reliability and performance of complex systems. However, progress in this field has been hindered by the lack of large-scale, open-source datasets tailored for RCA. To br…"
-        },
-        {
-          "title": "Seeing vs. Believing: Evaluating the Language Bias of Open-Source MLLMs in Counter-Intuitive Scenes",
-          "url": "https://arxiv.org/abs/2601.07737",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2601.07737v3 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated remarkable performance in mainstream visual understanding tasks, but their ability to process action scenes that contradict everyday common sense remains undert…"
         },
         {
           "title": "OpenAI releases its official report on the Hugging Face breach",
@@ -171,40 +165,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "3 new ways to plan and book travel in Search",
-          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-          "source": "Google AI Blog",
-          "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
-        },
-        {
-          "title": "AI’s memory crunch is coming for Android apps",
-          "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
           "source": "TechCrunch AI",
-          "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory."
+          "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington."
         },
         {
-          "title": "Here’s all the times AI has gone rogue and hacked other companies",
-          "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-          "source": "TechCrunch AI",
-          "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet."
-        },
-        {
-          "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-          "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-          "source": "TechCrunch AI",
-          "summary": "Plaud's new 'agentic' earbuds are priced at $249."
-        },
-        {
-          "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
-          "url": "https://arxiv.org/abs/2608.23569",
+          "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+          "url": "https://arxiv.org/abs/2608.26111",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23569v1 Announce Type: new Abstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BIRD. However, these benchmarks rely on simplified academic schemas and open-sou…"
+          "summary": "arXiv:2608.26111v1 Announce Type: new Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approache…"
         },
         {
-          "title": "Function-Level Execution Feedback for Code Preference Optimization",
-          "url": "https://arxiv.org/abs/2608.23632",
+          "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2608.26116",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.23632v1 Announce Type: new Abstract: Process supervision has improved mathematical reasoning, where intermediate steps are naturally expressed as chains of thought. In code generation, however, process supervision remains underexplored because there is no standard n…"
+          "summary": "arXiv:2608.26116v1 Announce Type: new Abstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and observe the outcome, without intervening during execution. We int…"
+        },
+        {
+          "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
+          "url": "https://arxiv.org/abs/2608.26134",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.26134v1 Announce Type: new Abstract: Energy forecasting aims to maximize accuracy to ensure energy efficiency by reducing energy waste, an objective that applies equally to on-device forecasting for mission-critical edge environments, including military systems. How…"
+        },
+        {
+          "title": "Selection Bias Correction in Retail Intelligence",
+          "url": "https://arxiv.org/abs/2608.26156",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.26156v1 Announce Type: new Abstract: Retail intelligence often relies on monitoring popular, high-velocity products, potentially biasing economic indicators by ignoring the \"long tail\" of niche items. This simulation study investigates selection bias in inflation es…"
+        },
+        {
+          "title": "SAREF-based Ontology for Distributed AI Workflows across the Edge-Fog-Cloud Continuum",
+          "url": "https://arxiv.org/abs/2608.26160",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.26160v1 Announce Type: new Abstract: Nowadays semantic models provide limited support for representing distributed AI workflows and their execution across heterogeneous edge, fog, and cloud environments. Therefore, AI processes and resources are often described usin…"
         }
       ]
     },
@@ -212,52 +206,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Child abuse victim sues Elon Musk's xAI over AI-generated images",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/child-abuse-victim-sues-musks-xai-over-ai-generated-images/articleshow/133573332.cms",
-          "source": "ET Tech",
-          "summary": "The complaint, lodged Wednesday in the Northern District of California by an anonymous plaintiff identified as Jane Doe 1, alleges that xAI designed Grok to alter real photographs of identifiable people into sexual content and then published the results directly to the X socia…"
-        },
-        {
-          "title": "Karnataka explores voice AI pilots with ElevenLabs across skilling, health and citizen services",
-          "url": "https://yourstory.com/2026/08/karnataka-voice-ai-elevenlabs-skills",
+          "title": "Meta’s India, Southeast Asia VP Sandhya Devanathan moves to OpenAI",
+          "url": "https://yourstory.com/2026/08/metas-india-southeast-asia-vp-sandhya-devanathan-moves-to-openai",
           "source": "YourStory",
-          "summary": "Karnataka is exploring voice AI pilots with ElevenLabs for skilling, healthcare, investor services, culture and citizen services."
+          "summary": "Devanathan will join OpenAI as Vice President for Southeast Asia and Australia in October, overseeing consumer growth, enterprise adoption, partnerships, regulatory engagement and operations."
         },
         {
-          "title": "Dream11 pivots to sports engagement platform",
-          "url": "https://yourstory.com/2026/08/dream11-pivots-to-sports-engagement-platform",
-          "source": "YourStory",
-          "summary": "Dream11 aims to transition to an AI first platform to engage users based on their sports, leagues, teams and players."
-        },
-        {
-          "title": "SK Hynix holds groundbreaking ceremony for $4 billion Indiana AI chip packaging facility",
-          "url": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-holds-groundbreaking-ceremony-for-4-billion-indiana-ai-chip-packaging-facility/articleshow/133571010.cms",
-          "source": "ET Tech",
-          "summary": "The facility, at the Purdue Research Park in West Lafayette, is scheduled to begin cleanroom operations in the second half of 2028, according to SK Hynix's website and press statements. The site will house a next-generation high-bandwidth memory (HBM) packaging line as well as…"
-        },
-        {
-          "title": "Caught In The GPU Pricing Paradox, Can ESDS Deliver A Bumper IPO?",
-          "url": "https://inc42.com/features/caught-in-the-gpu-pricing-paradox-can-esds-deliver-a-bumper-ipo/",
+          "title": "Gnani.ai Unveils Sovereign AI Stack Artha For Enterprises",
+          "url": "https://inc42.com/buzz/gnani-ai-unveils-sovereign-ai-stack-artha-for-enterprises/",
           "source": "Inc42",
-          "summary": "Two decades on, enterprise cloud and AI ecosystem provider ESDS Software Solution is setting sail for its next big quest…"
+          "summary": "Voice AI startup Gnani.ai has unveiled Artha, an end-to-end sovereign AI stack aimed at Indian enterprises and public institutions. The…"
         },
         {
-          "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-          "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+          "title": "From Sarvam AI co-founder to IBM CEO, meet the 10 Indians and people of Indian origin on TIME100 AI 2026",
+          "url": "https://yourstory.com/2026/08/10-indians-and-indian-origin-names-on-time100-ai-2026",
+          "source": "YourStory",
+          "summary": "TIME published the fourth edition of its TIME100 AI list on August 27, naming 100 people it considers the most influential in artificial intelligence across four categories: Leaders, Innovators, Shapers and Thinkers. Ten Indians and people of Indian origin feature on TIME's 20…"
+        },
+        {
+          "title": "Meta’s Sandhya Devanathan to join OpenAI; IT stocks rally",
+          "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/metas-sandhya-devanathan-to-join-openai-it-stocks-rally/articleshow/133592307.cms",
+          "source": "ET Tech",
+          "summary": "Meta’s India and South East Asia head Sandhya Devanathan is departing after 10 years to join OpenAI. This and more in today’s ETtech Top 5."
+        },
+        {
+          "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+          "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
           "source": "TechCrunch AI",
-          "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers."
+          "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
         },
         {
-          "title": "NITI Aayog Proposes Skilling Overhaul With Outcome-Linked Financing Model",
-          "url": "https://inc42.com/buzz/niti-aayog-proposes-skilling-overhaul-with-outcome-linked-financing-model/",
-          "source": "Inc42",
-          "summary": "In a bid to address persistent gaps in India’s labour market, NITI Aayog has proposed linking government funding for skilling…"
-        },
-        {
-          "title": "As AI agents go rogue, cyber insurers are adapting their policies",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/as-ai-agents-go-rogue-cyber-insurers-are-adapting-their-policies/articleshow/133566365.cms",
+          "title": "China's Tencent releases new open-source AI model for coding, research tasks",
+          "url": "https://economictimes.indiatimes.com/tech/technology/chinas-tencent-releases-new-open-source-ai-model-for-coding-research-tasks/articleshow/133588448.cms",
           "source": "ET Tech",
-          "summary": "Insurers, including MSIG, QBE and Beazley, are reviewing traditional cyber policies and adapting their language to account for emerging risks posed by such systems taking on more autonomous tasks, according to eight executives at major companies, and analysts."
+          "summary": "The model, called Hy4 preview, uses a \"mixture-of-experts\" ​design with 770 billion parameters in total, Tencent said, although only about ​49 billion are used ⁠for any ‌given text request."
+        },
+        {
+          "title": "Meta's Sandhya Devanathan exits after decade-long stint, to join OpenAI",
+          "url": "https://economictimes.indiatimes.com/tech/technology/meta-executive-sandhya-devanathan-departs-after-decade-long-stint-at-tech-giant/articleshow/133587357.cms",
+          "source": "ET Tech",
+          "summary": "Devanathan joined Meta in 2016 when the company's Singapore office had roughly 300 employees. Over her tenure, she worked across the ecommerce and gaming sectors in APAC, leading teams across India and Southeast Asia."
+        },
+        {
+          "title": "Amaravati to get India’s first quantum-AI university",
+          "url": "https://economictimes.indiatimes.com/tech/startups/amaravati-to-get-indias-first-quantum-ai-university/articleshow/133587210.cms",
+          "source": "ET Tech",
+          "summary": "The 8.5-acre campus will be funded through a grant from the Ministry of Electronics and Information Technology (MeitY). Classes are expected to begin from September 2026 at a temporary facility at Acharya Nagarjuna University in Guntur, before shifting to the permanent Amarava…"
         }
       ]
     }
