@@ -1,6 +1,6 @@
 {
-  "weekOf": "2026-08-24 to 2026-08-30",
-  "generated": "2026-08-30T10:53:01.461Z",
+  "weekOf": "2026-08-25 to 2026-08-31",
+  "generated": "2026-08-31T12:05:38.636Z",
   "intro": "70 AI items this week (33 India-relevant) across 9 sources.",
   "sections": [
     {
@@ -86,18 +86,30 @@
           "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
           "source": "TechCrunch AI",
           "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”"
-        },
-        {
-          "title": "Nvidia closes in on Hugging Face acquisition",
-          "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-          "source": "TechCrunch AI",
-          "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business."
         }
       ]
     },
     {
       "heading": "Industry & Research",
       "items": [
+        {
+          "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+          "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+          "source": "TechCrunch AI",
+          "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere."
+        },
+        {
+          "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+          "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+          "source": "TechCrunch AI",
+          "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have …"
+        },
+        {
+          "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+          "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+          "source": "TechCrunch AI",
+          "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
+        },
         {
           "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
           "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
@@ -115,24 +127,6 @@
           "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
           "source": "TechCrunch AI",
           "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom."
-        },
-        {
-          "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-          "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-          "source": "TechCrunch AI",
-          "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
-        },
-        {
-          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-          "source": "TechCrunch AI",
-          "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington."
-        },
-        {
-          "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-          "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-          "source": "Hugging Face",
-          "summary": ""
         }
       ]
     },
@@ -140,52 +134,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "AssessPrep turns test scores into data schools can use; VC inflow into startups sees marginal rise",
-          "url": "https://yourstory.com/2026/08/assessprep-data-schools-can-use-marginal-rise-in-vc-inflow",
-          "source": "YourStory",
-          "summary": "AssessPrep uses AI to create, grade, and analyse tests, helping schools see where students are struggling, and not just what they scored. Venture capital funding into Indian startups rose marginally in the last week of August."
-        },
-        {
-          "title": "Myntra Tech Threads 2026 brings brands together to discuss tech-led fashion, beauty and lifestyle commerce",
-          "url": "https://yourstory.com/2026/08/myntra-tech-threads-2026-brings-brands-together-discuss-tech-led-fashion-commerce",
-          "source": "YourStory",
-          "summary": "Myntra’s flagship brand conclave featured discussions on AI, personalization, creator-led commerce, and faster fulfilment, along with Myntra’s latest technology offerings for brands and shoppers. Myntra brought together leading fashion, beauty, and lifestyle brands at its flag…"
-        },
-        {
-          "title": "Andreessen Horowitz raises $1.1 billion for AI infrastructure fund",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund/articleshow/133603547.cms",
+          "title": "Soitec locks customers into multi-year deals as AI wafer demand surges",
+          "url": "https://economictimes.indiatimes.com/tech/technology/soitec-locks-customers-into-multi-year-deals-as-ai-wafer-demand-surges/articleshow/133650961.cms",
           "source": "ET Tech",
-          "summary": "The “Machine Age Fund” will invest in AI computer infrastructure such as chips, memory, networking and storage, the firm said in a blog post on Friday, and will also include data centers, robotics and home appliances."
+          "summary": "Soitec told investors last month that photonics-SOI revenue would more than double this ‌financial year from slightly ⁠above $100 ⁠million, without saying whether that was a base case or a ceiling. That implies more than $200 million, which Remont now calls \"absolutely a floor.\""
         },
         {
-          "title": "Can a cheek swab screen for 7,442 genetic disorders?",
-          "url": "https://yourstory.com/2026/08/can-a-cheek-swab-screen-for-7442-genetic-disorders",
+          "title": "AI-driven cyber risk is top concern for global financial stability, watchdog says",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-driven-cyber-risk-is-top-concern-for-global-financial-stability-watchdog-says/articleshow/133650851.cms",
+          "source": "ET Tech",
+          "summary": "In a letter to G20 finance ministers and central bank ​governors ahead of meetings this week, Bailey, who also serves as the Bank ​of England governor, said many countries do not have systems in place to manage the deployment of advanced artificial intelligence models."
+        },
+        {
+          "title": "Govt notifies Rs 1,27,500-cr Semicon 2.0",
+          "url": "https://yourstory.com/2026/08/government-notifies-rs-127l-cr-semicon-20-eligibility-norms-sops",
           "source": "YourStory",
-          "summary": "SugarStrings says its proprietary machine learning-based crawler identifies novel mutations with 94.89% accuracy, allowing it to analyse genetic data across more diverse populations."
+          "summary": "The move comes at a time when semiconductors have emerged as a critical strategic resource globally, with the AI boom driving unprecedented demand for advanced chips and memory."
         },
         {
-          "title": "IndiGo Ventures backs sovereign AI firm Sarvam in ongoing Series B funding round",
-          "url": "https://economictimes.indiatimes.com/tech/funding/indigo-ventures-backs-sovereign-ai-firm-sarvam-in-ongoing-series-b-funding-round/articleshow/133602926.cms",
-          "source": "ET Tech",
-          "summary": "The investment by the corporate venture capital arm of IndiGo builds on an existing relationship between the two entities. Both companies previously collaborated to deploy artificial intelligence technologies aimed at enhancing passenger experience, assisting airline staff, an…"
-        },
-        {
-          "title": "Why logistics AI is becoming the bext big bet for investors",
-          "url": "https://yourstory.com/2026/08/why-logistics-ai-is-becoming-the-bext-big-bet-for-investors-",
+          "title": "From theory to practice: building customer agents with Google's no-code tools",
+          "url": "https://yourstory.com/2026/08/-theory-practice-building-customer-agents-googles-no-code-tools",
           "source": "YourStory",
-          "summary": "AI can read messages, calls, GPS signals, invoices and delivery documents; turn them into structured decisions; and act on them, moving logistics from a system of record to a system of action."
+          "summary": "Join Google Cloud's AI experts for a live, 30-minute session on building and deploying generative AI customer agents in minutes, not months."
         },
         {
-          "title": "Marvell selloff deepens as investors seek clarity on Google AI deal payoff",
-          "url": "https://economictimes.indiatimes.com/tech/technology/marvell-selloff-deepens-as-investors-seek-clarity-on-google-ai-deal-payoff/articleshow/133602463.cms",
+          "title": "Europe expands AI computing network with €390 million order from France's Bull",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/europe-expands-ai-computing-network-with-390-million-order-from-frances-bull/articleshow/133645491.cms",
           "source": "ET Tech",
-          "summary": "Marvell has become a market darling fueled by the AI spending boom as Big Tech races to adopt custom chips for greater cost efficiency and performance, powering ‌its shares ⁠to nearly ⁠triple this year."
+          "summary": "The European Union's supercomputing body EuroHPC selected Bull to ​build LUMI-AI, the sixth machine ordered under its AI Factories programme. The system is ​a new supercomputer to be installed alongside the existing LUMI machine at Finland's supercomputing centre. It is expect…"
         },
         {
-          "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
-          "url": "https://economictimes.indiatimes.com/tech/technology/openai-to-end-partnership-with-spacexs-cursor/articleshow/133602403.cms",
+          "title": "ESDS IPO Subscribed 8X On Day 2, NII Portion Booked 22X",
+          "url": "https://inc42.com/buzz/esds-ipo-subscribed-8x-on-day-2-nii-portion-booked-22x/",
+          "source": "Inc42",
+          "summary": "Enterprise cloud and AI company ESDS Software Solution’s IPO was subscribed more than eight times within the first two hours…"
+        },
+        {
+          "title": "French ​chip materials maker Soitec locks customers into multi-year deals as AI wafer demand surges",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-chip-materials-maker-soitec-locks-customers-into-multi-year-deals-as-ai-wafer-demand-surges/articleshow/133642503.cms",
           "source": "ET Tech",
-          "summary": "OpenAI ‌said ​it ​was ⁠not confident that SpaceX ​would use its technology \"within ​our terms of service.\""
+          "summary": "Demand for silicon photonics has surged as hyperscalers increasingly use optical connections to move data inside AI infrastructure, where copper links are becoming less attractive because of power and performance constraints."
+        },
+        {
+          "title": "OpenAI issued warrants worth $5.5 billion in SB Energy, WSJ reports",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-issued-warrants-worth-5-5-billion-in-sb-energy-wsj-reports/articleshow/133641894.cms",
+          "source": "ET Tech",
+          "summary": "​OpenAI ​was issued ​warrants worth an ‌estimated $5.5 ⁠billion ⁠in ​power infrastructure firm ​SB Energy, the ​Wall ⁠Street Journal ‌reported ​on ​Sunday, ⁠citing draft IPO ​documents reviewed ​by the Journal."
         }
       ]
     }
