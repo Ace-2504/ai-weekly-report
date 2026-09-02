@@ -1,107 +1,114 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "top": {
-    "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
-    "url": "https://arxiv.org/abs/2608.28590",
+    "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+    "url": "https://arxiv.org/abs/2609.00002",
     "source": "arXiv cs.AI",
-    "published": "2026-09-01T04:00:00.000Z",
-    "summary": "arXiv:2608.28590v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance depends critically on the agent harness that represents tasks, manages execution state, constrains outpu…"
+    "published": "2026-09-02T04:00:00.000Z",
+    "summary": "arXiv:2609.00002v1 Announce Type: new Abstract: World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the model must learn symbolic action effects from serialized state descriptions, but the role of serializatio…"
   },
   "topIndia": {
-    "title": "US to urge hands-off AI regulation at G-20, official says",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-urge-hands-off-ai-regulation-at-g-20-official-says/articleshow/133677167.cms",
+    "title": "Dell again lifts annual forecasts as AI demand powers record results",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/dell-again-lifts-annual-forecasts-as-ai-demand-powers-record-results/articleshow/133703803.cms",
     "source": "ET Tech",
-    "published": "2026-09-01T10:10:59.000Z",
-    "summary": "Leaders are convening at a key moment in the AI sector's development and the global debate over how to govern it, and as the US faces an increasing threat from China for AI supremacy."
+    "published": "2026-09-02T08:21:47.000Z",
+    "summary": "Dell raised its annual revenue outlook to $192 billion from $167 billion and adjusted earnings per share forecast to $25.50 from its earlier expectations of $17.90. The company, whose shares have more than tripled this year, now expects fiscal 2027 revenue for AI-optimized ser…"
   },
   "headlines": [
     {
-      "title": "Expert-validated STEM QA",
-      "url": "https://arxiv.org/abs/2608.28591",
+      "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+      "url": "https://arxiv.org/abs/2609.00003",
       "source": "arXiv cs.AI",
-      "published": "2026-09-01T04:00:00.000Z"
+      "published": "2026-09-02T04:00:00.000Z"
     },
     {
-      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
-      "url": "https://arxiv.org/abs/2608.28592",
+      "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+      "url": "https://arxiv.org/abs/2609.00004",
       "source": "arXiv cs.AI",
-      "published": "2026-09-01T04:00:00.000Z"
+      "published": "2026-09-02T04:00:00.000Z"
     },
     {
-      "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
-      "url": "https://arxiv.org/abs/2608.28593",
+      "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
+      "url": "https://arxiv.org/abs/2609.00005",
       "source": "arXiv cs.AI",
-      "published": "2026-09-01T04:00:00.000Z"
+      "published": "2026-09-02T04:00:00.000Z"
     },
     {
-      "title": "From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics",
-      "url": "https://arxiv.org/abs/2608.28594",
+      "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+      "url": "https://arxiv.org/abs/2609.00012",
       "source": "arXiv cs.AI",
-      "published": "2026-09-01T04:00:00.000Z"
+      "published": "2026-09-02T04:00:00.000Z"
     },
     {
-      "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
-      "url": "https://arxiv.org/abs/2608.28595",
+      "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+      "url": "https://arxiv.org/abs/2609.00015",
       "source": "arXiv cs.AI",
-      "published": "2026-09-01T04:00:00.000Z"
+      "published": "2026-09-02T04:00:00.000Z"
     },
     {
-      "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences",
-      "url": "https://arxiv.org/abs/2608.28596",
+      "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
+      "url": "https://arxiv.org/abs/2609.00018",
       "source": "arXiv cs.AI",
-      "published": "2026-09-01T04:00:00.000Z"
+      "published": "2026-09-02T04:00:00.000Z"
     },
     {
-      "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
-      "url": "https://arxiv.org/abs/2608.28597",
+      "title": "UI-Venus-2 Technical Report",
+      "url": "https://arxiv.org/abs/2609.00028",
       "source": "arXiv cs.AI",
-      "published": "2026-09-01T04:00:00.000Z"
+      "published": "2026-09-02T04:00:00.000Z"
     },
     {
-      "title": "CDPR: Counterfactual Advantage-based Credit Assignment for Cost-Aware Sequential Medical Diagnosis",
-      "url": "https://arxiv.org/abs/2608.28599",
+      "title": "EULER: Exploring Underused Links with Evidence-Checked Return for Multi-Agent Mathematical Discovery",
+      "url": "https://arxiv.org/abs/2609.00032",
       "source": "arXiv cs.AI",
-      "published": "2026-09-01T04:00:00.000Z"
+      "published": "2026-09-02T04:00:00.000Z"
     },
     {
-      "title": "SHAPE of Chain-of-Thought in Math Reasoning",
-      "url": "https://arxiv.org/abs/2608.28600",
+      "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
+      "url": "https://arxiv.org/abs/2609.00071",
       "source": "arXiv cs.AI",
-      "published": "2026-09-01T04:00:00.000Z"
+      "published": "2026-09-02T04:00:00.000Z"
     },
     {
-      "title": "Leveraging Generative AI to Design Accessible Interactive Visualizations for Undergraduate Mathematics: A Six-Phase Workflow",
-      "url": "https://arxiv.org/abs/2608.28601",
+      "title": "MiNER: Fine-Tuned Biomedical Natural Language Processing for Malaria Disease Entity Recognition in Clinical Texts",
+      "url": "https://arxiv.org/abs/2609.00073",
       "source": "arXiv cs.AI",
-      "published": "2026-09-01T04:00:00.000Z"
+      "published": "2026-09-02T04:00:00.000Z"
     },
     {
-      "title": "Integrating Triaxial IMU Sensors and Ensemble Learning for Effective Parkinson Disease Severity Classification",
-      "url": "https://arxiv.org/abs/2608.28602",
+      "title": "AI Morbidity and Mortality: A Framework for Clinical AI Failure Review",
+      "url": "https://arxiv.org/abs/2609.00076",
       "source": "arXiv cs.AI",
-      "published": "2026-09-01T04:00:00.000Z"
+      "published": "2026-09-02T04:00:00.000Z"
     },
     {
-      "title": "C3-UniMM: Causal Cycle-Consistent Unified Multimodal Modeling via Super Alignment and Shared Decoding Space",
-      "url": "https://arxiv.org/abs/2608.28603",
+      "title": "Different representation learning objectives recover distinct latent structures from the same psychometric data",
+      "url": "https://arxiv.org/abs/2609.00100",
       "source": "arXiv cs.AI",
-      "published": "2026-09-01T04:00:00.000Z"
+      "published": "2026-09-02T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Explainable Artificial Intelligence (XAI) in Computational Pathology: Definitions, Taxonomy, and Recommendations",
-      "url": "https://arxiv.org/abs/2608.28820",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-01T04:00:00.000Z",
-      "summary": "arXiv:2608.28820v1 Announce Type: new Abstract: Computational pathology (CompPath) is transforming medicine by leveraging artificial intelligence (AI) algorithms to support diagnosis, prognosis, and treatment prediction from gigapixel whole-slide images. Clinical adoption is p…"
+      "title": "Anthropic unveils Claude Fable 5.1 and Mythos 5.1 for coding and knowledge work",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-fable-5-1-and-mythos-5-1-for-coding-and-knowledge-work/articleshow/133698083.cms",
+      "source": "ET Tech",
+      "published": "2026-09-02T04:42:59.000Z",
+      "summary": "Artificial intelligence company Anthropic announced the launch of Claude Fable 5.1 and Claude Mythos 5.1, describing them as the world's most advanced models for coding and knowledge work."
     },
     {
-      "title": "GreenBench: Benchmarking Energy Efficiency and Carbon Footprint of Open-Source LLM Inference on Apple Silicon",
-      "url": "https://arxiv.org/abs/2608.28667",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-01T04:00:00.000Z",
-      "summary": "arXiv:2608.28667v1 Announce Type: cross Abstract: The rapid proliferation of Large Language Models (LLMs) has raised concerns about their environmental impact during inference. While Green AI research has focused on datacenter GPUs and embedded platforms, the energy profile of…"
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-01T15:51:55.000Z",
+      "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase."
+    },
+    {
+      "title": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
+      "url": "https://economictimes.indiatimes.com/tech/technology/apples-new-ceo-john-ternus-takes-over-from-tim-cook-after-15-years/articleshow/133682165.cms",
+      "source": "ET Tech",
+      "published": "2026-09-01T12:58:58.000Z",
+      "summary": "The transition to a new CEO comes at a pivotal time for Apple. Artificial intelligence has unleashed the greatest upheaval within the industry since Steve Jobs unveiled the first iPhone in 2007. Apple has gotten off to a rough start in AI after stumbling in its efforts to deli…"
     }
   ],
   "people": [

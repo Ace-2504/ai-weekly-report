@@ -1,0 +1,609 @@
+{
+  "daily": {
+    "date": "2026-09-02",
+    "top": {
+      "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+      "url": "https://arxiv.org/abs/2609.00002",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-02T04:00:00.000Z",
+      "summary": "arXiv:2609.00002v1 Announce Type: new Abstract: World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the model must learn symbolic action effects from serialized state descriptions, but the role of serializatio…"
+    },
+    "topIndia": {
+      "title": "Dell again lifts annual forecasts as AI demand powers record results",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/dell-again-lifts-annual-forecasts-as-ai-demand-powers-record-results/articleshow/133703803.cms",
+      "source": "ET Tech",
+      "published": "2026-09-02T08:21:47.000Z",
+      "summary": "Dell raised its annual revenue outlook to $192 billion from $167 billion and adjusted earnings per share forecast to $25.50 from its earlier expectations of $17.90. The company, whose shares have more than tripled this year, now expects fiscal 2027 revenue for AI-optimized ser…"
+    },
+    "headlines": [
+      {
+        "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+        "url": "https://arxiv.org/abs/2609.00003",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-02T04:00:00.000Z"
+      },
+      {
+        "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+        "url": "https://arxiv.org/abs/2609.00004",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-02T04:00:00.000Z"
+      },
+      {
+        "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
+        "url": "https://arxiv.org/abs/2609.00005",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-02T04:00:00.000Z"
+      },
+      {
+        "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+        "url": "https://arxiv.org/abs/2609.00012",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-02T04:00:00.000Z"
+      },
+      {
+        "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+        "url": "https://arxiv.org/abs/2609.00015",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-02T04:00:00.000Z"
+      },
+      {
+        "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
+        "url": "https://arxiv.org/abs/2609.00018",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-02T04:00:00.000Z"
+      },
+      {
+        "title": "UI-Venus-2 Technical Report",
+        "url": "https://arxiv.org/abs/2609.00028",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-02T04:00:00.000Z"
+      },
+      {
+        "title": "EULER: Exploring Underused Links with Evidence-Checked Return for Multi-Agent Mathematical Discovery",
+        "url": "https://arxiv.org/abs/2609.00032",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-02T04:00:00.000Z"
+      },
+      {
+        "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
+        "url": "https://arxiv.org/abs/2609.00071",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-02T04:00:00.000Z"
+      },
+      {
+        "title": "MiNER: Fine-Tuned Biomedical Natural Language Processing for Malaria Disease Entity Recognition in Clinical Texts",
+        "url": "https://arxiv.org/abs/2609.00073",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-02T04:00:00.000Z"
+      },
+      {
+        "title": "AI Morbidity and Mortality: A Framework for Clinical AI Failure Review",
+        "url": "https://arxiv.org/abs/2609.00076",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-02T04:00:00.000Z"
+      },
+      {
+        "title": "Different representation learning objectives recover distinct latent structures from the same psychometric data",
+        "url": "https://arxiv.org/abs/2609.00100",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-02T04:00:00.000Z"
+      }
+    ],
+    "events": [
+      {
+        "title": "Anthropic unveils Claude Fable 5.1 and Mythos 5.1 for coding and knowledge work",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-fable-5-1-and-mythos-5-1-for-coding-and-knowledge-work/articleshow/133698083.cms",
+        "source": "ET Tech",
+        "published": "2026-09-02T04:42:59.000Z",
+        "summary": "Artificial intelligence company Anthropic announced the launch of Claude Fable 5.1 and Claude Mythos 5.1, describing them as the world's most advanced models for coding and knowledge work."
+      },
+      {
+        "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+        "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+        "source": "TechCrunch AI",
+        "published": "2026-09-01T15:51:55.000Z",
+        "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase."
+      },
+      {
+        "title": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
+        "url": "https://economictimes.indiatimes.com/tech/technology/apples-new-ceo-john-ternus-takes-over-from-tim-cook-after-15-years/articleshow/133682165.cms",
+        "source": "ET Tech",
+        "published": "2026-09-01T12:58:58.000Z",
+        "summary": "The transition to a new CEO comes at a pivotal time for Apple. Artificial intelligence has unleashed the greatest upheaval within the industry since Steve Jobs unveiled the first iPhone in 2007. Apple has gotten off to a rough start in AI after stumbling in its efforts to deli…"
+      }
+    ],
+    "people": [
+      {
+        "name": "Sam Altman",
+        "org": "OpenAI",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-press-g20-on-light-touch-ai-regulation/articleshow/133668263.cms",
+        "article": "US to press G20 on light-touch AI regulation",
+        "source": "ET Tech"
+      },
+      {
+        "name": "Demis Hassabis",
+        "org": "Google DeepMind",
+        "link": "https://x.com/demishassabis",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Dario Amodei",
+        "org": "Anthropic",
+        "link": "https://www.darioamodei.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Yann LeCun",
+        "org": "Meta · world models",
+        "link": "https://x.com/ylecun",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Jensen Huang",
+        "org": "NVIDIA",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-press-g20-on-light-touch-ai-regulation/articleshow/133668263.cms",
+        "article": "US to press G20 on light-touch AI regulation",
+        "source": "ET Tech"
+      },
+      {
+        "name": "Andrej Karpathy",
+        "org": "AI educator",
+        "link": "https://karpathy.ai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Sundar Pichai",
+        "org": "Google",
+        "link": "https://x.com/sundarpichai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Mira Murati",
+        "org": "Thinking Machines",
+        "link": "https://x.com/miramurati",
+        "article": null,
+        "source": "Profile"
+      }
+    ]
+  },
+  "weekly": {
+    "weekOf": "2026-08-27 to 2026-09-02",
+    "generated": "2026-09-02T10:08:26.457Z",
+    "intro": "511 AI items this week (33 India-relevant) across 10 sources.",
+    "sections": [
+      {
+        "heading": "Large Language Models",
+        "items": [
+          {
+            "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+            "url": "https://arxiv.org/abs/2609.00002",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00002v1 Announce Type: new Abstract: World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the model must learn symbolic action effects from serialized state descriptions, but the role of serializatio…"
+          },
+          {
+            "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+            "url": "https://arxiv.org/abs/2609.00003",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00003v1 Announce Type: new Abstract: Machine unlearning studies the removal of knowledge from an AI model, making the system forget a concept it previously learned. Despite rapid progress in generative machine unlearning, the unintended degradation of semantically r…"
+          },
+          {
+            "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+            "url": "https://arxiv.org/abs/2609.00012",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00012v1 Announce Type: new Abstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and…"
+          },
+          {
+            "title": "AI Morbidity and Mortality: A Framework for Clinical AI Failure Review",
+            "url": "https://arxiv.org/abs/2609.00076",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00076v1 Announce Type: new Abstract: Clinical artificial intelligence is increasingly embedded in real-world care, yet existing safety mechanisms are poorly suited to reconstructing and learning from individual AI-related errors and near-misses. Aggregate model moni…"
+          },
+          {
+            "title": "Recursive Criticality of AI Self-Improvement",
+            "url": "https://arxiv.org/abs/2609.00137",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00137v1 Announce Type: new Abstract: AI is increasingly used in the R\\&D process that produces future AI systems. We study the conditions under which this feedback becomes self-amplifying. Our model describes how the rate of AI capability growth depends on baseline …"
+          },
+          {
+            "title": "IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training",
+            "url": "https://arxiv.org/abs/2609.00161",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00161v1 Announce Type: new Abstract: World models have made remarkable progress in action-conditioned future prediction for embodied agents, yet still struggle to model physically plausible interactions. Existing approaches address this limitation by constraining th…"
+          }
+        ]
+      },
+      {
+        "heading": "Multimodal & Media",
+        "items": [
+          {
+            "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
+            "url": "https://arxiv.org/abs/2609.00005",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00005v1 Announce Type: new Abstract: Financial scams targeting older adults increasingly occur through text and voice channels such as email, SMS, and phone calls, unfolding over multiple conversational turns that begin with impersonation or casual contact, escalate…"
+          },
+          {
+            "title": "UI-Venus-2 Technical Report",
+            "url": "https://arxiv.org/abs/2609.00028",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00028v1 Announce Type: new Abstract: Multimodal GUI agents have emerged as a promising paradigm for digital task automation, yet transitioning from benchmark-oriented models to dependable real-world applications remains challenging due to limited environment coverag…"
+          },
+          {
+            "title": "SlideBank: A Persistent Hierarchical Evidence Bank for Consistent Whole-Slide Reasoning",
+            "url": "https://arxiv.org/abs/2609.00342",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00342v1 Announce Type: new Abstract: Whole-slide images (WSIs) are challenging for vision-language reasoning because diagnostically relevant morphology is sparse, heterogeneous, and distributed across gigapixel-scale images and multiple spatial resolutions. Existing…"
+          },
+          {
+            "title": "Vision Is Not Overhead: One-Pass Block Drafting for Lossless Speculative Decoding in Vision-Language Models",
+            "url": "https://arxiv.org/abs/2609.00355",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00355v1 Announce Type: new Abstract: Speculative decoding accelerates generation without changing its output, yet on vision-language models (VLMs) it has been caught in a self-defeating cycle. The drafter stays autoregressive, so it must stay small. A small drafter …"
+          },
+          {
+            "title": "Conversation Coach: A Voice-enabled AI System that Helps Practice Difficult Workplace Conversations",
+            "url": "https://arxiv.org/abs/2609.00441",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00441v1 Announce Type: new Abstract: Effective manager-employee communication is critical for retaining high performers and developing underperformers, yet training managers in these skills remains costly. Text-based chatbots offer a scalable approach but cannot pro…"
+          },
+          {
+            "title": "DramaChain Bench: An End-to-End Benchmark for Short-Drama Generation",
+            "url": "https://arxiv.org/abs/2609.00646",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00646v1 Announce Type: new Abstract: Commercial short-drama production follows a multi-stage chain: script, storyboard, keyframe imagery, shot-level video, and the finished short drama. Most existing benchmarks evaluate solely the video-generation stage using pre-au…"
+          }
+        ]
+      },
+      {
+        "heading": "Developer Tools & Agents",
+        "items": [
+          {
+            "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+            "url": "https://arxiv.org/abs/2609.00015",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00015v1 Announce Type: new Abstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple agents, planners, controllers, and execution backends operate over the same user or enterprise environm…"
+          },
+          {
+            "title": "EULER: Exploring Underused Links with Evidence-Checked Return for Multi-Agent Mathematical Discovery",
+            "url": "https://arxiv.org/abs/2609.00032",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00032v1 Announce Type: new Abstract: Mathematical communities work with different objects, invariants, and tools, so transferring a problem across them is expensive and often skipped. We present EULER, a multi-agent system that takes such a transfer--a bridge--as it…"
+          },
+          {
+            "title": "Deploying and Evaluating a Smart-Agriculture Agentic Engine for Full-Season Soybean Farm Operations",
+            "url": "https://arxiv.org/abs/2609.00106",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00106v1 Announce Type: new Abstract: This paper presents FAIRY, a full-stack smart-agriculture agent system developed for and deployed to an operating soybean research farm at Harbin Institute of Technology's smart-agriculture site. We develop FAIRY to execute and e…"
+          },
+          {
+            "title": "AI Should Not Only Be Helpful. It Should Be Contingent. Artificial Intimacy, Sycophancy, and the Future of Social Learning",
+            "url": "https://arxiv.org/abs/2609.00211",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00211v1 Announce Type: new Abstract: Conversational artificial intelligence is increasingly embedded in everyday social environments, where it functions as both an informational tool and a source of interpersonal feedback. This perspective introduces contingency, i.…"
+          },
+          {
+            "title": "ConvDeck: Conversational Paper-to-Slide Generation via Stage-Specific User Feedback",
+            "url": "https://arxiv.org/abs/2609.00226",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00226v1 Announce Type: new Abstract: Automatic academic paper-to-slide generation is inherently iterative, because creating an effective presentation requires repeated cycles of generation, critique, and revision. Recent multi-agent systems partially acknowledge thi…"
+          },
+          {
+            "title": "Learning What to Retain: Gated-Memory Routing for Efficient Collaboration in Multi-Agent LLM Systems",
+            "url": "https://arxiv.org/abs/2609.00237",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00237v1 Announce Type: new Abstract: Large language model (LLM)-based multi-agent systems tackle complex reasoning by orchestrating how multiple agents are configured and how they collaborate. A central challenge is to adapt orchestration to the evolving collaborati…"
+          }
+        ]
+      },
+      {
+        "heading": "Open Source",
+        "items": [
+          {
+            "title": "mimeo: Compiling Public Expert Corpora into Agent Skills and Testing What Transfers",
+            "url": "https://arxiv.org/abs/2609.00453",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00453v1 Announce Type: new Abstract: Giving an agent a file about a named expert can supply hard-to-find material, produce a recognizable persona, or change what the agent decides. These are different claims. We test each one. mimeo is an open-source tool that finds…"
+          },
+          {
+            "title": "Heard but Not Heeded: Paralinguistic Information Encoding and Loss in Audio-Language Models",
+            "url": "https://arxiv.org/abs/2609.00727",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00727v1 Announce Type: cross Abstract: Audio language models are designed to understand speech, yet it remains unclear whether they capture how something is said beyond what is said. We present a mechanistic analysis of paralinguistic information in four open source…"
+          },
+          {
+            "title": "Calibration is the Bottleneck: An Action-Class Diagnostic of Multi-Turn Tool-Calling",
+            "url": "https://arxiv.org/abs/2609.00949",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00949v1 Announce Type: cross Abstract: Multi-turn tool calling is a core evaluation scenario for large language model (LLM) agents. On public tool-calling benchmarks, open-weight models now approach or even surpass closed-source frontier models in aggregate accuracy…"
+          },
+          {
+            "title": "Anamnesis: An Open-Source Platform for Large-Scale Backstory-Conditioned Survey Simulation",
+            "url": "https://arxiv.org/abs/2607.10628",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2607.10628v2 Announce Type: replace-cross Abstract: We present Anamnesis, an interactive system for demographically controllable survey simulation using large language models. Open-source and designed for non-technical users/researchers, Anamnesis enables the prototyping…"
+          },
+          {
+            "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+            "url": "https://huggingface.co/blog/webgpu-kernels",
+            "source": "Hugging Face",
+            "summary": ""
+          },
+          {
+            "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+            "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+            "source": "MIT Tech Review",
+            "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into th…"
+          }
+        ]
+      },
+      {
+        "heading": "Industry & Research",
+        "items": [
+          {
+            "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+            "url": "https://arxiv.org/abs/2609.00004",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00004v1 Announce Type: new Abstract: This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, while demand-arrival periods are stochastic. Each demand occurs once within a known time window and must …"
+          },
+          {
+            "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
+            "url": "https://arxiv.org/abs/2609.00018",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00018v1 Announce Type: new Abstract: Computer science papers rely heavily on diagrams: architecture drawings, system flowcharts, and pipeline schematics that often carry more information than the text around them. There is currently no public dataset that pairs this…"
+          },
+          {
+            "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
+            "url": "https://arxiv.org/abs/2609.00071",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00071v1 Announce Type: new Abstract: Prediction error is widely used to evaluate nuisance-function estimators in causal inference, but its relationship with causal estimator performance may differ across performance measures. We studied this question in a partially …"
+          },
+          {
+            "title": "MiNER: Fine-Tuned Biomedical Natural Language Processing for Malaria Disease Entity Recognition in Clinical Texts",
+            "url": "https://arxiv.org/abs/2609.00073",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00073v1 Announce Type: new Abstract: Malaria remains a significant global health burden, necessitating continuous research efforts to understand its complex molecular mechanisms, epidemiology, and potential therapeutic interventions. Extracting essential biomedical …"
+          },
+          {
+            "title": "Different representation learning objectives recover distinct latent structures from the same psychometric data",
+            "url": "https://arxiv.org/abs/2609.00100",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00100v1 Announce Type: new Abstract: Psychometric questionnaires contain rich item-level information, yet it remains unclear whether different representation learning objectives recover the same latent organization. We investigated this question using 757 matched te…"
+          },
+          {
+            "title": "Asymmetries in Spontaneous and Instructed Deception",
+            "url": "https://arxiv.org/abs/2609.00180",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.00180v1 Announce Type: new Abstract: Large language models sometimes deceive users without being instructed to. However, much of the study on deception in models involves instructed deception. We investigated the relationship between instructed and spontaneous (unin…"
+          }
+        ]
+      },
+      {
+        "heading": "India & Subcontinent",
+        "items": [
+          {
+            "title": "Dell again lifts annual forecasts as AI demand powers record results",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/dell-again-lifts-annual-forecasts-as-ai-demand-powers-record-results/articleshow/133703803.cms",
+            "source": "ET Tech",
+            "summary": "Dell raised its annual revenue outlook to $192 billion from $167 billion and adjusted earnings per share forecast to $25.50 from its earlier expectations of $17.90. The company, whose shares have more than tripled this year, now expects fiscal 2027 revenue for AI-optimized ser…"
+          },
+          {
+            "title": "The Ad Break Comes To AI",
+            "url": "https://inc42.com/features/the-ad-break-comes-to-ai/",
+            "source": "Inc42",
+            "summary": "If you asked ChatGPT for a new phone, a family car or the best way to plan a holiday, you…"
+          },
+          {
+            "title": "Anthropic unveils Claude Fable 5.1 and Mythos 5.1 for coding and knowledge work",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-fable-5-1-and-mythos-5-1-for-coding-and-knowledge-work/articleshow/133698083.cms",
+            "source": "ET Tech",
+            "summary": "Artificial intelligence company Anthropic announced the launch of Claude Fable 5.1 and Claude Mythos 5.1, describing them as the world's most advanced models for coding and knowledge work."
+          },
+          {
+            "title": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console",
+            "url": "https://economictimes.indiatimes.com/tech/technology/palo-alto-networks-beats-quarterly-earnings-estimates-acquires-ai-platform-console/articleshow/133698016.cms",
+            "source": "ET Tech",
+            "summary": "Palo Alto Networks beat fourth-quarter ​earnings estimates on ​Tuesday and announced the acquisition of ​AI-native platform Console, saying advances in artificial intelligence are making cybersecurity a higher priority for corporate ‌technology ⁠leaders."
+          },
+          {
+            "title": "Validating FKG.in: Soundness Assessment in LLM-Augmented Indian Food Knowledge",
+            "url": "https://arxiv.org/abs/2608.29249",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.29249v2 Announce Type: replace Abstract: The online culinary ecosystem is increasingly populated by recipe content generated, modified, or summarized by Large Language Models (LLMs). While often plausible, such outputs may contain hallucinated ingredients, misrepres…"
+          },
+          {
+            "title": "Mark Zuckerberg, Elon Musk make plea at G20 for more AI data centers",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mark-zuckerberg-elon-musk-make-plea-at-g20-for-more-ai-data-centers/articleshow/133696193.cms",
+            "source": "ET Tech",
+            "summary": "Mark Zuckerberg and Elon Musk on Tuesday stressed the need for more AI data centers and the electric power needed to support them at a meeting of G20 technology ministers focused on the disruptions and opportunity brought by artificial intelligence. In separate remarks, Tesla …"
+          },
+          {
+            "title": "OpenAI says upcoming model is so capable it requires stronger guardrails",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-says-upcoming-model-is-so-capable-it-requires-stronger-guardrails/articleshow/133696056.cms",
+            "source": "ET Tech",
+            "summary": "The model, called Astra, can spot more security vulnerabilities ​than the most advanced OpenAI model publicly available today, company officials told reporters on a conference call on Tuesday. Astra also needs less computational power to accomplish those tasks."
+          },
+          {
+            "title": "South Korean finance minister nominee vows to advance AI projects",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korean-finance-minister-nominee-vows-to-advance-ai-projects/articleshow/133696016.cms",
+            "source": "ET Tech",
+            "summary": "The pledge ‌follows ⁠the government's ⁠unveiling on Tuesday of its most aggressive ​fiscal spending plan on record for next year, ​which includes creating a fund for long-term investments, to strengthen the country's technological ​edge amid the global ⁠AI race."
+          }
+        ]
+      }
+    ],
+    "careers": {
+      "note": "Demand snapshot for 2026. ML Engineer is the most in-demand AI title; agentic-AI and deep-learning skills carry the highest pay premiums; Python + one cloud is the baseline. Specialisation beats generalisation for freshers.",
+      "paths": [
+        {
+          "field": "Machine Learning Engineering",
+          "demand": "Very high",
+          "note": "#1 AI title — build, deploy & maintain models in production. Best all-round entry into AI."
+        },
+        {
+          "field": "AI / Agent Engineering (LLM apps)",
+          "demand": "Surging",
+          "note": "RAG, tool-use & multi-agent systems. ~40% of enterprise apps will embed AI agents by year-end."
+        },
+        {
+          "field": "Deep Learning / Research",
+          "demand": "High (premium pay)",
+          "note": "Neural nets for vision & speech. Highest premiums; usually needs strong maths / grad study."
+        },
+        {
+          "field": "MLOps / AI Infrastructure",
+          "demand": "High",
+          "note": "Ship & scale models on the cloud. Cloud AI certs add 20–25% to salary."
+        },
+        {
+          "field": "Data Science / Analytics",
+          "demand": "Steady",
+          "note": "Foundational, widest entry door; a reliable first step into AI."
+        },
+        {
+          "field": "Computer Vision",
+          "demand": "High",
+          "note": "Imaging, robotics, autonomous systems, medical AI."
+        },
+        {
+          "field": "NLP / LLM Engineering",
+          "demand": "Very high",
+          "note": "Powers chatbots, search & agents — the hottest application area."
+        },
+        {
+          "field": "AI Product / Solutions Architect",
+          "demand": "High (senior)",
+          "note": "5–8 yrs experience; $140k–$332k bands. Translates AI into business value."
+        },
+        {
+          "field": "AI Safety / Governance",
+          "demand": "Growing",
+          "note": "Alignment, evals, red-teaming & policy — newer but expanding fast."
+        }
+      ],
+      "fresher": [
+        {
+          "skill": "Python (NumPy, Pandas)",
+          "why": "The lingua franca of ML — non-negotiable."
+        },
+        {
+          "skill": "Maths foundations",
+          "why": "Linear algebra, probability & calculus — enough to reason about models."
+        },
+        {
+          "skill": "Core ML (scikit-learn)",
+          "why": "Regression, classification, evaluation, the ML workflow."
+        },
+        {
+          "skill": "One deep-learning framework (PyTorch)",
+          "why": "Build & train neural nets; PyTorch dominates research & jobs."
+        },
+        {
+          "skill": "LLMs: prompting + RAG basics",
+          "why": "Ship a small LLM app — the most visible skill to recruiters now."
+        },
+        {
+          "skill": "SQL + data wrangling",
+          "why": "Real AI work is mostly data; SQL is everywhere."
+        },
+        {
+          "skill": "One cloud + Git/GitHub",
+          "why": "AWS leads (~40% of postings), then Azure & GCP. Version everything."
+        },
+        {
+          "skill": "Ship a portfolio project",
+          "why": "A deployed project that solves a real problem is the #1 differentiator."
+        }
+      ],
+      "experienced": [
+        {
+          "skill": "MLOps & deployment",
+          "why": "Docker, CI/CD, monitoring, model/versioning — production is where value lives."
+        },
+        {
+          "skill": "Agentic system design",
+          "why": "Multi-agent orchestration, tool-use, evals — the surging frontier."
+        },
+        {
+          "skill": "Cloud AI at scale",
+          "why": "AWS/Azure/GCP architecture; certs add a 20–25% salary premium."
+        },
+        {
+          "skill": "LLM fine-tuning & evals",
+          "why": "Adapt, measure and harden models for a domain."
+        },
+        {
+          "skill": "Distributed training / GPU optimisation",
+          "why": "Cost & latency engineering for large models."
+        },
+        {
+          "skill": "ML system design",
+          "why": "Trade-offs across data, latency, cost & reliability at scale."
+        },
+        {
+          "skill": "Domain specialisation",
+          "why": "CV, NLP, recsys, healthcare — depth beats breadth at senior levels."
+        },
+        {
+          "skill": "AI → business translation",
+          "why": "Leading teams and tying models to measurable outcomes."
+        }
+      ]
+    },
+    "profile": {
+      "name": "Harman Singh Sandhu",
+      "handle": "Ace",
+      "blurb": "I build AI/ML projects and write about them. This site is one of them — an automated daily AI digest.",
+      "linkedin": "https://www.linkedin.com/in/harman-singh-sandhu/",
+      "github": "https://github.com/Ace-2504",
+      "devto": "https://dev.to/ace2504",
+      "repos": [
+        {
+          "name": "ai-weekly-report",
+          "desc": "My personalized AI newsletter that runs on an agentic AI",
+          "url": "https://github.com/Ace-2504/ai-weekly-report",
+          "stars": 0,
+          "language": "HTML"
+        },
+        {
+          "name": "slm-inference-benchmarks",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/slm-inference-benchmarks",
+          "stars": 0,
+          "language": "HTML"
+        },
+        {
+          "name": "ace-harness",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/ace-harness",
+          "stars": 0,
+          "language": "Python"
+        },
+        {
+          "name": "pre-training-v1-extended",
+          "desc": "125M SLM continued-pretraining (extended / e-series): corpus build, dedup, Modal training, eval.",
+          "url": "https://github.com/Ace-2504/pre-training-v1-extended",
+          "stars": 0,
+          "language": "Python"
+        },
+        {
+          "name": "slm-arena-15",
+          "desc": "15-model SLM arena — side-by-side demo across the 125M/500M/Gemma family (base/QA-SFT/RAFT/DPO/RLAIF).",
+          "url": "https://github.com/Ace-2504/slm-arena-15",
+          "stars": 0,
+          "language": "TypeScript"
+        },
+        {
+          "name": "slm-arena-13",
+          "desc": "13-model SLM arena — side-by-side demo across the 125M/500M/Gemma family.",
+          "url": "https://github.com/Ace-2504/slm-arena-13",
+          "stars": 0,
+          "language": "TypeScript"
+        }
+      ]
+    }
+  }
+}
