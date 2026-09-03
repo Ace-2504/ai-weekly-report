@@ -1,107 +1,114 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "top": {
-    "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
-    "url": "https://arxiv.org/abs/2609.00002",
+    "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+    "url": "https://arxiv.org/abs/2609.01611",
     "source": "arXiv cs.AI",
-    "published": "2026-09-02T04:00:00.000Z",
-    "summary": "arXiv:2609.00002v1 Announce Type: new Abstract: World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the model must learn symbolic action effects from serialized state descriptions, but the role of serializatio…"
+    "published": "2026-09-03T04:00:00.000Z",
+    "summary": "arXiv:2609.01611v1 Announce Type: new Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluat…"
   },
   "topIndia": {
-    "title": "Dell again lifts annual forecasts as AI demand powers record results",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/dell-again-lifts-annual-forecasts-as-ai-demand-powers-record-results/articleshow/133703803.cms",
+    "title": "If Europe's AI sovereignty relies on Mistral, 'we're doomed': French finance minister",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/if-europes-ai-sovereignty-relies-on-mistral-were-doomed-french-finance-minister/articleshow/133727541.cms",
     "source": "ET Tech",
-    "published": "2026-09-02T08:21:47.000Z",
-    "summary": "Dell raised its annual revenue outlook to $192 billion from $167 billion and adjusted earnings per share forecast to $25.50 from its earlier expectations of $17.90. The company, whose shares have more than tripled this year, now expects fiscal 2027 revenue for AI-optimized ser…"
+    "published": "2026-09-03T06:37:49.000Z",
+    "summary": "European sovereignty in artificial intelligence (AI) cannot depend on a single startup like Mistral, France's Finance Minister Roland Lescure warned on Wednesday, amid tensions between the United States and China over the technology's development. about the possibility that Mi…"
   },
   "headlines": [
     {
-      "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
-      "url": "https://arxiv.org/abs/2609.00003",
+      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+      "url": "https://arxiv.org/abs/2609.01685",
       "source": "arXiv cs.AI",
-      "published": "2026-09-02T04:00:00.000Z"
+      "published": "2026-09-03T04:00:00.000Z"
     },
     {
-      "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
-      "url": "https://arxiv.org/abs/2609.00004",
+      "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+      "url": "https://arxiv.org/abs/2609.01741",
       "source": "arXiv cs.AI",
-      "published": "2026-09-02T04:00:00.000Z"
+      "published": "2026-09-03T04:00:00.000Z"
     },
     {
-      "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
-      "url": "https://arxiv.org/abs/2609.00005",
+      "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
+      "url": "https://arxiv.org/abs/2609.01814",
       "source": "arXiv cs.AI",
-      "published": "2026-09-02T04:00:00.000Z"
+      "published": "2026-09-03T04:00:00.000Z"
     },
     {
-      "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
-      "url": "https://arxiv.org/abs/2609.00012",
+      "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+      "url": "https://arxiv.org/abs/2609.01815",
       "source": "arXiv cs.AI",
-      "published": "2026-09-02T04:00:00.000Z"
+      "published": "2026-09-03T04:00:00.000Z"
     },
     {
-      "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
-      "url": "https://arxiv.org/abs/2609.00015",
+      "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
+      "url": "https://arxiv.org/abs/2609.01834",
       "source": "arXiv cs.AI",
-      "published": "2026-09-02T04:00:00.000Z"
+      "published": "2026-09-03T04:00:00.000Z"
     },
     {
-      "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
-      "url": "https://arxiv.org/abs/2609.00018",
+      "title": "SSAKG 2.0: An Open-Source Package for Structural Associative Sequence Memory and Context-Based Retrieval",
+      "url": "https://arxiv.org/abs/2609.01849",
       "source": "arXiv cs.AI",
-      "published": "2026-09-02T04:00:00.000Z"
+      "published": "2026-09-03T04:00:00.000Z"
     },
     {
-      "title": "UI-Venus-2 Technical Report",
-      "url": "https://arxiv.org/abs/2609.00028",
+      "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+      "url": "https://arxiv.org/abs/2609.01852",
       "source": "arXiv cs.AI",
-      "published": "2026-09-02T04:00:00.000Z"
+      "published": "2026-09-03T04:00:00.000Z"
     },
     {
-      "title": "EULER: Exploring Underused Links with Evidence-Checked Return for Multi-Agent Mathematical Discovery",
-      "url": "https://arxiv.org/abs/2609.00032",
+      "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
+      "url": "https://arxiv.org/abs/2609.01861",
       "source": "arXiv cs.AI",
-      "published": "2026-09-02T04:00:00.000Z"
+      "published": "2026-09-03T04:00:00.000Z"
     },
     {
-      "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
-      "url": "https://arxiv.org/abs/2609.00071",
+      "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
+      "url": "https://arxiv.org/abs/2609.01873",
       "source": "arXiv cs.AI",
-      "published": "2026-09-02T04:00:00.000Z"
+      "published": "2026-09-03T04:00:00.000Z"
     },
     {
-      "title": "MiNER: Fine-Tuned Biomedical Natural Language Processing for Malaria Disease Entity Recognition in Clinical Texts",
-      "url": "https://arxiv.org/abs/2609.00073",
+      "title": "The Ceiling Is in the Channel: Auditing Learner Gaps and Measurement Frontiers in Clinical Prediction",
+      "url": "https://arxiv.org/abs/2609.01909",
       "source": "arXiv cs.AI",
-      "published": "2026-09-02T04:00:00.000Z"
+      "published": "2026-09-03T04:00:00.000Z"
     },
     {
-      "title": "AI Morbidity and Mortality: A Framework for Clinical AI Failure Review",
-      "url": "https://arxiv.org/abs/2609.00076",
+      "title": "Looped Transformers under the Jacobian Lens: Does the Global Workspace Survive Recurrence?",
+      "url": "https://arxiv.org/abs/2609.01924",
       "source": "arXiv cs.AI",
-      "published": "2026-09-02T04:00:00.000Z"
+      "published": "2026-09-03T04:00:00.000Z"
     },
     {
-      "title": "Different representation learning objectives recover distinct latent structures from the same psychometric data",
-      "url": "https://arxiv.org/abs/2609.00100",
+      "title": "Post-Training Ternarization of Qwen3-4B Capability, Effective Bit Budget, Storage Compression, and Deployment",
+      "url": "https://arxiv.org/abs/2609.01962",
       "source": "arXiv cs.AI",
-      "published": "2026-09-02T04:00:00.000Z"
+      "published": "2026-09-03T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+      "url": "https://arxiv.org/abs/2609.01685",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-03T04:00:00.000Z",
+      "summary": "arXiv:2609.01685v1 Announce Type: new Abstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconfigure it. In particular, if future AI systems were to exh…"
+    },
+    {
+      "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season",
+      "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-launches-ai-agent-blueprints-for-retailers-ahead-of-holiday-shopping-season/articleshow/133716627.cms",
+      "source": "ET Tech",
+      "published": "2026-09-02T17:10:30.000Z",
+      "summary": "AI-driven retail site visits now convert at a 60% ​higher rate than traffic ⁠from other ‌sources, Adobe Analytics said ​last month."
+    },
     {
       "title": "Anthropic unveils Claude Fable 5.1 and Mythos 5.1 for coding and knowledge work",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-fable-5-1-and-mythos-5-1-for-coding-and-knowledge-work/articleshow/133698083.cms",
       "source": "ET Tech",
       "published": "2026-09-02T04:42:59.000Z",
       "summary": "Artificial intelligence company Anthropic announced the launch of Claude Fable 5.1 and Claude Mythos 5.1, describing them as the world's most advanced models for coding and knowledge work."
-    },
-    {
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-01T15:51:55.000Z",
-      "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase."
     },
     {
       "title": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
@@ -115,9 +122,9 @@
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-press-g20-on-light-touch-ai-regulation/articleshow/133668263.cms",
-      "article": "US to press G20 on light-touch AI regulation",
-      "source": "ET Tech"
+      "link": "https://blog.samaltman.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Demis Hassabis",
@@ -143,8 +150,8 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-press-g20-on-light-touch-ai-regulation/articleshow/133668263.cms",
-      "article": "US to press G20 on light-touch AI regulation",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/had-benefit-of-watching-pm-modi-talk-about-ai-10-years-ago-nvidias-jensen-huang/articleshow/133724573.cms",
+      "article": "Had benefit of watching PM Modi talk about AI 10 years ago: Nvidia's Jensen Huang",
       "source": "ET Tech"
     },
     {
