@@ -1,100 +1,121 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "top": {
-    "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
-    "url": "https://arxiv.org/abs/2609.01611",
-    "source": "arXiv cs.AI",
-    "published": "2026-09-03T04:00:00.000Z",
-    "summary": "arXiv:2609.01611v1 Announce Type: new Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluat…"
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "source": "MIT Tech Review",
+    "published": "2026-09-04T09:25:19.000Z",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which …"
   },
   "topIndia": {
-    "title": "If Europe's AI sovereignty relies on Mistral, 'we're doomed': French finance minister",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/if-europes-ai-sovereignty-relies-on-mistral-were-doomed-french-finance-minister/articleshow/133727541.cms",
-    "source": "ET Tech",
-    "published": "2026-09-03T06:37:49.000Z",
-    "summary": "European sovereignty in artificial intelligence (AI) cannot depend on a single startup like Mistral, France's Finance Minister Roland Lescure warned on Wednesday, amid tensions between the United States and China over the technology's development. about the possibility that Mi…"
+    "title": "OpenAI Rolls Out GPT-6 Astra, Its ‘Most Capable Model’ Yet",
+    "url": "https://inc42.com/buzz/openai-rolls-out-gpt-6-astra-its-most-capable-model-yet/",
+    "source": "Inc42",
+    "published": "2026-09-04T09:51:10.000Z",
+    "summary": "OpenAI has launched GPT-6 Astra, its latest frontier model, in a bid to push into AI systems that can use…"
   },
   "headlines": [
     {
-      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
-      "url": "https://arxiv.org/abs/2609.01685",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-03T04:00:00.000Z"
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-04T04:21:03.000Z"
     },
     {
-      "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
-      "url": "https://arxiv.org/abs/2609.01741",
+      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2609.02981",
       "source": "arXiv cs.AI",
-      "published": "2026-09-03T04:00:00.000Z"
+      "published": "2026-09-04T04:00:00.000Z"
     },
     {
-      "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
-      "url": "https://arxiv.org/abs/2609.01814",
+      "title": "MasterControl Seventeen Every Time",
+      "url": "https://arxiv.org/abs/2609.03209",
       "source": "arXiv cs.AI",
-      "published": "2026-09-03T04:00:00.000Z"
+      "published": "2026-09-04T04:00:00.000Z"
     },
     {
-      "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
-      "url": "https://arxiv.org/abs/2609.01815",
+      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+      "url": "https://arxiv.org/abs/2609.03236",
       "source": "arXiv cs.AI",
-      "published": "2026-09-03T04:00:00.000Z"
+      "published": "2026-09-04T04:00:00.000Z"
     },
     {
-      "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
-      "url": "https://arxiv.org/abs/2609.01834",
+      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+      "url": "https://arxiv.org/abs/2609.03340",
       "source": "arXiv cs.AI",
-      "published": "2026-09-03T04:00:00.000Z"
+      "published": "2026-09-04T04:00:00.000Z"
     },
     {
-      "title": "SSAKG 2.0: An Open-Source Package for Structural Associative Sequence Memory and Context-Based Retrieval",
-      "url": "https://arxiv.org/abs/2609.01849",
+      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+      "url": "https://arxiv.org/abs/2609.03402",
       "source": "arXiv cs.AI",
-      "published": "2026-09-03T04:00:00.000Z"
+      "published": "2026-09-04T04:00:00.000Z"
     },
     {
-      "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
-      "url": "https://arxiv.org/abs/2609.01852",
+      "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
+      "url": "https://arxiv.org/abs/2609.03407",
       "source": "arXiv cs.AI",
-      "published": "2026-09-03T04:00:00.000Z"
+      "published": "2026-09-04T04:00:00.000Z"
     },
     {
-      "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
-      "url": "https://arxiv.org/abs/2609.01861",
+      "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+      "url": "https://arxiv.org/abs/2609.03416",
       "source": "arXiv cs.AI",
-      "published": "2026-09-03T04:00:00.000Z"
+      "published": "2026-09-04T04:00:00.000Z"
     },
     {
-      "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
-      "url": "https://arxiv.org/abs/2609.01873",
+      "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+      "url": "https://arxiv.org/abs/2609.03423",
       "source": "arXiv cs.AI",
-      "published": "2026-09-03T04:00:00.000Z"
+      "published": "2026-09-04T04:00:00.000Z"
     },
     {
-      "title": "The Ceiling Is in the Channel: Auditing Learner Gaps and Measurement Frontiers in Clinical Prediction",
-      "url": "https://arxiv.org/abs/2609.01909",
+      "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
+      "url": "https://arxiv.org/abs/2609.03438",
       "source": "arXiv cs.AI",
-      "published": "2026-09-03T04:00:00.000Z"
+      "published": "2026-09-04T04:00:00.000Z"
     },
     {
-      "title": "Looped Transformers under the Jacobian Lens: Does the Global Workspace Survive Recurrence?",
-      "url": "https://arxiv.org/abs/2609.01924",
+      "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
+      "url": "https://arxiv.org/abs/2609.03460",
       "source": "arXiv cs.AI",
-      "published": "2026-09-03T04:00:00.000Z"
+      "published": "2026-09-04T04:00:00.000Z"
     },
     {
-      "title": "Post-Training Ternarization of Qwen3-4B Capability, Effective Bit Budget, Storage Compression, and Deployment",
-      "url": "https://arxiv.org/abs/2609.01962",
+      "title": "AutoGraphForge: Towards Automated Graph Theory Discovery",
+      "url": "https://arxiv.org/abs/2609.03478",
       "source": "arXiv cs.AI",
-      "published": "2026-09-03T04:00:00.000Z"
+      "published": "2026-09-04T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
-      "url": "https://arxiv.org/abs/2609.01685",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-03T04:00:00.000Z",
-      "summary": "arXiv:2609.01685v1 Announce Type: new Abstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconfigure it. In particular, if future AI systems were to exh…"
+      "title": "OpenAI Rolls Out GPT-6 Astra, Its ‘Most Capable Model’ Yet",
+      "url": "https://inc42.com/buzz/openai-rolls-out-gpt-6-astra-its-most-capable-model-yet/",
+      "source": "Inc42",
+      "published": "2026-09-04T09:51:10.000Z",
+      "summary": "OpenAI has launched GPT-6 Astra, its latest frontier model, in a bid to push into AI systems that can use…"
+    },
+    {
+      "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety/articleshow/133750683.cms",
+      "source": "ET Tech",
+      "published": "2026-09-04T03:11:46.000Z",
+      "summary": "The concerns center on agentic AI, which is designed to perform tasks with ‌little to no human ⁠intervention. The ⁠promise of agents running around the clock is central to investors' confidence in the appeal of AI as a transformative technology."
+    },
+    {
+      "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny/articleshow/133750116.cms",
+      "source": "ET Tech",
+      "published": "2026-09-04T02:44:49.000Z",
+      "summary": "OpenAI on Thursday, alongside the cybersecurity initiative, also unveiled Astra, a new AI model it described as its ​most capable yet but said can ⁠at times ‌attempt to evade human monitoring."
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-03T18:01:45.000Z",
+      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
     },
     {
       "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season",
@@ -109,13 +130,6 @@
       "source": "ET Tech",
       "published": "2026-09-02T04:42:59.000Z",
       "summary": "Artificial intelligence company Anthropic announced the launch of Claude Fable 5.1 and Claude Mythos 5.1, describing them as the world's most advanced models for coding and knowledge work."
-    },
-    {
-      "title": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
-      "url": "https://economictimes.indiatimes.com/tech/technology/apples-new-ceo-john-ternus-takes-over-from-tim-cook-after-15-years/articleshow/133682165.cms",
-      "source": "ET Tech",
-      "published": "2026-09-01T12:58:58.000Z",
-      "summary": "The transition to a new CEO comes at a pivotal time for Apple. Artificial intelligence has unleashed the greatest upheaval within the industry since Steve Jobs unveiled the first iPhone in 2007. Apple has gotten off to a rough start in AI after stumbling in its efforts to deli…"
     }
   ],
   "people": [
@@ -150,8 +164,8 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/had-benefit-of-watching-pm-modi-talk-about-ai-10-years-ago-nvidias-jensen-huang/articleshow/133724573.cms",
-      "article": "Had benefit of watching PM Modi talk about AI 10 years ago: Nvidia's Jensen Huang",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-buying-artificial-intelligence-platform-hugging-face-for-13-billion/articleshow/133736454.cms",
+      "article": "Nvidia buying artificial intelligence platform Hugging Face for $13 billion",
       "source": "ET Tech"
     },
     {
