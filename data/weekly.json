@@ -1,11 +1,17 @@
 {
-  "weekOf": "2026-08-30 to 2026-09-05",
-  "generated": "2026-09-05T09:37:05.444Z",
+  "weekOf": "2026-08-31 to 2026-09-06",
+  "generated": "2026-09-06T09:52:41.547Z",
   "intro": "67 AI items this week (32 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
+        {
+          "title": "Hikers rescued after using Google Gemini for planning",
+          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+          "source": "TechCrunch AI",
+          "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
+        },
         {
           "title": "Google’s Gemini Spark can now manage your Google Photos library",
           "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
@@ -35,12 +41,6 @@
           "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
           "source": "Hugging Face",
           "summary": ""
-        },
-        {
-          "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-          "url": "https://huggingface.co/blog/train-to-paint-with-code",
-          "source": "Hugging Face",
-          "summary": ""
         }
       ]
     },
@@ -65,6 +65,12 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
+          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+        },
+        {
           "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
           "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
           "source": "TechCrunch AI",
@@ -81,18 +87,18 @@
           "url": "https://huggingface.co/blog/funes",
           "source": "Hugging Face",
           "summary": ""
+        },
+        {
+          "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
     {
       "heading": "Open Source",
       "items": [
-        {
-          "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-          "source": "TechCrunch AI",
-          "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
-        },
         {
           "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
           "url": "https://huggingface.co/blog/webgpu-kernels",
@@ -110,6 +116,12 @@
     {
       "heading": "Industry & Research",
       "items": [
+        {
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+          "source": "TechCrunch AI",
+          "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+        },
         {
           "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
           "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -139,18 +151,30 @@
           "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
           "source": "Ars Technica",
           "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use."
-        },
-        {
-          "title": "What will Apple’s John Ternus era look like?",
-          "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-          "source": "TechCrunch AI",
-          "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. …"
         }
       ]
     },
     {
       "heading": "India & Subcontinent",
       "items": [
+        {
+          "title": "Sustainability, livelihood, AI: test your business creativity with Edition 248 of our weekly quiz!",
+          "url": "https://yourstory.com/2026/09/sustainability-livelihood-ai-business-creativity-entrepreneur-quiz-education",
+          "source": "YourStory",
+          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 248th quiz. Ready?"
+        },
+        {
+          "title": "AI gets smarter, but can we control what’s next?",
+          "url": "https://yourstory.com/2026/09/ai-gets-smarter-but-can-we-control-whats-next",
+          "source": "YourStory",
+          "summary": "A series of critical safety lapses has heightened concerns over the strength and opacity of advanced AI models."
+        },
+        {
+          "title": "TCS HyperVault To Invest ₹70,000 Cr To Set Up AI Data Centre in Hyderabad",
+          "url": "https://inc42.com/buzz/tcs-hypervault-to-invest-%e2%82%b970000-cr-to-set-up-ai-data-centre-in-hyderabad/",
+          "source": "Inc42",
+          "summary": "Tata Consultancy Services’ (TCS) data centre subsidiary, HyperVault, and its partners will invest up to ₹70,000 Cr to build and…"
+        },
         {
           "title": "Elon Musk clashes with Chess.com online over whether AI will 'solve' chess",
           "url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-clashes-with-chess-com-online-over-whether-ai-will-solve-chess/articleshow/133792589.cms",
@@ -180,24 +204,6 @@
           "url": "https://yourstory.com/2026/09/microsofts-puneet-chandok-on-navigating-the-modern-tech-race",
           "source": "YourStory",
           "summary": "In an exclusive interaction with YourStory, Microsoft India & South Asia President Puneet Chandok outlines a practical blueprint for how knowledge workers and enterprises can navigate rapid AI adoption."
-        },
-        {
-          "title": "KRAFTON To Invest $250 Mn In Indian AI & Deeptech Startups",
-          "url": "https://inc42.com/buzz/krafton-to-invest-250-mn-in-indian-ai-deeptech-startups/",
-          "source": "Inc42",
-          "summary": "Doubling down on India, South Korean gaming giant KRAFTON plans to invest an additional $250 Mn (₹3,300 Cr) in Indian…"
-        },
-        {
-          "title": "DeepSeek plans big Huawei AI chip order to power new data centre",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center/articleshow/133776211.cms",
-          "source": "ET Tech",
-          "summary": "The startup doesn’t currently plan to use the 950DT chips for training, one of the people said, even though Huawei designed and marketed these processors to serve that more demanding function. While DeepSeek tried to train its previous models on Huawei chips, it has so far rel…"
-        },
-        {
-          "title": "Elon Musk's xAI loses court bid to block Minnesota's AI 'nudification' ban",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musks-xai-loses-court-bid-to-block-minnesotas-ai-nudification-ban/articleshow/133770351.cms",
-          "source": "ET Tech",
-          "summary": "U.S. ​District ​Judge Donovan ⁠Frank rejected xAI's request ​for a preliminary injunction ​against the law, which took effect on Aug. ‌1 and prohibits website operators, ​software ​developers ⁠and others from allowing users to \"nudify\" images of ​identifiable people using AI t…"
         }
       ]
     }
