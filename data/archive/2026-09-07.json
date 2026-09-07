@@ -9,11 +9,11 @@
       "summary": "arXiv:2609.04239v1 Announce Type: new Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial forecasting. Recent TSFMs achieve strong zero-shot performance through large-…"
     },
     "topIndia": {
-      "title": "Navana.ai Raises ₹40 Cr To Scale Voice AI Platform",
-      "url": "https://inc42.com/buzz/navana-ai-raises-%e2%82%b940-cr-to-scale-voice-ai-platform/",
-      "source": "Inc42",
-      "published": "2026-09-07T08:23:08.000Z",
-      "summary": "Voice AI startup Navana.ai has raised ₹40 Cr ($4.2 Mn) in a Series A funding round led by existing investor…"
+      "title": "Karnataka plans immediate AI skilling ahead of proposed AI University",
+      "url": "https://yourstory.com/2026/09/karnataka-ai-university-ai-skilling-roadmap",
+      "source": "YourStory",
+      "published": "2026-09-07T11:51:10.000Z",
+      "summary": "Karnataka’s proposed AI University will take a phased approach, with the state planning to launch AI skilling programmes before the full-fledged institution is established."
     },
     "headlines": [
       {
@@ -208,8 +208,8 @@
   },
   "weekly": {
     "weekOf": "2026-09-01 to 2026-09-07",
-    "generated": "2026-09-07T10:59:00.371Z",
-    "intro": "363 AI items this week (33 India-relevant) across 9 sources.",
+    "generated": "2026-09-07T13:07:13.164Z",
+    "intro": "361 AI items this week (31 India-relevant) across 9 sources.",
     "sections": [
       {
         "heading": "Large Language Models",
@@ -420,6 +420,12 @@
         "heading": "India & Subcontinent",
         "items": [
           {
+            "title": "Karnataka plans immediate AI skilling ahead of proposed AI University",
+            "url": "https://yourstory.com/2026/09/karnataka-ai-university-ai-skilling-roadmap",
+            "source": "YourStory",
+            "summary": "Karnataka’s proposed AI University will take a phased approach, with the state planning to launch AI skilling programmes before the full-fledged institution is established."
+          },
+          {
             "title": "Navana.ai Raises ₹40 Cr To Scale Voice AI Platform",
             "url": "https://inc42.com/buzz/navana-ai-raises-%e2%82%b940-cr-to-scale-voice-ai-platform/",
             "source": "Inc42",
@@ -460,12 +466,6 @@
             "url": "https://arxiv.org/abs/2609.05334",
             "source": "arXiv cs.AI",
             "summary": "arXiv:2609.05334v1 Announce Type: cross Abstract: Chilli (Capsicum annuum) is one of India's most economically significant crops, yet its productivity is persistently threatened by diseases that are difficult to identify without expert intervention. While Vision Transformers (…"
-          },
-          {
-            "title": "Can dogs sniff cancer? AI joins the hunt in India",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/can-dogs-sniff-cancer-ai-joins-the-hunt-in-india/articleshow/133861685.cms",
-            "source": "ET Tech",
-            "summary": "When rescue dog Chloe is not tumbling across the grass on a farm outside India's tech capital Bengaluru, she is learning to sniff human breath for cancer with a little help from AI. Fitted with a 3D-printed helmet and harness packed with sensors, Chloe is part of experimental …"
           }
         ]
       }
