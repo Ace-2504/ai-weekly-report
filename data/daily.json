@@ -1,94 +1,129 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "top": {
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "source": "TechCrunch AI",
-    "published": "2026-09-05T22:49:55.000Z",
-    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+    "title": "EXAONE Forecast for Finance",
+    "url": "https://arxiv.org/abs/2609.04239",
+    "source": "arXiv cs.AI",
+    "published": "2026-09-07T04:00:00.000Z",
+    "summary": "arXiv:2609.04239v1 Announce Type: new Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial forecasting. Recent TSFMs achieve strong zero-shot performance through large-…"
   },
   "topIndia": {
-    "title": "Sustainability, livelihood, AI: test your business creativity with Edition 248 of our weekly quiz!",
-    "url": "https://yourstory.com/2026/09/sustainability-livelihood-ai-business-creativity-entrepreneur-quiz-education",
-    "source": "YourStory",
-    "published": "2026-09-06T02:45:00.000Z",
-    "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 248th quiz. Ready?"
+    "title": "Navana.ai Raises ₹40 Cr To Scale Voice AI Platform",
+    "url": "https://inc42.com/buzz/navana-ai-raises-%e2%82%b940-cr-to-scale-voice-ai-platform/",
+    "source": "Inc42",
+    "published": "2026-09-07T08:23:08.000Z",
+    "summary": "Voice AI startup Navana.ai has raised ₹40 Cr ($4.2 Mn) in a Series A funding round led by existing investor…"
   },
   "headlines": [
     {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-05T19:35:24.000Z"
+      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+      "url": "https://arxiv.org/abs/2609.04286",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z"
     },
     {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-05T18:05:27.000Z"
+      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+      "url": "https://arxiv.org/abs/2609.04298",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z"
     },
     {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-04T23:36:14.000Z"
+      "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
+      "url": "https://arxiv.org/abs/2609.04300",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z"
     },
     {
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-04T23:15:11.000Z"
+      "title": "Iris: Climbing to the Search Frontier",
+      "url": "https://arxiv.org/abs/2609.04304",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z"
     },
     {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "source": "Ars Technica",
-      "published": "2026-09-04T22:17:36.000Z"
+      "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
+      "url": "https://arxiv.org/abs/2609.04343",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z"
     },
     {
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-04T21:12:11.000Z"
+      "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+      "url": "https://arxiv.org/abs/2609.04373",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z"
     },
     {
-      "title": "Architecting memory and storage in the AI era",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "source": "MIT Tech Review",
-      "published": "2026-09-04T18:39:19.000Z"
+      "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
+      "url": "https://arxiv.org/abs/2609.04377",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z"
     },
     {
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "source": "Ars Technica",
-      "published": "2026-09-04T17:18:12.000Z"
+      "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+      "url": "https://arxiv.org/abs/2609.04444",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z"
     },
     {
-      "title": "What will Apple’s John Ternus era look like?",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-04T17:18:00.000Z"
+      "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
+      "url": "https://arxiv.org/abs/2609.04476",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z"
     },
     {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-04T16:21:11.000Z"
+      "title": "When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference",
+      "url": "https://arxiv.org/abs/2609.04490",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z"
     },
     {
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-04T16:04:08.000Z"
+      "title": "ResLearn-XR: Residual Learning for Network Traffic and Quality-of-Experience-Aware Modeling in Extended Reality",
+      "url": "https://arxiv.org/abs/2609.04493",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z"
     },
     {
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-04T14:47:11.000Z"
+      "title": "Rethinking Indirect Prompt Injection as a Test-Time Search Problem",
+      "url": "https://arxiv.org/abs/2609.04495",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+      "url": "https://arxiv.org/abs/2609.04298",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z",
+      "summary": "arXiv:2609.04298v1 Announce Type: new Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic be…"
+    },
+    {
+      "title": "CoSkill: Joint Reinforcement Learning of Reasoning and Meta-Skill Agents for Hierarchical Skill Evolution",
+      "url": "https://arxiv.org/abs/2609.04865",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z",
+      "summary": "arXiv:2609.04865v1 Announce Type: new Abstract: Skill libraries improve the sample efficiency of agentic reinforcement learning (RL) by enabling large language model (LLM) agents to reuse procedural knowledge. Yet existing paradigms exhibit structural shortcomings: they either…"
+    },
+    {
+      "title": "Solving Hard XAI Queries Based on a Compiled Dual-Rail Encoding",
+      "url": "https://arxiv.org/abs/2609.04931",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z",
+      "summary": "arXiv:2609.04931v1 Announce Type: new Abstract: The widespread adoption of artificial intelligence (AI) within real-world applications has raised a lot of concerns regarding their trustworthiness, especially in critical applications. The field of eXplainable AI (XAI) has emerg…"
+    },
+    {
+      "title": "Comparables XAI: Faithful Example-based AI Explanations with Counterfactual Trace Adjustments",
+      "url": "https://arxiv.org/abs/2602.13784",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z",
+      "summary": "arXiv:2602.13784v2 Announce Type: replace-cross Abstract: Explaining with examples is an intuitive way to justify AI decisions. However, it is challenging to understand how a decision value should change relative to the examples with many features differing by large amounts. W…"
+    },
+    {
+      "title": "MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters",
+      "url": "https://arxiv.org/abs/2608.23473",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T04:00:00.000Z",
+      "summary": "arXiv:2608.23473v2 Announce Type: replace-cross Abstract: Time series forecasting (TSF) is evolving toward multimodal and agentic settings, yet using foundation models remains uneconomical in resource-constrained scenarios, where compact, specialized forecasters are more desir…"
+    },
     {
       "title": "Anthropic IPO launch shifts toward mid-October, sources say",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ipo-launch-shifts-toward-mid-october-sources-say/articleshow/133786749.cms",
@@ -109,41 +144,6 @@
       "source": "TechCrunch AI",
       "published": "2026-09-04T16:04:08.000Z",
       "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. …"
-    },
-    {
-      "title": "OpenAI Rolls Out GPT-6 Astra, Its ‘Most Capable Model’ Yet",
-      "url": "https://inc42.com/buzz/openai-rolls-out-gpt-6-astra-its-most-capable-model-yet/",
-      "source": "Inc42",
-      "published": "2026-09-04T09:51:10.000Z",
-      "summary": "OpenAI has launched GPT-6 Astra, its latest frontier model, in a bid to push into AI systems that can use…"
-    },
-    {
-      "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety/articleshow/133750683.cms",
-      "source": "ET Tech",
-      "published": "2026-09-04T03:11:46.000Z",
-      "summary": "The concerns center on agentic AI, which is designed to perform tasks with ‌little to no human ⁠intervention. The ⁠promise of agents running around the clock is central to investors' confidence in the appeal of AI as a transformative technology."
-    },
-    {
-      "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny/articleshow/133750116.cms",
-      "source": "ET Tech",
-      "published": "2026-09-04T02:44:49.000Z",
-      "summary": "OpenAI on Thursday, alongside the cybersecurity initiative, also unveiled Astra, a new AI model it described as its ​most capable yet but said can ⁠at times ‌attempt to evade human monitoring."
-    },
-    {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-03T18:01:45.000Z",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
-    },
-    {
-      "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season",
-      "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-launches-ai-agent-blueprints-for-retailers-ahead-of-holiday-shopping-season/articleshow/133716627.cms",
-      "source": "ET Tech",
-      "published": "2026-09-02T17:10:30.000Z",
-      "summary": "AI-driven retail site visits now convert at a 60% ​higher rate than traffic ⁠from other ‌sources, Adobe Analytics said ​last month."
     }
   ],
   "people": [
