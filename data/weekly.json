@@ -1,34 +1,28 @@
 {
-  "weekOf": "2026-09-02 to 2026-09-08",
-  "generated": "2026-09-08T10:15:01.592Z",
-  "intro": "66 AI items this week (32 India-relevant) across 8 sources.",
+  "weekOf": "2026-09-03 to 2026-09-09",
+  "generated": "2026-09-09T10:20:24.010Z",
+  "intro": "64 AI items this week (30 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
+          "title": "Hackers are stealing Claude tokens from subscribers",
+          "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+          "source": "TechCrunch AI",
+          "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
+        },
+        {
+          "title": "Mistral raises €3B as sovereign AI becomes big business",
+          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+          "source": "TechCrunch AI",
+          "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity."
+        },
+        {
           "title": "Hikers rescued after using Google Gemini for planning",
           "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
           "source": "TechCrunch AI",
           "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
-        },
-        {
-          "title": "Google’s Gemini Spark can now manage your Google Photos library",
-          "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-          "source": "TechCrunch AI",
-          "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers."
-        },
-        {
-          "title": "Meta is paying to peek at how you use their latest AI model",
-          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-          "source": "TechCrunch AI",
-          "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs."
-        },
-        {
-          "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-          "source": "TechCrunch AI",
-          "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
         },
         {
           "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
@@ -52,18 +46,24 @@
           "url": "https://huggingface.co/blog/Hcompany/neomme",
           "source": "Hugging Face",
           "summary": ""
-        },
-        {
-          "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-          "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-          "source": "Google AI Blog",
-          "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available."
         }
       ]
     },
     {
       "heading": "Developer Tools & Agents",
       "items": [
+        {
+          "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+          "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+          "source": "TechCrunch AI",
+          "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
+        },
+        {
+          "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+          "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+          "source": "TechCrunch AI",
+          "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data."
+        },
         {
           "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
           "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
@@ -77,12 +77,6 @@
           "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
         },
         {
-          "title": "Crusoe reportedly raises $3B at a $30B valuation",
-          "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-          "source": "TechCrunch AI",
-          "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
-        },
-        {
           "title": "Give Your Coding Agents a Memory You Own",
           "url": "https://huggingface.co/blog/funes",
           "source": "Hugging Face",
@@ -94,40 +88,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Opaque recurrence, and other AI terms that you should probably know",
-          "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-          "source": "TechCrunch AI",
-          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+          "title": "What OpenAI’s latest controversy tells us about the future of math",
+          "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+          "source": "MIT Tech Review",
+          "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution wou…"
         },
         {
-          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-          "source": "TechCrunch AI",
-          "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
-        },
-        {
-          "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-          "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-          "source": "TechCrunch AI",
-          "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
-        },
-        {
-          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-          "source": "TechCrunch AI",
-          "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
-        },
-        {
-          "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-          "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-          "source": "TechCrunch AI",
-          "summary": "The round is being raised just months after the robot data startup exited from stealth."
-        },
-        {
-          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-          "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+          "title": "Why this month's Microsoft patch release is a doozy",
+          "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
           "source": "Ars Technica",
-          "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
+          "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+        },
+        {
+          "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+          "source": "TechCrunch AI",
+          "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem."
+        },
+        {
+          "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+          "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+          "source": "TechCrunch AI",
+          "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks."
+        },
+        {
+          "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+          "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+          "source": "TechCrunch AI",
+          "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster."
+        },
+        {
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -135,52 +129,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "The Product You See Isn’t the Product I See | How AI is Personalizing Retail Experiences | Srinivas Gattamneni, CEO, ADA",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-product-you-see-isnt-the-product-i-see-how-ai-is-personalizing-retail-experiences-srinivas-gattamneni-ceo-ada/videoshow/133918699.cms",
-          "source": "ET Tech",
-          "summary": ""
-        },
-        {
-          "title": "Karnataka invites global tech firms, startups to partner in building 'Quantum City'",
-          "url": "https://yourstory.com/2026/09/karnataka-invites-global-tech-firms-startups-to-partner-in-building-quantum-city",
-          "source": "YourStory",
-          "summary": "Karnataka would build on its existing strengths in IT and aerospace while expanding into emerging areas such as quantum technologies, SpaceTech, DroneTech, artificial intelligence and geospatial technologies."
-        },
-        {
-          "title": "AI in healthcare: Remote monitoring, ICU optimisation to be next growth frontiers, says report",
-          "url": "https://yourstory.com/2026/09/ai-in-healthcare-remote-monitoring-icu-optimisation-to-be-next-growth-frontiers-says-report",
-          "source": "YourStory",
-          "summary": "The joint report by Bain & Company and HealthQuad, titled 'AI in Indian Healthcare Delivery', reveals that Indian healthcare providers are shifting AI from experimental testing to real-world applications."
-        },
-        {
-          "title": "ESDS Shares Triple From IPO Price, Hit 20% Upper Circuit For Third Straight Session",
-          "url": "https://inc42.com/buzz/esds-shares-triple-from-ipo-price-hit-20-upper-circuit-for-third-straight-session/",
+          "title": "Indian Fintech Moves Beyond AI Demos",
+          "url": "https://inc42.com/features/indian-fintech-moves-beyond-ai-demos/",
           "source": "Inc42",
-          "summary": "Shares of enterprise cloud and AI company ESDS Software Solution hit the 20% upper circuit for the third consecutive session…"
+          "summary": "AI is all set to take centre stage at the Global Fintech Fest (GFF) in Mumbai this week, with product…"
         },
         {
-          "title": "Fundly.ai Raises $4 Mn To Scale Pharma Payments, Commerce Infra",
-          "url": "https://inc42.com/buzz/fundly-ai-raises-4-mn-to-scale-pharma-payments-commerce-infra/",
-          "source": "Inc42",
-          "summary": "B2B pharma distribution startup Fundly.ai has raised $4 Mn (about ₹38 Cr) in a pre-Series A funding round co-led by…"
-        },
-        {
-          "title": "Redefining enterprise growth with AI: Trust, data, and decision making is how ADA is writing the future chapters",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/redefining-enterprise-growth-with-ai-trust-data-and-decision-making-is-how-ada-is-writing-the-future-chapters/articleshow/133912040.cms",
+          "title": "Cognition AI raises $2 billion at $48 billion valuation",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cognition-ai-raises-2-billion-at-48-billion-valuation/articleshow/133952722.cms",
           "source": "ET Tech",
-          "summary": "Enterprises are scaling with AI. The next chapter is about trust, data, decision making, and personalisation. Read how ADA is consolidating being a ‘Data and AI-Experience’ platform by integrating AI through the enterprise, and not just individual tools."
+          "summary": "The round was led ​by new investors Andreessen Horowitz and Accel, ​alongside existing backers Founders Fund, General Catalyst, and Avenir."
         },
         {
-          "title": "French AI company Mistral hits $24 billion valuation in funding round",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-ai-company-mistral-hits-24-billion-valuation-in-funding-round/articleshow/133911829.cms",
+          "title": "Anthropic researcher quits, says AI firms 'gambling with our lives'",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-researcher-quits-says-ai-firms-gambling-with-our-lives/articleshow/133951248.cms",
           "source": "ET Tech",
-          "summary": "Mistral said that the round was jointly led by existing investor PSG Equity, along with South Korea's Samsung Electronics and the EU-backed Scaleup Europe Fund, which both invested ‌in it for ⁠the ⁠first time."
+          "summary": "According to Coxon the systems could soon have superhuman strength and this poses a level of danger to everyone."
         },
         {
-          "title": "Anthropic drops pursuit of AI startup Decart valued at $6 billion",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-drops-pursuit-of-ai-startup-decart/articleshow/133906210.cms",
+          "title": "Meta launches AI agent Muse that can access other apps to send emails, make payments",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-launches-ai-agent-that-can-access-other-apps-to-send-emails-make-payments/articleshow/133949876.cms",
           "source": "ET Tech",
-          "summary": "Anthropic ​has decided not ​to pursue an acquisition of artificial ​intelligence startup Decart AI, Bloomberg News reported on Monday, citing people familiar with the matter."
+          "summary": "The company's Muse agent, known internally as Hatch, is the centerpiece of CEO Mark Zuckerberg's plan to supply \"personal superintelligence\" ​to the billions of people who use Meta's services daily."
+        },
+        {
+          "title": "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-offers-ai-for-chip-design-touts-cost-advantage-over-open-source-cfo-says/articleshow/133949798.cms",
+          "source": "ET Tech",
+          "summary": "Speaking at Goldman Sachs' Communacopia + Technology Conference in San Francisco, Friar said OpenAI is focusing on sectors including chip design, ‌life sciences ⁠and financial ⁠services, as businesses increasingly seek AI systems tailored to specific tasks. It also is ​experim…"
+        },
+        {
+          "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-accuses-chinese-ai-firms-of-malicious-copying-of-ai-technology/articleshow/133949650.cms",
+          "source": "ET Tech",
+          "summary": "The Chinese companies copied U.S. AI labs' intellectual property through a technique known ‌as distillation, according ⁠to ⁠a statement from U.S. law enforcement and intelligence officials. Distillation is the process of training ​smaller AI models using output from larger, mo…"
+        },
+        {
+          "title": "Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/qualcomm-strikes-ai-chip-deal-with-amazon-offers-right-to-buy-about-4-billion-in-stock/articleshow/133932526.cms",
+          "source": "ET Tech",
+          "summary": "The deal also highlights increasingly intertwined financing in the AI boom, with Qualcomm granting Amazon warrants worth about $4 billion that vest with product purchases and allow the cloud giant to buy ‌shares at a ⁠fixed ⁠price of $161.26 apiece, according to a regulatory f…"
+        },
+        {
+          "title": "Bajaj Finance acquires 5% stake in TrueFan AI",
+          "url": "https://yourstory.com/2026/09/bajaj-finance-acquires-5-stake-in-truefan-ai",
+          "source": "YourStory",
+          "summary": "Bajaj Finance and TrueFan AI will expand their collaboration across personalised marketing, video generation among other things with the goal of enhancing customer experiences."
         }
       ]
     }
