@@ -1,129 +1,149 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "top": {
-    "title": "What OpenAI’s latest controversy tells us about the future of math",
-    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-    "source": "MIT Tech Review",
-    "published": "2026-09-09T03:10:08.000Z",
-    "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution wou…"
+    "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+    "url": "https://arxiv.org/abs/2609.05437",
+    "source": "arXiv cs.AI",
+    "published": "2026-09-10T04:00:00.000Z",
+    "summary": "arXiv:2609.05437v1 Announce Type: new Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recogni…"
   },
   "topIndia": {
-    "title": "Indian Fintech Moves Beyond AI Demos",
-    "url": "https://inc42.com/features/indian-fintech-moves-beyond-ai-demos/",
-    "source": "Inc42",
-    "published": "2026-09-09T05:30:07.000Z",
-    "summary": "AI is all set to take centre stage at the Global Fintech Fest (GFF) in Mumbai this week, with product…"
+    "title": "Publicis Sapient’s Nigel Vaz on AI, the Future of Work and India’s Opportunity | ET WLF 2026",
+    "url": "https://economictimes.indiatimes.com/tech/technology/publicis-sapients-nigel-vaz-on-ai-the-future-of-work-and-indias-opportunity-et-wlf-2026/videoshow/134001596.cms",
+    "source": "ET Tech",
+    "published": "2026-09-10T09:07:58.000Z",
+    "summary": ""
   },
   "headlines": [
     {
-      "title": "Why this month's Microsoft patch release is a doozy",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "source": "Ars Technica",
-      "published": "2026-09-08T21:11:46.000Z"
+      "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+      "url": "https://arxiv.org/abs/2609.05439",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-10T04:00:00.000Z"
     },
     {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-08T21:10:27.000Z"
+      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2609.05441",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-10T04:00:00.000Z"
     },
     {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-08T21:04:06.000Z"
+      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2609.05446",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-10T04:00:00.000Z"
     },
     {
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-08T19:00:00.000Z"
+      "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+      "url": "https://arxiv.org/abs/2609.05448",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-10T04:00:00.000Z"
     },
     {
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-08T17:32:15.000Z"
+      "title": "Compiling VGDL into Causal Models",
+      "url": "https://arxiv.org/abs/2609.05459",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-10T04:00:00.000Z"
     },
     {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-08T16:20:31.000Z"
+      "title": "ARC-Bench: Closed-Loop Replanning Masks Broken Action Ranking in Frozen JEPA World Models",
+      "url": "https://arxiv.org/abs/2609.05461",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-10T04:00:00.000Z"
     },
     {
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-08T15:04:09.000Z"
+      "title": "RAPID: Reliability-Aware Pair Importance Distillation",
+      "url": "https://arxiv.org/abs/2609.05481",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-10T04:00:00.000Z"
     },
     {
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "source": "Hugging Face",
-      "published": "2026-09-08T14:23:07.000Z"
+      "title": "PGP-Clinical-TimeKAN: Prior-Guided Joint Probabilistic Forecasting of Clinical Trajectories",
+      "url": "https://arxiv.org/abs/2609.05488",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-10T04:00:00.000Z"
     },
     {
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-08T14:17:48.000Z"
+      "title": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
+      "url": "https://arxiv.org/abs/2609.05505",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-10T04:00:00.000Z"
     },
     {
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "MIT Tech Review",
-      "published": "2026-09-08T10:34:00.000Z"
+      "title": "SCAFFOLD: Self-Improving Web Agents via Recursive Parametric Skill Abstraction",
+      "url": "https://arxiv.org/abs/2609.05511",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-10T04:00:00.000Z"
     },
     {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-07T19:24:00.000Z"
+      "title": "Reasoning-Aware Compression: Identifying and Protecting Vulnerable Reasoning Circuits for Energy-Efficient LLM Deployment",
+      "url": "https://arxiv.org/abs/2609.05512",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-10T04:00:00.000Z"
+    },
+    {
+      "title": "When and What to Teach: Budget-Aware Online Adaptation for Web Agents",
+      "url": "https://arxiv.org/abs/2609.05513",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-10T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "DOJ probes Nvidia's licensing deal with AI startup Groq",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/doj-probes-nvidias-licensing-deal-with-ai-startup-groq/articleshow/133994951.cms",
+      "source": "ET Tech",
+      "published": "2026-09-10T05:45:48.000Z",
+      "summary": "Nvidia announced a $17 billion deal with Groq ​last year for a \"non-exclusive license\" to the startup's chip ​technology and hired several of its executives, including founder Jonathan Ross."
+    },
+    {
+      "title": "Apple enters foldable era with iPhone Duo",
+      "url": "https://yourstory.com/2026/09/apple-enters-foldable-era-with-iphone-duo",
+      "source": "YourStory",
+      "published": "2026-09-10T04:20:04.000Z",
+      "summary": "Apple has unveiled its first foldable handset, iPhone Duo, alongside the iPhone 18 Pro lineup, introducing 2-nanometer A20 Pro chips, variable aperture camera optics, and enhanced AI capabilities."
+    },
+    {
+      "title": "Meta share price surges after personal AI agent Muse release",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-share-price-surges-after-personal-ai-agent-muse-release/articleshow/133993596.cms",
+      "source": "ET Tech",
+      "published": "2026-09-10T04:16:16.000Z",
+      "summary": "Meta shares surged more than six percent on Wednesday, a day after the company unveiled a personal AI agent that it says can book travel, send emails and make purchases on users' behalf. Agents -- AI programs that work on their own, without a person guiding each step -- have r…"
+    },
+    {
+      "title": "XAI-SDN: An Explainable Entropy-Guided Machine Learning Framework for Real-Time DDoS Detection in Software Defined Networks",
+      "url": "https://arxiv.org/abs/2609.05701",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-10T04:00:00.000Z",
+      "summary": "arXiv:2609.05701v1 Announce Type: cross Abstract: One of the biggest risks faced by Software Defined Networks (SDN) is the Distributed Denial of Service (DDoS) attack in which a compromised controller can make an entire network unusable. To address these challenges, we suggest…"
+    },
+    {
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-09T20:03:43.000Z",
+      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
+    },
+    {
+      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-09T18:16:29.000Z",
+      "summary": "The update uses Apple Intelligence to make better sense of your health data."
+    },
+    {
+      "title": "Flipkart's new Minutes app; Anthropic employee sounds alarm",
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/flipkart-minutes-new-app-anthropic-researcher-sounds-alarm/articleshow/133971619.cms",
+      "source": "ET Tech",
+      "published": "2026-09-09T14:08:00.000Z",
+      "summary": "Flipkart has launched a standalone app for its quick commerce unit Minutes. This and more in today’s ETtech Top 5."
+    },
     {
       "title": "What OpenAI’s latest controversy tells us about the future of math",
       "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
       "source": "MIT Tech Review",
       "published": "2026-09-09T03:10:08.000Z",
       "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution wou…"
-    },
-    {
-      "title": "Meta launches AI agent Muse that can access other apps to send emails, make payments",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-launches-ai-agent-that-can-access-other-apps-to-send-emails-make-payments/articleshow/133949876.cms",
-      "source": "ET Tech",
-      "published": "2026-09-09T02:44:10.000Z",
-      "summary": "The company's Muse agent, known internally as Hatch, is the centerpiece of CEO Mark Zuckerberg's plan to supply \"personal superintelligence\" ​to the billions of people who use Meta's services daily."
-    },
-    {
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-08T19:00:00.000Z",
-      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data."
-    },
-    {
-      "title": "Anthropic IPO launch shifts toward mid-October, sources say",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ipo-launch-shifts-toward-mid-october-sources-say/articleshow/133786749.cms",
-      "source": "ET Tech",
-      "published": "2026-09-05T03:52:56.000Z",
-      "summary": "The artificial intelligence company had been expected to make its IPO prospectus public as early as next week, two of the ‌people said, a ⁠crucial ⁠step that would kick off the final stages of the offering. Now that is not expected ​until late September, the people added, caut…"
-    },
-    {
-      "title": "What will Apple’s John Ternus era look like?",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-04T17:18:00.000Z",
-      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. …"
-    },
-    {
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-04T16:04:08.000Z",
-      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. …"
     }
   ],
   "people": [
