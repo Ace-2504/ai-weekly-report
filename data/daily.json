@@ -1,121 +1,114 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "top": {
-    "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-    "url": "https://arxiv.org/abs/2609.09203",
+    "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+    "url": "https://arxiv.org/abs/2609.10584",
     "source": "arXiv cs.AI",
-    "published": "2026-09-11T04:00:00.000Z",
-    "summary": "arXiv:2609.09203v1 Announce Type: new Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scie…"
+    "published": "2026-09-12T04:00:00.000Z",
+    "summary": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\\min}$, but its…"
   },
   "topIndia": {
-    "title": "OpenAI Open To Slowing AI Development Amid Safety Concerns: Sam Altman",
-    "url": "https://inc42.com/buzz/openai-open-to-slowing-ai-development-amid-safety-concerns-sam-altman/",
-    "source": "Inc42",
-    "published": "2026-09-11T07:21:28.000Z",
-    "summary": "OpenAI is open to slowing the development of AI systems in coordination with other leading AI companies amid growing concerns…"
+    "title": "AI for a Billion Indians: Rahul Chari on PhonePe’s AI Strategy",
+    "url": "https://economictimes.indiatimes.com/tech/technology/ai-for-a-billion-indians-rahul-chari-on-phonepes-ai-strategy/videoshow/134120476.cms",
+    "source": "ET Tech",
+    "published": "2026-09-12T09:04:47.000Z",
+    "summary": ""
   },
   "headlines": [
     {
-      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
-      "url": "https://arxiv.org/abs/2609.09226",
+      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+      "url": "https://arxiv.org/abs/2609.10629",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z"
+      "published": "2026-09-12T04:00:00.000Z"
     },
     {
-      "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
-      "url": "https://arxiv.org/abs/2609.09233",
+      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+      "url": "https://arxiv.org/abs/2609.10654",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z"
+      "published": "2026-09-12T04:00:00.000Z"
     },
     {
-      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
-      "url": "https://arxiv.org/abs/2609.09306",
+      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+      "url": "https://arxiv.org/abs/2609.10656",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z"
+      "published": "2026-09-12T04:00:00.000Z"
     },
     {
-      "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
-      "url": "https://arxiv.org/abs/2609.09374",
+      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+      "url": "https://arxiv.org/abs/2609.10657",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z"
+      "published": "2026-09-12T04:00:00.000Z"
     },
     {
-      "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
-      "url": "https://arxiv.org/abs/2609.09395",
+      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+      "url": "https://arxiv.org/abs/2609.10712",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z"
+      "published": "2026-09-12T04:00:00.000Z"
     },
     {
-      "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
-      "url": "https://arxiv.org/abs/2609.09413",
+      "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+      "url": "https://arxiv.org/abs/2609.10724",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z"
+      "published": "2026-09-12T04:00:00.000Z"
     },
     {
-      "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
-      "url": "https://arxiv.org/abs/2609.09418",
+      "title": "Towards a Deterministic Math Solver for Clinical Language Models",
+      "url": "https://arxiv.org/abs/2609.10728",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z"
+      "published": "2026-09-12T04:00:00.000Z"
     },
     {
-      "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
-      "url": "https://arxiv.org/abs/2609.09428",
+      "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
+      "url": "https://arxiv.org/abs/2609.10824",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z"
+      "published": "2026-09-12T04:00:00.000Z"
     },
     {
-      "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
-      "url": "https://arxiv.org/abs/2609.09448",
+      "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
+      "url": "https://arxiv.org/abs/2609.10873",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z"
+      "published": "2026-09-12T04:00:00.000Z"
     },
     {
-      "title": "ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance",
-      "url": "https://arxiv.org/abs/2609.09458",
+      "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
+      "url": "https://arxiv.org/abs/2609.10964",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z"
+      "published": "2026-09-12T04:00:00.000Z"
     },
     {
-      "title": "Multi-Agent Agentic Graph Learning via Structural Signatures",
-      "url": "https://arxiv.org/abs/2609.09565",
+      "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
+      "url": "https://arxiv.org/abs/2609.10992",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z"
+      "published": "2026-09-12T04:00:00.000Z"
     },
     {
-      "title": "CityPlanner: A Sandbox Agent for Executable Urban Planning",
-      "url": "https://arxiv.org/abs/2609.09578",
+      "title": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
+      "url": "https://arxiv.org/abs/2609.11018",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z"
+      "published": "2026-09-12T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
-      "url": "https://arxiv.org/abs/2609.09428",
+      "title": "Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models",
+      "url": "https://arxiv.org/abs/2609.11860",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z",
-      "summary": "arXiv:2609.09428v1 Announce Type: new Abstract: Evaluating the quality of explanations produced by explainable AI (XAI) methods remains challenging because existing approaches often rely on subjective human judgment, limiting reproducibility, scalability, and comparability bet…"
+      "published": "2026-09-12T04:00:00.000Z",
+      "summary": "arXiv:2609.11860v1 Announce Type: new Abstract: Energy consumption forecasting relies on increasingly complex machine learning (ML) models, such as Genetic Programming-based symbolic regressors, whose predictions can be difficult for facility managers and building operators to…"
     },
     {
-      "title": "Adaptive Distributed Physical-Layer Authentication and Attack Detection in 6G Non-Terrestrial Networks via Causal Meta-Learning",
-      "url": "https://arxiv.org/abs/2609.09511",
+      "title": "X-RACE: XAI-assisted Recurrent neural network Attribution for Channel Estimation",
+      "url": "https://arxiv.org/abs/2609.11211",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z",
-      "summary": "arXiv:2609.09511v1 Announce Type: cross Abstract: Physical-layer authentication (PLA) in non-terrestrial networks (NTNs) is challenged by severe Doppler shifts, long delays, and fast channel variations, which cause distribution shifts and degrade conventional learning methods.…"
+      "published": "2026-09-12T04:00:00.000Z",
+      "summary": "arXiv:2609.11211v1 Announce Type: cross Abstract: Deep learning models, notably Long Short-Term Memory (LSTM), have demonstrated promising performance in channel estimation for high-mobility vehicular environments. However, their black-box nature and architectural overhead lim…"
     },
     {
       "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
       "url": "https://arxiv.org/abs/2609.04298",
       "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z",
+      "published": "2026-09-12T04:00:00.000Z",
       "summary": "arXiv:2609.04298v3 Announce Type: replace Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agenti…"
-    },
-    {
-      "title": "Meta-RL with Bayesian Linear Task Models",
-      "url": "https://arxiv.org/abs/2512.20974",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-11T04:00:00.000Z",
-      "summary": "arXiv:2512.20974v4 Announce Type: replace-cross Abstract: Deep Bayesian reinforcement learning adapts to unseen tasks by inferring latent transition and reward models, but existing methods typically rely on variational posteriors and evidence lower bounds, introducing approxim…"
     },
     {
       "title": "US Senators from both parties question OpenAI on breach of AI startup Hugging Face",
@@ -144,6 +137,13 @@
       "source": "ET Tech",
       "published": "2026-09-10T05:45:48.000Z",
       "summary": "Nvidia announced a $17 billion deal with Groq ​last year for a \"non-exclusive license\" to the startup's chip ​technology and hired several of its executives, including founder Jonathan Ross. The Justice Department opened ​its investigation into the ⁠arrangement shortly ‌after …"
+    },
+    {
+      "title": "Meta share price surges after personal AI agent Muse release",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-share-price-surges-after-personal-ai-agent-muse-release/articleshow/133993596.cms",
+      "source": "ET Tech",
+      "published": "2026-09-10T04:16:16.000Z",
+      "summary": "Meta shares surged more than 6% on Wednesday, a day after the company unveiled a personal AI agent that it says can book travel, send emails and make purchases on users' behalf. Agents -- AI programs that work on their own, without a person guiding each step -- have recently u…"
     }
   ],
   "people": [
