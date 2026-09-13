@@ -1,87 +1,16 @@
 {
-  "weekOf": "2026-09-06 to 2026-09-12",
-  "generated": "2026-09-12T09:45:03.356Z",
-  "intro": "343 AI items this week (43 India-relevant) across 9 sources.",
+  "weekOf": "2026-09-07 to 2026-09-13",
+  "generated": "2026-09-13T10:46:15.422Z",
+  "intro": "69 AI items this week (39 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
-          "url": "https://arxiv.org/abs/2609.10656",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible loc…"
-        },
-        {
-          "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-          "url": "https://arxiv.org/abs/2609.10712",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.10712v1 Announce Type: new Abstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we train two specialist checkpoints using supervised fine-tun…"
-        },
-        {
-          "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
-          "url": "https://arxiv.org/abs/2609.10824",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.10824v1 Announce Type: new Abstract: Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or procedural guidance. Most automated adaptation methods, however, rel…"
-        },
-        {
-          "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
-          "url": "https://arxiv.org/abs/2609.10964",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.10964v1 Announce Type: new Abstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on inference speed but also on when ready turns are released. Most runtimes releas…"
-        },
-        {
-          "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
-          "url": "https://arxiv.org/abs/2609.10992",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.10992v1 Announce Type: new Abstract: The integration of Large Language Models into daily tasks relies on context-rich instructions, inevitably exposing sensitive user information. Current privacy-preserving methods typically employ context-agnostic static rules, cau…"
-        },
-        {
-          "title": "Fork Where the Model Changes Its Mind: Belief-Shift Branching for Tree-Structured Reinforcement Learning",
-          "url": "https://arxiv.org/abs/2609.11061",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.11061v1 Announce Type: new Abstract: Tree-structured rollouts give critic-free reinforcement learning with verifiable rewards (RLVR) step-level credit: fork a chain at an intermediate point, and sibling outcome differences estimate step value. Each fork adds samplin…"
-        }
-      ]
-    },
-    {
-      "heading": "Multimodal & Media",
-      "items": [
-        {
-          "title": "A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies",
-          "url": "https://arxiv.org/abs/2609.11231",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.11231v1 Announce Type: new Abstract: This paper presents SurgicalRoomAgent, a voice-interactive multi-agent system for smart operating rooms based on large language models (LLMs). The system achieves natural language understanding, device control, intraoperative rec…"
-        },
-        {
-          "title": "Sci-MMR: Benchmarking Multi-Step Evidence-Grounded Scientific Reasoning in Multimodal Agents",
-          "url": "https://arxiv.org/abs/2609.11243",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.11243v1 Announce Type: new Abstract: Autonomous research agents are increasingly expected to search the literature, analyze experimental evidence, and generate scientific hypotheses. These capabilities require multi-step evidence grounded reasoning that progressivel…"
-        },
-        {
-          "title": "When Does Text Inform? Benchmarking Information-Theoretic Metrics for Multimodal Time-Series Forecasting",
-          "url": "https://arxiv.org/abs/2609.11282",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.11282v1 Announce Type: new Abstract: Multimodal forecasting models that combine time series with text annotations promise richer prediction through textual context, but how do we know whether a text annotation meaningfully contributes to the forecasters prediction? …"
-        },
-        {
-          "title": "Routing by Reasoning Need: Trajectory-Aware Decoding Control for Diffusion Vision-Language Models",
-          "url": "https://arxiv.org/abs/2609.11315",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.11315v1 Announce Type: new Abstract: Diffusion vision-language models generate answers through iterative refinement, exposing intermediate answer trajectories that can be inspected and controlled at inference time. However, this controllability creates a reasoning-n…"
-        },
-        {
-          "title": "Mr.LHDR: A Benchmark for Multimodal Real-World Long-Horizon Deep Research Agents",
-          "url": "https://arxiv.org/abs/2609.11318",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.11318v1 Announce Type: new Abstract: Deep research agents are increasingly capable of web search, tool use, multimodal evidence analysis, and information synthesis. However, existing benchmarks mainly evaluate medium-horizon exploration and rarely test whether agent…"
-        },
-        {
-          "title": "Exploring Diffusion Transformers for Cross-Modal Augmentation in Multimodal Brain State Decoding",
-          "url": "https://arxiv.org/abs/2609.11341",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.11341v1 Announce Type: new Abstract: Multimodal brain state decoding has largely focused on fusing paired modalities for prediction, but has rarely explored how their correspondence can be further exploited to enrich training data and improve multimodal representati…"
+          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -89,52 +18,16 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
-          "url": "https://arxiv.org/abs/2609.10654",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs composit…"
-        },
-        {
-          "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
-          "url": "https://arxiv.org/abs/2609.10724",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.10724v1 Announce Type: new Abstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing conditions, and dependencies on people within shared workflows, especially as…"
-        },
-        {
-          "title": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
-          "url": "https://arxiv.org/abs/2609.11018",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.11018v1 Announce Type: new Abstract: The term agent in artificial intelligence lacks a standard definition, complicating the evaluation, comparison, and reproducibility of AI agent research. We address this ambiguity through a survey organized around five dimensions…"
-        },
-        {
-          "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
-          "url": "https://arxiv.org/abs/2609.11030",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.11030v1 Announce Type: new Abstract: AI agents increasingly act through tools and delegated authority, but general incident repositories rarely capture the mechanisms needed to compare public failures with agent-security evaluations. We present the Agent Incident Re…"
-        },
-        {
-          "title": "Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents",
-          "url": "https://arxiv.org/abs/2609.11060",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.11060v1 Announce Type: new Abstract: Persistent memory is entering production-oriented agent platforms to help long-horizon agents accumulate experience across sessions. Yet a post-task curator agent restricted to completed trajectories can preserve errors, overgene…"
-        },
-        {
-          "title": "Same Day, Same Story; One Day Ahead, a Different Signal: The Dual Validity of Financial Sentiment",
-          "url": "https://arxiv.org/abs/2609.11144",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.11144v1 Announce Type: new Abstract: Financial NLP has a standard workflow: validate a sentiment tool against human labels, then trust it to extract market signal. This assumes the two evaluations measure the same thing. We test that assumption in a setting where bo…"
+          "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+          "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+          "source": "TechCrunch AI",
+          "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
         }
       ]
     },
     {
       "heading": "Open Source",
       "items": [
-        {
-          "title": "CertDW: Towards Certified Dataset Ownership Verification via Conformal Calibration",
-          "url": "https://arxiv.org/abs/2506.13160",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2506.13160v2 Announce Type: replace-cross Abstract: Deep neural networks (DNNs) rely heavily on high-quality open-source datasets (e.g., ImageNet) for their success, making dataset ownership verification (DOV) crucial for protecting public dataset copyrights. In this pap…"
-        },
         {
           "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
           "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
@@ -147,40 +40,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
-          "url": "https://arxiv.org/abs/2609.10584",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\\min}$, but its…"
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "source": "TechCrunch AI",
+          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
         },
         {
-          "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
-          "url": "https://arxiv.org/abs/2609.10629",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with quantum, hybrid quantum-classical, and quantum-inspired …"
+          "title": "Anthropic CEO outlines plan to slow AI development",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
         },
         {
-          "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-          "url": "https://arxiv.org/abs/2609.10657",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{why} this transition occurs, the quantitative structure of…"
+          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "source": "TechCrunch AI",
+          "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
         },
         {
-          "title": "Towards a Deterministic Math Solver for Clinical Language Models",
-          "url": "https://arxiv.org/abs/2609.10728",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.10728v1 Announce Type: new Abstract: Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error changes the recommendation. The standard response is to hardcode each calculator as a validated functi…"
+          "title": "OpenAI’s feud with mathematicians is only escalating",
+          "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+          "source": "TechCrunch AI",
+          "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
         },
         {
-          "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
-          "url": "https://arxiv.org/abs/2609.10873",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.10873v1 Announce Type: new Abstract: Independent evaluation can reject harmful policy updates yet also prevent useful continual learning. We argue that update admission must be assessed through both error control and retained learning opportunities at a stated inter…"
+          "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline."
         },
         {
-          "title": "MOSAIC: Query-Aware Exploration Policy Adaptation for GraphRAG",
-          "url": "https://arxiv.org/abs/2609.11065",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.11065v1 Announce Type: new Abstract: Graph Retrieval-Augmented Generation (GraphRAG) can connect evidence distributed across a corpus graph, but most systems use largely shared exploration procedures across queries. This creates a structural mismatch: direct facts m…"
+          "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+          "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+          "source": "TechCrunch AI",
+          "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT."
         }
       ]
     },
@@ -188,28 +81,34 @@
       "heading": "India & Subcontinent",
       "items": [
         {
+          "title": "Health, AI, growth: test your business creativity with Edition 249 of our weekly quiz!",
+          "url": "https://yourstory.com/2026/09/health-ai-growth-business-creativity-entrepreneur-quiz",
+          "source": "YourStory",
+          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 249th quiz. Ready?"
+        },
+        {
+          "title": "After Sam Altman, Anthropic’s Dario Amodei Calls For Pacing AI Development",
+          "url": "https://inc42.com/buzz/after-sam-altman-anthropics-dario-amodei-calls-for-pacing-ai-development/",
+          "source": "Inc42",
+          "summary": "Days after Sam Altman said that OpenAI was open to slowing the development of AI systems, Anthropic cofounder and CEO…"
+        },
+        {
+          "title": "Anthropic's Dario Amodei calls for slower pace of AI model development",
+          "url": "https://economictimes.indiatimes.com/tech/technology/anthropics-dario-amodei-calls-for-slower-pace-of-ai-model-development/articleshow/134140916.cms",
+          "source": "ET Tech",
+          "summary": "Anthropic chief Dario Amodei urges slowing advanced AI development for safety. He believes current progress outpaces our understanding and control capabilities. Recent incidents highlight risks of autonomous AI systems acting unexpectedly. Amodei proposes a framework for safet…"
+        },
+        {
+          "title": "BRICS backs startup incubator network, considers innovation fund in New Delhi Declaration",
+          "url": "https://yourstory.com/2026/09/brics-startup-incubator-network-considers-innovation-fund-new-delhi-declaration",
+          "source": "YourStory",
+          "summary": "The grouping also proposed a digital public infrastructure repository, deeper cooperation on AI and faster cross-border payments among member countries."
+        },
+        {
           "title": "AI for a Billion Indians: Rahul Chari on PhonePe’s AI Strategy",
           "url": "https://economictimes.indiatimes.com/tech/technology/ai-for-a-billion-indians-rahul-chari-on-phonepes-ai-strategy/videoshow/134120476.cms",
           "source": "ET Tech",
           "summary": ""
-        },
-        {
-          "title": "Temporal and Multimodal Deep Learning for Cyberattack Detection in LEO Satellite Systems",
-          "url": "https://arxiv.org/abs/2609.10746",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.10746v1 Announce Type: cross Abstract: The growing reliance on Low-Earth Orbit (LEO) satellite communication systems has increased the need for intelligent methods capable of detecting cyberattacks across complex and dynamic space environments. Unlike conventional n…"
-        },
-        {
-          "title": "Structural priors for data-efficient language learning",
-          "url": "https://arxiv.org/abs/2609.11505",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.11505v1 Announce Type: cross Abstract: Efficient language learning requires methods to reduce the reliance on large data and computational resources. We investigate structural transfer: First training models on non-language data to induce useful priors for natural l…"
-        },
-        {
-          "title": "Four Generations of Quantum Biomedical Sensors",
-          "url": "https://arxiv.org/abs/2603.29944",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2603.29944v3 Announce Type: replace-cross Abstract: Quantum sensing technologies offer transformative potential for ultra-sensitive biomedical sensing, yet their clinical translation remains constrained by classical noise limits and a reliance on macroscopic ensembles. W…"
         },
         {
           "title": "China’s AI labs siphoned Claude’s intelligence?",
@@ -228,12 +127,6 @@
           "url": "https://yourstory.com/2026/09/navi-using-ai-build-credit-fraud-models-sachin-bansal",
           "source": "YourStory",
           "summary": "The Navi founder said access to AI will become less of a differentiator as the technology gets easier to use."
-        },
-        {
-          "title": "Graph AI raises $13.3M in Series A funding",
-          "url": "https://yourstory.com/2026/09/graph-ai-raises-133-million-in-series-a",
-          "source": "YourStory",
-          "summary": "The tech startup focused on the pharmaceutical industry will use the funding to expand its presence across the US and Europe and accelerate product development."
         }
       ]
     }

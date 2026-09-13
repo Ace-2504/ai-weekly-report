@@ -1,115 +1,82 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "top": {
-    "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
-    "url": "https://arxiv.org/abs/2609.10584",
-    "source": "arXiv cs.AI",
-    "published": "2026-09-12T04:00:00.000Z",
-    "summary": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\\min}$, but its…"
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "source": "TechCrunch AI",
+    "published": "2026-09-12T20:19:16.000Z",
+    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
   },
   "topIndia": {
-    "title": "AI for a Billion Indians: Rahul Chari on PhonePe’s AI Strategy",
-    "url": "https://economictimes.indiatimes.com/tech/technology/ai-for-a-billion-indians-rahul-chari-on-phonepes-ai-strategy/videoshow/134120476.cms",
-    "source": "ET Tech",
-    "published": "2026-09-12T09:04:47.000Z",
-    "summary": ""
+    "title": "Health, AI, growth: test your business creativity with Edition 249 of our weekly quiz!",
+    "url": "https://yourstory.com/2026/09/health-ai-growth-business-creativity-entrepreneur-quiz",
+    "source": "YourStory",
+    "published": "2026-09-13T02:25:00.000Z",
+    "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 249th quiz. Ready?"
   },
   "headlines": [
     {
-      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
-      "url": "https://arxiv.org/abs/2609.10629",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z"
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-12T19:34:44.000Z"
     },
     {
-      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
-      "url": "https://arxiv.org/abs/2609.10654",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z"
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-11T22:58:17.000Z"
     },
     {
-      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
-      "url": "https://arxiv.org/abs/2609.10656",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z"
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-11T20:59:47.000Z"
     },
     {
-      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-      "url": "https://arxiv.org/abs/2609.10657",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z"
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-11T20:57:36.000Z"
     },
     {
-      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-      "url": "https://arxiv.org/abs/2609.10712",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z"
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-11T20:33:18.000Z"
     },
     {
-      "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
-      "url": "https://arxiv.org/abs/2609.10724",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z"
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-11T20:30:17.000Z"
     },
     {
-      "title": "Towards a Deterministic Math Solver for Clinical Language Models",
-      "url": "https://arxiv.org/abs/2609.10728",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z"
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-11T20:05:06.000Z"
     },
     {
-      "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
-      "url": "https://arxiv.org/abs/2609.10824",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z"
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-11T19:35:54.000Z"
     },
     {
-      "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
-      "url": "https://arxiv.org/abs/2609.10873",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z"
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-11T18:41:49.000Z"
     },
     {
-      "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
-      "url": "https://arxiv.org/abs/2609.10964",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z"
-    },
-    {
-      "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
-      "url": "https://arxiv.org/abs/2609.10992",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z"
-    },
-    {
-      "title": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
-      "url": "https://arxiv.org/abs/2609.11018",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z"
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-11T16:46:25.000Z"
     }
   ],
   "events": [
-    {
-      "title": "Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models",
-      "url": "https://arxiv.org/abs/2609.11860",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z",
-      "summary": "arXiv:2609.11860v1 Announce Type: new Abstract: Energy consumption forecasting relies on increasingly complex machine learning (ML) models, such as Genetic Programming-based symbolic regressors, whose predictions can be difficult for facility managers and building operators to…"
-    },
-    {
-      "title": "X-RACE: XAI-assisted Recurrent neural network Attribution for Channel Estimation",
-      "url": "https://arxiv.org/abs/2609.11211",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z",
-      "summary": "arXiv:2609.11211v1 Announce Type: cross Abstract: Deep learning models, notably Long Short-Term Memory (LSTM), have demonstrated promising performance in channel estimation for high-mobility vehicular environments. However, their black-box nature and architectural overhead lim…"
-    },
-    {
-      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
-      "url": "https://arxiv.org/abs/2609.04298",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-12T04:00:00.000Z",
-      "summary": "arXiv:2609.04298v3 Announce Type: replace Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agenti…"
-    },
     {
       "title": "US Senators from both parties question OpenAI on breach of AI startup Hugging Face",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face/articleshow/134043010.cms",
@@ -144,15 +111,29 @@
       "source": "ET Tech",
       "published": "2026-09-10T04:16:16.000Z",
       "summary": "Meta shares surged more than 6% on Wednesday, a day after the company unveiled a personal AI agent that it says can book travel, send emails and make purchases on users' behalf. Agents -- AI programs that work on their own, without a person guiding each step -- have recently u…"
+    },
+    {
+      "title": "Flipkart's new Minutes app; Anthropic employee sounds alarm",
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/flipkart-minutes-new-app-anthropic-researcher-sounds-alarm/articleshow/133971619.cms",
+      "source": "ET Tech",
+      "published": "2026-09-09T14:08:00.000Z",
+      "summary": "Flipkart has launched a standalone app for its quick commerce unit Minutes. This and more in today’s ETtech Top 5."
+    },
+    {
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-09T03:10:08.000Z",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution wou…"
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://inc42.com/buzz/openai-open-to-slowing-ai-development-amid-safety-concerns-sam-altman/",
-      "article": "OpenAI Open To Slowing AI Development Amid Safety Concerns: Sam Altman",
-      "source": "Inc42"
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "article": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "source": "TechCrunch AI"
     },
     {
       "name": "Demis Hassabis",
@@ -164,9 +145,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://www.darioamodei.com",
-      "article": null,
-      "source": "Profile"
+      "link": "https://inc42.com/buzz/after-sam-altman-anthropics-dario-amodei-calls-for-pacing-ai-development/",
+      "article": "After Sam Altman, Anthropic’s Dario Amodei Calls For Pacing AI Development",
+      "source": "Inc42"
     },
     {
       "name": "Yann LeCun",
