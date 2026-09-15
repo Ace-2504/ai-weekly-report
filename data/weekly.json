@@ -1,16 +1,87 @@
 {
-  "weekOf": "2026-09-08 to 2026-09-14",
-  "generated": "2026-09-14T13:28:30.343Z",
-  "intro": "73 AI items this week (42 India-relevant) across 8 sources.",
+  "weekOf": "2026-09-09 to 2026-09-15",
+  "generated": "2026-09-15T10:39:04.864Z",
+  "intro": "719 AI items this week (51 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+          "url": "https://arxiv.org/abs/2609.13356",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13356v1 Announce Type: new Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models cannot passively memorize the…"
+        },
+        {
+          "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+          "url": "https://arxiv.org/abs/2609.13422",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We study this problem through Vibe Patenting, an end-to-end patent-drafting testb…"
+        },
+        {
+          "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+          "url": "https://arxiv.org/abs/2609.13436",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require agents to continuously observe the environment, make conse…"
+        },
+        {
+          "title": "Grounded Adjudication of Variations across Extracted TimeLines (GAVEL): Comparing Clinical Timelines Against Their Case Reports",
+          "url": "https://arxiv.org/abs/2609.13475",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13475v1 Announce Type: new Abstract: Existing pipelines for clinical timeline extraction from case reports are evaluated using an expert reference and are limited by imperfect reference annotations and imprecise event alignment. We developed GAVEL, an LLM judge prot…"
+        },
+        {
+          "title": "Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents",
+          "url": "https://arxiv.org/abs/2609.13543",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13543v1 Announce Type: new Abstract: LLM agents are predominantly benchmarked on short, single-task trajectories, yet real deployments run for hours under contention, surfacing a different class of failures. We use the Clinical Environment Simulator (CES), in which …"
+        },
+        {
+          "title": "Carbon-Aware Routing for Function Calling in Edge-Cloud LLM Systems",
+          "url": "https://arxiv.org/abs/2609.13559",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13559v1 Announce Type: new Abstract: Large Language Models (LLMs) with function-calling capabilities are becoming critical for modern agentic AI systems. Nevertheless, current deployments typically route inferences to powerful cloud-based models, incurring significa…"
+        }
+      ]
+    },
+    {
+      "heading": "Multimodal & Media",
+      "items": [
+        {
+          "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
+          "url": "https://arxiv.org/abs/2609.13457",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13457v1 Announce Type: new Abstract: Timeseries multimodal large language models (TS-MLLMs) have recently begun leveraging the reasoning capabilities of large language models (LLMs) for question-answering tasks. However, these models often fail to capture dynamic te…"
+        },
+        {
+          "title": "$\\tau$-Elicitation: Benchmarking multi-turn entity extraction in voice agents",
+          "url": "https://arxiv.org/abs/2609.13602",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13602v1 Announce Type: new Abstract: Voice agents often need to collect names, addresses, identifiers, dates, and times exactly, yet end-to-end benchmarks obscure where capture fails. We introduce $\\tau$-Elicitation, a 200-task voice benchmark spanning 10 entity typ…"
+        },
+        {
+          "title": "UniCAR-RL: Seeing Better before Thinking Deeper in Visual Mathematics",
+          "url": "https://arxiv.org/abs/2609.13849",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13849v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) often struggle with complex mathematical visual reasoning primarily due to a lack of fine-grained perception, causing initial visual hallucinations to directly trigger cascading reasoning …"
+        },
+        {
+          "title": "Dynamic Learning Solutions: A System for Personalized Educational Video Generation",
+          "url": "https://arxiv.org/abs/2609.14408",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.14408v1 Announce Type: new Abstract: We present an automated pipeline that converts NCERT textbooks into interactive video explanations that respond directly to user queries. A user uploads a PDF and asks a question; the system then generates a video-based explanati…"
+        },
+        {
+          "title": "OptoAgent: A Trustworthy Multi-Agent Framework for Opportunistic Vision Micro-Screening in Classroom Environments",
+          "url": "https://arxiv.org/abs/2609.14514",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.14514v1 Announce Type: new Abstract: A child with reduced distance vision often does not know that anything is wrong. Children adapt, move closer, and rarely report the difficulty, so the problem can survive years of schooling before an adult notices. School screeni…"
+        },
+        {
+          "title": "AI Deployment Accountability Engineering: A Vision for Accountable AI in Safety-Critical Socio-Technical Systems",
+          "url": "https://arxiv.org/abs/2609.14592",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.14592v1 Announce Type: new Abstract: Artificial intelligence systems are rapidly becoming critical components in healthcare, finance, public services, and other safety-critical domains. Yet the engineering practices used to evaluate these systems remain predominantl…"
         }
       ]
     },
@@ -18,10 +89,40 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-          "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-          "source": "TechCrunch AI",
-          "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
+          "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+          "url": "https://arxiv.org/abs/2609.13406",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13406v1 Announce Type: new Abstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being claimed at many scales, while no single framework that for…"
+        },
+        {
+          "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
+          "url": "https://arxiv.org/abs/2609.13463",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13463v1 Announce Type: new Abstract: The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it transforms outcome-level signals into actionable interventions…"
+        },
+        {
+          "title": "AutoTailor: Automatic, User-Aligned Capability Selection and Adaptation for Web Agents",
+          "url": "https://arxiv.org/abs/2609.13548",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13548v1 Announce Type: new Abstract: Web agents can utilize reusable tools to reduce the cost and latency of low-level browser interaction, but automatically discovered tool collections can be large, redundant, and poorly aligned with user demand. We present AutoTai…"
+        },
+        {
+          "title": "A Hybrid Agentic AI Framework for Intelligent Supply Chain Analytics",
+          "url": "https://arxiv.org/abs/2609.13561",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13561v1 Announce Type: new Abstract: Efficient utilization of supply chain analytics for decision making remains a significant challenge for planners, as critical tasks such as database querying, key performance indicator (KPI) analysis, demand forecasting, and perf…"
+        },
+        {
+          "title": "Planning or Learning: Reliability and Cost in Multi-Asset Maintenance",
+          "url": "https://arxiv.org/abs/2609.13566",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13566v1 Announce Type: new Abstract: Industrial maintenance systems involve multiple interacting assets and shared resources, making it challenging to balance reliability and operational cost using a single decision framework. While recent work has focused on reinfo…"
+        },
+        {
+          "title": "Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges",
+          "url": "https://arxiv.org/abs/2609.13731",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13731v1 Announce Type: new Abstract: The transition from passive foundation models to autonomous, goal-directed agentic AI systems has introduced unprecedented capabilities by coupling recursive cognitive reasoning loops, persistent memory architectures, live tool e…"
         }
       ]
     },
@@ -29,10 +130,40 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-          "source": "TechCrunch AI",
-          "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese."
+          "title": "Crypto Accounting Bench: Evaluating Frontier and Open-Weight Models on Crypto-Asset Accounting Tasks",
+          "url": "https://arxiv.org/abs/2609.14811",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.14811v1 Announce Type: new Abstract: We introduce Crypto Accounting Bench (CAB), a benchmark for assessing whether frontier and open-weight language models can reconstruct the complete journal entry that an organization actually posted for a crypto-asset transaction…"
+        },
+        {
+          "title": "Empirical Evaluation of Open-Source Large Language Models for Retrieval-Augmented Generation in ESG Domain",
+          "url": "https://arxiv.org/abs/2609.15242",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.15242v1 Announce Type: new Abstract: Environmental, Social, and Governance (ESG) reporting is critical for corporate accountability, with Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) offering strong potential to automate KPI extraction. Howe…"
+        },
+        {
+          "title": "The Troy Moment of AI: Why SomeWill Cheat and SomeWill Follow?",
+          "url": "https://arxiv.org/abs/2609.15494",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.15494v1 Announce Type: new Abstract: Recent investigations of the July 2026 OpenAI--Hugging Face incident motivate two questions about agent behavior under task failure: when an assigned task becomes impossible, does an agent stop or escalate, and can observing anot…"
+        },
+        {
+          "title": "Bridging Thought and Action: Taming Long-Horizon Instability in Open-Source LLM Agents with a MetaTool-Enhanced ROS Framework",
+          "url": "https://arxiv.org/abs/2609.13335",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13335v1 Announce Type: cross Abstract: Large Language Models (LLMs) have enabled more natural human-robot interaction, but open-source models often exhibit unstable long-horizon reasoning and inefficient action execution when deployed in agentic robotic frameworks. …"
+        },
+        {
+          "title": "AGENTQ: Quantization-Conditioned Backdoor Attacks on LLM Agents",
+          "url": "https://arxiv.org/abs/2609.14060",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.14060v1 Announce Type: cross Abstract: Quantization is one of the default deployment paths for open-weight LLM agents, but it is not behavior-preserving: an adversary can release a full-precision checkpoint that passes audits yet misbehaves once quantized, termed as…"
+        },
+        {
+          "title": "Salesforce Koa: An Enterprise Language Model for Agentic Tool Use",
+          "url": "https://arxiv.org/abs/2609.15066",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.15066v1 Announce Type: cross Abstract: We present Salesforce Koa, an enterprise language model built by post-training the open-weight Nemotron-3-Super-120B foundation model with reinforcement learning using Group Relative Policy Optimization (GRPO). Salesforce Koa i…"
         }
       ]
     },
@@ -40,40 +171,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "What’s behind the AI industry’s latest warnings of doom?",
-          "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-          "source": "TechCrunch AI",
-          "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+          "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+          "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+          "source": "MIT Tech Review",
+          "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fa…"
         },
         {
-          "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-          "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-          "source": "TechCrunch AI",
-          "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety."
+          "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+          "url": "https://arxiv.org/abs/2609.13396",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13396v1 Announce Type: new Abstract: Multi-objective Bayesian optimisation (MOBO) is a sample-efficient approach for optimising expensive black-box functions with multiple objectives. In MOBO, the goal is to adequately approximate the Pareto front; that is, to obtai…"
         },
         {
-          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-          "source": "TechCrunch AI",
-          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+          "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
+          "url": "https://arxiv.org/abs/2609.13437",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13437v1 Announce Type: new Abstract: Scientific research is a continuous process that emphasizes inheritance. Methods developed by predecessors are often expanded upon by new researchers to explore more novel and in-depth scientific questions. However, the change of…"
         },
         {
-          "title": "Anthropic CEO outlines plan to slow AI development",
-          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-          "source": "TechCrunch AI",
-          "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
+          "title": "Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement",
+          "url": "https://arxiv.org/abs/2609.13466",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13466v1 Announce Type: new Abstract: Enterprise AI adoption has reached 78% of organizations globally, yet the infrastructure to govern that adoption has not kept pace. This paper identifies and characterizes the attestation deficit, a structural condition in which …"
         },
         {
-          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-          "source": "TechCrunch AI",
-          "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+          "title": "Token Efficient Task Execution via Application Behavior Modeling for Web Agents",
+          "url": "https://arxiv.org/abs/2609.13491",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13491v1 Announce Type: new Abstract: The strong performance of AI Agents across an impressive variety of tasks is driving an unprecedented investment in agentic infrastructures, however the cost of processing tokens is fast increasing. Web agents automate the execut…"
         },
         {
-          "title": "OpenAI’s feud with mathematicians is only escalating",
-          "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-          "source": "TechCrunch AI",
-          "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
+          "title": "Fraglingo: Molecular Design via Attachment-Aware Autoregressive Fragment Generation",
+          "url": "https://arxiv.org/abs/2609.13519",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.13519v1 Announce Type: new Abstract: Molecular design is most effective when generation mirrors the edits chemists actually make: extending a scaffold, replacing a substituent, or decorating a scaffold at a specified attachment site while optimizing molecular proper…"
         }
       ]
     },
@@ -81,52 +212,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Four Indian startups selected for Google DeepMind Accelerator",
-          "url": "https://yourstory.com/2026/09/four-indian-startups-selected-for-google-deepmind-accelerator",
+          "title": "⁠Government to Match VC Investments in Indian Chip Startups Under Semicon 2.0: ISM CEO",
+          "url": "https://yourstory.com/2026/09/semicon-2-india-semiconductor-mission-amitesh-sinha-co-investment",
           "source": "YourStory",
-          "summary": "These startups are part of Google’s Asia-Pacific accelerator programme which aims to address environmental challenges using artificial intelligence."
+          "summary": "India Semiconductor Mission CEO Amitesh Kumar Sinha on Semicon 2.0’s co-investment model and India’s timeline to chip self-reliance"
         },
         {
-          "title": "Germany says halting AI development not viable, calls for US, China involvement",
-          "url": "https://economictimes.indiatimes.com/tech/technology/germany-says-halting-ai-development-not-viable-calls-for-us-china-involvement/articleshow/134240259.cms",
-          "source": "ET Tech",
-          "summary": "The comments came after Anthropic ​Chief Executive Dario Amodei published ⁠an essay ‌over the weekend calling on ​AI ​companies to slow the pace at ⁠which they improve model capabilities and proposing ​stronger safeguards, including independent evaluators embedded ​within AI f…"
+          "title": "AI content startup Flam raises $40M from QED Investors, Shah Rukh Khan, and others",
+          "url": "https://yourstory.com/2026/09/ai-content-startup-flam-raises-series-b-qed-investors-shah-rukh-khan-others",
+          "source": "YourStory",
+          "summary": "The Bengaluru- and San Francisco-based tech startup, which delivers AI-powered interactive content, was founded by BITS Pilani alumni Shourya Agarwal, Malhar Patil and Amit Gaiki. It plans to use the funding on R&D, expanding its product portfolio, and scaling enterprise sales."
         },
         {
-          "title": "Global AI stocks fall as industry chiefs call for slowing development",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-stocks-fall-as-industry-chiefs-call-for-slowing-development/articleshow/134239897.cms",
-          "source": "ET Tech",
-          "summary": "Anthropic CEO Dario Amodei, in a lengthy essay shared on X on Saturday, called on ​AI companies to slow the rate at which they advance model capabilities amid mounting fears of misuse of artificial intelligence. Both Elon Musk, who runs xAI, and Sam Altman, CEO of OpenAI, said…"
-        },
-        {
-          "title": "AI companies must prove services are safe for citizens, EU Commission says",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-companies-must-prove-services-are-safe-for-citizens-eu-commission-says/articleshow/134239753.cms",
-          "source": "ET Tech",
-          "summary": "The debate ​about AI was ​thrust back into the spotlight after chief executive ‌of Anthropic, Dario Amodei, ​said ​on ⁠Saturday that companies must slow the pace of ​advance of AI models."
-        },
-        {
-          "title": "China's spy chief warns of national security risks from AI",
-          "url": "https://economictimes.indiatimes.com/tech/technology/chinas-spy-chief-warns-of-national-security-risks-from-ai/articleshow/134239596.cms",
-          "source": "ET Tech",
-          "summary": "The head of China's spy agency has warned that artificial intelligence endangers the country's national security, with foreign powers potentially using the technology to threaten social order. \"Foreign intelligence agencies are deeply using technologies such as intelligent web…"
-        },
-        {
-          "title": "Google Picks Four Indian Startups As Part Of AI For The Planet Accelerator",
-          "url": "https://inc42.com/buzz/google-picks-four-indian-startups-as-part-of-ai-for-the-planet-accelerator/",
+          "title": "Flam Bags $40 Mn To Offer Immersive Content To Enterprises",
+          "url": "https://inc42.com/buzz/flam-bags-40-mn-to-offer-immersive-content-to-enterprises/",
           "source": "Inc42",
-          "summary": "Tech giant Google has picked four Indian startups as part of its debut AI focused accelerator ‘Google DeepMind Accelerator: AI…"
+          "summary": "AI-powered content platform Flam has raised $40 Mn (around ₹383 Cr), via a mix of primary and secondary deals, in…"
         },
         {
-          "title": "AI could make thinking cheap. What happens to jobs, education and human purpose?",
-          "url": "https://yourstory.com/2026/09/ai-could-make-thinking-cheap-what-happens-to-jobs-education-and-human-purpose",
-          "source": "YourStory",
-          "summary": "Dr. Pratosh, an IISc faculty member, warns that AI is not just coming for jobs—it could force a rethink of education, economics and what humans do for a living."
-        },
-        {
-          "title": "New warnings about the risks of AI to humanity revive a long-running debate",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/articleshow/134233583.cms",
+          "title": "Investors nervous about AI spending slowdown after industry warnings",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/investors-nervous-about-ai-spending-slowdown-after-industry-warnings/articleshow/134252624.cms",
           "source": "ET Tech",
-          "summary": "The CEO of Anthropic, the San Francisco company behind Claude, said he thought the industry needed to reduce the speed of its work, cautioning Saturday that a swarm of AI agents might be able to take over the internet in six months to a year unless companies devoted more time …"
+          "summary": "Recent dire pronouncements about AI ​potentially endangering humanity were followed over the weekend by calls from AI leaders, including Anthropic CEO Dario Amodei, to slow ​the rate of advancement and create more time to manage its risks."
+        },
+        {
+          "title": "Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gates-foundation-warns-ai-could-widen-inequality-as-foundation-pledges-1b-to-expand-access/articleshow/134252225.cms",
+          "source": "ET Tech",
+          "summary": "And despite the United States' international aid cuts, Gates Foundation CEO Mark Suzman said he would continue pressing Congress and President Donald Trump's administration to lead the way on foreign assistance."
+        },
+        {
+          "title": "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-ceos-call-for-ai-regulation-trump-and-congress-are-not-rushing-to-act/articleshow/134251684.cms",
+          "source": "ET Tech",
+          "summary": "President Donald Trump is leading the opposition to recent calls by tech leaders seeking greater government oversight, including Anthropic's Dario Amodei, OpenAI's Sam Altman and xAI's Elon Musk."
+        },
+        {
+          "title": "Microsoft commits to sweeping AI privacy rules for students. Will other tech giants follow?",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/articleshow/134251604.cms",
+          "source": "ET Tech",
+          "summary": "As the school year started, the country's two largest school districts, New York City and Los Angeles, announced they were putting the brakes on student use of AI for one year, as they study how to best incorporate the technology into education."
+        },
+        {
+          "title": "Trump dismisses AI safety alarm, says US already has tools to police industry",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-dismisses-ai-safety-alarm-says-us-already-has-tools-to-police-industry/articleshow/134251418.cms",
+          "source": "ET Tech",
+          "summary": "\"The only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!\" Trump wrote on Truth ‌Social, adding that China ⁠would benefit ⁠from the doubt being cast on AI development. Trump is scheduled to meet with Chinese…"
         }
       ]
     }

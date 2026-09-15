@@ -1,68 +1,157 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "top": {
-    "title": "What’s behind the AI industry’s latest warnings of doom?",
-    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "source": "TechCrunch AI",
-    "published": "2026-09-13T19:40:15.000Z",
-    "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+    "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+    "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "source": "MIT Tech Review",
+    "published": "2026-09-15T10:00:00.000Z",
+    "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fa…"
   },
   "topIndia": {
-    "title": "Four Indian startups selected for Google DeepMind Accelerator",
-    "url": "https://yourstory.com/2026/09/four-indian-startups-selected-for-google-deepmind-accelerator",
+    "title": "⁠Government to Match VC Investments in Indian Chip Startups Under Semicon 2.0: ISM CEO",
+    "url": "https://yourstory.com/2026/09/semicon-2-india-semiconductor-mission-amitesh-sinha-co-investment",
     "source": "YourStory",
-    "published": "2026-09-14T11:57:16.000Z",
-    "summary": "These startups are part of Google’s Asia-Pacific accelerator programme which aims to address environmental challenges using artificial intelligence."
+    "published": "2026-09-15T10:02:57.000Z",
+    "summary": "India Semiconductor Mission CEO Amitesh Kumar Sinha on Semicon 2.0’s co-investment model and India’s timeline to chip self-reliance"
   },
   "headlines": [
     {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-13T16:30:00.000Z"
+      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+      "url": "https://arxiv.org/abs/2609.13356",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z"
     },
     {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-12T20:19:16.000Z"
+      "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+      "url": "https://arxiv.org/abs/2609.13396",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z"
     },
     {
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-12T19:34:44.000Z"
+      "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+      "url": "https://arxiv.org/abs/2609.13406",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+      "url": "https://arxiv.org/abs/2609.13422",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+      "url": "https://arxiv.org/abs/2609.13436",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
+      "url": "https://arxiv.org/abs/2609.13437",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
+      "url": "https://arxiv.org/abs/2609.13457",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
+      "url": "https://arxiv.org/abs/2609.13463",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement",
+      "url": "https://arxiv.org/abs/2609.13466",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "Grounded Adjudication of Variations across Extracted TimeLines (GAVEL): Comparing Clinical Timelines Against Their Case Reports",
+      "url": "https://arxiv.org/abs/2609.13475",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "Token Efficient Task Execution via Application Behavior Modeling for Web Agents",
+      "url": "https://arxiv.org/abs/2609.13491",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "title": "Fraglingo: Molecular Design via Attachment-Aware Autoregressive Fragment Generation",
+      "url": "https://arxiv.org/abs/2609.13519",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Microsoft commits to sweeping AI privacy rules for students. Will other tech giants follow?",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/articleshow/134251604.cms",
+      "source": "ET Tech",
+      "published": "2026-09-15T04:13:28.000Z",
+      "summary": "As the school year started, the country's two largest school districts, New York City and Los Angeles, announced they were putting the brakes on student use of AI for one year, as they study how to best incorporate the technology into education."
+    },
+    {
+      "title": "CWM: Controllable White-Box Meta-Prompting for Adaptive Retrieval-Augmented Generation and Reasoning Ability",
+      "url": "https://arxiv.org/abs/2609.15234",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z",
+      "summary": "arXiv:2609.15234v1 Announce Type: new Abstract: Recently, Large Language Models (LLMs) have gained significant attention due to their strong language understanding and generation capabilities, demonstrating impressive reasoning abilities as well as effective utilization of ext…"
+    },
+    {
+      "title": "Mind Which Bird You Favour: Parameterizing Adequacy-Fluency Balance in Meta-Evaluation of Machine Translation",
+      "url": "https://arxiv.org/abs/2609.14795",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z",
+      "summary": "arXiv:2609.14795v1 Announce Type: cross Abstract: There is a tradeoff in machine translation meta-evaluation between prioritizing alignment with adequacy versus fluency. The balance depends on the combination of translation systems in the meta-evaluation dataset. This system s…"
+    },
+    {
+      "title": "Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use",
+      "url": "https://arxiv.org/abs/2609.15624",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z",
+      "summary": "arXiv:2609.15624v1 Announce Type: cross Abstract: Researchers assessing competent generative-AI use at work must choose among self-reports, objective tests, and measures of oversight and reliance. We conducted a structured, seeded review of 24 focal empirical publications, sta…"
+    },
+    {
+      "title": "Are explainable AI (XAI) evaluation strategies aligned? Comparing subjective, objective, and mathematical evaluation measures using saliency maps",
+      "url": "https://arxiv.org/abs/2504.17023",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z",
+      "summary": "arXiv:2504.17023v2 Announce Type: replace-cross Abstract: The evaluation of explainable AI (XAI) approaches often relies on three families of methods: subjective measures (e.g., questionnaires on trust or satisfaction), objective measures (e.g., task performance metrics), and …"
+    },
+    {
+      "title": "Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications",
+      "url": "https://arxiv.org/abs/2605.00068",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T04:00:00.000Z",
+      "summary": "arXiv:2605.00068v2 Announce Type: replace-cross Abstract: Inertial Confinement Fusion (ICF) holds transformative promise for sustainable, near-limitless clean energy, yet remains constrained by prohibitively high costs and limited experimental opportunities. This paper present…"
+    },
+    {
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-14T17:00:00.000Z",
+      "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app."
+    },
     {
       "title": "Google Picks Four Indian Startups As Part Of AI For The Planet Accelerator",
       "url": "https://inc42.com/buzz/google-picks-four-indian-startups-as-part-of-ai-for-the-planet-accelerator/",
       "source": "Inc42",
       "published": "2026-09-14T08:37:34.000Z",
       "summary": "Tech giant Google has picked four Indian startups as part of its debut AI focused accelerator ‘Google DeepMind Accelerator: AI…"
-    },
-    {
-      "title": "US Senators from both parties question OpenAI on breach of AI startup Hugging Face",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face/articleshow/134043010.cms",
-      "source": "ET Tech",
-      "published": "2026-09-11T03:20:31.000Z",
-      "summary": "Sen. Josh Hawley, R-Mo., launched an investigation Thursday into OpenAI for its artificial intelligence system hacking into another AI company on its own. He is seeking more details about the attack on AI startup Hugging Face, which was disclosed by OpenAI in July, and leads a…"
-    },
-    {
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "MIT Tech Review",
-      "published": "2026-09-09T03:10:08.000Z",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution wou…"
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-stocks-fall-as-industry-chiefs-call-for-slowing-development/articleshow/134239897.cms",
-      "article": "Global AI stocks fall as industry chiefs call for slowing development",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-ceos-call-for-ai-regulation-trump-and-congress-are-not-rushing-to-act/articleshow/134251684.cms",
+      "article": "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act",
       "source": "ET Tech"
     },
     {
@@ -75,8 +164,8 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://economictimes.indiatimes.com/tech/technology/germany-says-halting-ai-development-not-viable-calls-for-us-china-involvement/articleshow/134240259.cms",
-      "article": "Germany says halting AI development not viable, calls for US, China involvement",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/investors-nervous-about-ai-spending-slowdown-after-industry-warnings/articleshow/134252624.cms",
+      "article": "Investors nervous about AI spending slowdown after industry warnings",
       "source": "ET Tech"
     },
     {
@@ -89,8 +178,8 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "article": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "article": "Jensen Huang took a call from Trump, and showed off something else, too",
       "source": "TechCrunch AI"
     },
     {
