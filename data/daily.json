@@ -1,94 +1,101 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "top": {
-    "title": "What must happen for AI’s trillion-dollar gamble to pay off",
-    "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-    "source": "MIT Tech Review",
-    "published": "2026-09-15T10:00:00.000Z",
-    "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fa…"
+    "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
+    "url": "https://arxiv.org/abs/2609.16129",
+    "source": "arXiv cs.AI",
+    "published": "2026-09-16T04:00:00.000Z",
+    "summary": "arXiv:2609.16129v1 Announce Type: new Abstract: A new scheme for parameter pruning is introduced, derived from the differential-geometric distance in model space. Pruning a parameter sets its value to zero, representing a displacement of the model to the hypersurface on which …"
   },
   "topIndia": {
-    "title": "⁠Government to Match VC Investments in Indian Chip Startups Under Semicon 2.0: ISM CEO",
-    "url": "https://yourstory.com/2026/09/semicon-2-india-semiconductor-mission-amitesh-sinha-co-investment",
-    "source": "YourStory",
-    "published": "2026-09-15T10:02:57.000Z",
-    "summary": "India Semiconductor Mission CEO Amitesh Kumar Sinha on Semicon 2.0’s co-investment model and India’s timeline to chip self-reliance"
+    "title": "Aakrit Vaish’s Activate Closes Maiden VC Fund At $105 Mn To Back AI Startups",
+    "url": "https://inc42.com/buzz/aakrit-vaishs-activate-closes-maiden-vc-fund-at-105-mn-to-back-ai-startups/",
+    "source": "Inc42",
+    "published": "2026-09-16T09:16:40.000Z",
+    "summary": "Former Haptik CEO Aakrit Vaish-led VC firm Activate has announced the final close of its maiden fund at $105 Mn…"
   },
   "headlines": [
     {
-      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-      "url": "https://arxiv.org/abs/2609.13356",
+      "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
+      "url": "https://arxiv.org/abs/2609.16145",
       "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z"
+      "published": "2026-09-16T04:00:00.000Z"
     },
     {
-      "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
-      "url": "https://arxiv.org/abs/2609.13396",
+      "title": "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events",
+      "url": "https://arxiv.org/abs/2609.16163",
       "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z"
+      "published": "2026-09-16T04:00:00.000Z"
     },
     {
-      "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
-      "url": "https://arxiv.org/abs/2609.13406",
+      "title": "Position: AI Is Not Ready for Strategic Conflicts",
+      "url": "https://arxiv.org/abs/2609.16189",
       "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z"
+      "published": "2026-09-16T04:00:00.000Z"
     },
     {
-      "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
-      "url": "https://arxiv.org/abs/2609.13422",
+      "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
+      "url": "https://arxiv.org/abs/2609.16206",
       "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z"
+      "published": "2026-09-16T04:00:00.000Z"
     },
     {
-      "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
-      "url": "https://arxiv.org/abs/2609.13436",
+      "title": "Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance",
+      "url": "https://arxiv.org/abs/2609.16213",
       "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z"
+      "published": "2026-09-16T04:00:00.000Z"
     },
     {
-      "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
-      "url": "https://arxiv.org/abs/2609.13437",
+      "title": "Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions",
+      "url": "https://arxiv.org/abs/2609.16215",
       "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z"
+      "published": "2026-09-16T04:00:00.000Z"
     },
     {
-      "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
-      "url": "https://arxiv.org/abs/2609.13457",
+      "title": "Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI",
+      "url": "https://arxiv.org/abs/2609.16232",
       "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z"
+      "published": "2026-09-16T04:00:00.000Z"
     },
     {
-      "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
-      "url": "https://arxiv.org/abs/2609.13463",
+      "title": "Metacognitive Steering: Learning the Structure of Scientific Judgment",
+      "url": "https://arxiv.org/abs/2609.16245",
       "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z"
+      "published": "2026-09-16T04:00:00.000Z"
     },
     {
-      "title": "Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement",
-      "url": "https://arxiv.org/abs/2609.13466",
+      "title": "The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It",
+      "url": "https://arxiv.org/abs/2609.16247",
       "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z"
+      "published": "2026-09-16T04:00:00.000Z"
     },
     {
-      "title": "Grounded Adjudication of Variations across Extracted TimeLines (GAVEL): Comparing Clinical Timelines Against Their Case Reports",
-      "url": "https://arxiv.org/abs/2609.13475",
+      "title": "CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design",
+      "url": "https://arxiv.org/abs/2609.16251",
       "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z"
+      "published": "2026-09-16T04:00:00.000Z"
     },
     {
-      "title": "Token Efficient Task Execution via Application Behavior Modeling for Web Agents",
-      "url": "https://arxiv.org/abs/2609.13491",
+      "title": "The AI-Enabled Scientific Frontier",
+      "url": "https://arxiv.org/abs/2609.16258",
       "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z"
+      "published": "2026-09-16T04:00:00.000Z"
     },
     {
-      "title": "Fraglingo: Molecular Design via Attachment-Aware Autoregressive Fragment Generation",
-      "url": "https://arxiv.org/abs/2609.13519",
+      "title": "Closing the Loop: Branch-and-Bound for Scalable Verification of Nonlinear Neural Feedback Systems",
+      "url": "https://arxiv.org/abs/2609.16298",
       "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z"
+      "published": "2026-09-16T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Meta launches subscriptions with enhanced AI features",
+      "url": "https://economictimes.indiatimes.com/tech/technology/meta-launches-subscriptions-with-enhanced-ai-features/articleshow/134267775.cms",
+      "source": "ET Tech",
+      "published": "2026-09-15T15:24:28.000Z",
+      "summary": "The service, which has already hit 15 million subscriptions and trials during its phased introduction, aims to offer more than 50 features across Meta's platforms for content creation, audience engagement and business management."
+    },
     {
       "title": "Microsoft commits to sweeping AI privacy rules for students. Will other tech giants follow?",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/articleshow/134251604.cms",
@@ -97,53 +104,11 @@
       "summary": "As the school year started, the country's two largest school districts, New York City and Los Angeles, announced they were putting the brakes on student use of AI for one year, as they study how to best incorporate the technology into education."
     },
     {
-      "title": "CWM: Controllable White-Box Meta-Prompting for Adaptive Retrieval-Augmented Generation and Reasoning Ability",
-      "url": "https://arxiv.org/abs/2609.15234",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z",
-      "summary": "arXiv:2609.15234v1 Announce Type: new Abstract: Recently, Large Language Models (LLMs) have gained significant attention due to their strong language understanding and generation capabilities, demonstrating impressive reasoning abilities as well as effective utilization of ext…"
-    },
-    {
-      "title": "Mind Which Bird You Favour: Parameterizing Adequacy-Fluency Balance in Meta-Evaluation of Machine Translation",
-      "url": "https://arxiv.org/abs/2609.14795",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z",
-      "summary": "arXiv:2609.14795v1 Announce Type: cross Abstract: There is a tradeoff in machine translation meta-evaluation between prioritizing alignment with adequacy versus fluency. The balance depends on the combination of translation systems in the meta-evaluation dataset. This system s…"
-    },
-    {
-      "title": "Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use",
-      "url": "https://arxiv.org/abs/2609.15624",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z",
-      "summary": "arXiv:2609.15624v1 Announce Type: cross Abstract: Researchers assessing competent generative-AI use at work must choose among self-reports, objective tests, and measures of oversight and reliance. We conducted a structured, seeded review of 24 focal empirical publications, sta…"
-    },
-    {
-      "title": "Are explainable AI (XAI) evaluation strategies aligned? Comparing subjective, objective, and mathematical evaluation measures using saliency maps",
-      "url": "https://arxiv.org/abs/2504.17023",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z",
-      "summary": "arXiv:2504.17023v2 Announce Type: replace-cross Abstract: The evaluation of explainable AI (XAI) approaches often relies on three families of methods: subjective measures (e.g., questionnaires on trust or satisfaction), objective measures (e.g., task performance metrics), and …"
-    },
-    {
-      "title": "Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications",
-      "url": "https://arxiv.org/abs/2605.00068",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-15T04:00:00.000Z",
-      "summary": "arXiv:2605.00068v2 Announce Type: replace-cross Abstract: Inertial Confinement Fusion (ICF) holds transformative promise for sustainable, near-limitless clean energy, yet remains constrained by prohibitively high costs and limited experimental opportunities. This paper present…"
-    },
-    {
       "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
       "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
       "source": "TechCrunch AI",
       "published": "2026-09-14T17:00:00.000Z",
       "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app."
-    },
-    {
-      "title": "Google Picks Four Indian Startups As Part Of AI For The Planet Accelerator",
-      "url": "https://inc42.com/buzz/google-picks-four-indian-startups-as-part-of-ai-for-the-planet-accelerator/",
-      "source": "Inc42",
-      "published": "2026-09-14T08:37:34.000Z",
-      "summary": "Tech giant Google has picked four Indian startups as part of its debut AI focused accelerator ‘Google DeepMind Accelerator: AI…"
     }
   ],
   "people": [
@@ -157,15 +122,15 @@
     {
       "name": "Demis Hassabis",
       "org": "Google DeepMind",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-deepmind-cofounder-demis-hassabis-backs-anthropic-boss-dario-amodeis-calls-for-ai-slowdown/articleshow/134216869.cms",
-      "article": "Google DeepMind cofounder Demis Hassabis backs Anthropic boss Dario Amodei's calls for AI slowdown",
-      "source": "ET Tech"
+      "link": "https://x.com/demishassabis",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/investors-nervous-about-ai-spending-slowdown-after-industry-warnings/articleshow/134252624.cms",
-      "article": "Investors nervous about AI spending slowdown after industry warnings",
+      "link": "https://economictimes.indiatimes.com/tech/startups/anthropics-amodei-to-ai-industry-set-your-own-safety-standards-before-regulators-do/articleshow/134271448.cms",
+      "article": "Anthropic's Amodei calls for industry-wide AI safety standards",
       "source": "ET Tech"
     },
     {
@@ -178,8 +143,8 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-      "article": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "article": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
       "source": "TechCrunch AI"
     },
     {
@@ -192,9 +157,9 @@
     {
       "name": "Sundar Pichai",
       "org": "Google",
-      "link": "https://x.com/sundarpichai",
-      "article": null,
-      "source": "Profile"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-ceo-sundar-pichai-outlines-tech-giants-ai-efforts-across-health-weather-and-learning/articleshow/134279075.cms",
+      "article": "Google CEO Sundar Pichai outlines tech giant's AI efforts across health, weather and learning",
+      "source": "ET Tech"
     },
     {
       "name": "Mira Murati",

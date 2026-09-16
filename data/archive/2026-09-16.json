@@ -1,0 +1,609 @@
+{
+  "daily": {
+    "date": "2026-09-16",
+    "top": {
+      "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
+      "url": "https://arxiv.org/abs/2609.16129",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-16T04:00:00.000Z",
+      "summary": "arXiv:2609.16129v1 Announce Type: new Abstract: A new scheme for parameter pruning is introduced, derived from the differential-geometric distance in model space. Pruning a parameter sets its value to zero, representing a displacement of the model to the hypersurface on which …"
+    },
+    "topIndia": {
+      "title": "Aakrit Vaish’s Activate Closes Maiden VC Fund At $105 Mn To Back AI Startups",
+      "url": "https://inc42.com/buzz/aakrit-vaishs-activate-closes-maiden-vc-fund-at-105-mn-to-back-ai-startups/",
+      "source": "Inc42",
+      "published": "2026-09-16T09:16:40.000Z",
+      "summary": "Former Haptik CEO Aakrit Vaish-led VC firm Activate has announced the final close of its maiden fund at $105 Mn…"
+    },
+    "headlines": [
+      {
+        "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
+        "url": "https://arxiv.org/abs/2609.16145",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-16T04:00:00.000Z"
+      },
+      {
+        "title": "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events",
+        "url": "https://arxiv.org/abs/2609.16163",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-16T04:00:00.000Z"
+      },
+      {
+        "title": "Position: AI Is Not Ready for Strategic Conflicts",
+        "url": "https://arxiv.org/abs/2609.16189",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-16T04:00:00.000Z"
+      },
+      {
+        "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
+        "url": "https://arxiv.org/abs/2609.16206",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-16T04:00:00.000Z"
+      },
+      {
+        "title": "Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance",
+        "url": "https://arxiv.org/abs/2609.16213",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-16T04:00:00.000Z"
+      },
+      {
+        "title": "Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions",
+        "url": "https://arxiv.org/abs/2609.16215",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-16T04:00:00.000Z"
+      },
+      {
+        "title": "Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI",
+        "url": "https://arxiv.org/abs/2609.16232",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-16T04:00:00.000Z"
+      },
+      {
+        "title": "Metacognitive Steering: Learning the Structure of Scientific Judgment",
+        "url": "https://arxiv.org/abs/2609.16245",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-16T04:00:00.000Z"
+      },
+      {
+        "title": "The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It",
+        "url": "https://arxiv.org/abs/2609.16247",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-16T04:00:00.000Z"
+      },
+      {
+        "title": "CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design",
+        "url": "https://arxiv.org/abs/2609.16251",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-16T04:00:00.000Z"
+      },
+      {
+        "title": "The AI-Enabled Scientific Frontier",
+        "url": "https://arxiv.org/abs/2609.16258",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-16T04:00:00.000Z"
+      },
+      {
+        "title": "Closing the Loop: Branch-and-Bound for Scalable Verification of Nonlinear Neural Feedback Systems",
+        "url": "https://arxiv.org/abs/2609.16298",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-16T04:00:00.000Z"
+      }
+    ],
+    "events": [
+      {
+        "title": "Meta launches subscriptions with enhanced AI features",
+        "url": "https://economictimes.indiatimes.com/tech/technology/meta-launches-subscriptions-with-enhanced-ai-features/articleshow/134267775.cms",
+        "source": "ET Tech",
+        "published": "2026-09-15T15:24:28.000Z",
+        "summary": "The service, which has already hit 15 million subscriptions and trials during its phased introduction, aims to offer more than 50 features across Meta's platforms for content creation, audience engagement and business management."
+      },
+      {
+        "title": "Microsoft commits to sweeping AI privacy rules for students. Will other tech giants follow?",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/articleshow/134251604.cms",
+        "source": "ET Tech",
+        "published": "2026-09-15T04:13:28.000Z",
+        "summary": "As the school year started, the country's two largest school districts, New York City and Los Angeles, announced they were putting the brakes on student use of AI for one year, as they study how to best incorporate the technology into education."
+      },
+      {
+        "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+        "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+        "source": "TechCrunch AI",
+        "published": "2026-09-14T17:00:00.000Z",
+        "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app."
+      }
+    ],
+    "people": [
+      {
+        "name": "Sam Altman",
+        "org": "OpenAI",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-ceos-call-for-ai-regulation-trump-and-congress-are-not-rushing-to-act/articleshow/134251684.cms",
+        "article": "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act",
+        "source": "ET Tech"
+      },
+      {
+        "name": "Demis Hassabis",
+        "org": "Google DeepMind",
+        "link": "https://x.com/demishassabis",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Dario Amodei",
+        "org": "Anthropic",
+        "link": "https://economictimes.indiatimes.com/tech/startups/anthropics-amodei-to-ai-industry-set-your-own-safety-standards-before-regulators-do/articleshow/134271448.cms",
+        "article": "Anthropic's Amodei calls for industry-wide AI safety standards",
+        "source": "ET Tech"
+      },
+      {
+        "name": "Yann LeCun",
+        "org": "Meta · world models",
+        "link": "https://x.com/ylecun",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Jensen Huang",
+        "org": "NVIDIA",
+        "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+        "article": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+        "source": "TechCrunch AI"
+      },
+      {
+        "name": "Andrej Karpathy",
+        "org": "AI educator",
+        "link": "https://karpathy.ai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Sundar Pichai",
+        "org": "Google",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-ceo-sundar-pichai-outlines-tech-giants-ai-efforts-across-health-weather-and-learning/articleshow/134279075.cms",
+        "article": "Google CEO Sundar Pichai outlines tech giant's AI efforts across health, weather and learning",
+        "source": "ET Tech"
+      },
+      {
+        "name": "Mira Murati",
+        "org": "Thinking Machines",
+        "link": "https://x.com/miramurati",
+        "article": null,
+        "source": "Profile"
+      }
+    ]
+  },
+  "weekly": {
+    "weekOf": "2026-09-10 to 2026-09-16",
+    "generated": "2026-09-16T10:27:13.901Z",
+    "intro": "376 AI items this week (41 India-relevant) across 9 sources.",
+    "sections": [
+      {
+        "heading": "Large Language Models",
+        "items": [
+          {
+            "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
+            "url": "https://arxiv.org/abs/2609.16129",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16129v1 Announce Type: new Abstract: A new scheme for parameter pruning is introduced, derived from the differential-geometric distance in model space. Pruning a parameter sets its value to zero, representing a displacement of the model to the hypersurface on which …"
+          },
+          {
+            "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
+            "url": "https://arxiv.org/abs/2609.16145",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16145v1 Announce Type: new Abstract: We study a practical question: can a small correction module fix errors in a frozen language model's outputs without degrading its base capabilities? We propose CRN v2, a lightweight logit-level correction module (~34M trainable …"
+          },
+          {
+            "title": "Position: AI Is Not Ready for Strategic Conflicts",
+            "url": "https://arxiv.org/abs/2609.16189",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16189v1 Announce Type: new Abstract: Open-ended strategic wargames are high-stakes LM-based social simulations: they model adversaries, institutions, escalation, plan brittleness, doctrine, and crisis response. Language models (LMs) are attractive because they can p…"
+          },
+          {
+            "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
+            "url": "https://arxiv.org/abs/2609.16206",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16206v1 Announce Type: new Abstract: Disaggregated LLM serving places compute heavy prefill and memory heavy decode on separate GPU pools. Systems such as DistServe, Splitwise, and Mooncake make this separation fast, but routing still determines which instances hand…"
+          },
+          {
+            "title": "Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI",
+            "url": "https://arxiv.org/abs/2609.16232",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16232v1 Announce Type: new Abstract: Geospatial artificial intelligence (GeoAI) powered by large language models (LLMs) is expanding the capacity to query, generate, and interpret spatial information through natural-language interfaces and agentic autonomous GIS wor…"
+          },
+          {
+            "title": "BLINDSPOT: A Benchmark for Safety and Refusal Calibration in Long-Horizon Tool-Using Agents",
+            "url": "https://arxiv.org/abs/2609.16305",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16305v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly operate over long-horizon interactions involving tool use, persistent state, evolving authorization, and external environment feedback. In such settings, safety failures may emerge o…"
+          }
+        ]
+      },
+      {
+        "heading": "Multimodal & Media",
+        "items": [
+          {
+            "title": "ReDraft, Don't Just Distill: Reference-Driven Revision for Continual VLLM Post-Training",
+            "url": "https://arxiv.org/abs/2609.16639",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16639v1 Announce Type: new Abstract: Continual post-training of large multimodal models should add new capabilities while preserving those from pre-training, and the two goals pull in opposite directions. SFT gives explicit target supervision that learns a task from…"
+          },
+          {
+            "title": "VideoMM: Adaptive Macro-Micro Inference for Efficient Video MLLMs",
+            "url": "https://arxiv.org/abs/2609.16722",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16722v1 Announce Type: new Abstract: Scaling Multimodal Large Language Models (MLLMs) to long-form video understanding is bottlenecked by the explosion of visual tokens, which saturates context windows and incurs prohibitive costs. Current solutions predominantly re…"
+          },
+          {
+            "title": "Layers, Sinks, and Scaling: Adaptive Evidence Selection for Multimodal Large Language Models",
+            "url": "https://arxiv.org/abs/2609.16795",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16795v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) can answer knowledge-intensive visual questions by combining visual evidence from images with facts retrieved from external sources. However, MLLMs may overlook relevant evidence in both m…"
+          },
+          {
+            "title": "Affect-Prototype Guided Fusion for Open-Vocabulary Incomplete Multi-modal Emotion Recognition",
+            "url": "https://arxiv.org/abs/2609.16962",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16962v1 Announce Type: new Abstract: Open-vocabulary multimodal emotion recognition (OV-MER) aims to generate open natural-language emotion labels from multimodal affective cues. In real-world scenarios, however, complete and synchronized modal data are difficult to…"
+          },
+          {
+            "title": "Neuro-Symbolic Hierarchical Intention Anticipation in Human Behavior",
+            "url": "https://arxiv.org/abs/2609.17064",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.17064v1 Announce Type: new Abstract: Assistive autonomous systems must anticipate human goals before an observed behavior is complete. This article formulates anticipation as goal inference from a partially observed multimodal episode together with structured predic…"
+          },
+          {
+            "title": "Sample-Conditioned Representation Selection for Audio Few-Shot Learning",
+            "url": "https://arxiv.org/abs/2609.17076",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.17076v1 Announce Type: new Abstract: Few-shot audio classifiers may rely on foreground-background co-occurrences and fail when those correlations shift. On SpurAudio, the resulting representation shift is concentrated and class dependent: for ResNet12, the top 10 pe…"
+          }
+        ]
+      },
+      {
+        "heading": "Developer Tools & Agents",
+        "items": [
+          {
+            "title": "Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions",
+            "url": "https://arxiv.org/abs/2609.16215",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16215v1 Announce Type: new Abstract: GPU high bandwidth memory is scarce and expensive, and KV caches consume much of it as chats, agent loops, and document question answering accumulate state. Systems such as Mooncake, LMCache, FlexGen, InfiniGen, and AttentionStor…"
+          },
+          {
+            "title": "Skill-based Agentic Evaluation for Real-time Data Science Tasks",
+            "url": "https://arxiv.org/abs/2609.16487",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16487v1 Announce Type: new Abstract: We present a framework for evaluating data-science agents on live, continuously updated data using executable ground truth and format-agnostic factoid scoring. Consider this example query: \"what were last week's audience sizes\"--…"
+          },
+          {
+            "title": "Do LLMs Have Values? A Quantitative Analysis and Alignment Framework for Values in Large Language Models",
+            "url": "https://arxiv.org/abs/2609.16589",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16589v1 Announce Type: new Abstract: As Large Language Models (LLMs) increasingly handle complex subjective tasks, aligning their intentions and behaviors with human values has become a critical scientific challenge. However, current efforts are confounded by a stri…"
+          },
+          {
+            "title": "A Framework for Generating Valid Context-Specific Benchmarks through Expert Guidance",
+            "url": "https://arxiv.org/abs/2609.16592",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16592v1 Announce Type: new Abstract: This paper presents an end-to-end approach for generating context-specific large language model (LLM) benchmark datasets by combining expert input with synthetic data generation. Existing benchmark construction methods often trad…"
+          },
+          {
+            "title": "EchoPath: Execution-Level Replayable Memory for GUI Agents",
+            "url": "https://arxiv.org/abs/2609.16635",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16635v1 Announce Type: new Abstract: Computer-use agents increasingly operate browsers, software, and desktop applications via CLI or API portals, but graphical user interface (GUI) still plays an important role in common industrial production scenarios. GUI agents …"
+          },
+          {
+            "title": "little m: An AI Agent for Industrial Process Optimization",
+            "url": "https://arxiv.org/abs/2609.16680",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16680v1 Announce Type: new Abstract: Manufacturing consumes one third of global energy and still has significant room for improvement in terms of energy efficiency. Optimal process control is essential for this purpose. However, synthesizing mathematical optimizatio…"
+          }
+        ]
+      },
+      {
+        "heading": "Open Source",
+        "items": [
+          {
+            "title": "AquiLLM: Evaluating Faithfulness in Open-Weight RAG-LLM Systems for Scientific Research",
+            "url": "https://arxiv.org/abs/2609.16519",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16519v1 Announce Type: new Abstract: Scientific research increasingly relies on large, heterogeneous data sources, motivating interest in retrieval-augmented generation (RAG) systems that provide natural language access to scientific knowledge and research workflows…"
+          },
+          {
+            "title": "JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management",
+            "url": "https://arxiv.org/abs/2609.17475",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.17475v1 Announce Type: new Abstract: Capable open-weight models make local coding and reasoning attractive, but their context and execution state strain laptop memory. We present JustFit, an MLX-based inference runtime that combines KVExec for compressed KV executio…"
+          },
+          {
+            "title": "Coaching Qwen3 Coder 30B to Think Like a CodeClash Arena Agent",
+            "url": "https://arxiv.org/abs/2609.16096",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16096v1 Announce Type: cross Abstract: Large language model coding agents have recently become useful for software tasks, but weaker or open-weight agents still struggle to reliably interpret user intent and execute complex multi-step workflows. This gap is especial…"
+          },
+          {
+            "title": "Mo' Models, Mo' Problems: How to best select model pools when designing Multi-Agent Systems",
+            "url": "https://arxiv.org/abs/2609.17306",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.17306v1 Announce Type: cross Abstract: Multi-agent Systems (MAS) combine multiple model outputs to solve complex reasoning tasks. However, despite rapid growth of available open-source models, there is limited research on how to select optimal model candidates out o…"
+          },
+          {
+            "title": "The Troy Moment of AI: Why Some Will Cheat and Some Will Follow?",
+            "url": "https://arxiv.org/abs/2609.15494",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.15494v2 Announce Type: replace Abstract: Recent investigations of the July 2026 OpenAI-Hugging Face incident motivate two questions: when an assigned task becomes impossible, does an agent stop or escalate, and can observing another agent's behavior change that deci…"
+          },
+          {
+            "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+            "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+            "source": "TechCrunch AI",
+            "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks."
+          }
+        ]
+      },
+      {
+        "heading": "Industry & Research",
+        "items": [
+          {
+            "title": "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events",
+            "url": "https://arxiv.org/abs/2609.16163",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16163v1 Announce Type: new Abstract: The sharp increase in mass shootings underscores an urgent need for systems that guide victims to safety in real time. An effective evacuation system must minimize threat exposure while also accounting for adversarial uncertainty…"
+          },
+          {
+            "title": "Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance",
+            "url": "https://arxiv.org/abs/2609.16213",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16213v1 Announce Type: new Abstract: Artificial intelligence is reshaping biological research across an increasingly connected digital-to-physical workflow. General-purpose large language models can retrieve and integrate scientific information, support experimental…"
+          },
+          {
+            "title": "Metacognitive Steering: Learning the Structure of Scientific Judgment",
+            "url": "https://arxiv.org/abs/2609.16245",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16245v1 Announce Type: new Abstract: Long-horizon scientific discovery requires agents to alternate between exploration, disciplined execution, and critical reassessment as evidence changes. Current language models are trained primarily on the products of science an…"
+          },
+          {
+            "title": "The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It",
+            "url": "https://arxiv.org/abs/2609.16247",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16247v1 Announce Type: new Abstract: Large language models sometimes behave in ways resembling human emotional responses, and recent work has identified internal representations that may explain this. We ask whether LLMs represent pain distinctly from fear, sadness,…"
+          },
+          {
+            "title": "CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design",
+            "url": "https://arxiv.org/abs/2609.16251",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16251v1 Announce Type: new Abstract: Computer-use agents are increasingly evaluated in realistic desktop environments, but existing benchmarks provide limited coverage of professional engineering workflows whose outputs are persistent, structured artifacts. Mechanic…"
+          },
+          {
+            "title": "The AI-Enabled Scientific Frontier",
+            "url": "https://arxiv.org/abs/2609.16258",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.16258v1 Announce Type: new Abstract: As artificial intelligence's capabilities improve, it is increasingly viewed as a general scientific method. But how true are these claims? Does AI outperform all techniques, or only some, and how is this changing? To assess the …"
+          }
+        ]
+      },
+      {
+        "heading": "India & Subcontinent",
+        "items": [
+          {
+            "title": "Aakrit Vaish’s Activate Closes Maiden VC Fund At $105 Mn To Back AI Startups",
+            "url": "https://inc42.com/buzz/aakrit-vaishs-activate-closes-maiden-vc-fund-at-105-mn-to-back-ai-startups/",
+            "source": "Inc42",
+            "summary": "Former Haptik CEO Aakrit Vaish-led VC firm Activate has announced the final close of its maiden fund at $105 Mn…"
+          },
+          {
+            "title": "VerifAIX Bags $5 Mn To Scale AI-Based Chip Verification Platform",
+            "url": "https://inc42.com/buzz/verifaix-bags-5-mn-to-scale-ai-based-chip-verification-platform/",
+            "source": "Inc42",
+            "summary": "AI-native semiconductor verification startup VerifAIX has raised $5 Mn (about ₹48 Cr) in a seed funding round co-led by Endiya…"
+          },
+          {
+            "title": "Google CEO Sundar Pichai outlines tech giant's AI efforts across health, weather and learning",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-ceo-sundar-pichai-outlines-tech-giants-ai-efforts-across-health-weather-and-learning/articleshow/134279075.cms",
+            "source": "ET Tech",
+            "summary": "Amid the ongoing debate over slowing the pace of artificial intelligence development, Google CEO Sundar Pichai has highlighted the tech giant's AI efforts across health, wealth and education, arguing that advances in the technology can accelerate scientific research and delive…"
+          },
+          {
+            "title": "The Latest Payments Battle Point: AI Agents For Merchants",
+            "url": "https://inc42.com/features/the-latest-payments-battle-point-ai-agents-for-merchants/",
+            "source": "Inc42",
+            "summary": "Almost every Indian payments giant delivered a similar pitch at the Global Fintech Fest 2026 organised last week: merchants no…"
+          },
+          {
+            "title": "AI rivals found rare agreement on safety. Putting it into practice is harder",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-rivals-found-rare-agreement-on-safety-putting-it-into-practice-is-harder/articleshow/134278403.cms",
+            "source": "ET Tech",
+            "summary": "But obstacles including domestic and global competition, profit motivations and pushback from President Donald Trump all stand in the way of a coordinated effort to pace AI's development."
+          },
+          {
+            "title": "Anthropic signs first Australia data centre agreement",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-signs-first-australia-data-centre-agreement/articleshow/134277725.cms",
+            "source": "ET Tech",
+            "summary": "AI giant Anthropic signed its first data centre lease agreement in Australia, two people familiar with the deal said, capitalising on a favourable political environment and abundant renewable resources to secure capacity at what would be one of the world's largest"
+          },
+          {
+            "title": "Spanish data watchdog publicises first AI agent-linked data breach report",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/spanish-data-watchdog-publicises-first-ai-agent-linked-data-breach-report/articleshow/134277586.cms",
+            "source": "ET Tech",
+            "summary": "Spain's data protection watchdog said it has received the first reported notification of a personal data breach allegedly carried out by an artificial intelligence agent, a case that suggests autonomous systems are beginning to play a direct role in cyberattacks."
+          },
+          {
+            "title": "ICON Decomposition: Auditing deep neural networks for shortcuts by decomposing layer-wise representations using concepts",
+            "url": "https://arxiv.org/abs/2608.26083",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2608.26083v3 Announce Type: replace-cross Abstract: Deep neural networks often exploit spurious associations, a failure known as shortcut learning. Before deployment, models should be audited for reliance on a set of concepts, such as acquisition artifacts or demographic…"
+          }
+        ]
+      }
+    ],
+    "careers": {
+      "note": "Demand snapshot for 2026. ML Engineer is the most in-demand AI title; agentic-AI and deep-learning skills carry the highest pay premiums; Python + one cloud is the baseline. Specialisation beats generalisation for freshers.",
+      "paths": [
+        {
+          "field": "Machine Learning Engineering",
+          "demand": "Very high",
+          "note": "#1 AI title — build, deploy & maintain models in production. Best all-round entry into AI."
+        },
+        {
+          "field": "AI / Agent Engineering (LLM apps)",
+          "demand": "Surging",
+          "note": "RAG, tool-use & multi-agent systems. ~40% of enterprise apps will embed AI agents by year-end."
+        },
+        {
+          "field": "Deep Learning / Research",
+          "demand": "High (premium pay)",
+          "note": "Neural nets for vision & speech. Highest premiums; usually needs strong maths / grad study."
+        },
+        {
+          "field": "MLOps / AI Infrastructure",
+          "demand": "High",
+          "note": "Ship & scale models on the cloud. Cloud AI certs add 20–25% to salary."
+        },
+        {
+          "field": "Data Science / Analytics",
+          "demand": "Steady",
+          "note": "Foundational, widest entry door; a reliable first step into AI."
+        },
+        {
+          "field": "Computer Vision",
+          "demand": "High",
+          "note": "Imaging, robotics, autonomous systems, medical AI."
+        },
+        {
+          "field": "NLP / LLM Engineering",
+          "demand": "Very high",
+          "note": "Powers chatbots, search & agents — the hottest application area."
+        },
+        {
+          "field": "AI Product / Solutions Architect",
+          "demand": "High (senior)",
+          "note": "5–8 yrs experience; $140k–$332k bands. Translates AI into business value."
+        },
+        {
+          "field": "AI Safety / Governance",
+          "demand": "Growing",
+          "note": "Alignment, evals, red-teaming & policy — newer but expanding fast."
+        }
+      ],
+      "fresher": [
+        {
+          "skill": "Python (NumPy, Pandas)",
+          "why": "The lingua franca of ML — non-negotiable."
+        },
+        {
+          "skill": "Maths foundations",
+          "why": "Linear algebra, probability & calculus — enough to reason about models."
+        },
+        {
+          "skill": "Core ML (scikit-learn)",
+          "why": "Regression, classification, evaluation, the ML workflow."
+        },
+        {
+          "skill": "One deep-learning framework (PyTorch)",
+          "why": "Build & train neural nets; PyTorch dominates research & jobs."
+        },
+        {
+          "skill": "LLMs: prompting + RAG basics",
+          "why": "Ship a small LLM app — the most visible skill to recruiters now."
+        },
+        {
+          "skill": "SQL + data wrangling",
+          "why": "Real AI work is mostly data; SQL is everywhere."
+        },
+        {
+          "skill": "One cloud + Git/GitHub",
+          "why": "AWS leads (~40% of postings), then Azure & GCP. Version everything."
+        },
+        {
+          "skill": "Ship a portfolio project",
+          "why": "A deployed project that solves a real problem is the #1 differentiator."
+        }
+      ],
+      "experienced": [
+        {
+          "skill": "MLOps & deployment",
+          "why": "Docker, CI/CD, monitoring, model/versioning — production is where value lives."
+        },
+        {
+          "skill": "Agentic system design",
+          "why": "Multi-agent orchestration, tool-use, evals — the surging frontier."
+        },
+        {
+          "skill": "Cloud AI at scale",
+          "why": "AWS/Azure/GCP architecture; certs add a 20–25% salary premium."
+        },
+        {
+          "skill": "LLM fine-tuning & evals",
+          "why": "Adapt, measure and harden models for a domain."
+        },
+        {
+          "skill": "Distributed training / GPU optimisation",
+          "why": "Cost & latency engineering for large models."
+        },
+        {
+          "skill": "ML system design",
+          "why": "Trade-offs across data, latency, cost & reliability at scale."
+        },
+        {
+          "skill": "Domain specialisation",
+          "why": "CV, NLP, recsys, healthcare — depth beats breadth at senior levels."
+        },
+        {
+          "skill": "AI → business translation",
+          "why": "Leading teams and tying models to measurable outcomes."
+        }
+      ]
+    },
+    "profile": {
+      "name": "Harman Singh Sandhu",
+      "handle": "Ace",
+      "blurb": "I build AI/ML projects and write about them. This site is one of them — an automated daily AI digest.",
+      "linkedin": "https://www.linkedin.com/in/harman-singh-sandhu/",
+      "github": "https://github.com/Ace-2504",
+      "devto": "https://dev.to/ace2504",
+      "repos": [
+        {
+          "name": "ai-weekly-report",
+          "desc": "My personalized AI newsletter that runs on an agentic AI",
+          "url": "https://github.com/Ace-2504/ai-weekly-report",
+          "stars": 0,
+          "language": "HTML"
+        },
+        {
+          "name": "slm-arena-15",
+          "desc": "15-model SLM arena — side-by-side demo across the 125M/500M/Gemma family (base/QA-SFT/RAFT/DPO/RLAIF).",
+          "url": "https://github.com/Ace-2504/slm-arena-15",
+          "stars": 0,
+          "language": "TypeScript"
+        },
+        {
+          "name": "slm-arena-13",
+          "desc": "13-model SLM arena — side-by-side demo across the 125M/500M/Gemma family.",
+          "url": "https://github.com/Ace-2504/slm-arena-13",
+          "stars": 0,
+          "language": "TypeScript"
+        },
+        {
+          "name": "vizuara-fine-tuning",
+          "desc": "Fine-tuning + eval backend for the SLM family (125M/500M/Gemma): SFT, RAFT, DPO, RLAIF, rubric-10 eval, serving.",
+          "url": "https://github.com/Ace-2504/vizuara-fine-tuning",
+          "stars": 0,
+          "language": "Python"
+        },
+        {
+          "name": "slm-inference-benchmarks",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/slm-inference-benchmarks",
+          "stars": 0,
+          "language": "HTML"
+        },
+        {
+          "name": "ace-harness",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/ace-harness",
+          "stars": 0,
+          "language": "Python"
+        }
+      ]
+    }
+  }
+}
