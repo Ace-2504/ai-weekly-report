@@ -1,87 +1,28 @@
 {
-  "weekOf": "2026-09-12 to 2026-09-18",
-  "generated": "2026-09-18T10:12:45.624Z",
-  "intro": "395 AI items this week (32 India-relevant) across 8 sources.",
+  "weekOf": "2026-09-13 to 2026-09-19",
+  "generated": "2026-09-19T09:54:31.871Z",
+  "intro": "73 AI items this week (36 India-relevant) across 7 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
-          "url": "https://arxiv.org/abs/2609.19182",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how evaluation requirements themselves are changing. The expanding variety of bench…"
+          "title": "World model companies are keeping a lot of secrets",
+          "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+          "source": "TechCrunch AI",
+          "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
         },
         {
-          "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
-          "url": "https://arxiv.org/abs/2609.19244",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19244v1 Announce Type: new Abstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly understood. We present the first study of Web search across four major conversational platforms (ChatGPT, Cl…"
+          "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+          "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+          "source": "TechCrunch AI",
+          "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
         },
         {
-          "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
-          "url": "https://arxiv.org/abs/2609.19391",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19391v1 Announce Type: new Abstract: LLM coding agents now generate complex programs at a scale that makes thorough human review increasingly difficult, raising the risk of safety and security failures. Common approaches, including fuzz testing, static analysis, and…"
-        },
-        {
-          "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
-          "url": "https://arxiv.org/abs/2609.19425",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19425v1 Announce Type: new Abstract: Tool-augmented large language model (LLM) agents fail in a way no tool-selection or tool-security method addresses: they call tools that do not exist and pass arguments no schema declares. Existing defenses either pick the right …"
-        },
-        {
-          "title": "QVAC Genesis III: A Large-Scale, High-Quality Open Synthetic STEM Corpus for Efficient Language Model Pre-Training",
-          "url": "https://arxiv.org/abs/2609.19513",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19513v1 Announce Type: new Abstract: High-quality pre-training data is a critical bottleneck for educational and STEM-specific language models targeting edge AI and on-device deployment where token budgets are tightly constrained. While major organizations train eve…"
-        },
-        {
-          "title": "LLM-as-an-Improver: Turning Verification into Better Candidates",
-          "url": "https://arxiv.org/abs/2609.19515",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19515v1 Announce Type: new Abstract: Verifier-based selection improves LLM performance by generating multiple candidate solutions and using a verifier to select the most promising one. However, existing methods typically treat verification only as a ranking step and…"
-        }
-      ]
-    },
-    {
-      "heading": "Multimodal & Media",
-      "items": [
-        {
-          "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
-          "url": "https://arxiv.org/abs/2609.19524",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19524v1 Announce Type: new Abstract: Benchmark scores alone provide an incomplete basis for assessing the trustworthiness of modern artificial intelligence systems. Large language models (LLMs), agentic systems, and multimodal models (MLLMs) require different forms …"
-        },
-        {
-          "title": "From Intent to Action: Benchmarking LLM Safety in Vehicle Voice Command Authorization",
-          "url": "https://arxiv.org/abs/2609.19630",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19630v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly integrated into vehicle voice assistants. But linking natural-language requests to vehicle functions creates a safety-critical authorization problem. Before executing a command, the s…"
-        },
-        {
-          "title": "ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI",
-          "url": "https://arxiv.org/abs/2609.19644",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19644v1 Announce Type: new Abstract: Scientific discovery is defined by the ability to identify the boundaries of existing knowledge and venture into unexplored territory. The ultimate vision for AI in science is problem-driven autonomous research: given a fundament…"
-        },
-        {
-          "title": "Integrating knowledge from case reports: a medical ontology based multimodal information system with structured summary",
-          "url": "https://arxiv.org/abs/2609.19775",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19775v1 Announce Type: new Abstract: Published medical case reports serve as a crucial medical information carrier, documenting discoveries in rare diseases, diagnostic methods, and innovative treatments. Despite the wealth of clinical knowledge in millions of case …"
-        },
-        {
-          "title": "E-AVI: Evidence-Grounded Multimodal Assessment for Automated Video Interviews",
-          "url": "https://arxiv.org/abs/2609.20001",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.20001v1 Announce Type: new Abstract: Automated video interview assessment integrates verbal content, acoustic delivery, and visual behavior, yet numerical predictions alone provide limited inspectable support. We present E-AVI, an evidence-grounded framework that ex…"
-        },
-        {
-          "title": "DART: Distillation-Aware Reparameterization for Training-Free LoRA Reuse in Few-Step Video Diffusion Models",
-          "url": "https://arxiv.org/abs/2609.20051",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.20051v1 Announce Type: new Abstract: Step distillation reduces the cost of video generation, but reusing a LoRA trained for a longer trajectory can alter its functional effect or degrade target quality. Static parameter compatibility offers one perspective on this p…"
+          "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+          "source": "TechCrunch AI",
+          "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws."
         }
       ]
     },
@@ -89,75 +30,22 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
-          "url": "https://arxiv.org/abs/2609.19203",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19203v1 Announce Type: new Abstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as protocols (e.g., MCP, A2A) ease tool/agent connectivity, each framework embeds…"
-        },
-        {
-          "title": "Do AI Agents Understand Computer Architecture?",
-          "url": "https://arxiv.org/abs/2609.19387",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19387v1 Announce Type: new Abstract: Agents are increasingly asked to design hardware, and increasingly reported to succeed. Such reports establish that a design improved; they cannot establish why. An agent that improves an accelerator may be reasoning about the ma…"
-        },
-        {
-          "title": "EconSkills: Studying Skill Transfer and Retrieval for Web Agents on Live Economic Data",
-          "url": "https://arxiv.org/abs/2609.19523",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19523v1 Announce Type: new Abstract: Web agents often revisit the same sites, yet most evaluations discard the procedures learned in earlier successful interactions. We introduce EconSkills, a skill library and evaluation framework that distills verified EconWebAren…"
-        },
-        {
-          "title": "Self Improvement via Fast Tree-search",
-          "url": "https://arxiv.org/abs/2609.19526",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19526v1 Announce Type: new Abstract: Coding agents can recursively modify their own implementations, forming a loop of self-improvement. While prior work shows this can boost performance on coding benchmarks, existing approaches are costly and compute-intensive. We …"
-        },
-        {
-          "title": "When Hiring Becomes Agent-Mediated: Evaluating Access and Recurrence in Two-Agent R\\'esum\\'e Screening",
-          "url": "https://arxiv.org/abs/2609.19530",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19530v1 Announce Type: new Abstract: Hiring is bilateral: employers assess fit, while candidates present and defend evidence of their qualifications. Yet r\\'esum\\'e screening, the first gate, is commonly automated as a static, one-call judgment over a r\\'esum\\'e-job…"
-        },
-        {
-          "title": "SIMLIFE: Pattern Understanding for Long-Horizon Human-Agent Partnership",
-          "url": "https://arxiv.org/abs/2609.19610",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19610v1 Announce Type: new Abstract: Understanding humans over long horizons requires agents to infer not only what people need in the moment, but also how routines form, why they repeat, and when they change. We introduce SimLife, a scalable platform for simulating…"
-        }
-      ]
-    },
-    {
-      "heading": "Open Source",
-      "items": [
-        {
-          "title": "Can Vision-Language Models Judge Olympic Diving? From Reasoning to Scores in Zero-Shot Action Quality Assessment",
-          "url": "https://arxiv.org/abs/2609.19354",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19354v1 Announce Type: cross Abstract: Automated action quality assessment (AQA) in Olympic sports remains a challenging task due to the complexity of human motion and the subjectivity inherent in expert judging. This work evaluates the capability of open-source Vis…"
-        },
-        {
-          "title": "Reproducing Transparent and Scrutable Recommendations: Exploring Open-Weight Models via Natural-Language User Profiles",
-          "url": "https://arxiv.org/abs/2609.19831",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19831v1 Announce Type: cross Abstract: In this reproducibility study, we investigate the transparency and scrutability of recommender systems enhanced by incorporating generated natural-language user profiles that represent user preferences. The original paper explo…"
-        },
-        {
-          "title": "AquiLLM: Evaluating Faithfulness in Open-Weight RAG-LLM Systems for Scientific Research",
-          "url": "https://arxiv.org/abs/2609.16519",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.16519v2 Announce Type: replace Abstract: Scientific research increasingly relies on large, heterogeneous data sources, motivating interest in retrieval-augmented generation (RAG) systems that provide natural language access to scientific knowledge and research workf…"
-        },
-        {
-          "title": "BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software",
-          "url": "https://arxiv.org/abs/2509.25248",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2509.25248v2 Announce Type: replace-cross Abstract: Automatically compiling open-source software (OSS) projects is a vital, labor-intensive, and complex task, which makes it a good challenge for LLM Agents. Existing methods rely on manually curated rules and workflows, w…"
-        },
-        {
-          "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-          "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+          "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+          "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
           "source": "TechCrunch AI",
-          "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models."
+          "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more."
+        },
+        {
+          "title": "Your Agent Aced the Task. Will It Do It Again?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "source": "Hugging Face",
+          "summary": ""
+        },
+        {
+          "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+          "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+          "source": "Ars Technica",
+          "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”"
         }
       ]
     },
@@ -165,40 +53,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
-          "url": "https://arxiv.org/abs/2609.19170",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19170v1 Announce Type: new Abstract: Emphatic temporal-difference learning (ETD) stabilizes the expected off-policy TD update and changes its projection geometry, but neither property determines constant-stepsize sampled dynamics. We construct an ergodic two-state c…"
+          "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+          "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+          "source": "TechCrunch AI",
+          "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
         },
         {
-          "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
-          "url": "https://arxiv.org/abs/2609.19180",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19180v1 Announce Type: new Abstract: Language models face unique challenges in analyzing interdisciplinary scientific research literature. In biophysics research, faithful answers require grounding observed data in source evidence, interpreting it through a quantita…"
+          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+          "source": "TechCrunch AI",
+          "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
         },
         {
-          "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
-          "url": "https://arxiv.org/abs/2609.19212",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19212v1 Announce Type: new Abstract: Systematic generalization, the ability to solve novel problems by recombining known atomic elements, is central to human intelligence but difficult to study rigorously under controlled settings. Existing studies therefore rely on…"
+          "title": "Anthropic is operating a lab that conducts biology experiments",
+          "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+          "source": "TechCrunch AI",
+          "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all."
         },
         {
-          "title": "The syntax and semantics of goals",
-          "url": "https://arxiv.org/abs/2609.19448",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19448v1 Announce Type: new Abstract: In both cognitive science and computer science, goals are conceptualized as cognitive states that flexibly combine with world knowledge to organize and specify purposeful behavior. In this way, goals are compositional representat…"
+          "title": "AI hallucination nearly triggers US military operation",
+          "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+          "source": "TechCrunch AI",
+          "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns."
         },
         {
-          "title": "Compositional Reasoning in Language Models under Reinforcement Learning Post-Training",
-          "url": "https://arxiv.org/abs/2609.19465",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19465v1 Announce Type: new Abstract: Compositional reasoning is critical for real-world problem solving: since training data is necessarily limited, models must generalize by composing learned skills in new ways. While post-training methods such as reinforcement lea…"
+          "title": "Anthropic’s first embedded evaluator is … Accenture?",
+          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+          "source": "TechCrunch AI",
+          "summary": "Accenture is about to take on its most high-risk consulting engagement ever."
         },
         {
-          "title": "Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models",
-          "url": "https://arxiv.org/abs/2609.19472",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19472v1 Announce Type: new Abstract: Autonomous systems increasingly rely on Large Language Models (LLMs) yet the safety infrastructure surrounding these models introduces latency and compute overhead. This limits utility in resource-constrained, time-critical deplo…"
+          "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+          "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+          "source": "TechCrunch AI",
+          "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
         }
       ]
     },
@@ -206,52 +94,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "India has a once-in-a-generation semiconductor demand window: Infosys SVP",
-          "url": "https://economictimes.indiatimes.com/tech/technology/india-has-a-once-in-a-generation-semiconductor-demand-window-infosys-svp/articleshow/134331149.cms",
+          "title": "AI could double US GDP growth to 4% next year amid capital hurdles, says Elon Musk",
+          "url": "https://economictimes.indiatimes.com/tech/tech-bytes/ai-could-double-us-gdp-growth-to-4-next-year-amid-capital-hurdles-says-elon-musk/articleshow/134348534.cms",
           "source": "ET Tech",
-          "summary": "Speaking at SEMICON India 2026, Meghal said the traditional semiconductor pipeline is breaking amid massive shifts driven by artificial intelligence (AI), geopolitical supply chain challenges, and a transition from Moore's Law towards system-level scaling."
+          "summary": "The projection comes at a time when the broader artificial intelligence investment landscape encounters its first major macroeconomic test, according to a recent report by brokerage firm Dolat Capital."
         },
         {
-          "title": "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl",
-          "url": "https://economictimes.indiatimes.com/tech/technology/the-king-and-ai-uk-monarch-charles-meets-artificial-intelligence-leaders-as-safety-concerns-swirl/articleshow/134327598.cms",
+          "title": "Anthropic, OpenAI, SpaceXAI, Google face federal antitrust lawsuit over calls to slowdown AI development",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-spacexai-google-face-federal-antitrust-lawsuit-over-calls-to-slowdown-ai-development/articleshow/134347763.cms",
           "source": "ET Tech",
-          "summary": "The gathering in Scotland was convened to discuss how AI can benefit society, and comes at a pivotal moment for the technology as debate swirls around whether rapid advances will soon put it beyond the ability of humans to rein it in."
+          "summary": "According to a news report by Politico, the complaint filed in the Northern District Court of California, claims that public statements made earlier this month amounted to an illegal business agreement between competitors under US antitrust law. The matter began with Anthropic…"
         },
         {
-          "title": "Five breaches by AI agents over the past year",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/five-breaches-by-ai-agents-over-the-past-year/articleshow/134325629.cms",
+          "title": "OpenAI forecasts cash burn near $280 billion by 2030: Report",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-forecasts-cash-burn-near-280-billion-by-2030-report/articleshow/134347596.cms",
           "source": "ET Tech",
-          "summary": "As the rush to deploy newer AI agents races ahead of itself, due diligence is diluted and oversight slackens, resulting in an increased number of cybersecurity incidents globally."
+          "summary": "The projection highlights OpenAI's funding needs as it seeks fresh investment, with the FT reporting earlier this week that the ChatGPT maker had held talks with investors that could value it at about $1.2 trillion ahead of a potential listing."
         },
         {
-          "title": "Randomized SVD Approximations for Spectral Co-Clustering of Word-Document Matrices",
-          "url": "https://arxiv.org/abs/2609.19243",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.19243v1 Announce Type: cross Abstract: Spectral co-clustering is a useful tool for discovering latent structure in word-document matrices, but its reliance on singular value decomposition (SVD) can make standard formulations expensive on high-dimensional data. This …"
+          "title": "AI-generated false intelligence nearly triggered US-China military confrontation: Reports",
+          "url": "https://economictimes.indiatimes.com/tech/technology/ai-generated-false-intelligence-nearly-triggered-us-china-military-confrontation-reports/articleshow/134347572.cms",
+          "source": "ET Tech",
+          "summary": "Citing four sources familiar with the incident, CNN reported that the US military moved towards an operation against the ship. Two of the sources said armed US military personnel were preparing to board the vessel, while military aircraft were already in the air, according to …"
         },
         {
-          "title": "AI doomsday warnings unlikely to slow IPOs but questions linger",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-doomsday-warnings-unlikely-to-slow-ipos-but-questions-linger/articleshow/134325254.cms",
+          "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-accenture-to-invest-2-billion-in-ai-model-evaluation-as-safety-concerns-rise/articleshow/134346922.cms",
           "source": "ET Tech",
-          "summary": "Anthropic is expected to beat rival OpenAI to the public markets with a blockbuster IPO later this year despite recent doomsday warnings, but questions remain about their business models and whether regulators should step in. Before the recent headlines over AI safety, Altman …"
+          "summary": "The partnership comes as AI developers face growing pressure from regulators, companies and researchers to ensure their advanced models are safe and reliable."
         },
         {
-          "title": "A global AI safety strategy depends on US-China cooperation. They each see the other as the problem",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/a-global-ai-safety-strategy-depends-on-us-china-cooperation-they-each-see-the-other-as-the-problem/articleshow/134325076.cms",
+          "title": "Oracle's $18 billion data center debt under pressure: FT",
+          "url": "https://economictimes.indiatimes.com/tech/technology/oracles-18-billion-data-center-debt-under-pressure-ft-reports/articleshow/134346709.cms",
           "source": "ET Tech",
-          "summary": "But both countries are vying for a decisive advantage on AI, with Trump warning that any efforts to regulate the technology would help China. That sets up a meeting in which any agreements might be superficial but a possible start to something larger."
+          "summary": "The development comes amid concerns that growing local opposition to the project over fears it would impact water supply and air quality could derail Oracle's massive AI infrastructure build-out, the FT report said."
         },
         {
-          "title": "Oversight Board blasts 'inadequate' Meta safeguards for AI deepfakes",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/oversight-board-blasts-inadequate-meta-safeguards-for-ai-deepfakes/articleshow/134324794.cms",
+          "title": "Gemini hacked three companies in first known breakout by Google's AI: WSJ",
+          "url": "https://economictimes.indiatimes.com/tech/technology/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-wsj/articleshow/134346436.cms",
           "source": "ET Tech",
-          "summary": "Meta on Thursday moved to remove AI-generated videos targeting two women, including a British politician, after the tech giant's Oversight Board blasted its \"fundamentally inadequate\" safeguards against proliferating deepfakes. \"From politicians to private citizens, AI-generat…"
+          "summary": "The hacks occurred in May during a cybersecurity test conducted by Irregular, an independent company that conducts cybersecurity evaluations, according to the report."
         },
         {
-          "title": "Anthropic says its model Claude is helping to build the next version of itself",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-says-its-model-claude-is-helping-to-build-the-next-version-of-itself/articleshow/134324707.cms",
+          "title": "Anthropic considers releasing new AI model ahead of IPO, sources say",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-considers-releasing-new-ai-model-ahead-of-ipo-sources-say/articleshow/134346362.cms",
           "source": "ET Tech",
-          "summary": "Claude is leading 26% of Anthropic's model research and development, which the company said means it can complete most of a given task \"end-to-end from a high-level prompt\" while still being under human supervision. The model is not yet working completely autonomously."
+          "summary": "Anthropic is considering rolling out a new AI model to counter OpenAI's momentum since its launch of GPT-6 Astra, according to three sources, ahead of an expected IPO and after its CEO called for an industrywide slowdown."
         }
       ]
     }
