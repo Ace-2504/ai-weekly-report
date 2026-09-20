@@ -1,11 +1,17 @@
 {
-  "weekOf": "2026-09-13 to 2026-09-19",
-  "generated": "2026-09-19T09:54:31.871Z",
+  "weekOf": "2026-09-14 to 2026-09-20",
+  "generated": "2026-09-20T10:15:29.535Z",
   "intro": "73 AI items this week (36 India-relevant) across 7 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
+        {
+          "title": "Google’s Gemini is the latest AI model to hack other companies",
+          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+          "source": "TechCrunch AI",
+          "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
+        },
         {
           "title": "World model companies are keeping a lot of secrets",
           "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
@@ -17,12 +23,6 @@
           "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
           "source": "TechCrunch AI",
           "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
-        },
-        {
-          "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-          "source": "TechCrunch AI",
-          "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws."
         }
       ]
     },
@@ -53,46 +53,52 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-          "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+          "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
           "source": "TechCrunch AI",
-          "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
+          "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
         },
         {
-          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+          "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
           "source": "TechCrunch AI",
-          "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
+          "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
         },
         {
-          "title": "Anthropic is operating a lab that conducts biology experiments",
-          "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+          "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
           "source": "TechCrunch AI",
-          "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all."
+          "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription."
         },
         {
-          "title": "AI hallucination nearly triggers US military operation",
-          "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+          "title": "AI safety conversations have gotten unbelievable",
+          "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
           "source": "TechCrunch AI",
-          "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns."
+          "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
         },
         {
-          "title": "Anthropic’s first embedded evaluator is … Accenture?",
-          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+          "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+          "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
           "source": "TechCrunch AI",
-          "summary": "Accenture is about to take on its most high-risk consulting engagement ever."
+          "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.."
         },
         {
-          "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-          "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+          "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+          "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
           "source": "TechCrunch AI",
-          "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
+          "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models."
         }
       ]
     },
     {
       "heading": "India & Subcontinent",
       "items": [
+        {
+          "title": "How CubeAPM Plans To Take On Datadog And New Relic In The AI Observability Race",
+          "url": "https://inc42.com/startups/how-cubeapm-plans-to-take-on-datadog-and-new-relic-with-its-80-cheaper-ai-observability-stack/",
+          "source": "Inc42",
+          "summary": "When Vineet Chirania was scaling his train-ticket booking startup, Trainman, a decade ago, he encountered a problem that would eventually…"
+        },
         {
           "title": "AI could double US GDP growth to 4% next year amid capital hurdles, says Elon Musk",
           "url": "https://economictimes.indiatimes.com/tech/tech-bytes/ai-could-double-us-gdp-growth-to-4-next-year-amid-capital-hurdles-says-elon-musk/articleshow/134348534.cms",
@@ -134,12 +140,6 @@
           "url": "https://economictimes.indiatimes.com/tech/technology/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-wsj/articleshow/134346436.cms",
           "source": "ET Tech",
           "summary": "The hacks occurred in May during a cybersecurity test conducted by Irregular, an independent company that conducts cybersecurity evaluations, according to the report."
-        },
-        {
-          "title": "Anthropic considers releasing new AI model ahead of IPO, sources say",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-considers-releasing-new-ai-model-ahead-of-ipo-sources-say/articleshow/134346362.cms",
-          "source": "ET Tech",
-          "summary": "Anthropic is considering rolling out a new AI model to counter OpenAI's momentum since its launch of GPT-6 Astra, according to three sources, ahead of an expected IPO and after its CEO called for an industrywide slowdown."
         }
       ]
     }
