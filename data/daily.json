@@ -1,20 +1,44 @@
 {
   "date": "2026-09-21",
   "top": {
-    "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-    "url": "https://arxiv.org/abs/2609.20971",
-    "source": "arXiv cs.AI",
-    "published": "2026-09-21T04:00:00.000Z",
-    "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid ma…"
+    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "source": "MIT Tech Review",
+    "published": "2026-09-21T12:00:00.000Z",
+    "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between…"
   },
   "topIndia": {
-    "title": "YuVerse takes its last-mile AI proposition to Global Fintech Fest",
-    "url": "https://economictimes.indiatimes.com/tech/technology/yuverse-takes-its-last-mile-ai-proposition-to-global-fintech-fest/articleshow/134384539.cms",
-    "source": "ET Tech",
-    "published": "2026-09-21T08:25:03.000Z",
-    "summary": "At GFF 2026, YuVerse launched four AI products— Yu1, YuBuild, YuBuild Studio and YuFlux—spanning document-to-decisioning, conversational AI, video creation and workflow automation, making the case for an enterprise AI model focused not just on what AI can do, but on how it can…"
+    "title": "Building intelligent enterprises: why developers must bridge code and business reality",
+    "url": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality",
+    "source": "YourStory",
+    "published": "2026-09-21T13:00:27.000Z",
+    "summary": "Subish Ram, Digital Products and Services leader, EY Global Delivery Services (EY GDS), on why business knowledge is the developer's biggest edge in the AI era Strapline: At DevSparks Hyderabad, Subish Ram traced a decade-long shift from RPA to agentic AI and made the case tha…"
   },
   "headlines": [
+    {
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "url": "https://arxiv.org/abs/2609.20971",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z"
+    },
     {
       "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
       "url": "https://arxiv.org/abs/2609.20974",
@@ -62,33 +86,16 @@
       "url": "https://arxiv.org/abs/2609.21157",
       "source": "arXiv cs.AI",
       "published": "2026-09-21T04:00:00.000Z"
-    },
-    {
-      "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
-      "url": "https://arxiv.org/abs/2609.21165",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-21T04:00:00.000Z"
-    },
-    {
-      "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
-      "url": "https://arxiv.org/abs/2609.21192",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-21T04:00:00.000Z"
-    },
-    {
-      "title": "Information-Gain Rewards over Diversity-Pruned Tests: GT-Anchored Verifier Co-Training for Reliable Code Generation",
-      "url": "https://arxiv.org/abs/2609.21208",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-21T04:00:00.000Z"
-    },
-    {
-      "title": "Ability-Residual Decoupled Modeling for Affective Cognitive Diagnosis",
-      "url": "https://arxiv.org/abs/2609.21214",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-21T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Govt asks Microsoft to set up data centres closer to power generation sites",
+      "url": "https://yourstory.com/2026/09/govt-asks-microsoft-set-up-data-centres-closer-to-power-generation-sites",
+      "source": "YourStory",
+      "published": "2026-09-21T11:29:29.000Z",
+      "summary": "Microsoft on Monday formally launched its fourth India cloud region, in Hyderabad, as part of its $20.5 billion investment commitment to the country's digital and AI infrastructure."
+    },
     {
       "title": "Softbank Group launches over $10 billion in bonds for OpenAI investment, term sheet shows",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-group-launches-over-10-billion-in-bonds-for-openai-investment-term-sheet-shows/articleshow/134379411.cms",

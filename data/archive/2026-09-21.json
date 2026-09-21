@@ -2,20 +2,44 @@
   "daily": {
     "date": "2026-09-21",
     "top": {
-      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-      "url": "https://arxiv.org/abs/2609.20971",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-21T04:00:00.000Z",
-      "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid ma…"
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-21T12:00:00.000Z",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between…"
     },
     "topIndia": {
-      "title": "YuVerse takes its last-mile AI proposition to Global Fintech Fest",
-      "url": "https://economictimes.indiatimes.com/tech/technology/yuverse-takes-its-last-mile-ai-proposition-to-global-fintech-fest/articleshow/134384539.cms",
-      "source": "ET Tech",
-      "published": "2026-09-21T08:25:03.000Z",
-      "summary": "At GFF 2026, YuVerse launched four AI products— Yu1, YuBuild, YuBuild Studio and YuFlux—spanning document-to-decisioning, conversational AI, video creation and workflow automation, making the case for an enterprise AI model focused not just on what AI can do, but on how it can…"
+      "title": "Building intelligent enterprises: why developers must bridge code and business reality",
+      "url": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality",
+      "source": "YourStory",
+      "published": "2026-09-21T13:00:27.000Z",
+      "summary": "Subish Ram, Digital Products and Services leader, EY Global Delivery Services (EY GDS), on why business knowledge is the developer's biggest edge in the AI era Strapline: At DevSparks Hyderabad, Subish Ram traced a decade-long shift from RPA to agentic AI and made the case tha…"
     },
     "headlines": [
+      {
+        "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+        "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+        "source": "MIT Tech Review",
+        "published": "2026-09-21T12:00:00.000Z"
+      },
+      {
+        "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+        "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+        "source": "MIT Tech Review",
+        "published": "2026-09-21T12:00:00.000Z"
+      },
+      {
+        "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+        "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+        "source": "MIT Tech Review",
+        "published": "2026-09-21T12:00:00.000Z"
+      },
+      {
+        "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+        "url": "https://arxiv.org/abs/2609.20971",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-21T04:00:00.000Z"
+      },
       {
         "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
         "url": "https://arxiv.org/abs/2609.20974",
@@ -63,33 +87,16 @@
         "url": "https://arxiv.org/abs/2609.21157",
         "source": "arXiv cs.AI",
         "published": "2026-09-21T04:00:00.000Z"
-      },
-      {
-        "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
-        "url": "https://arxiv.org/abs/2609.21165",
-        "source": "arXiv cs.AI",
-        "published": "2026-09-21T04:00:00.000Z"
-      },
-      {
-        "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
-        "url": "https://arxiv.org/abs/2609.21192",
-        "source": "arXiv cs.AI",
-        "published": "2026-09-21T04:00:00.000Z"
-      },
-      {
-        "title": "Information-Gain Rewards over Diversity-Pruned Tests: GT-Anchored Verifier Co-Training for Reliable Code Generation",
-        "url": "https://arxiv.org/abs/2609.21208",
-        "source": "arXiv cs.AI",
-        "published": "2026-09-21T04:00:00.000Z"
-      },
-      {
-        "title": "Ability-Residual Decoupled Modeling for Affective Cognitive Diagnosis",
-        "url": "https://arxiv.org/abs/2609.21214",
-        "source": "arXiv cs.AI",
-        "published": "2026-09-21T04:00:00.000Z"
       }
     ],
     "events": [
+      {
+        "title": "Govt asks Microsoft to set up data centres closer to power generation sites",
+        "url": "https://yourstory.com/2026/09/govt-asks-microsoft-set-up-data-centres-closer-to-power-generation-sites",
+        "source": "YourStory",
+        "published": "2026-09-21T11:29:29.000Z",
+        "summary": "Microsoft on Monday formally launched its fourth India cloud region, in Hyderabad, as part of its $20.5 billion investment commitment to the country's digital and AI infrastructure."
+      },
       {
         "title": "Softbank Group launches over $10 billion in bonds for OpenAI investment, term sheet shows",
         "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-group-launches-over-10-billion-in-bonds-for-openai-investment-term-sheet-shows/articleshow/134379411.cms",
@@ -194,8 +201,8 @@
   },
   "weekly": {
     "weekOf": "2026-09-15 to 2026-09-21",
-    "generated": "2026-09-21T11:22:32.129Z",
-    "intro": "288 AI items this week (39 India-relevant) across 8 sources.",
+    "generated": "2026-09-21T13:27:37.466Z",
+    "intro": "295 AI items this week (42 India-relevant) across 9 sources.",
     "sections": [
       {
         "heading": "Large Language Models",
@@ -242,6 +249,12 @@
         "heading": "Multimodal & Media",
         "items": [
           {
+            "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+            "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+            "source": "MIT Tech Review",
+            "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and siste…"
+          },
+          {
             "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
             "url": "https://arxiv.org/abs/2609.20981",
             "source": "arXiv cs.AI",
@@ -270,12 +283,6 @@
             "url": "https://arxiv.org/abs/2609.21493",
             "source": "arXiv cs.AI",
             "summary": "arXiv:2609.21493v1 Announce Type: new Abstract: Multimodal large language models, or MLLMs, perform well at visual understanding and structured generation, yet these capabilities do not establish whether an engineering design will work when executed. Existing benchmarks assess…"
-          },
-          {
-            "title": "Listen Before You Speak: Response Planning from Listener Facial Reactions for Conversational Speech Generation",
-            "url": "https://arxiv.org/abs/2609.21683",
-            "source": "arXiv cs.AI",
-            "summary": "arXiv:2609.21683v1 Announce Type: new Abstract: Conversational speech depends on dialogue context and the listener's immediately preceding behavior. We propose ReACT-TTS, a two-stage framework that uses a one-second pre-response listener facial sequence to plan the next uttera…"
           }
         ]
       },
@@ -307,22 +314,28 @@
             "summary": "arXiv:2609.21423v1 Announce Type: new Abstract: Online agent deployments produce abundant execution traces, while task-specific verification and expert annotation are costly to scale. We study how to distill these traces into reusable feedback without post-hoc outcome labels, …"
           },
           {
+            "title": "Listen Before You Speak: Response Planning from Listener Facial Reactions for Conversational Speech Generation",
+            "url": "https://arxiv.org/abs/2609.21683",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.21683v1 Announce Type: new Abstract: Conversational speech depends on dialogue context and the listener's immediately preceding behavior. We propose ReACT-TTS, a two-stage framework that uses a one-second pre-response listener facial sequence to plan the next uttera…"
+          },
+          {
             "title": "What Should We Ask Next? Retrieval-Aware Question Learning under Partial Evidence",
             "url": "https://arxiv.org/abs/2609.21924",
             "source": "arXiv cs.AI",
             "summary": "arXiv:2609.21924v1 Announce Type: new Abstract: Interactive retrieval under partial evidence is a sequential information-acquisition problem: an agent must decide which question will create the most useful evidence for the next retrieval update. Existing systems train this dec…"
-          },
-          {
-            "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
-            "url": "https://arxiv.org/abs/2609.22068",
-            "source": "arXiv cs.AI",
-            "summary": "arXiv:2609.22068v1 Announce Type: new Abstract: Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifact…"
           }
         ]
       },
       {
         "heading": "Open Source",
         "items": [
+          {
+            "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+            "url": "https://arxiv.org/abs/2609.22068",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.22068v1 Announce Type: new Abstract: Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifact…"
+          },
           {
             "title": "Benchmarking the Explanatory Quality of Open-Weight Vision-Language Models in Face Recognition",
             "url": "https://arxiv.org/abs/2609.21879",
@@ -334,6 +347,24 @@
       {
         "heading": "Industry & Research",
         "items": [
+          {
+            "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+            "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+            "source": "MIT Tech Review",
+            "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between…"
+          },
+          {
+            "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+            "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+            "source": "MIT Tech Review",
+            "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by adv…"
+          },
+          {
+            "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+            "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+            "source": "MIT Tech Review",
+            "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was with…"
+          },
           {
             "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
             "url": "https://arxiv.org/abs/2609.20974",
@@ -351,30 +382,36 @@
             "url": "https://arxiv.org/abs/2609.21113",
             "source": "arXiv cs.AI",
             "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tunin…"
-          },
-          {
-            "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
-            "url": "https://arxiv.org/abs/2609.21149",
-            "source": "arXiv cs.AI",
-            "summary": "arXiv:2609.21149v1 Announce Type: new Abstract: Before patients can use AI-assisted psychiatric intake systems, health systems need practical ways to routinely evaluate these tools against their clinical standards for quality assurance. Because clinicians may use different int…"
-          },
-          {
-            "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
-            "url": "https://arxiv.org/abs/2609.21165",
-            "source": "arXiv cs.AI",
-            "summary": "arXiv:2609.21165v1 Announce Type: new Abstract: Off-target protein binding is a major source of adverse effects for small-molecule drugs, yet most structure-based molecular design methods focus on generating selective compounds de novo rather than improving the selectivity of …"
-          },
-          {
-            "title": "Ability-Residual Decoupled Modeling for Affective Cognitive Diagnosis",
-            "url": "https://arxiv.org/abs/2609.21214",
-            "source": "arXiv cs.AI",
-            "summary": "arXiv:2609.21214v1 Announce Type: new Abstract: Cognitive diagnosis infers students' concept mastery from response logs. However, students' responses are not determined by mastery alone: non-cognitive factors such as emotion, engagement, and fatigue can also affect performance…"
           }
         ]
       },
       {
         "heading": "India & Subcontinent",
         "items": [
+          {
+            "title": "Building intelligent enterprises: why developers must bridge code and business reality",
+            "url": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality",
+            "source": "YourStory",
+            "summary": "Subish Ram, Digital Products and Services leader, EY Global Delivery Services (EY GDS), on why business knowledge is the developer's biggest edge in the AI era Strapline: At DevSparks Hyderabad, Subish Ram traced a decade-long shift from RPA to agentic AI and made the case tha…"
+          },
+          {
+            "title": "Open-source is more than free code. It’s a way to build for the future",
+            "url": "https://yourstory.com/2026/09/open-source-is-more-than-free-code-its-a-way-to-build-for-the-future",
+            "source": "YourStory",
+            "summary": "From sovereign AI to open-code culture, Margaret Dawson on what it really takes to build for the AI era"
+          },
+          {
+            "title": "US, China to hold more AI safety meetings in two months in Shenzhen, Scott Bessent says",
+            "url": "https://economictimes.indiatimes.com/tech/technology/us-china-to-hold-more-ai-safety-meetings-in-two-months-in-shenzhen-scott-bessent-says/articleshow/134389695.cms",
+            "source": "ET Tech",
+            "summary": "Senior US and Chinese officials will meet again to discuss artificial intelligence dangers and communications protocols in about two months in Shenzhen, China, US Treasury Secretary Scott Bessent said on Monday."
+          },
+          {
+            "title": "Govt asks Microsoft to set up data centres closer to power generation sites",
+            "url": "https://yourstory.com/2026/09/govt-asks-microsoft-set-up-data-centres-closer-to-power-generation-sites",
+            "source": "YourStory",
+            "summary": "Microsoft on Monday formally launched its fourth India cloud region, in Hyderabad, as part of its $20.5 billion investment commitment to the country's digital and AI infrastructure."
+          },
           {
             "title": "YuVerse takes its last-mile AI proposition to Global Fintech Fest",
             "url": "https://economictimes.indiatimes.com/tech/technology/yuverse-takes-its-last-mile-ai-proposition-to-global-fintech-fest/articleshow/134384539.cms",
@@ -398,30 +435,6 @@
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-group-launches-over-10-billion-in-bonds-for-openai-investment-term-sheet-shows/articleshow/134379411.cms",
             "source": "ET Tech",
             "summary": "The dollar-denominated notes are split into 3-1/2-year, 5-1/2-year and 7-1/2-year tenors, while the euro-denominated bonds are split into 4-year and 6-year tenors, according to the term sheet."
-          },
-          {
-            "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
-            "url": "https://arxiv.org/abs/2609.21181",
-            "source": "arXiv cs.AI",
-            "summary": "arXiv:2609.21181v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus and related benchmarks evaluate whether AI models can solve novel reasoning tasks, but often leave unclear whether success reflects inference of the intended underlying rule or reliance on sho…"
-          },
-          {
-            "title": "Trustworthy FinAInce: Unpacking How AI-Mediated Financial Advice is Judged",
-            "url": "https://arxiv.org/abs/2609.20989",
-            "source": "arXiv cs.AI",
-            "summary": "arXiv:2609.20989v1 Announce Type: cross Abstract: As generative AI is increasingly used as a source of personal financial guidance, understanding how people appraise such advice is important for supporting appropriate reliance. We conducted a randomized vignette experiment wit…"
-          },
-          {
-            "title": "Ashwini Vaishnaw on India’s chip push; Emergent's new AI bet",
-            "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ashwini-vaishnaw-on-indias-chip-push-emergents-new-ai-bet/articleshow/134377904.cms",
-            "source": "ET Tech",
-            "summary": "Happy Monday! The next set of investments under India’s semiconductor scheme are expected to begin in the next six months, IT minister Ashwini Vaishnaw told us. This and more in today’s ETtech Morning Dispatch."
-          },
-          {
-            "title": "How CubeAPM Plans To Take On Datadog And New Relic In The AI Observability Race",
-            "url": "https://inc42.com/startups/how-cubeapm-plans-to-take-on-datadog-and-new-relic-with-its-80-cheaper-ai-observability-stack/",
-            "source": "Inc42",
-            "summary": "When Vineet Chirania was scaling his train-ticket booking startup, Trainman, a decade ago, he encountered a problem that would eventually…"
           }
         ]
       }
