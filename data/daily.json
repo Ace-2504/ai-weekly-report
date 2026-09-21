@@ -1,94 +1,115 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "top": {
-    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-    "source": "TechCrunch AI",
-    "published": "2026-09-19T20:39:13.000Z",
-    "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
+    "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+    "url": "https://arxiv.org/abs/2609.20971",
+    "source": "arXiv cs.AI",
+    "published": "2026-09-21T04:00:00.000Z",
+    "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid ma…"
   },
   "topIndia": {
-    "title": "How CubeAPM Plans To Take On Datadog And New Relic In The AI Observability Race",
-    "url": "https://inc42.com/startups/how-cubeapm-plans-to-take-on-datadog-and-new-relic-with-its-80-cheaper-ai-observability-stack/",
-    "source": "Inc42",
-    "published": "2026-09-20T03:30:34.000Z",
-    "summary": "When Vineet Chirania was scaling his train-ticket booking startup, Trainman, a decade ago, he encountered a problem that would eventually…"
+    "title": "YuVerse takes its last-mile AI proposition to Global Fintech Fest",
+    "url": "https://economictimes.indiatimes.com/tech/technology/yuverse-takes-its-last-mile-ai-proposition-to-global-fintech-fest/articleshow/134384539.cms",
+    "source": "ET Tech",
+    "published": "2026-09-21T08:25:03.000Z",
+    "summary": "At GFF 2026, YuVerse launched four AI products— Yu1, YuBuild, YuBuild Studio and YuFlux—spanning document-to-decisioning, conversational AI, video creation and workflow automation, making the case for an enterprise AI model focused not just on what AI can do, but on how it can…"
   },
   "headlines": [
     {
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-19T19:57:47.000Z"
+      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "url": "https://arxiv.org/abs/2609.20974",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z"
     },
     {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-19T17:30:00.000Z"
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "url": "https://arxiv.org/abs/2609.20981",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z"
     },
     {
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-19T15:00:00.000Z"
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "url": "https://arxiv.org/abs/2609.21061",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z"
     },
     {
-      "title": "AI safety conversations have gotten unbelievable",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-19T15:00:00.000Z"
+      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "url": "https://arxiv.org/abs/2609.21096",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z"
     },
     {
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-19T14:00:00.000Z"
+      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+      "url": "https://arxiv.org/abs/2609.21113",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z"
     },
     {
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-19T13:00:00.000Z"
+      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+      "url": "https://arxiv.org/abs/2609.21139",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z"
     },
     {
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-19T00:12:07.000Z"
+      "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
+      "url": "https://arxiv.org/abs/2609.21149",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z"
     },
     {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T23:25:01.000Z"
+      "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+      "url": "https://arxiv.org/abs/2609.21157",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z"
     },
     {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T23:13:31.000Z"
+      "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
+      "url": "https://arxiv.org/abs/2609.21165",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z"
     },
     {
-      "title": "AI hallucination nearly triggers US military operation",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T23:12:32.000Z"
+      "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
+      "url": "https://arxiv.org/abs/2609.21192",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z"
     },
     {
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T21:44:33.000Z"
+      "title": "Information-Gain Rewards over Diversity-Pruned Tests: GT-Anchored Verifier Co-Training for Reliable Code Generation",
+      "url": "https://arxiv.org/abs/2609.21208",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z"
     },
     {
-      "title": "World model companies are keeping a lot of secrets",
-      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T20:18:14.000Z"
+      "title": "Ability-Residual Decoupled Modeling for Affective Cognitive Diagnosis",
+      "url": "https://arxiv.org/abs/2609.21214",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Softbank Group launches over $10 billion in bonds for OpenAI investment, term sheet shows",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-group-launches-over-10-billion-in-bonds-for-openai-investment-term-sheet-shows/articleshow/134379411.cms",
+      "source": "ET Tech",
+      "published": "2026-09-21T04:00:34.000Z",
+      "summary": "The dollar-denominated notes are split into 3-1/2-year, 5-1/2-year and 7-1/2-year tenors, while the euro-denominated bonds are split into 4-year and 6-year tenors, according to the term sheet."
+    },
+    {
+      "title": "One Prompt Does Not Fit All: Self-Meta-Evolve for Personalized Information Extraction",
+      "url": "https://arxiv.org/abs/2609.21626",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z",
+      "summary": "arXiv:2609.21626v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed for enterprise information extraction (IE), where the same document must be reorganized differently for each user. Existing prompt optimization methods, however, rely on a si…"
+    },
+    {
+      "title": "Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills with Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.21971",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T04:00:00.000Z",
+      "summary": "arXiv:2607.21971v2 Announce Type: replace-cross Abstract: Test-time scaling through iterative self-evolution with environment feedback, as demonstrated by AlphaEvolve, shows remarkable performance gains. We hypothesize that the success of such evolution frameworks hinges on me…"
+    },
     {
       "title": "Anthropic considers releasing new AI model ahead of IPO, sources say",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-considers-releasing-new-ai-model-ahead-of-ipo-sources-say/articleshow/134346362.cms",
@@ -129,9 +150,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "article": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "source": "TechCrunch AI"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/europes-ai-firms-playing-catch-up-challenge-us-calls-for-slowdown/articleshow/134335414.cms",
+      "article": "Europe's AI firms, playing catch-up, challenge US calls for slowdown",
+      "source": "ET Tech"
     },
     {
       "name": "Yann LeCun",

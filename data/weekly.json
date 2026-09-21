@@ -1,28 +1,87 @@
 {
-  "weekOf": "2026-09-14 to 2026-09-20",
-  "generated": "2026-09-20T10:15:29.535Z",
-  "intro": "73 AI items this week (36 India-relevant) across 7 sources.",
+  "weekOf": "2026-09-15 to 2026-09-21",
+  "generated": "2026-09-21T11:22:32.129Z",
+  "intro": "288 AI items this week (39 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Google’s Gemini is the latest AI model to hack other companies",
-          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-          "source": "TechCrunch AI",
-          "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
+          "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+          "url": "https://arxiv.org/abs/2609.20971",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid ma…"
         },
         {
-          "title": "World model companies are keeping a lot of secrets",
-          "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-          "source": "TechCrunch AI",
-          "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
+          "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+          "url": "https://arxiv.org/abs/2609.21139",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21139v1 Announce Type: new Abstract: Replacing attention in a pretrained language model is a compatibility problem: a plausible substitute may alter representations expected by later layers. TinyCeNN-LM introduces a \\emph{quality-gated post-training conversion} fram…"
         },
         {
-          "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-          "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-          "source": "TechCrunch AI",
-          "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
+          "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+          "url": "https://arxiv.org/abs/2609.21157",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21157v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly being explored for chip design, but most existing approaches operate directly at RTL. We ask whether agents can design better chips by leveraging higher-level abstractions. We co…"
+        },
+        {
+          "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
+          "url": "https://arxiv.org/abs/2609.21192",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21192v1 Announce Type: new Abstract: Organizations deploying agentic artificial intelligence must determine more than whether a model is trustworthy; they must establish what to validate, control, and observe for a use case to deliver its intended outcome while meet…"
+        },
+        {
+          "title": "Information-Gain Rewards over Diversity-Pruned Tests: GT-Anchored Verifier Co-Training for Reliable Code Generation",
+          "url": "https://arxiv.org/abs/2609.21208",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21208v1 Announce Type: new Abstract: Self-play methods that co-train a single language model as both coder and test author promise to move code-generation RL beyond fixed test suites, but they suffer from two coupled pathologies: permissiveness collapse, where pass-…"
+        },
+        {
+          "title": "CogGym: Towards Large-Scale Comparative Evaluation of Human and Machine Cognition",
+          "url": "https://arxiv.org/abs/2609.21259",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21259v1 Announce Type: new Abstract: Understanding and modeling human intelligence are parallel goals shared by artificial intelligence (AI) and cognitive science. As AI systems grow increasingly capable, in what ways do model responses resemble human responses, and…"
+        }
+      ]
+    },
+    {
+      "heading": "Multimodal & Media",
+      "items": [
+        {
+          "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+          "url": "https://arxiv.org/abs/2609.20981",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we p…"
+        },
+        {
+          "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+          "url": "https://arxiv.org/abs/2609.21061",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adap…"
+        },
+        {
+          "title": "Offline Multimodal Large Language Models for Decision Support in Air Operations",
+          "url": "https://arxiv.org/abs/2609.21390",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21390v1 Announce Type: new Abstract: Air operations rely on complex rules, established procedures, and time-critical analysis under limited connectivity and strict security constraints. In such environments, analysts must combine written doctrine with images, often …"
+        },
+        {
+          "title": "Driving on Registers, Reasoning on Risk: Risk-Aware Occupancy for Register-Based End-to-End Autonomous Driving",
+          "url": "https://arxiv.org/abs/2609.21486",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21486v1 Announce Type: new Abstract: Multimodal trajectory prediction improves behavioral coverage in end-to-end autonomous driving, but existing methods remain limited by sparse scene representations. Incomplete evidence leads to low-quality candidate generation an…"
+        },
+        {
+          "title": "PolyBridgeBench: Benchmarking Multimodal LLMs for Physics-Grounded Bridge Design",
+          "url": "https://arxiv.org/abs/2609.21493",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21493v1 Announce Type: new Abstract: Multimodal large language models, or MLLMs, perform well at visual understanding and structured generation, yet these capabilities do not establish whether an engineering design will work when executed. Existing benchmarks assess…"
+        },
+        {
+          "title": "Listen Before You Speak: Response Planning from Listener Facial Reactions for Conversational Speech Generation",
+          "url": "https://arxiv.org/abs/2609.21683",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21683v1 Announce Type: new Abstract: Conversational speech depends on dialogue context and the listener's immediately preceding behavior. We propose ReACT-TTS, a two-stage framework that uses a one-second pre-response listener facial sequence to plan the next uttera…"
         }
       ]
     },
@@ -30,22 +89,51 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-          "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-          "source": "TechCrunch AI",
-          "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more."
+          "title": "A Fully Differentiable Neuro-Soft-Symbolic Framework for Perceptual Task Planning",
+          "url": "https://arxiv.org/abs/2609.21221",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21221v1 Announce Type: new Abstract: Perceptual planning tasks require two key capabilities: accurately perceiving uncertain scenes and planning valid action sequences following logical rules. Conventional methods convert perception into discrete symbolic facts and …"
         },
         {
-          "title": "Your Agent Aced the Task. Will It Do It Again?",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Efficient Benchmarking in Production: A Study of an Evolving LLM Agent",
+          "url": "https://arxiv.org/abs/2609.21267",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21267v1 Announce Type: new Abstract: Production LLM agents are evaluated repeatedly as they evolve, but full agent benchmarks are costly to rerun. We study efficient recurring evaluation for a production analytics agent serving tens of thousands of monthly active us…"
         },
         {
-          "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-          "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-          "source": "Ars Technica",
-          "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”"
+          "title": "LEGIT: Credentialing Protocol for Trustworthy AI Agent Marketplaces",
+          "url": "https://arxiv.org/abs/2609.21325",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21325v1 Announce Type: new Abstract: Agentic marketplaces are emerging where AI agents with varying capabilities autonomously complete specialized tasks for buyers. A major challenge of such marketplaces is that buyers cannot easily determine which agent will perfor…"
+        },
+        {
+          "title": "DENSE: Distilling Agent Trajectories into Evidence-Grounded Shortcut Trees for Self-Refinement",
+          "url": "https://arxiv.org/abs/2609.21423",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21423v1 Announce Type: new Abstract: Online agent deployments produce abundant execution traces, while task-specific verification and expert annotation are costly to scale. We study how to distill these traces into reusable feedback without post-hoc outcome labels, …"
+        },
+        {
+          "title": "What Should We Ask Next? Retrieval-Aware Question Learning under Partial Evidence",
+          "url": "https://arxiv.org/abs/2609.21924",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21924v1 Announce Type: new Abstract: Interactive retrieval under partial evidence is a sequential information-acquisition problem: an agent must decide which question will create the most useful evidence for the next retrieval update. Existing systems train this dec…"
+        },
+        {
+          "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+          "url": "https://arxiv.org/abs/2609.22068",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.22068v1 Announce Type: new Abstract: Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifact…"
+        }
+      ]
+    },
+    {
+      "heading": "Open Source",
+      "items": [
+        {
+          "title": "Benchmarking the Explanatory Quality of Open-Weight Vision-Language Models in Face Recognition",
+          "url": "https://arxiv.org/abs/2609.21879",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21879v1 Announce Type: cross Abstract: Vision-Language Models (VLMs) have recently been proposed as promising tools for face recognition, as they can produce natural language explanations alongside similarity scores. This capability is considered appealing for face …"
         }
       ]
     },
@@ -53,40 +141,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-          "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-          "source": "TechCrunch AI",
-          "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
+          "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+          "url": "https://arxiv.org/abs/2609.20974",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the rou…"
         },
         {
-          "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-          "source": "TechCrunch AI",
-          "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
+          "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+          "url": "https://arxiv.org/abs/2609.21096",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patt…"
         },
         {
-          "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-          "source": "TechCrunch AI",
-          "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription."
+          "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+          "url": "https://arxiv.org/abs/2609.21113",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tunin…"
         },
         {
-          "title": "AI safety conversations have gotten unbelievable",
-          "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-          "source": "TechCrunch AI",
-          "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
+          "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
+          "url": "https://arxiv.org/abs/2609.21149",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21149v1 Announce Type: new Abstract: Before patients can use AI-assisted psychiatric intake systems, health systems need practical ways to routinely evaluate these tools against their clinical standards for quality assurance. Because clinicians may use different int…"
         },
         {
-          "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-          "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-          "source": "TechCrunch AI",
-          "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.."
+          "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
+          "url": "https://arxiv.org/abs/2609.21165",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21165v1 Announce Type: new Abstract: Off-target protein binding is a major source of adverse effects for small-molecule drugs, yet most structure-based molecular design methods focus on generating selective compounds de novo rather than improving the selectivity of …"
         },
         {
-          "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-          "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-          "source": "TechCrunch AI",
-          "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models."
+          "title": "Ability-Residual Decoupled Modeling for Affective Cognitive Diagnosis",
+          "url": "https://arxiv.org/abs/2609.21214",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21214v1 Announce Type: new Abstract: Cognitive diagnosis infers students' concept mastery from response logs. However, students' responses are not determined by mastery alone: non-cognitive factors such as emotion, engagement, and fatigue can also affect performance…"
         }
       ]
     },
@@ -94,52 +182,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
+          "title": "YuVerse takes its last-mile AI proposition to Global Fintech Fest",
+          "url": "https://economictimes.indiatimes.com/tech/technology/yuverse-takes-its-last-mile-ai-proposition-to-global-fintech-fest/articleshow/134384539.cms",
+          "source": "ET Tech",
+          "summary": "At GFF 2026, YuVerse launched four AI products— Yu1, YuBuild, YuBuild Studio and YuFlux—spanning document-to-decisioning, conversational AI, video creation and workflow automation, making the case for an enterprise AI model focused not just on what AI can do, but on how it can…"
+        },
+        {
+          "title": "AI-to-AI communication could change how ads are bought and sold: Report",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-to-ai-communication-could-change-how-ads-are-bought-and-sold-report/articleshow/134380810.cms",
+          "source": "ET Tech",
+          "summary": "Artificial intelligence could change the way advertisements are bought and sold by enabling automated communication between systems, reducing manual coordination across the fragmented advertising ecosystem, according to a report by ADvendio, an advertising technology company."
+        },
+        {
+          "title": "China and the US are competing for AI dominance but have shared concerns over safety",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-and-the-us-are-competing-for-ai-dominance-but-have-shared-concerns-over-safety/articleshow/134380222.cms",
+          "source": "ET Tech",
+          "summary": "On Sunday, U.S. Treasury Secretary Scott Bessent said after talks in New York with Chinese Vice Premier He Lifeng ahead of the meeting between Trump and Xi that the two countries discussed the setting up of a mechanism on AI dialogue and proposed a new \"notification mechanism\"…"
+        },
+        {
+          "title": "Softbank Group launches over $10 billion in bonds for OpenAI investment, term sheet shows",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-group-launches-over-10-billion-in-bonds-for-openai-investment-term-sheet-shows/articleshow/134379411.cms",
+          "source": "ET Tech",
+          "summary": "The dollar-denominated notes are split into 3-1/2-year, 5-1/2-year and 7-1/2-year tenors, while the euro-denominated bonds are split into 4-year and 6-year tenors, according to the term sheet."
+        },
+        {
+          "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
+          "url": "https://arxiv.org/abs/2609.21181",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.21181v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus and related benchmarks evaluate whether AI models can solve novel reasoning tasks, but often leave unclear whether success reflects inference of the intended underlying rule or reliance on sho…"
+        },
+        {
+          "title": "Trustworthy FinAInce: Unpacking How AI-Mediated Financial Advice is Judged",
+          "url": "https://arxiv.org/abs/2609.20989",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.20989v1 Announce Type: cross Abstract: As generative AI is increasingly used as a source of personal financial guidance, understanding how people appraise such advice is important for supporting appropriate reliance. We conducted a randomized vignette experiment wit…"
+        },
+        {
+          "title": "Ashwini Vaishnaw on India’s chip push; Emergent's new AI bet",
+          "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ashwini-vaishnaw-on-indias-chip-push-emergents-new-ai-bet/articleshow/134377904.cms",
+          "source": "ET Tech",
+          "summary": "Happy Monday! The next set of investments under India’s semiconductor scheme are expected to begin in the next six months, IT minister Ashwini Vaishnaw told us. This and more in today’s ETtech Morning Dispatch."
+        },
+        {
           "title": "How CubeAPM Plans To Take On Datadog And New Relic In The AI Observability Race",
           "url": "https://inc42.com/startups/how-cubeapm-plans-to-take-on-datadog-and-new-relic-with-its-80-cheaper-ai-observability-stack/",
           "source": "Inc42",
           "summary": "When Vineet Chirania was scaling his train-ticket booking startup, Trainman, a decade ago, he encountered a problem that would eventually…"
-        },
-        {
-          "title": "AI could double US GDP growth to 4% next year amid capital hurdles, says Elon Musk",
-          "url": "https://economictimes.indiatimes.com/tech/tech-bytes/ai-could-double-us-gdp-growth-to-4-next-year-amid-capital-hurdles-says-elon-musk/articleshow/134348534.cms",
-          "source": "ET Tech",
-          "summary": "The projection comes at a time when the broader artificial intelligence investment landscape encounters its first major macroeconomic test, according to a recent report by brokerage firm Dolat Capital."
-        },
-        {
-          "title": "Anthropic, OpenAI, SpaceXAI, Google face federal antitrust lawsuit over calls to slowdown AI development",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-spacexai-google-face-federal-antitrust-lawsuit-over-calls-to-slowdown-ai-development/articleshow/134347763.cms",
-          "source": "ET Tech",
-          "summary": "According to a news report by Politico, the complaint filed in the Northern District Court of California, claims that public statements made earlier this month amounted to an illegal business agreement between competitors under US antitrust law. The matter began with Anthropic…"
-        },
-        {
-          "title": "OpenAI forecasts cash burn near $280 billion by 2030: Report",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-forecasts-cash-burn-near-280-billion-by-2030-report/articleshow/134347596.cms",
-          "source": "ET Tech",
-          "summary": "The projection highlights OpenAI's funding needs as it seeks fresh investment, with the FT reporting earlier this week that the ChatGPT maker had held talks with investors that could value it at about $1.2 trillion ahead of a potential listing."
-        },
-        {
-          "title": "AI-generated false intelligence nearly triggered US-China military confrontation: Reports",
-          "url": "https://economictimes.indiatimes.com/tech/technology/ai-generated-false-intelligence-nearly-triggered-us-china-military-confrontation-reports/articleshow/134347572.cms",
-          "source": "ET Tech",
-          "summary": "Citing four sources familiar with the incident, CNN reported that the US military moved towards an operation against the ship. Two of the sources said armed US military personnel were preparing to board the vessel, while military aircraft were already in the air, according to …"
-        },
-        {
-          "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-accenture-to-invest-2-billion-in-ai-model-evaluation-as-safety-concerns-rise/articleshow/134346922.cms",
-          "source": "ET Tech",
-          "summary": "The partnership comes as AI developers face growing pressure from regulators, companies and researchers to ensure their advanced models are safe and reliable."
-        },
-        {
-          "title": "Oracle's $18 billion data center debt under pressure: FT",
-          "url": "https://economictimes.indiatimes.com/tech/technology/oracles-18-billion-data-center-debt-under-pressure-ft-reports/articleshow/134346709.cms",
-          "source": "ET Tech",
-          "summary": "The development comes amid concerns that growing local opposition to the project over fears it would impact water supply and air quality could derail Oracle's massive AI infrastructure build-out, the FT report said."
-        },
-        {
-          "title": "Gemini hacked three companies in first known breakout by Google's AI: WSJ",
-          "url": "https://economictimes.indiatimes.com/tech/technology/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-wsj/articleshow/134346436.cms",
-          "source": "ET Tech",
-          "summary": "The hacks occurred in May during a cybersecurity test conducted by Irregular, an independent company that conducts cybersecurity evaluations, according to the report."
         }
       ]
     }
