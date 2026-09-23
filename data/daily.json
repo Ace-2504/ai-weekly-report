@@ -1,142 +1,149 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "top": {
-    "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-    "url": "https://arxiv.org/abs/2609.20971",
-    "source": "arXiv cs.AI",
-    "published": "2026-09-22T04:00:00.000Z",
-    "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid ma…"
+    "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+    "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "source": "TechCrunch AI",
+    "published": "2026-09-23T04:59:08.000Z",
+    "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
   },
   "topIndia": {
-    "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
-    "url": "https://arxiv.org/abs/2609.21181",
-    "source": "arXiv cs.AI",
-    "published": "2026-09-22T04:00:00.000Z",
-    "summary": "arXiv:2609.21181v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus and related benchmarks evaluate whether AI models can solve novel reasoning tasks, but often leave unclear whether success reflects inference of the intended underlying rule or reliance on sho…"
+    "title": "BHIM MyUPI brings 9 UPI services into one AI assistant",
+    "url": "https://yourstory.com/2026/09/bhim-myupi-9-upi-services-ai-assistant",
+    "source": "YourStory",
+    "published": "2026-09-23T10:02:32.000Z",
+    "summary": "BHIM MyUPI lets users track transactions, manage Autopay mandates, raise complaints and check fraud risks through a conversational assistant inside the BHIM app."
   },
   "headlines": [
     {
-      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-      "url": "https://arxiv.org/abs/2609.20974",
+      "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+      "url": "https://arxiv.org/abs/2609.22161",
       "source": "arXiv cs.AI",
-      "published": "2026-09-22T04:00:00.000Z"
+      "published": "2026-09-23T04:00:00.000Z"
     },
     {
-      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-      "url": "https://arxiv.org/abs/2609.20981",
+      "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
+      "url": "https://arxiv.org/abs/2609.22277",
       "source": "arXiv cs.AI",
-      "published": "2026-09-22T04:00:00.000Z"
+      "published": "2026-09-23T04:00:00.000Z"
     },
     {
-      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-      "url": "https://arxiv.org/abs/2609.21061",
+      "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
+      "url": "https://arxiv.org/abs/2609.22353",
       "source": "arXiv cs.AI",
-      "published": "2026-09-22T04:00:00.000Z"
+      "published": "2026-09-23T04:00:00.000Z"
     },
     {
-      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-      "url": "https://arxiv.org/abs/2609.21096",
+      "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+      "url": "https://arxiv.org/abs/2609.22408",
       "source": "arXiv cs.AI",
-      "published": "2026-09-22T04:00:00.000Z"
+      "published": "2026-09-23T04:00:00.000Z"
     },
     {
-      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
-      "url": "https://arxiv.org/abs/2609.21113",
+      "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
+      "url": "https://arxiv.org/abs/2609.22410",
       "source": "arXiv cs.AI",
-      "published": "2026-09-22T04:00:00.000Z"
+      "published": "2026-09-23T04:00:00.000Z"
     },
     {
-      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
-      "url": "https://arxiv.org/abs/2609.21139",
+      "title": "Goal-driven Variant Categorization",
+      "url": "https://arxiv.org/abs/2609.22475",
       "source": "arXiv cs.AI",
-      "published": "2026-09-22T04:00:00.000Z"
+      "published": "2026-09-23T04:00:00.000Z"
     },
     {
-      "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
-      "url": "https://arxiv.org/abs/2609.21149",
+      "title": "Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation",
+      "url": "https://arxiv.org/abs/2609.22478",
       "source": "arXiv cs.AI",
-      "published": "2026-09-22T04:00:00.000Z"
+      "published": "2026-09-23T04:00:00.000Z"
     },
     {
-      "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
-      "url": "https://arxiv.org/abs/2609.21157",
+      "title": "The Wisdom of Artificial Deliberative Crowds",
+      "url": "https://arxiv.org/abs/2609.22497",
       "source": "arXiv cs.AI",
-      "published": "2026-09-22T04:00:00.000Z"
+      "published": "2026-09-23T04:00:00.000Z"
     },
     {
-      "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
-      "url": "https://arxiv.org/abs/2609.21165",
+      "title": "Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus",
+      "url": "https://arxiv.org/abs/2609.22512",
       "source": "arXiv cs.AI",
-      "published": "2026-09-22T04:00:00.000Z"
+      "published": "2026-09-23T04:00:00.000Z"
     },
     {
-      "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
-      "url": "https://arxiv.org/abs/2609.21192",
+      "title": "IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law",
+      "url": "https://arxiv.org/abs/2609.22529",
       "source": "arXiv cs.AI",
-      "published": "2026-09-22T04:00:00.000Z"
+      "published": "2026-09-23T04:00:00.000Z"
     },
     {
-      "title": "Information-Gain Rewards over Diversity-Pruned Tests: GT-Anchored Verifier Co-Training for Reliable Code Generation",
-      "url": "https://arxiv.org/abs/2609.21208",
+      "title": "EvidenT: Building Trustworthy Enterprise Assistants through Evidence Groundedness and Traceability",
+      "url": "https://arxiv.org/abs/2609.22537",
       "source": "arXiv cs.AI",
-      "published": "2026-09-22T04:00:00.000Z"
+      "published": "2026-09-23T04:00:00.000Z"
     },
     {
-      "title": "Ability-Residual Decoupled Modeling for Affective Cognitive Diagnosis",
-      "url": "https://arxiv.org/abs/2609.21214",
+      "title": "AutoGym: Blueprint-First Generation of Verifiable Agent Gyms",
+      "url": "https://arxiv.org/abs/2609.22592",
       "source": "arXiv cs.AI",
-      "published": "2026-09-22T04:00:00.000Z"
+      "published": "2026-09-23T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "One Prompt Does Not Fit All: Self-Meta-Evolve for Personalized Information Extraction",
-      "url": "https://arxiv.org/abs/2609.21626",
+      "title": "Anthropic Launches Claude Opus 5.5, Touts 40% Lower Running Costs",
+      "url": "https://inc42.com/buzz/anthropic-launches-claude-opus-5-5-touts-40-lower-running-costs/",
+      "source": "Inc42",
+      "published": "2026-09-23T06:13:40.000Z",
+      "summary": "Anthropic has launched Claude Opus 5.5, its latest flagship AI model, touting stronger performance, lower running costs, faster output, and…"
+    },
+    {
+      "title": "Meta leans into AI, smart glasses amid privacy pushback",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-leans-into-ai-smart-glasses-amid-privacy-pushback/articleshow/134427050.cms",
+      "source": "ET Tech",
+      "published": "2026-09-23T05:54:27.000Z",
+      "summary": "Meta has spent billions to stay competitive with artificial intelligence, but the tech giant faces growing pushback as CEO Mark Zuckerberg prepares to announce new products built for the AI era on Wednesday. The Muse agent is built on Meta's own AI models and is designed to co…"
+    },
+    {
+      "title": "Dimensionality reduction for AI based hyperspectral image classification based on XAI",
+      "url": "https://arxiv.org/abs/2609.22333",
       "source": "arXiv cs.AI",
-      "published": "2026-09-22T04:00:00.000Z",
-      "summary": "arXiv:2609.21626v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed for enterprise information extraction (IE), where the same document must be reorganized differently for each user. Existing prompt optimization methods, however, rely on a si…"
+      "published": "2026-09-23T04:00:00.000Z",
+      "summary": "arXiv:2609.22333v1 Announce Type: cross Abstract: This research addresses the challenge of limited material recycling in wood recycling processes by leveraging artificial intelligence (AI)-based dimensionality reduction. Our study explores the application of convolutional neur…"
     },
     {
-      "title": "Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills with Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2607.21971",
+      "title": "Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection",
+      "url": "https://arxiv.org/abs/2609.24801",
       "source": "arXiv cs.AI",
-      "published": "2026-09-22T04:00:00.000Z",
-      "summary": "arXiv:2607.21971v2 Announce Type: replace-cross Abstract: Test-time scaling through iterative self-evolution with environment feedback, as demonstrated by AlphaEvolve, shows remarkable performance gains. We hypothesize that the success of such evolution frameworks hinges on me…"
+      "published": "2026-09-23T04:00:00.000Z",
+      "summary": "arXiv:2609.24801v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly deployed in production systems, raising concerns about their exposure to adversarial manipulation through prompt injection and jailbreak attacks. Classifier-based guardrails, such a…"
     },
     {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-21T19:19:21.000Z",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures."
+      "title": "Agentic Explainable Artificial Intelligence (Agentic XAI) Approach To Explore Better Explanation: A Case Study in Decision Support for Rice Cultivation in Japan",
+      "url": "https://arxiv.org/abs/2512.21066",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-23T04:00:00.000Z",
+      "summary": "arXiv:2512.21066v4 Announce Type: replace Abstract: Explainable artificial intelligence (XAI) reveals how explanatory variables relate to a response variable, yet communicating XAI outputs to laypersons remains difficult, limiting trust in AI-based predictions. Large language …"
     },
     {
-      "title": "Govt asks Microsoft to set up data centres closer to power generation sites",
-      "url": "https://yourstory.com/2026/09/govt-asks-microsoft-set-up-data-centres-closer-to-power-generation-sites",
-      "source": "YourStory",
-      "published": "2026-09-21T11:29:29.000Z",
-      "summary": "Microsoft on Monday formally launched its fourth India cloud region, in Hyderabad, as part of its $20.5 billion investment commitment to the country's digital and AI infrastructure."
+      "title": "A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models",
+      "url": "https://arxiv.org/abs/2606.18193",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-23T04:00:00.000Z",
+      "summary": "arXiv:2606.18193v2 Announce Type: replace-cross Abstract: We evaluate the adversarial robustness of three frontier large language models (LLMs) developed by Anthropic, Opus 4.8, Fable 5 and its successor Fable 5.1, against four families of automated jailbreak attack across 7,8…"
     },
     {
-      "title": "Softbank Group launches over $10 billion in bonds for OpenAI investment, term sheet shows",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-group-launches-over-10-billion-in-bonds-for-openai-investment-term-sheet-shows/articleshow/134379411.cms",
+      "title": "Why3-py: A Tool for Formal Verification of Hypothesis Testing and Meta-Analysis in Python",
+      "url": "https://arxiv.org/abs/2607.03951",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-23T04:00:00.000Z",
+      "summary": "arXiv:2607.03951v2 Announce Type: replace-cross Abstract: The reproducibility crisis in scientific research has received widespread recognition, thereby increasing the importance of meta-analyses that integrate statistical analyses from multiple studies. However, statistical m…"
+    },
+    {
+      "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models",
+      "url": "https://economictimes.indiatimes.com/tech/technology/openai-expands-gpt-6-lineup-with-cheaper-sol-and-luna-models/articleshow/134418905.cms",
       "source": "ET Tech",
-      "published": "2026-09-21T04:00:34.000Z",
-      "summary": "The dollar-denominated notes are split into 3-1/2-year, 5-1/2-year and 7-1/2-year tenors, while the euro-denominated bonds are split into 4-year and 6-year tenors, according to the term sheet."
-    },
-    {
-      "title": "Anthropic considers releasing new AI model ahead of IPO, sources say",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-considers-releasing-new-ai-model-ahead-of-ipo-sources-say/articleshow/134346362.cms",
-      "source": "ET Tech",
-      "published": "2026-09-19T01:53:18.000Z",
-      "summary": "Anthropic is considering rolling out a new AI model to counter OpenAI's momentum since its launch of GPT-6 Astra, according to three sources, ahead of an expected IPO and after its CEO called for an industrywide slowdown."
-    },
-    {
-      "title": "Samsung Innovation Campus 2026 to train 2,000 Karnataka youth in AI",
-      "url": "https://economictimes.indiatimes.com/tech/technology/samsung-innovation-campus-2026-to-train-2000-karnataka-youth-in-ai/articleshow/134338586.cms",
-      "source": "ET Tech",
-      "published": "2026-09-18T15:15:05.000Z",
-      "summary": "The programme, launched in partnership with Nrupathunga University, Bengaluru, was inaugurated in the presence of higher education minister Basavaraj Rayareddy and senior academics from the university."
+      "published": "2026-09-22T18:23:03.000Z",
+      "summary": "The launch of low-cost GPT-6 Sol and GPT-6 Luna follows the rollout of GPT-6 Astra, a faster model for handling more tasks than previous iterations, earlier this month."
     }
   ],
   "people": [
