@@ -1,100 +1,121 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "top": {
-    "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-    "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-    "source": "TechCrunch AI",
-    "published": "2026-09-23T04:59:08.000Z",
-    "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
+    "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+    "url": "https://arxiv.org/abs/2609.26836",
+    "source": "arXiv cs.AI",
+    "published": "2026-09-24T04:00:00.000Z",
+    "summary": "arXiv:2609.26836v1 Announce Type: new Abstract: Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. While prior research and benchmarks have studied about task success and task completion of these agentic systems, the research about …"
   },
   "topIndia": {
-    "title": "BHIM MyUPI brings 9 UPI services into one AI assistant",
-    "url": "https://yourstory.com/2026/09/bhim-myupi-9-upi-services-ai-assistant",
+    "title": "Google Cloud pushes Gemini deeper into India’s businesses",
+    "url": "https://yourstory.com/2026/09/google-cloud-brings-gemini-deeper-into-india-businesses",
     "source": "YourStory",
-    "published": "2026-09-23T10:02:32.000Z",
-    "summary": "BHIM MyUPI lets users track transactions, manage Autopay mandates, raise complaints and check fraud risks through a conversational assistant inside the BHIM app."
+    "published": "2026-09-24T09:56:31.000Z",
+    "summary": "At an event in Bengaluru, Google Cloud outlined its India strategy, which combines Gemini AI models and infrastructure, to take AI from pilots into production environments through industry partnerships."
   },
   "headlines": [
     {
-      "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
-      "url": "https://arxiv.org/abs/2609.22161",
+      "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+      "url": "https://arxiv.org/abs/2609.26891",
       "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z"
+      "published": "2026-09-24T04:00:00.000Z"
     },
     {
-      "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
-      "url": "https://arxiv.org/abs/2609.22277",
+      "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
+      "url": "https://arxiv.org/abs/2609.26911",
       "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z"
+      "published": "2026-09-24T04:00:00.000Z"
     },
     {
-      "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
-      "url": "https://arxiv.org/abs/2609.22353",
+      "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
+      "url": "https://arxiv.org/abs/2609.26927",
       "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z"
+      "published": "2026-09-24T04:00:00.000Z"
     },
     {
-      "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
-      "url": "https://arxiv.org/abs/2609.22408",
+      "title": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
+      "url": "https://arxiv.org/abs/2609.26929",
       "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z"
+      "published": "2026-09-24T04:00:00.000Z"
     },
     {
-      "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
-      "url": "https://arxiv.org/abs/2609.22410",
+      "title": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
+      "url": "https://arxiv.org/abs/2609.26952",
       "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z"
+      "published": "2026-09-24T04:00:00.000Z"
     },
     {
-      "title": "Goal-driven Variant Categorization",
-      "url": "https://arxiv.org/abs/2609.22475",
+      "title": "Reinforcement Learning with Decomposed Subtasks",
+      "url": "https://arxiv.org/abs/2609.27035",
       "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z"
+      "published": "2026-09-24T04:00:00.000Z"
     },
     {
-      "title": "Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation",
-      "url": "https://arxiv.org/abs/2609.22478",
+      "title": "Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations",
+      "url": "https://arxiv.org/abs/2609.27037",
       "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z"
+      "published": "2026-09-24T04:00:00.000Z"
     },
     {
-      "title": "The Wisdom of Artificial Deliberative Crowds",
-      "url": "https://arxiv.org/abs/2609.22497",
+      "title": "Are Stated Reasoning Steps Causally Load-Bearing?",
+      "url": "https://arxiv.org/abs/2609.27038",
       "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z"
+      "published": "2026-09-24T04:00:00.000Z"
     },
     {
-      "title": "Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus",
-      "url": "https://arxiv.org/abs/2609.22512",
+      "title": "Math Reasoning in LLMs is Organized by Approach, Not Topic",
+      "url": "https://arxiv.org/abs/2609.27041",
       "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z"
+      "published": "2026-09-24T04:00:00.000Z"
     },
     {
-      "title": "IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law",
-      "url": "https://arxiv.org/abs/2609.22529",
+      "title": "Propose, Don't Judge: An Anytime-Valid Referee for LLM Agents That Mine Investment Factors",
+      "url": "https://arxiv.org/abs/2609.27051",
       "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z"
+      "published": "2026-09-24T04:00:00.000Z"
     },
     {
-      "title": "EvidenT: Building Trustworthy Enterprise Assistants through Evidence Groundedness and Traceability",
-      "url": "https://arxiv.org/abs/2609.22537",
+      "title": "Policy-as-Skill: Governed LLM Decision Support with Evidence, Deterministic Control, and Audit",
+      "url": "https://arxiv.org/abs/2609.27087",
       "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z"
+      "published": "2026-09-24T04:00:00.000Z"
     },
     {
-      "title": "AutoGym: Blueprint-First Generation of Verifiable Agent Gyms",
-      "url": "https://arxiv.org/abs/2609.22592",
+      "title": "Provably Complete Generalized Planning with LLMs",
+      "url": "https://arxiv.org/abs/2609.27105",
       "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z"
+      "published": "2026-09-24T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Anthropic Launches Claude Opus 5.5, Touts 40% Lower Running Costs",
-      "url": "https://inc42.com/buzz/anthropic-launches-claude-opus-5-5-touts-40-lower-running-costs/",
-      "source": "Inc42",
-      "published": "2026-09-23T06:13:40.000Z",
-      "summary": "Anthropic has launched Claude Opus 5.5, its latest flagship AI model, touting stronger performance, lower running costs, faster output, and…"
+      "title": "Explained: How OpenAI breached a government website in Australia and what happens next",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explained-how-openai-breached-a-government-website-in-australia-and-what-happens-next/articleshow/134455433.cms",
+      "source": "ET Tech",
+      "published": "2026-09-24T07:46:17.000Z",
+      "summary": "Australian PM Anthony Albanese said an OpenAI agent breached a government health website in July, accessing non-public Medicare data. Australia has launched an inquiry into the incident, including OpenAI’s delayed disclosure and how the breach went undetected."
+    },
+    {
+      "title": "Anthropic touts AI-led biology discovery",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-touts-ai-led-biology-discovery/articleshow/134450981.cms",
+      "source": "ET Tech",
+      "published": "2026-09-24T04:05:15.000Z",
+      "summary": "US artificial intelligence startup Anthropic on Wednesday unveiled the first discovery from its molecular biology lab, a previously unknown enzyme system spotted by its Claude model and touted by the company as proof that AI can speed up basic research. Anthropic said its rese…"
+    },
+    {
+      "title": "Meta launches camera-free AI glasses amid privacy pushback",
+      "url": "https://economictimes.indiatimes.com/tech/technology/meta-launches-camera-free-ai-glasses-amid-privacy-pushback/articleshow/134449489.cms",
+      "source": "ET Tech",
+      "published": "2026-09-24T02:12:06.000Z",
+      "summary": "Meta unveiled several new wearables powered by its artificial intelligence (AI) models on Wednesday, including an audio-only, camera-free version of its smart glasses, amid global concerns about privacy and the filming of women and girls without their consent. The audio-only v…"
+    },
+    {
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-24T01:13:32.000Z",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses."
     },
     {
       "title": "Meta leans into AI, smart glasses amid privacy pushback",
@@ -104,55 +125,34 @@
       "summary": "Meta has spent billions to stay competitive with artificial intelligence, but the tech giant faces growing pushback as CEO Mark Zuckerberg prepares to announce new products built for the AI era on Wednesday. The Muse agent is built on Meta's own AI models and is designed to co…"
     },
     {
-      "title": "Dimensionality reduction for AI based hyperspectral image classification based on XAI",
-      "url": "https://arxiv.org/abs/2609.22333",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z",
-      "summary": "arXiv:2609.22333v1 Announce Type: cross Abstract: This research addresses the challenge of limited material recycling in wood recycling processes by leveraging artificial intelligence (AI)-based dimensionality reduction. Our study explores the application of convolutional neur…"
-    },
-    {
-      "title": "Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection",
-      "url": "https://arxiv.org/abs/2609.24801",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z",
-      "summary": "arXiv:2609.24801v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly deployed in production systems, raising concerns about their exposure to adversarial manipulation through prompt injection and jailbreak attacks. Classifier-based guardrails, such a…"
-    },
-    {
-      "title": "Agentic Explainable Artificial Intelligence (Agentic XAI) Approach To Explore Better Explanation: A Case Study in Decision Support for Rice Cultivation in Japan",
-      "url": "https://arxiv.org/abs/2512.21066",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z",
-      "summary": "arXiv:2512.21066v4 Announce Type: replace Abstract: Explainable artificial intelligence (XAI) reveals how explanatory variables relate to a response variable, yet communicating XAI outputs to laypersons remains difficult, limiting trust in AI-based predictions. Large language …"
-    },
-    {
-      "title": "A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models",
-      "url": "https://arxiv.org/abs/2606.18193",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z",
-      "summary": "arXiv:2606.18193v2 Announce Type: replace-cross Abstract: We evaluate the adversarial robustness of three frontier large language models (LLMs) developed by Anthropic, Opus 4.8, Fable 5 and its successor Fable 5.1, against four families of automated jailbreak attack across 7,8…"
-    },
-    {
-      "title": "Why3-py: A Tool for Formal Verification of Hypothesis Testing and Meta-Analysis in Python",
-      "url": "https://arxiv.org/abs/2607.03951",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-23T04:00:00.000Z",
-      "summary": "arXiv:2607.03951v2 Announce Type: replace-cross Abstract: The reproducibility crisis in scientific research has received widespread recognition, thereby increasing the importance of meta-analyses that integrate statistical analyses from multiple studies. However, statistical m…"
-    },
-    {
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models",
       "url": "https://economictimes.indiatimes.com/tech/technology/openai-expands-gpt-6-lineup-with-cheaper-sol-and-luna-models/articleshow/134418905.cms",
       "source": "ET Tech",
       "published": "2026-09-22T18:23:03.000Z",
       "summary": "The launch of low-cost GPT-6 Sol and GPT-6 Luna follows the rollout of GPT-6 Astra, a faster model for handling more tasks than previous iterations, earlier this month."
+    },
+    {
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-22T18:00:00.000Z",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
+    },
+    {
+      "title": "Anthropic unveils Claude Opus 5.5",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-opus-5-5/articleshow/134417201.cms",
+      "source": "ET Tech",
+      "published": "2026-09-22T17:07:39.000Z",
+      "summary": "The company said Opus 5.5 performs on par with its Claude Fable 5.1 model on most tasks while costing 40% less to run on typical workloads than its predecessor, Claude Opus 5."
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/british-columbia-sues-openai-over-tumbler-ridge-school-shooting/articleshow/134401259.cms",
-      "article": "British Columbia sues OpenAI over Tumbler Ridge school shooting",
-      "source": "ET Tech"
+      "link": "https://inc42.com/buzz/openai-anthropic-leaders-warn-un-of-ai-risks-as-systems-grow-more-powerful/",
+      "article": "OpenAI, Anthropic Leaders Warn UN Of AI Risks As Systems Grow More Powerful",
+      "source": "Inc42"
     },
     {
       "name": "Demis Hassabis",
@@ -164,9 +164,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://www.darioamodei.com",
-      "article": null,
-      "source": "Profile"
+      "link": "https://inc42.com/buzz/openai-anthropic-leaders-warn-un-of-ai-risks-as-systems-grow-more-powerful/",
+      "article": "OpenAI, Anthropic Leaders Warn UN Of AI Risks As Systems Grow More Powerful",
+      "source": "Inc42"
     },
     {
       "name": "Yann LeCun",
@@ -178,9 +178,9 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://nvidianews.nvidia.com",
-      "article": null,
-      "source": "Profile"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-firms-should-not-get-regulatory-waivers-says-nvidia-ceo-jensen-huang/articleshow/134451232.cms",
+      "article": "AI firms should not get regulatory waivers, says Nvidia CEO Jensen Huang",
+      "source": "ET Tech"
     },
     {
       "name": "Andrej Karpathy",
