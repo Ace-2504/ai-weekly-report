@@ -1,94 +1,122 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "top": {
-    "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
-    "url": "https://arxiv.org/abs/2609.26836",
-    "source": "arXiv cs.AI",
-    "published": "2026-09-24T04:00:00.000Z",
-    "summary": "arXiv:2609.26836v1 Announce Type: new Abstract: Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. While prior research and benchmarks have studied about task success and task completion of these agentic systems, the research about …"
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "source": "MIT Tech Review",
+    "published": "2026-09-25T09:16:25.000Z",
+    "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intellig…"
   },
   "topIndia": {
-    "title": "Google Cloud pushes Gemini deeper into India’s businesses",
-    "url": "https://yourstory.com/2026/09/google-cloud-brings-gemini-deeper-into-india-businesses",
-    "source": "YourStory",
-    "published": "2026-09-24T09:56:31.000Z",
-    "summary": "At an event in Bengaluru, Google Cloud outlined its India strategy, which combines Gemini AI models and infrastructure, to take AI from pilots into production environments through industry partnerships."
+    "title": "Dextr AI Raises $6.7 Mn To Build AI Agents For Hospitality Industry",
+    "url": "https://inc42.com/buzz/dextr-ai-raises-6-7-mn-to-build-ai-agents-for-hospitality-industry/",
+    "source": "Inc42",
+    "published": "2026-09-25T10:33:24.000Z",
+    "summary": "Hospitality-focused AI startup Dextr AI has raised $6.7 Mn (about ₹64.2 Cr) in a seed funding round led by Elevation…"
   },
   "headlines": [
     {
-      "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
-      "url": "https://arxiv.org/abs/2609.26891",
+      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+      "url": "https://arxiv.org/abs/2609.28475",
       "source": "arXiv cs.AI",
-      "published": "2026-09-24T04:00:00.000Z"
+      "published": "2026-09-25T04:00:00.000Z"
     },
     {
-      "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
-      "url": "https://arxiv.org/abs/2609.26911",
+      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+      "url": "https://arxiv.org/abs/2609.28506",
       "source": "arXiv cs.AI",
-      "published": "2026-09-24T04:00:00.000Z"
+      "published": "2026-09-25T04:00:00.000Z"
     },
     {
-      "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
-      "url": "https://arxiv.org/abs/2609.26927",
+      "title": "PAWS: Policy-driven Agentic World Simulation",
+      "url": "https://arxiv.org/abs/2609.28547",
       "source": "arXiv cs.AI",
-      "published": "2026-09-24T04:00:00.000Z"
+      "published": "2026-09-25T04:00:00.000Z"
     },
     {
-      "title": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
-      "url": "https://arxiv.org/abs/2609.26929",
+      "title": "Pistis Technical Report",
+      "url": "https://arxiv.org/abs/2609.28554",
       "source": "arXiv cs.AI",
-      "published": "2026-09-24T04:00:00.000Z"
+      "published": "2026-09-25T04:00:00.000Z"
     },
     {
-      "title": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
-      "url": "https://arxiv.org/abs/2609.26952",
+      "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+      "url": "https://arxiv.org/abs/2609.28557",
       "source": "arXiv cs.AI",
-      "published": "2026-09-24T04:00:00.000Z"
+      "published": "2026-09-25T04:00:00.000Z"
     },
     {
-      "title": "Reinforcement Learning with Decomposed Subtasks",
-      "url": "https://arxiv.org/abs/2609.27035",
+      "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
+      "url": "https://arxiv.org/abs/2609.28570",
       "source": "arXiv cs.AI",
-      "published": "2026-09-24T04:00:00.000Z"
+      "published": "2026-09-25T04:00:00.000Z"
     },
     {
-      "title": "Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations",
-      "url": "https://arxiv.org/abs/2609.27037",
+      "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
+      "url": "https://arxiv.org/abs/2609.28575",
       "source": "arXiv cs.AI",
-      "published": "2026-09-24T04:00:00.000Z"
+      "published": "2026-09-25T04:00:00.000Z"
     },
     {
-      "title": "Are Stated Reasoning Steps Causally Load-Bearing?",
-      "url": "https://arxiv.org/abs/2609.27038",
+      "title": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
+      "url": "https://arxiv.org/abs/2609.28609",
       "source": "arXiv cs.AI",
-      "published": "2026-09-24T04:00:00.000Z"
+      "published": "2026-09-25T04:00:00.000Z"
     },
     {
-      "title": "Math Reasoning in LLMs is Organized by Approach, Not Topic",
-      "url": "https://arxiv.org/abs/2609.27041",
+      "title": "Training Object Permanence in World Models",
+      "url": "https://arxiv.org/abs/2609.28654",
       "source": "arXiv cs.AI",
-      "published": "2026-09-24T04:00:00.000Z"
+      "published": "2026-09-25T04:00:00.000Z"
     },
     {
-      "title": "Propose, Don't Judge: An Anytime-Valid Referee for LLM Agents That Mine Investment Factors",
-      "url": "https://arxiv.org/abs/2609.27051",
+      "title": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
+      "url": "https://arxiv.org/abs/2609.28690",
       "source": "arXiv cs.AI",
-      "published": "2026-09-24T04:00:00.000Z"
+      "published": "2026-09-25T04:00:00.000Z"
     },
     {
-      "title": "Policy-as-Skill: Governed LLM Decision Support with Evidence, Deterministic Control, and Audit",
-      "url": "https://arxiv.org/abs/2609.27087",
+      "title": "Driving Epidemic Models with AI Agents: the Epydemix Agent Framework",
+      "url": "https://arxiv.org/abs/2609.28692",
       "source": "arXiv cs.AI",
-      "published": "2026-09-24T04:00:00.000Z"
+      "published": "2026-09-25T04:00:00.000Z"
     },
     {
-      "title": "Provably Complete Generalized Planning with LLMs",
-      "url": "https://arxiv.org/abs/2609.27105",
+      "title": "Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery",
+      "url": "https://arxiv.org/abs/2609.28693",
       "source": "arXiv cs.AI",
-      "published": "2026-09-24T04:00:00.000Z"
+      "published": "2026-09-25T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Meta shares soar after launch of Muse AI",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-shares-soar-after-launch-of-muse-ai/articleshow/134476419.cms",
+      "source": "ET Tech",
+      "published": "2026-09-25T05:48:33.000Z",
+      "summary": "Meta shares bounced back to their summer 2025 highs this week, riding a wave of investor excitement about Muse, the social media giant's AI agent which presents an opportunity to generate revenue beyond advertising. Concerns linger about whether Meta, which generates almost al…"
+    },
+    {
+      "title": "\"One small step for TPUs\": Google CEO Sundar Pichai announces Project Suncatcher to test AI compute in Space",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/one-small-step-for-tpus-google-ceo-sundar-pichai-announces-project-suncatcher-to-test-ai-compute-in-space/articleshow/134474714.cms",
+      "source": "ET Tech",
+      "published": "2026-09-25T04:05:38.000Z",
+      "summary": "According to Google, Project Suncatcher is a long-term, research moonshot exploring whether space could one day host scalable machine learning infrastructure."
+    },
+    {
+      "title": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation",
+      "url": "https://arxiv.org/abs/2606.03159",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-25T04:00:00.000Z",
+      "summary": "arXiv:2606.03159v3 Announce Type: replace-cross Abstract: As autonomous vehicle capabilities advance, the safe evaluation of driving policies in long-tail scenarios remains a critical bottleneck. In closed-loop simulation, the driving policy model actively interacts with the e…"
+    },
+    {
+      "title": "Meta launches Charm, a companion device to its Muse AI agent",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-launches-charm-a-companion-device-to-its-muse-ai-agent/articleshow/134468633.cms",
+      "source": "ET Tech",
+      "published": "2026-09-24T18:31:58.000Z",
+      "summary": "The Muse Charm, shown at the end of this week's Connect keynote, is a keychain-sized, Tamagotchi-style device with a small screen that shows an animated avatar of the Muse assistant. In a demonstration during the event, Zuckerberg showed that you can tap a fingerprint sensor t…"
+    },
     {
       "title": "Explained: How OpenAI breached a government website in Australia and what happens next",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explained-how-openai-breached-a-government-website-in-australia-and-what-happens-next/articleshow/134455433.cms",
@@ -116,43 +144,15 @@
       "source": "TechCrunch AI",
       "published": "2026-09-24T01:13:32.000Z",
       "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses."
-    },
-    {
-      "title": "Meta leans into AI, smart glasses amid privacy pushback",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-leans-into-ai-smart-glasses-amid-privacy-pushback/articleshow/134427050.cms",
-      "source": "ET Tech",
-      "published": "2026-09-23T05:54:27.000Z",
-      "summary": "Meta has spent billions to stay competitive with artificial intelligence, but the tech giant faces growing pushback as CEO Mark Zuckerberg prepares to announce new products built for the AI era on Wednesday. The Muse agent is built on Meta's own AI models and is designed to co…"
-    },
-    {
-      "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models",
-      "url": "https://economictimes.indiatimes.com/tech/technology/openai-expands-gpt-6-lineup-with-cheaper-sol-and-luna-models/articleshow/134418905.cms",
-      "source": "ET Tech",
-      "published": "2026-09-22T18:23:03.000Z",
-      "summary": "The launch of low-cost GPT-6 Sol and GPT-6 Luna follows the rollout of GPT-6 Astra, a faster model for handling more tasks than previous iterations, earlier this month."
-    },
-    {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-22T18:00:00.000Z",
-      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
-    },
-    {
-      "title": "Anthropic unveils Claude Opus 5.5",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-opus-5-5/articleshow/134417201.cms",
-      "source": "ET Tech",
-      "published": "2026-09-22T17:07:39.000Z",
-      "summary": "The company said Opus 5.5 performs on par with its Claude Fable 5.1 model on most tasks while costing 40% less to run on typical workloads than its predecessor, Claude Opus 5."
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://inc42.com/buzz/openai-anthropic-leaders-warn-un-of-ai-risks-as-systems-grow-more-powerful/",
-      "article": "OpenAI, Anthropic Leaders Warn UN Of AI Risks As Systems Grow More Powerful",
-      "source": "Inc42"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-preview-gpt-6-cyber-within-days/articleshow/134473657.cms",
+      "article": "OpenAI to preview GPT-6 Cyber within days",
+      "source": "ET Tech"
     },
     {
       "name": "Demis Hassabis",
@@ -192,9 +192,9 @@
     {
       "name": "Sundar Pichai",
       "org": "Google",
-      "link": "https://x.com/sundarpichai",
-      "article": null,
-      "source": "Profile"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/one-small-step-for-tpus-google-ceo-sundar-pichai-announces-project-suncatcher-to-test-ai-compute-in-space/articleshow/134474714.cms",
+      "article": "\"One small step for TPUs\": Google CEO Sundar Pichai announces Project Suncatcher to test AI compute in Space",
+      "source": "ET Tech"
     },
     {
       "name": "Mira Murati",
