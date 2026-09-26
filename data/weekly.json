@@ -1,46 +1,34 @@
 {
-  "weekOf": "2026-09-19 to 2026-09-25",
-  "generated": "2026-09-25T10:46:16.478Z",
-  "intro": "442 AI items this week (49 India-relevant) across 9 sources.",
+  "weekOf": "2026-09-20 to 2026-09-26",
+  "generated": "2026-09-26T10:28:34.824Z",
+  "intro": "79 AI items this week (42 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
-          "url": "https://arxiv.org/abs/2609.28475",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28475v1 Announce Type: new Abstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear when each behavior should be trusted. We study this question on ForecastBench-style binary forecasti…"
+          "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+          "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+          "source": "TechCrunch AI",
+          "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes l…"
         },
         {
-          "title": "Pistis Technical Report",
-          "url": "https://arxiv.org/abs/2609.28554",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28554v1 Announce Type: new Abstract: We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qwen3.6 and Qwen3.5, respectively, and developed through a general and scalable post-training framework. The framewo…"
+          "title": "Meta’s AI Tamagotchi bet is…working?",
+          "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+          "source": "TechCrunch AI",
+          "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes l…"
         },
         {
-          "title": "Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery",
-          "url": "https://arxiv.org/abs/2609.28693",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28693v1 Announce Type: new Abstract: Large Language Model (LLM) agents struggle to scale safely when exposed to vast enterprise toolsets. Providing an agent with access to every internal tool leads to oversized context windows, degraded tool selection, and severe go…"
+          "title": "Don’t be fooled by this summer of AI hype",
+          "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+          "source": "MIT Tech Review",
+          "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta…"
         },
         {
-          "title": "Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents",
-          "url": "https://arxiv.org/abs/2609.28876",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28876v1 Announce Type: new Abstract: We introduce Forecast-Dojo, a replayable environment for benchmarking and training LLM forecasting agents. It combines resolved prediction-market questions with dated news, allowing agents to research an event and revisit their p…"
-        },
-        {
-          "title": "From Static Personal Values to Contextualized Personalization: Bayesian Personalized Value Alignment for LLMs",
-          "url": "https://arxiv.org/abs/2609.28942",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28942v1 Announce Type: new Abstract: Personalized value alignment has become increasingly important as large language models (LLMs) are expected to accommodate diverse user preferences. However, existing methods typically align model outputs with a static value prof…"
-        },
-        {
-          "title": "MeshHeal: Two-Timescale Self-Healing for Gray Failures in Decentralized LLM Agent Networks",
-          "url": "https://arxiv.org/abs/2609.29015",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.29015v1 Announce Type: new Abstract: Decentralized LLM-based multi-agent systems coordinate through local interactions, but an agent can remain responsive while its task-solving quality persistently degrades. Such gray failures require protecting current tasks befor…"
+          "title": "Transformers now runs llama.cpp quants",
+          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -48,40 +36,22 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
-          "url": "https://arxiv.org/abs/2609.28570",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28570v1 Announce Type: new Abstract: Reinforcement learning (RL) is widely used to sharpen reasoning in multimodal large language models (MLLMs), yet its effect on hallucination is uneven. We trace this to two weak points in the \\emph{correction chain} from reward t…"
+          "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+          "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+          "source": "TechCrunch AI",
+          "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
         },
         {
-          "title": "Training Object Permanence in World Models",
-          "url": "https://arxiv.org/abs/2609.28654",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28654v1 Announce Type: new Abstract: Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them i…"
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "From Text Decisions to Pixels: An Study of Jev-Style Visual Choice Model",
-          "url": "https://arxiv.org/abs/2609.29283",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.29283v1 Announce Type: new Abstract: Visual software often needs a decision over supplied alternatives rather than a generated explanation. We present PixelJev, a native-image decision interface that maps an image, a task instruction, and a runtime candidate set to …"
-        },
-        {
-          "title": "SkinAgent AI: A Safety-Grounded Multimodal Agentic Framework for Non-Diagnostic Skincare Support",
-          "url": "https://arxiv.org/abs/2609.29341",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.29341v1 Announce Type: new Abstract: Consumer-facing skincare AI must coordinate visual evidence, product information, tool use, and user-facing actions within explicit evidence and safety boundaries. This study evaluates SkinAgent AI, a non-diagnostic multimodal fr…"
-        },
-        {
-          "title": "RD-JEPA: Predictive latent pretraining for few-trajectory transfer across reaction--diffusion equations",
-          "url": "https://arxiv.org/abs/2609.29403",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.29403v1 Announce Type: new Abstract: Learning surrogates for time-dependent partial differential equations often requires a new simulation corpus when the governing operator changes. We introduce RD-JEPA, a joint-embedding predictive architecture for self-supervised…"
-        },
-        {
-          "title": "BiGraph-Diffuse: A Bidirectional Diffusion Language Model with Graph-Structured Retrieval For Mental Health Counseling",
-          "url": "https://arxiv.org/abs/2609.29519",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.29519v1 Announce Type: new Abstract: Mental health disorders affect hundreds of millions of people around the world, yet access to professional counseling remains severely limited. AI-powered dialogue systems offer a scalable alternative, but existing models face tw…"
+          "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+          "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+          "source": "MIT Tech Review",
+          "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and siste…"
         }
       ]
     },
@@ -89,64 +59,28 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "PAWS: Policy-driven Agentic World Simulation",
-          "url": "https://arxiv.org/abs/2609.28547",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28547v1 Announce Type: new Abstract: Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, yet datasets for financial multi-agent simulation rarely connect these processes to temporally aligned historical ev…"
+          "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+          "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+          "source": "TechCrunch AI",
+          "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
         },
         {
-          "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
-          "url": "https://arxiv.org/abs/2609.28557",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28557v1 Announce Type: new Abstract: DNA sequencing pipelines, spanning quality control, alignment, variant calling, and annotation, are now reliably executed by workflow management systems that orchestrate established bioinformatics tools at scale. What remains man…"
+          "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+          "source": "TechCrunch AI",
+          "summary": "The latest unauthorized agent swarms were discovered by researchers."
         },
         {
-          "title": "Driving Epidemic Models with AI Agents: the Epydemix Agent Framework",
-          "url": "https://arxiv.org/abs/2609.28692",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28692v1 Announce Type: new Abstract: Artificial Intelligence agents based on large language models provide convenient natural language interfaces to scientific software, but reliability is not automatic. Here we introduce the Epydemix Agent Framework, an additive la…"
-        },
-        {
-          "title": "Reinforcement Learning with Verifiable Rewards for Small Search Agents",
-          "url": "https://arxiv.org/abs/2609.28765",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28765v1 Announce Type: new Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) performs well on problems with clear rewards, such as mathematics and coding, but whether it also works where the reward is less clear remains open. The reason-over-search rec…"
-        },
-        {
-          "title": "Agent Memory with Episodic Retrieval for Financial Decision-Making",
-          "url": "https://arxiv.org/abs/2609.28771",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28771v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated strong capabilities in financial analysis and reasoning, inspiring recent advances in agent-based trading frameworks. While these systems show promise, prior approaches either emphas…"
-        },
-        {
-          "title": "Learned Cross-Task Relationships in Multi-Task Models",
-          "url": "https://arxiv.org/abs/2609.28776",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28776v1 Announce Type: new Abstract: We propose a framework that learns cross-task relationships in multi-task models by approximating the joint distribution of task labels through targeted pairwise relationships. This approach improves performance via transfer lear…"
+          "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+          "source": "Ars Technica",
+          "summary": "A simple ClickFix attack is only one way to completely hijack the new agent."
         }
       ]
     },
     {
       "heading": "Open Source",
       "items": [
-        {
-          "title": "The Tokens Remember: When Tokenization Bypasses Knowledge Editing and Unlearning",
-          "url": "https://arxiv.org/abs/2609.29045",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.29045v1 Announce Type: cross Abstract: Open-weight LLMs give downstream users control over the inference stack, but this flexibility can undermine post-release guarantees that sensitive knowledge has been modified or removed. Model editing and machine unlearning are…"
-        },
-        {
-          "title": "The Troy Moment: How LLM Agents Adjudicate the Decision Point Under Impossible Tasks, Claimed Authority, and Peer Information",
-          "url": "https://arxiv.org/abs/2609.15494",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.15494v3 Announce Type: replace Abstract: Recent investigations of the July 2026 OpenAI-Hugging Face incident motivate two questions about agent behavior under task failure: when an assigned task becomes impossible, does an agent persist, stop, or escalate, and can o…"
-        },
-        {
-          "title": "Calibration is the Bottleneck: An Action-Class Diagnostic of Multi-Turn Tool-Calling",
-          "url": "https://arxiv.org/abs/2609.00949",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.00949v2 Announce Type: replace-cross Abstract: Multi-turn tool calling is a core evaluation scenario for large language model (LLM) agents. On public tool-calling benchmarks, open-weight models now approach or even surpass closed-source frontier models in aggregate …"
-        },
         {
           "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
           "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
@@ -160,10 +94,10 @@
           "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models hav…"
         },
         {
-          "title": "Don’t be fooled by this summer of AI hype",
-          "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-          "source": "MIT Tech Review",
-          "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta…"
+          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "url": "https://huggingface.co/blog/omlx",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -171,46 +105,64 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-          "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-          "source": "MIT Tech Review",
-          "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intellig…"
+          "title": "At Meta Connect, the company’s smart glasses were everywhere",
+          "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+          "source": "TechCrunch AI",
+          "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
         },
         {
-          "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
-          "url": "https://arxiv.org/abs/2609.28506",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28506v1 Announce Type: new Abstract: TW3Cast is a time-series forecasting system that reaches position 3 of 130 entries on the GIFT-Eval benchmark by mean MASE rank, as of 2026-09-14. The two entries above it belong to the leaderboard's agentic category, multi-step …"
+          "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+          "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+          "source": "TechCrunch AI",
+          "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
         },
         {
-          "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
-          "url": "https://arxiv.org/abs/2609.28575",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28575v1 Announce Type: new Abstract: Long-conversation memory benchmarks increasingly test recall and prompted knowledge updates, and recent work studies evolving user beliefs and memory state. TWIST is a proposed benchmark suite for a complementary, unmeasured prop…"
+          "title": "Meta opens early access program for new Muse features",
+          "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+          "source": "TechCrunch AI",
+          "summary": "Anyone interested in joining has to ask Muse to put them on the list."
         },
         {
-          "title": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
-          "url": "https://arxiv.org/abs/2609.28609",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28609v1 Announce Type: new Abstract: Role-playing agents based on large language models have been widely applied in areas such as personalized assistance and social simulation. Recent RL methods typically train on a fixed scenario pool collected before learning begi…"
+          "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+          "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
         },
         {
-          "title": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
-          "url": "https://arxiv.org/abs/2609.28690",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28690v1 Announce Type: new Abstract: Faithful user simulation is fundamental to building, evaluating, and improving interactive AI at scale. However, plausible individual responses do not ensure that simulated users reproduce the intent evolution and outcomes observ…"
+          "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+          "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
         },
         {
-          "title": "RECLAIM: Can Agents Reproduce the Claims of Machine Learning Papers?",
-          "url": "https://arxiv.org/abs/2609.28850",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.28850v1 Announce Type: new Abstract: Reproducing a machine learning paper involves most research steps, from installing software and debugging to running experiments, work that AI agents increasingly do. We introduce RECLAIM, a benchmark of 100 NeurIPS 2025 papers t…"
+          "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+          "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+          "source": "TechCrunch AI",
+          "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout."
         }
       ]
     },
     {
       "heading": "India & Subcontinent",
       "items": [
+        {
+          "title": "OpenAI works to understand full scope of agent activity as user data leak emerges",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-works-to-understand-full-scope-of-agent-activity-as-user-data-leak-emerges/articleshow/134498376.cms",
+          "source": "ET Tech",
+          "summary": "OpenAI's ongoing battle also reflects a yawning gap between the strength of the models the company is testing and its capacity to oversee or even track their actions."
+        },
+        {
+          "title": "How Pine Labs Shifted Gears: From PoS Devices To An AI-Powered Fintech Stack",
+          "url": "https://inc42.com/features/how-pine-labs-shifted-gears-from-pos-devices-to-an-ai-powered-fintech-stack/",
+          "source": "Inc42",
+          "summary": "In 1998, the newly incorporated Pine Labs was helping petrol pumps accept payments and manage loyalty programmes. Nearly three decades…"
+        },
+        {
+          "title": "How Enterprises Are Building Robust Infra Backbone For AI At Scale",
+          "url": "https://inc42.com/buzz/how-enterprises-are-building-robust-infra-backbone-for-ai-at-scale/",
+          "source": "Inc42",
+          "summary": "After the proliferation of AI adoption, enterprise India has started to ask whether its infrastructure is robust enough to survive…"
+        },
         {
           "title": "Dextr AI Raises $6.7 Mn To Build AI Agents For Hospitality Industry",
           "url": "https://inc42.com/buzz/dextr-ai-raises-6-7-mn-to-build-ai-agents-for-hospitality-industry/",
@@ -240,24 +192,6 @@
           "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/australia-steps-up-response-to-ai-after-openai-bot-breaches-health-system-database/articleshow/134478436.cms",
           "source": "ET Tech",
           "summary": "The incursion on one of the country's most used government agencies may prompt a tougher stance as Australia readies AI-specific laws starting in 2027, adding pressure to Australia-US relations already tested by Canberra's teen social media ban, tech policy experts said."
-        },
-        {
-          "title": "Akamai lands $11.6B cloud computing deal with Anthropic",
-          "url": "https://yourstory.com/2026/09/akamai-lands-116b-cloud-computing-deal-with-anthropic",
-          "source": "YourStory",
-          "summary": "The seven-year cloud infrastructure deal will support' Anthropic's growing CPU workloads and involves total capital expenditures of around $5.5 billion."
-        },
-        {
-          "title": "From tokenmaxxing to context engineering: Why enterprise AI needs better context, not bigger prompts",
-          "url": "https://yourstory.com/2026/09/tokenmaxxing-context-engineering-why-enterprise-ai-needs-better-context-not-bigger-prompts",
-          "source": "YourStory",
-          "summary": "Drawing on Elastic's experience helping enterprises build AI for production, Head of Field Engineering Ravindra Ramnani explains why context engineering is emerging as the next critical discipline for enterprise AI."
-        },
-        {
-          "title": "Govt Mulls ₹20,000 Cr Fund To Power Frontier AI, Compute Ecosystem: Report",
-          "url": "https://inc42.com/buzz/govt-mulls-%e2%82%b920000-cr-fund-to-power-frontier-ai-compute-ecosystem-report/",
-          "source": "Inc42",
-          "summary": "The Centre is considering an anchor investment of ₹15,000 Cr to ₹20,000 Cr in a proposed fund aimed at supporting…"
         }
       ]
     }
