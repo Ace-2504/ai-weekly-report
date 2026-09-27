@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-09-20 to 2026-09-26",
-  "generated": "2026-09-26T10:28:34.824Z",
-  "intro": "79 AI items this week (42 India-relevant) across 8 sources.",
+  "weekOf": "2026-09-21 to 2026-09-27",
+  "generated": "2026-09-27T10:59:39.001Z",
+  "intro": "76 AI items this week (39 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -82,12 +82,6 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-          "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-          "source": "TechCrunch AI",
-          "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
-        },
-        {
           "title": "The AI Hype Index: AI loves cheating",
           "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
           "source": "MIT Tech Review",
@@ -104,6 +98,18 @@
     {
       "heading": "Industry & Research",
       "items": [
+        {
+          "title": "Insurers claim AI is already increasing healthcare costs",
+          "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+          "source": "TechCrunch AI",
+          "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
+        },
+        {
+          "title": "I created an interactive digital avatar of myself — and you can talk to it",
+          "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+          "source": "TechCrunch AI",
+          "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
+        },
         {
           "title": "At Meta Connect, the company’s smart glasses were everywhere",
           "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
@@ -127,24 +133,36 @@
           "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
           "source": "TechCrunch AI",
           "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
-        },
-        {
-          "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-          "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-          "source": "TechCrunch AI",
-          "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
-        },
-        {
-          "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-          "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-          "source": "TechCrunch AI",
-          "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout."
         }
       ]
     },
     {
       "heading": "India & Subcontinent",
       "items": [
+        {
+          "title": "IIT Madras’ 1,000-startup bet; OpenAI’s rogue agents raise fresh privacy concerns",
+          "url": "https://yourstory.com/2026/09/iit-madras-1000-startup-bet-openais-rogue-agents",
+          "source": "YourStory",
+          "summary": "IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said."
+        },
+        {
+          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+          "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+          "source": "TechCrunch AI",
+          "summary": "The limited test covers select products and users, with a broader rollout planned for later in October."
+        },
+        {
+          "title": "AI, semiconductors, quantum tech next major frontier for India: Sitharaman",
+          "url": "https://yourstory.com/2026/09/ai-semiconductors-quantum-tech-major-frontier-india-sitharaman",
+          "source": "YourStory",
+          "summary": "Speaking at a fireside chat organised by the IIT Madras Alumni Association here, Finance Minister Nirmala Sitharaman said India needed to accelerate efforts to build the hardware, skills and institutional ecosystem required to harness these emerging technologies."
+        },
+        {
+          "title": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-infrastructure-revolution-fm-sitharaman-promotes-ai-semiconductors-and-quantum-technology-investments/articleshow/134504988.cms",
+          "source": "ET Tech",
+          "summary": "Union Finance Minister Nirmala Sitharaman highlighted the need for investment in AI, semiconductor chips, and quantum technology. She stated that strengthening digital infrastructure will support AI adoption across various sectors. Additionally, Sitharaman underscored the impo…"
+        },
         {
           "title": "OpenAI works to understand full scope of agent activity as user data leak emerges",
           "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-works-to-understand-full-scope-of-agent-activity-as-user-data-leak-emerges/articleshow/134498376.cms",
@@ -168,30 +186,6 @@
           "url": "https://inc42.com/buzz/dextr-ai-raises-6-7-mn-to-build-ai-agents-for-hospitality-industry/",
           "source": "Inc42",
           "summary": "Hospitality-focused AI startup Dextr AI has raised $6.7 Mn (about ₹64.2 Cr) in a seed funding round led by Elevation…"
-        },
-        {
-          "title": "Sarvam AI updates vision model, doubles down on Indic-language push",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sarvam-ai-updates-vision-model-doubles-down-on-indic-language-push/articleshow/134480718.cms",
-          "source": "ET Tech",
-          "summary": "Sarvam launched the original vision model in February as part of its efforts to build homegrown, \"sovereign\" AI systems tailored to India. The model was designed to read scanned documents and images and convert them into usable digital text, a task known as optical character r…"
-        },
-        {
-          "title": "Inside the deal engine room: VCs and PEs make the case for ERP as a governance variable",
-          "url": "https://economictimes.indiatimes.com/tech/technology/inside-the-deal-engine-room-vcs-and-pes-make-the-case-for-erp-as-a-governance-variable/articleshow/134479353.cms",
-          "source": "ET Tech",
-          "summary": "At an NTT Data Business Solutions India roundtable, a cohort of leading VCs and PE investors argued that the maturity of a company’s ERP and AI adoption, data quality and underlying processes is rapidly emerging as a priced governance variable in deals."
-        },
-        {
-          "title": "AI infrastructure investment seen surging to $769 billion in 2026 amid growing safety concerns",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-infrastructure-investment-seen-surging-to-769-billion-in-2026-amid-growing-safety-concerns/articleshow/134479284.cms",
-          "source": "ET Tech",
-          "summary": "The estimate is based on nearly $384 billion invested in the first half of 2026 and assumes the current pace continues through the year. It compares with $145 billion invested in the technology in 2025, making AI infrastructure and model architectures the largest-funded techno…"
-        },
-        {
-          "title": "Australia steps up response to AI after OpenAI bot breaches health system database",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/australia-steps-up-response-to-ai-after-openai-bot-breaches-health-system-database/articleshow/134478436.cms",
-          "source": "ET Tech",
-          "summary": "The incursion on one of the country's most used government agencies may prompt a tougher stance as Australia readies AI-specific laws starting in 2027, adding pressure to Australia-US relations already tested by Canberra's teen social media ban, tech policy experts said."
         }
       ]
     }
