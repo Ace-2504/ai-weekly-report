@@ -1,20 +1,44 @@
 {
   "date": "2026-09-28",
   "top": {
-    "title": "Holo4: powering generalist computer-use agents",
-    "url": "https://huggingface.co/blog/Hcompany/holo4",
-    "source": "Hugging Face",
-    "published": "2026-09-28T09:44:05.000Z",
-    "summary": ""
+    "title": "Modulate raises $25M for its voice models and analysis suite",
+    "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+    "source": "TechCrunch AI",
+    "published": "2026-09-28T14:05:00.000Z",
+    "summary": "Modulate deploys its models to detect deepfake, fraud and scam"
   },
   "topIndia": {
-    "title": "Nvidia adds $150 billion to existing share repurchase plan",
-    "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-adds-150-billion-to-existing-share-repurchase-plan/articleshow/134541762.cms",
+    "title": "Seligman Ventures doubles capital to $1 billion as AI boom revives hardware bets",
+    "url": "https://economictimes.indiatimes.com/tech/funding/seligman-ventures-doubles-capital-to-1-billion-as-ai-boom-revives-hardware-bets/articleshow/134544025.cms",
     "source": "ET Tech",
-    "published": "2026-09-28T11:51:35.000Z",
-    "summary": "Nvidia has emerged as one of the biggest beneficiaries of the AI boom, with demand for its pricey chips and related technology powering rapid revenue growth."
+    "published": "2026-09-28T13:22:02.000Z",
+    "summary": "Seligman Investments has doubled the deployable capital of its venture arm to $1 billion less than a year after launching it, betting that the physical bottlenecks of the artificial intelligence buildout will produce the next wave of large technology companies, its"
   },
   "headlines": [
+    {
+      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
+      "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-28T14:00:00.000Z"
+    },
+    {
+      "title": "Insuretech Outmarket raises $34.5M just months after prior round",
+      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-28T14:00:00.000Z"
+    },
+    {
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-28T13:38:48.000Z"
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face",
+      "published": "2026-09-28T09:44:05.000Z"
+    },
     {
       "title": "Who’s liable when AI agents go rogue?",
       "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
@@ -62,33 +86,16 @@
       "url": "https://arxiv.org/abs/2609.30446",
       "source": "arXiv cs.AI",
       "published": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
-      "url": "https://arxiv.org/abs/2609.30456",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
-      "url": "https://arxiv.org/abs/2609.30469",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "title": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
-      "url": "https://arxiv.org/abs/2609.30484",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
-      "url": "https://arxiv.org/abs/2609.30489",
-      "source": "arXiv cs.AI",
-      "published": "2026-09-28T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue",
+      "url": "https://yourstory.com/2026/09/nvidia-unveils-security-platform-to-stop-ai-agents-from-going-rogue",
+      "source": "YourStory",
+      "published": "2026-09-28T12:57:46.000Z",
+      "summary": "The company said that its Open Agent Safety Platform includes software that “sets boundaries for agents,” and follows a series of revelations from top AI companies about their models escaping and breaking into other organisations."
+    },
     {
       "title": "Meta shares soar after launch of Muse AI",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-shares-soar-after-launch-of-muse-ai/articleshow/134476419.cms",
@@ -102,13 +109,6 @@
       "source": "ET Tech",
       "published": "2026-09-25T04:05:38.000Z",
       "summary": "According to Google, Project Suncatcher is a long-term, research moonshot exploring whether space could one day host scalable machine learning infrastructure."
-    },
-    {
-      "title": "Meta launches Charm, a companion device to its Muse AI agent",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-launches-charm-a-companion-device-to-its-muse-ai-agent/articleshow/134468633.cms",
-      "source": "ET Tech",
-      "published": "2026-09-24T18:31:58.000Z",
-      "summary": "The Muse Charm, shown at the end of this week's Connect keynote, is a keychain-sized, Tamagotchi-style device with a small screen that shows an animated avatar of the Muse assistant. In a demonstration during the event, Zuckerberg showed that you can tap a fingerprint sensor t…"
     }
   ],
   "people": [
