@@ -1,0 +1,609 @@
+{
+  "daily": {
+    "date": "2026-09-28",
+    "top": {
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face",
+      "published": "2026-09-28T09:44:05.000Z",
+      "summary": ""
+    },
+    "topIndia": {
+      "title": "Nvidia adds $150 billion to existing share repurchase plan",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-adds-150-billion-to-existing-share-repurchase-plan/articleshow/134541762.cms",
+      "source": "ET Tech",
+      "published": "2026-09-28T11:51:35.000Z",
+      "summary": "Nvidia has emerged as one of the biggest beneficiaries of the AI boom, with demand for its pricey chips and related technology powering rapid revenue growth."
+    },
+    "headlines": [
+      {
+        "title": "Who’s liable when AI agents go rogue?",
+        "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+        "source": "MIT Tech Review",
+        "published": "2026-09-28T08:06:22.000Z"
+      },
+      {
+        "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+        "url": "https://arxiv.org/abs/2609.30291",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-28T04:00:00.000Z"
+      },
+      {
+        "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+        "url": "https://arxiv.org/abs/2609.30325",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-28T04:00:00.000Z"
+      },
+      {
+        "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+        "url": "https://arxiv.org/abs/2609.30328",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-28T04:00:00.000Z"
+      },
+      {
+        "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+        "url": "https://arxiv.org/abs/2609.30341",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-28T04:00:00.000Z"
+      },
+      {
+        "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+        "url": "https://arxiv.org/abs/2609.30383",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-28T04:00:00.000Z"
+      },
+      {
+        "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
+        "url": "https://arxiv.org/abs/2609.30397",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-28T04:00:00.000Z"
+      },
+      {
+        "title": "Predicting Transmembrane Protein Topology from 3D Structure",
+        "url": "https://arxiv.org/abs/2609.30446",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-28T04:00:00.000Z"
+      },
+      {
+        "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
+        "url": "https://arxiv.org/abs/2609.30456",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-28T04:00:00.000Z"
+      },
+      {
+        "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
+        "url": "https://arxiv.org/abs/2609.30469",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-28T04:00:00.000Z"
+      },
+      {
+        "title": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
+        "url": "https://arxiv.org/abs/2609.30484",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-28T04:00:00.000Z"
+      },
+      {
+        "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
+        "url": "https://arxiv.org/abs/2609.30489",
+        "source": "arXiv cs.AI",
+        "published": "2026-09-28T04:00:00.000Z"
+      }
+    ],
+    "events": [
+      {
+        "title": "Meta shares soar after launch of Muse AI",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-shares-soar-after-launch-of-muse-ai/articleshow/134476419.cms",
+        "source": "ET Tech",
+        "published": "2026-09-25T05:48:33.000Z",
+        "summary": "Meta shares bounced back to their summer 2025 highs this week, riding a wave of investor excitement about Muse, the social media giant's AI agent which presents an opportunity to generate revenue beyond advertising. Concerns linger about whether Meta, which generates almost al…"
+      },
+      {
+        "title": "\"One small step for TPUs\": Google CEO Sundar Pichai announces Project Suncatcher to test AI compute in Space",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/one-small-step-for-tpus-google-ceo-sundar-pichai-announces-project-suncatcher-to-test-ai-compute-in-space/articleshow/134474714.cms",
+        "source": "ET Tech",
+        "published": "2026-09-25T04:05:38.000Z",
+        "summary": "According to Google, Project Suncatcher is a long-term, research moonshot exploring whether space could one day host scalable machine learning infrastructure."
+      },
+      {
+        "title": "Meta launches Charm, a companion device to its Muse AI agent",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-launches-charm-a-companion-device-to-its-muse-ai-agent/articleshow/134468633.cms",
+        "source": "ET Tech",
+        "published": "2026-09-24T18:31:58.000Z",
+        "summary": "The Muse Charm, shown at the end of this week's Connect keynote, is a keychain-sized, Tamagotchi-style device with a small screen that shows an animated avatar of the Muse assistant. In a demonstration during the event, Zuckerberg showed that you can tap a fingerprint sensor t…"
+      }
+    ],
+    "people": [
+      {
+        "name": "Sam Altman",
+        "org": "OpenAI",
+        "link": "https://economictimes.indiatimes.com/tech/technology/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe/articleshow/134518946.cms",
+        "article": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+        "source": "ET Tech"
+      },
+      {
+        "name": "Demis Hassabis",
+        "org": "Google DeepMind",
+        "link": "https://x.com/demishassabis",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Dario Amodei",
+        "org": "Anthropic",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-said-he-would-dine-with-anthropic-ceo-dario-amodei-amid-mounting-ai-debate/articleshow/134530799.cms",
+        "article": "Trump said he would dine with Anthropic CEO Dario Amodei amid mounting AI debate",
+        "source": "ET Tech"
+      },
+      {
+        "name": "Yann LeCun",
+        "org": "Meta · world models",
+        "link": "https://x.com/ylecun",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Jensen Huang",
+        "org": "NVIDIA",
+        "link": "https://nvidianews.nvidia.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Andrej Karpathy",
+        "org": "AI educator",
+        "link": "https://karpathy.ai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Sundar Pichai",
+        "org": "Google",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/one-small-step-for-tpus-google-ceo-sundar-pichai-announces-project-suncatcher-to-test-ai-compute-in-space/articleshow/134474714.cms",
+        "article": "\"One small step for TPUs\": Google CEO Sundar Pichai announces Project Suncatcher to test AI compute in Space",
+        "source": "ET Tech"
+      },
+      {
+        "name": "Mira Murati",
+        "org": "Thinking Machines",
+        "link": "https://x.com/miramurati",
+        "article": null,
+        "source": "Profile"
+      }
+    ]
+  },
+  "weekly": {
+    "weekOf": "2026-09-22 to 2026-09-28",
+    "generated": "2026-09-28T12:18:06.646Z",
+    "intro": "405 AI items this week (42 India-relevant) across 9 sources.",
+    "sections": [
+      {
+        "heading": "Large Language Models",
+        "items": [
+          {
+            "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+            "url": "https://arxiv.org/abs/2609.30328",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30328v1 Announce Type: new Abstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agen…"
+          },
+          {
+            "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+            "url": "https://arxiv.org/abs/2609.30341",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30341v1 Announce Type: new Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driv…"
+          },
+          {
+            "title": "Predicting Transmembrane Protein Topology from 3D Structure",
+            "url": "https://arxiv.org/abs/2609.30446",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30446v1 Announce Type: new Abstract: This paper presents a novel approach to infer protein topology using the state-of-the-art graph neural network (GNN), SchNet. The model is trained on the same dataset used to develop the recent DeepTMHMM model with 5-fold cross-v…"
+          },
+          {
+            "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
+            "url": "https://arxiv.org/abs/2609.30489",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30489v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in biomedical science. However, existing LLM benchmarking emphasizes factual recall, offering limited insight into mo…"
+          },
+          {
+            "title": "Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content",
+            "url": "https://arxiv.org/abs/2609.30563",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30563v1 Announce Type: new Abstract: Platform policies are increasingly tested on artificial users, making agent fidelity important. Yet convincing fake profiles could also manipulate perceived public opinion before elections. Validation has concentrated on agreemen…"
+          },
+          {
+            "title": "Audio LLMs Know When They Can't Hear You",
+            "url": "https://arxiv.org/abs/2609.30625",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30625v1 Announce Type: new Abstract: Audio large language models allow users to interact with the model through speech. When an input recording is too degraded, the model may misinterpret the user's query and respond based on an incorrect transcription. In this pape…"
+          }
+        ]
+      },
+      {
+        "heading": "Multimodal & Media",
+        "items": [
+          {
+            "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
+            "url": "https://arxiv.org/abs/2609.30456",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30456v1 Announce Type: new Abstract: Reward maximization alignment methods for discrete diffusion models have primarily focused on steering the reverse process, either by influencing token logits or by selecting favorable sequences at intermediate steps. These appro…"
+          },
+          {
+            "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
+            "url": "https://arxiv.org/abs/2609.30469",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30469v1 Announce Type: new Abstract: Pretrained ASR systems perform poorly on noisy Broadcast Police Communication (BPC), hindering efforts to understand police decision-making. Pseudo-labeling offers an unsupervised path to improve ASR without expensive human label…"
+          },
+          {
+            "title": "Selective Amortization of Full-Budget Counterfactual Reasoning for Visual Token Communication",
+            "url": "https://arxiv.org/abs/2609.30756",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30756v1 Announce Type: new Abstract: Generative image communication transmits compact semantic tokens under a limited packet budget, where token selection directly affects the final reconstruction quality after the complete packet is decoded. However, accurately est…"
+          },
+          {
+            "title": "Evaluating Real-Time Voice Agents: From Component Quality to Grounded Outcomes",
+            "url": "https://arxiv.org/abs/2609.30798",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30798v1 Announce Type: new Abstract: Real-time voice agents have moved from research prototypes to production deployments, yet the literature describing them is fragmented across three communities that rarely cite one another: speech foundation modelling, turn-takin…"
+          },
+          {
+            "title": "Why Jailbreaks Succeed in Diffusion Language Models: An Energy Landscape Analysis",
+            "url": "https://arxiv.org/abs/2609.30841",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30841v1 Announce Type: new Abstract: Existing attacks and defenses for diffusion-based large language models (dLLMs) target specific vulnerabilities but lack a shared framework explaining why attacks succeed. We propose one by interpreting safety alignment as shapin…"
+          },
+          {
+            "title": "Can Linguistic Reasoning Vectors Enhance Multimodal Reasoning Ability?",
+            "url": "https://arxiv.org/abs/2609.31140",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.31140v1 Announce Type: new Abstract: Most Vision-Language Models (VLMs) are built by extending pretrained Large Language Models (LLMs) with visual modules and multimodal alignment. However, this multimodal scaling often degrades the language-side reasoning ability o…"
+          }
+        ]
+      },
+      {
+        "heading": "Developer Tools & Agents",
+        "items": [
+          {
+            "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+            "url": "https://arxiv.org/abs/2609.30383",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30383v1 Announce Type: new Abstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend its capabilities for a specific task. Skill-based agent systems therefore enab…"
+          },
+          {
+            "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
+            "url": "https://arxiv.org/abs/2609.30397",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30397v1 Announce Type: new Abstract: Evaluating explainable Artificial Intelligence (XAI) methods is a challenging task due to the lack of reliable evaluation procedures and, in particular, the absence of ground truth explanations. In the literature, existing evalua…"
+          },
+          {
+            "title": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
+            "url": "https://arxiv.org/abs/2609.30484",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30484v1 Announce Type: new Abstract: While large language models (LLMs) have achieved remarkable linguistic capabilities, a profound question lingers at their core: do these models truly comprehend context or simply excel at pattern matching on an unprecedented scal…"
+          },
+          {
+            "title": "Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents",
+            "url": "https://arxiv.org/abs/2609.30725",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30725v1 Announce Type: new Abstract: Although effective, coding agents often incur substantial monetary costs. Their recurring cost-inefficient behaviors remain underexplored. We conduct the first study of behavioral cost inefficiencies in coding agents, analyzing 1…"
+          },
+          {
+            "title": "Learning What to Skip: Counterfactual Credit Assignment for Efficient Multi-Agent LLM Workflows",
+            "url": "https://arxiv.org/abs/2609.30734",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30734v1 Announce Type: new Abstract: Multi-agent LLM workflows use planning, execution, verification, and summarization to improve task performance, yet the value of each component depends on the state already produced. Executing every component can waste computatio…"
+          },
+          {
+            "title": "A Benchmark and Diagnostic Study of Epistemic Admission in Shared Agent Memory",
+            "url": "https://arxiv.org/abs/2609.30813",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30813v1 Announce Type: new Abstract: Evaluating claim admission in shared agent memory is challenging because repeated claims may be mistaken for independent evidence. An agent may copy or paraphrase a retrieved belief, while admitting a false claim exposes subseque…"
+          }
+        ]
+      },
+      {
+        "heading": "Open Source",
+        "items": [
+          {
+            "title": "Cheap, open agents make LLM pollution harder to mitigate",
+            "url": "https://arxiv.org/abs/2609.31054",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.31054v1 Announce Type: new Abstract: Large Language Model (LLM) pollution occurs when synthetic responses contaminate data intended to capture human behavior. High deployment costs have so far limited the risk posed by autonomous survey agents. However, open-weight …"
+          },
+          {
+            "title": "FLIP: Final Layer Inference-Time Probing for Vision-Language Models",
+            "url": "https://arxiv.org/abs/2609.30993",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30993v1 Announce Type: cross Abstract: We present FLIP, a final-layer inference-time probe for testing whether a logit-facing intervention site in an open-weight vision-language model (VLM) supports structured, task-linked computation rather than generic perturbatio…"
+          },
+          {
+            "title": "Evaluation is All You Need: Strategic Overclaiming of LLM Reasoning Capabilities Through Evaluation Design",
+            "url": "https://arxiv.org/abs/2506.04734",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2506.04734v3 Announce Type: replace Abstract: Reasoning models represented by the Deepseek-R1-Distill series have been widely adopted by the open-source community due to their strong performance in mathematics, science, programming, and other domains. However, our study …"
+          },
+          {
+            "title": "The AI Hype Index: AI loves cheating",
+            "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+            "source": "MIT Tech Review",
+            "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models hav…"
+          },
+          {
+            "title": "Don’t be fooled by this summer of AI hype",
+            "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+            "source": "MIT Tech Review",
+            "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta…"
+          },
+          {
+            "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+            "url": "https://huggingface.co/blog/omlx",
+            "source": "Hugging Face",
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "heading": "Industry & Research",
+        "items": [
+          {
+            "title": "Holo4: powering generalist computer-use agents",
+            "url": "https://huggingface.co/blog/Hcompany/holo4",
+            "source": "Hugging Face",
+            "summary": ""
+          },
+          {
+            "title": "Who’s liable when AI agents go rogue?",
+            "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+            "source": "MIT Tech Review",
+            "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, O…"
+          },
+          {
+            "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+            "url": "https://arxiv.org/abs/2609.30291",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30291v1 Announce Type: new Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and …"
+          },
+          {
+            "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+            "url": "https://arxiv.org/abs/2609.30325",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure …"
+          },
+          {
+            "title": "Benchy: towards a universal language for task-oriented AI benchmarks",
+            "url": "https://arxiv.org/abs/2609.30550",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30550v1 Announce Type: new Abstract: Benchy is a semantic language and execution engine for benchmarking AI programs. A benchmark is completely specified by a program, a scoring function, and a dataset, B=(P,S,D), and is separate from the AI-system taking it; a run …"
+          },
+          {
+            "title": "Rank-Reliable Teacher-Guided Fitness Approximation for Expensive Evolutionary Optimization: A TinyML Architecture Search Study",
+            "url": "https://arxiv.org/abs/2609.30553",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2609.30553v1 Announce Type: new Abstract: Expensive evolutionary search does not always need an exact fitness estimate for every candidate. It often needs a reliable answer to a simpler question: which candidate is better? We address this need through Teacher-Guided Lear…"
+          }
+        ]
+      },
+      {
+        "heading": "India & Subcontinent",
+        "items": [
+          {
+            "title": "Nvidia adds $150 billion to existing share repurchase plan",
+            "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-adds-150-billion-to-existing-share-repurchase-plan/articleshow/134541762.cms",
+            "source": "ET Tech",
+            "summary": "Nvidia has emerged as one of the biggest beneficiaries of the AI boom, with demand for its pricey chips and related technology powering rapid revenue growth."
+          },
+          {
+            "title": "Global AI trade could revive after recent pullback, JP Morgan says",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-trade-could-revive-after-recent-pullback-jp-morgan-says/articleshow/134540810.cms",
+            "source": "ET Tech",
+            "summary": "The recent pullback in the global AI trade has improved investor positioning, made valuations attractive and could spur a re-engagement, particularly in semiconductor stocks, JP Morgan analysts said on Monday."
+          },
+          {
+            "title": "Every few years Ram Sukumar remakes Indium. AI is his best chance yet",
+            "url": "https://yourstory.com/2026/09/every-few-years-ram-sukumar-remakes-indium-ai-is-his-best-chance-yet",
+            "source": "YourStory",
+            "summary": "Born into a Chennai business family, Ram Sukumar lost the cushion in 2001 and bootstrapped his way past $100 million in revenue. Now he’s betting AI will help Indium more than it hurts."
+          },
+          {
+            "title": "OpenAI teams up with Sachin Tendulkar to demystify AI in India",
+            "url": "https://yourstory.com/2026/09/openai-teams-up-with-sachin-tendulkar-to-demystify-ai-in-india",
+            "source": "YourStory",
+            "summary": "Cricket legend Sachin Tendulkar has teamed up with OpenAI in a multi-year partnership to show how ChatGPT can be used for everyday learning, idea generation, and personal interests."
+          },
+          {
+            "title": "OpenAI Pauses Training Of Top Models After Agent Bypasses Internet Restrictions",
+            "url": "https://inc42.com/buzz/openai-pauses-training-of-top-models-after-agent-bypasses-internet-restrictions/",
+            "source": "Inc42",
+            "summary": "OpenAI has paused training, evaluation, and tool-enabled inference for its most capable AI models after an internal research agent bypassed…"
+          },
+          {
+            "title": "The Scaling Properties of Implicit Deductive Reasoning in Transformers",
+            "url": "https://arxiv.org/abs/2605.04330",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2605.04330v3 Announce Type: replace Abstract: We investigate the scaling properties of implicit deductive reasoning over Horn clauses in depth-bounded Transformers. By discouraging the reliance on statistical shortcuts via counterfactual data augmentation, and promoting …"
+          },
+          {
+            "title": "Human-1 by Josh Talks: A Full-Duplex Conversational Modeling Framework in Hindi using Real-World Conversations",
+            "url": "https://arxiv.org/abs/2604.23295",
+            "source": "arXiv cs.AI",
+            "summary": "arXiv:2604.23295v3 Announce Type: replace-cross Abstract: Full-duplex spoken dialogue systems can model natural conversational behaviours such as interruptions, overlaps, and backchannels, yet such systems remain largely unexplored for Indian languages. We present the first op…"
+          },
+          {
+            "title": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways/articleshow/134530903.cms",
+            "source": "ET Tech",
+            "summary": "Separately, AI evaluator Transluce said agents that appeared to come from OpenAI tried unsuccessfully to hack into a Department of Education website, a detail that OpenAI has not confirmed."
+          }
+        ]
+      }
+    ],
+    "careers": {
+      "note": "Demand snapshot for 2026. ML Engineer is the most in-demand AI title; agentic-AI and deep-learning skills carry the highest pay premiums; Python + one cloud is the baseline. Specialisation beats generalisation for freshers.",
+      "paths": [
+        {
+          "field": "Machine Learning Engineering",
+          "demand": "Very high",
+          "note": "#1 AI title — build, deploy & maintain models in production. Best all-round entry into AI."
+        },
+        {
+          "field": "AI / Agent Engineering (LLM apps)",
+          "demand": "Surging",
+          "note": "RAG, tool-use & multi-agent systems. ~40% of enterprise apps will embed AI agents by year-end."
+        },
+        {
+          "field": "Deep Learning / Research",
+          "demand": "High (premium pay)",
+          "note": "Neural nets for vision & speech. Highest premiums; usually needs strong maths / grad study."
+        },
+        {
+          "field": "MLOps / AI Infrastructure",
+          "demand": "High",
+          "note": "Ship & scale models on the cloud. Cloud AI certs add 20–25% to salary."
+        },
+        {
+          "field": "Data Science / Analytics",
+          "demand": "Steady",
+          "note": "Foundational, widest entry door; a reliable first step into AI."
+        },
+        {
+          "field": "Computer Vision",
+          "demand": "High",
+          "note": "Imaging, robotics, autonomous systems, medical AI."
+        },
+        {
+          "field": "NLP / LLM Engineering",
+          "demand": "Very high",
+          "note": "Powers chatbots, search & agents — the hottest application area."
+        },
+        {
+          "field": "AI Product / Solutions Architect",
+          "demand": "High (senior)",
+          "note": "5–8 yrs experience; $140k–$332k bands. Translates AI into business value."
+        },
+        {
+          "field": "AI Safety / Governance",
+          "demand": "Growing",
+          "note": "Alignment, evals, red-teaming & policy — newer but expanding fast."
+        }
+      ],
+      "fresher": [
+        {
+          "skill": "Python (NumPy, Pandas)",
+          "why": "The lingua franca of ML — non-negotiable."
+        },
+        {
+          "skill": "Maths foundations",
+          "why": "Linear algebra, probability & calculus — enough to reason about models."
+        },
+        {
+          "skill": "Core ML (scikit-learn)",
+          "why": "Regression, classification, evaluation, the ML workflow."
+        },
+        {
+          "skill": "One deep-learning framework (PyTorch)",
+          "why": "Build & train neural nets; PyTorch dominates research & jobs."
+        },
+        {
+          "skill": "LLMs: prompting + RAG basics",
+          "why": "Ship a small LLM app — the most visible skill to recruiters now."
+        },
+        {
+          "skill": "SQL + data wrangling",
+          "why": "Real AI work is mostly data; SQL is everywhere."
+        },
+        {
+          "skill": "One cloud + Git/GitHub",
+          "why": "AWS leads (~40% of postings), then Azure & GCP. Version everything."
+        },
+        {
+          "skill": "Ship a portfolio project",
+          "why": "A deployed project that solves a real problem is the #1 differentiator."
+        }
+      ],
+      "experienced": [
+        {
+          "skill": "MLOps & deployment",
+          "why": "Docker, CI/CD, monitoring, model/versioning — production is where value lives."
+        },
+        {
+          "skill": "Agentic system design",
+          "why": "Multi-agent orchestration, tool-use, evals — the surging frontier."
+        },
+        {
+          "skill": "Cloud AI at scale",
+          "why": "AWS/Azure/GCP architecture; certs add a 20–25% salary premium."
+        },
+        {
+          "skill": "LLM fine-tuning & evals",
+          "why": "Adapt, measure and harden models for a domain."
+        },
+        {
+          "skill": "Distributed training / GPU optimisation",
+          "why": "Cost & latency engineering for large models."
+        },
+        {
+          "skill": "ML system design",
+          "why": "Trade-offs across data, latency, cost & reliability at scale."
+        },
+        {
+          "skill": "Domain specialisation",
+          "why": "CV, NLP, recsys, healthcare — depth beats breadth at senior levels."
+        },
+        {
+          "skill": "AI → business translation",
+          "why": "Leading teams and tying models to measurable outcomes."
+        }
+      ]
+    },
+    "profile": {
+      "name": "Harman Singh Sandhu",
+      "handle": "Ace",
+      "blurb": "I build AI/ML projects and write about them. This site is one of them — an automated daily AI digest.",
+      "linkedin": "https://www.linkedin.com/in/harman-singh-sandhu/",
+      "github": "https://github.com/Ace-2504",
+      "devto": "https://dev.to/ace2504",
+      "repos": [
+        {
+          "name": "ai-weekly-report",
+          "desc": "My personalized AI newsletter that runs on an agentic AI",
+          "url": "https://github.com/Ace-2504/ai-weekly-report",
+          "stars": 0,
+          "language": "HTML"
+        },
+        {
+          "name": "slm-arena-15",
+          "desc": "15-model SLM arena — side-by-side demo across the 125M/500M/Gemma family (base/QA-SFT/RAFT/DPO/RLAIF).",
+          "url": "https://github.com/Ace-2504/slm-arena-15",
+          "stars": 0,
+          "language": "TypeScript"
+        },
+        {
+          "name": "slm-arena-13",
+          "desc": "13-model SLM arena — side-by-side demo across the 125M/500M/Gemma family.",
+          "url": "https://github.com/Ace-2504/slm-arena-13",
+          "stars": 0,
+          "language": "TypeScript"
+        },
+        {
+          "name": "vizuara-fine-tuning",
+          "desc": "Fine-tuning + eval backend for the SLM family (125M/500M/Gemma): SFT, RAFT, DPO, RLAIF, rubric-10 eval, serving.",
+          "url": "https://github.com/Ace-2504/vizuara-fine-tuning",
+          "stars": 0,
+          "language": "Python"
+        },
+        {
+          "name": "slm-inference-benchmarks",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/slm-inference-benchmarks",
+          "stars": 0,
+          "language": "HTML"
+        },
+        {
+          "name": "ace-harness",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/ace-harness",
+          "stars": 0,
+          "language": "Python"
+        }
+      ]
+    }
+  }
+}
