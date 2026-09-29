@@ -1,11 +1,17 @@
 {
-  "weekOf": "2026-09-22 to 2026-09-28",
-  "generated": "2026-09-28T14:41:30.455Z",
-  "intro": "403 AI items this week (41 India-relevant) across 9 sources.",
+  "weekOf": "2026-09-23 to 2026-09-29",
+  "generated": "2026-09-29T11:46:05.194Z",
+  "intro": "406 AI items this week (46 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
+        {
+          "title": "Making AI an asset, not an expense",
+          "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+          "source": "MIT Tech Review",
+          "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves …"
+        },
         {
           "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
           "url": "https://arxiv.org/abs/2609.30328",
@@ -35,24 +41,12 @@
           "url": "https://arxiv.org/abs/2609.30563",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2609.30563v1 Announce Type: new Abstract: Platform policies are increasingly tested on artificial users, making agent fidelity important. Yet convincing fake profiles could also manipulate perceived public opinion before elections. Validation has concentrated on agreemen…"
-        },
-        {
-          "title": "Audio LLMs Know When They Can't Hear You",
-          "url": "https://arxiv.org/abs/2609.30625",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.30625v1 Announce Type: new Abstract: Audio large language models allow users to interact with the model through speech. When an input recording is too degraded, the model may misinterpret the user's query and respond based on an incorrect transcription. In this pape…"
         }
       ]
     },
     {
       "heading": "Multimodal & Media",
       "items": [
-        {
-          "title": "Modulate raises $25M for its voice models and analysis suite",
-          "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-          "source": "TechCrunch AI",
-          "summary": "Modulate deploys its models to detect deepfake, fraud and scam"
-        },
         {
           "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
           "url": "https://arxiv.org/abs/2609.30456",
@@ -64,6 +58,12 @@
           "url": "https://arxiv.org/abs/2609.30469",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2609.30469v1 Announce Type: new Abstract: Pretrained ASR systems perform poorly on noisy Broadcast Police Communication (BPC), hindering efforts to understand police decision-making. Pseudo-labeling offers an unsupervised path to improve ASR without expensive human label…"
+        },
+        {
+          "title": "Audio LLMs Know When They Can't Hear You",
+          "url": "https://arxiv.org/abs/2609.30625",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.30625v1 Announce Type: new Abstract: Audio large language models allow users to interact with the model through speech. When an input recording is too degraded, the model may misinterpret the user's query and respond based on an incorrect transcription. In this pape…"
         },
         {
           "title": "Selective Amortization of Full-Budget Counterfactual Reasoning for Visual Token Communication",
@@ -89,12 +89,6 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-          "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-          "source": "TechCrunch AI",
-          "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion."
-        },
-        {
           "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
           "url": "https://arxiv.org/abs/2609.30383",
           "source": "arXiv cs.AI",
@@ -116,13 +110,19 @@
           "title": "Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents",
           "url": "https://arxiv.org/abs/2609.30725",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.30725v1 Announce Type: new Abstract: Although effective, coding agents often incur substantial monetary costs. Their recurring cost-inefficient behaviors remain underexplored. We conduct the first study of behavioral cost inefficiencies in coding agents, analyzing 1…"
+          "summary": "arXiv:2609.30725v2 Announce Type: new Abstract: Although effective, coding agents often incur substantial monetary costs. Their recurring cost-inefficient behaviors remain underexplored. We conduct the first study of behavioral cost inefficiencies in coding agents, analyzing 1…"
         },
         {
           "title": "Learning What to Skip: Counterfactual Credit Assignment for Efficient Multi-Agent LLM Workflows",
           "url": "https://arxiv.org/abs/2609.30734",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2609.30734v1 Announce Type: new Abstract: Multi-agent LLM workflows use planning, execution, verification, and summarization to improve task performance, yet the value of each component depends on the state already produced. Executing every component can waste computatio…"
+        },
+        {
+          "title": "A Benchmark and Diagnostic Study of Epistemic Admission in Shared Agent Memory",
+          "url": "https://arxiv.org/abs/2609.30813",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.30813v1 Announce Type: new Abstract: Evaluating claim admission in shared agent memory is challenging because repeated claims may be mistaken for independent evidence. An agent may copy or paraphrase a retrieved belief, while admitting a false claim exposes subseque…"
         }
       ]
     },
@@ -152,18 +152,6 @@
           "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
           "source": "MIT Tech Review",
           "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models hav…"
-        },
-        {
-          "title": "Don’t be fooled by this summer of AI hype",
-          "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-          "source": "MIT Tech Review",
-          "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta…"
-        },
-        {
-          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-          "url": "https://huggingface.co/blog/omlx",
-          "source": "Hugging Face",
-          "summary": ""
         }
       ]
     },
@@ -171,28 +159,10 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
-          "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+          "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
           "source": "TechCrunch AI",
-          "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors and tech leaders at San Francisco's Moscone West on Oct 13-15."
-        },
-        {
-          "title": "Insuretech Outmarket raises $34.5M just months after prior round",
-          "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-          "source": "TechCrunch AI",
-          "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers."
-        },
-        {
-          "title": "Holo4: powering generalist computer-use agents",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face",
-          "summary": ""
-        },
-        {
-          "title": "Who’s liable when AI agents go rogue?",
-          "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-          "source": "MIT Tech Review",
-          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, O…"
+          "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity."
         },
         {
           "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
@@ -205,6 +175,24 @@
           "url": "https://arxiv.org/abs/2609.30325",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure …"
+        },
+        {
+          "title": "Benchy: towards a universal language for task-oriented AI benchmarks",
+          "url": "https://arxiv.org/abs/2609.30550",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.30550v1 Announce Type: new Abstract: Benchy is a semantic language and execution engine for benchmarking AI programs. A benchmark is completely specified by a program, a scoring function, and a dataset, B=(P,S,D), and is separate from the AI-system taking it; a run …"
+        },
+        {
+          "title": "Rank-Reliable Teacher-Guided Fitness Approximation for Expensive Evolutionary Optimization: A TinyML Architecture Search Study",
+          "url": "https://arxiv.org/abs/2609.30553",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.30553v1 Announce Type: new Abstract: Expensive evolutionary search does not always need an exact fitness estimate for every candidate. It often needs a reliable answer to a simpler question: which candidate is better? We address this need through Teacher-Guided Lear…"
+        },
+        {
+          "title": "Atelier: Learning Local Self-Supervised Features for CryoEM Volumes via Hypernetworks",
+          "url": "https://arxiv.org/abs/2609.30569",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.30569v1 Announce Type: new Abstract: CryoEM map interpretation requires features that are spatially localized, consistent across samples, and informative across spatial scales. Most deep learning methods for map annotation extract features from fixed voxel grids. Ho…"
         }
       ]
     },
@@ -212,52 +200,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Seligman Ventures doubles capital to $1 billion as AI boom revives hardware bets",
-          "url": "https://economictimes.indiatimes.com/tech/funding/seligman-ventures-doubles-capital-to-1-billion-as-ai-boom-revives-hardware-bets/articleshow/134544025.cms",
-          "source": "ET Tech",
-          "summary": "Seligman Investments has doubled the deployable capital of its venture arm to $1 billion less than a year after launching it, betting that the physical bottlenecks of the artificial intelligence buildout will produce the next wave of large technology companies, its"
-        },
-        {
-          "title": "Cerebras to supply AI systems to cloud computing startup Gimlet Labs",
-          "url": "https://economictimes.indiatimes.com/tech/technology/cerebras-to-supply-ai-systems-to-cloud-computing-startup-gimlet-labs/articleshow/134543712.cms",
-          "source": "ET Tech",
-          "summary": "By Max A.- Cerebras Systems plans to supply AI chips and hardware with capacity to consume roughly 100 megawatts to startup Gimlet Labs to help run its cloud computing business, the companies said on Monday."
-        },
-        {
-          "title": "Nvidia unveils security platform to stop AI agents from going rogue",
-          "url": "https://yourstory.com/2026/09/nvidia-unveils-security-platform-to-stop-ai-agents-from-going-rogue",
+          "title": "India faces 53-60% talent gap in GenAI, cloud skills: TeamLease",
+          "url": "https://yourstory.com/2026/09/talent-gap-genai-cloud-india-stands-53-60-teamlease-digital-report",
           "source": "YourStory",
-          "summary": "The company said that its Open Agent Safety Platform includes software that “sets boundaries for agents,” and follows a series of revelations from top AI companies about their models escaping and breaking into other organisations."
+          "summary": "The report by TeamLease Digital highlighted that only 16% of IT professionals hold AI skills with 20 lakh upskilled and only three lakh in advanced AI."
         },
         {
-          "title": "Epiklogue unveils India’s new commerce model: Try and Buy",
-          "url": "https://yourstory.com/2026/09/epiklogue-unveils-indias-new-commerce-model-try-and-buy",
+          "title": "From payments to wealth: Where is India's fintech story headed next?",
+          "url": "https://yourstory.com/2026/09/where-is-india-fintech-story-headed-next",
           "source": "YourStory",
-          "summary": "Backed by India’s finest brands, Epik pioneers ‘experience commerce’, blending AI with human expertise to create a shopping model the world has never seen before. For years, the big ideas in commerce have come from the US or China. Epik, the Try and Buy Everything Store, hoste…"
+          "summary": "India’s fintech story is moving beyond payments and credit as rising incomes and longer lifespans create a growing need for personalised wealth advice. But access to independent, affordable financial guidance remains limited, leaving a gap that AI and digital infrastructure co…"
         },
         {
-          "title": "AI agent firm Instinct raises $1 billion in latest funding round",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agent-firm-instinct-raises-1-billion-in-latest-funding-round/articleshow/134542852.cms",
+          "title": "AI firm EliseAI valued at $4 billion in latest funding round",
+          "url": "https://economictimes.indiatimes.com/tech/funding/ai-firm-eliseai-valued-at-4-billion-in-latest-funding-round/articleshow/134564594.cms",
           "source": "ET Tech",
-          "summary": "AI agent firm Instinct said on Monday it has raised $1 billion at a $10 billion valuation in a Series C funding round. The round drew investments from Sequoia Capital, Benchmark Capital and Coatue, Instinct said in a statement."
+          "summary": "The funding round was led by Andreessen Horowitz and Bessemer Venture Partners, with participation from Ontario Teachers' Pension Plan, Sapphire Ventures and Navitas Capital."
         },
         {
-          "title": "Nvidia adds $150 billion to existing share repurchase plan",
-          "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-adds-150-billion-to-existing-share-repurchase-plan/articleshow/134541762.cms",
+          "title": "Samsung, affiliates commit $1 billion to KKR-backed Helix Digital AI buildout",
+          "url": "https://economictimes.indiatimes.com/tech/technology/samsung-affiliates-commit-1-billion-to-kkr-backed-helix-digital-ai-buildout/articleshow/134564547.cms",
           "source": "ET Tech",
-          "summary": "Nvidia has emerged as one of the biggest beneficiaries of the AI boom, with demand for its pricey chips and related technology powering rapid revenue growth."
+          "summary": "Samsung Electronics will invest $500 million, while Samsung C&T, Samsung SDS, Samsung SDI, Samsung Life Insurance, and Samsung Fire & Marine Insurance will provide the remaining $500 million."
         },
         {
-          "title": "Global AI trade could revive after recent pullback, JP Morgan says",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-trade-could-revive-after-recent-pullback-jp-morgan-says/articleshow/134540810.cms",
+          "title": "Oura delays US IPO, adding to fall market jitters",
+          "url": "https://economictimes.indiatimes.com/tech/technology/oura-delays-us-ipo-adding-to-fall-market-jitters/articleshow/134564165.cms",
           "source": "ET Tech",
-          "summary": "The recent pullback in the global AI trade has improved investor positioning, made valuations attractive and could spur a re-engagement, particularly in semiconductor stocks, JP Morgan analysts said on Monday."
+          "summary": "The development adds to a tepid start to the traditionally strong fall IPO market, as investors digest the Federal Reserve's rate hike, geopolitical turmoil and volatility in AI stocks."
         },
         {
-          "title": "Every few years Ram Sukumar remakes Indium. AI is his best chance yet",
-          "url": "https://yourstory.com/2026/09/every-few-years-ram-sukumar-remakes-indium-ai-is-his-best-chance-yet",
+          "title": "Meta expands Muse AI agent for small businesses",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-expands-muse-ai-agent-for-small-businesses/articleshow/134564125.cms",
+          "source": "ET Tech",
+          "summary": "Meta Platforms is expanding its AI agent Muse to small businesses, adding integrations with tools such as Shopify, QuickBooks, Stripe and Canva to help owners run their businesses and find new customers, as the Facebook-parent aims to diversify its revenue beyond advertising."
+        },
+        {
+          "title": "Adani Family Office backs Nudge as startup pivots to rewards-led commerce",
+          "url": "https://yourstory.com/2026/09/adani-family-office-backs-nudge-as-startup-pivots-to-rewards-led-commerce",
           "source": "YourStory",
-          "summary": "Born into a Chennai business family, Ram Sukumar lost the cushion in 2001 and bootstrapped his way past $100 million in revenue. Now he’s betting AI will help Indium more than it hurts."
+          "summary": "Nudge, operated by iSocial Sports, is shifting from its earlier sports-led model towards receipt-based rewards, commerce and purchase intelligence for brands."
+        },
+        {
+          "title": "TechSparks 2026: More founders, tech leaders, global policymakers shaping the New Tech Order",
+          "url": "https://yourstory.com/2026/09/techsparks-2026-more-founders-tech-leaders-global-policymakers-shaping-the-new-tech-order",
+          "source": "YourStory",
+          "summary": "From AI and deeptech to fintech, aerospace, and digital infrastructure, TechSparks 2026 convenes the builders and policymakers redefining how technology is created, scaled, and governed."
         }
       ]
     }
@@ -410,9 +398,9 @@
         "language": "TypeScript"
       },
       {
-        "name": "vizuara-fine-tuning",
+        "name": "slm-fine-tuning",
         "desc": "Fine-tuning + eval backend for the SLM family (125M/500M/Gemma): SFT, RAFT, DPO, RLAIF, rubric-10 eval, serving.",
-        "url": "https://github.com/Ace-2504/vizuara-fine-tuning",
+        "url": "https://github.com/Ace-2504/slm-fine-tuning",
         "stars": 0,
         "language": "Python"
       },
@@ -424,9 +412,9 @@
         "language": "HTML"
       },
       {
-        "name": "ace-harness",
-        "desc": "",
-        "url": "https://github.com/Ace-2504/ace-harness",
+        "name": "pre-training-v1-extended",
+        "desc": "125M SLM continued-pretraining (extended / e-series): corpus build, dedup, Modal training, eval.",
+        "url": "https://github.com/Ace-2504/pre-training-v1-extended",
         "stars": 0,
         "language": "Python"
       }
