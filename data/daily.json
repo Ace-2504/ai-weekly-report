@@ -1,128 +1,149 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "top": {
-    "title": "Making AI an asset, not an expense",
-    "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
     "source": "MIT Tech Review",
-    "published": "2026-09-29T10:43:45.000Z",
-    "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves …"
+    "published": "2026-09-30T10:40:30.000Z",
+    "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the…"
   },
   "topIndia": {
-    "title": "India faces 53-60% talent gap in GenAI, cloud skills: TeamLease",
-    "url": "https://yourstory.com/2026/09/talent-gap-genai-cloud-india-stands-53-60-teamlease-digital-report",
-    "source": "YourStory",
-    "published": "2026-09-29T11:28:07.000Z",
-    "summary": "The report by TeamLease Digital highlighted that only 16% of IT professionals hold AI skills with 20 lakh upskilled and only three lakh in advanced AI."
+    "title": "Beyond Coding: Why AI Makes Systems Thinking More Important For Engineers",
+    "url": "https://inc42.com/buzz/beyond-coding-why-ai-makes-systems-thinking-more-important-for-engineers/",
+    "source": "Inc42",
+    "published": "2026-09-30T10:17:35.000Z",
+    "summary": "Engineering education needs to move beyond writing code and equip students to understand how entire software systems work, according to…"
   },
   "headlines": [
     {
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T05:13:43.000Z"
+      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+      "url": "https://arxiv.org/abs/2609.35799",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-30T04:00:00.000Z"
     },
     {
-      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
-      "url": "https://arxiv.org/abs/2609.30291",
+      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+      "url": "https://arxiv.org/abs/2609.35833",
       "source": "arXiv cs.AI",
-      "published": "2026-09-29T04:00:00.000Z"
+      "published": "2026-09-30T04:00:00.000Z"
     },
     {
-      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
-      "url": "https://arxiv.org/abs/2609.30325",
+      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+      "url": "https://arxiv.org/abs/2609.35868",
       "source": "arXiv cs.AI",
-      "published": "2026-09-29T04:00:00.000Z"
+      "published": "2026-09-30T04:00:00.000Z"
     },
     {
-      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
-      "url": "https://arxiv.org/abs/2609.30328",
+      "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
+      "url": "https://arxiv.org/abs/2609.35869",
       "source": "arXiv cs.AI",
-      "published": "2026-09-29T04:00:00.000Z"
+      "published": "2026-09-30T04:00:00.000Z"
     },
     {
-      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
-      "url": "https://arxiv.org/abs/2609.30341",
+      "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+      "url": "https://arxiv.org/abs/2609.35873",
       "source": "arXiv cs.AI",
-      "published": "2026-09-29T04:00:00.000Z"
+      "published": "2026-09-30T04:00:00.000Z"
     },
     {
-      "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
-      "url": "https://arxiv.org/abs/2609.30383",
+      "title": "Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees",
+      "url": "https://arxiv.org/abs/2609.35874",
       "source": "arXiv cs.AI",
-      "published": "2026-09-29T04:00:00.000Z"
+      "published": "2026-09-30T04:00:00.000Z"
     },
     {
-      "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
-      "url": "https://arxiv.org/abs/2609.30397",
+      "title": "Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models",
+      "url": "https://arxiv.org/abs/2609.35875",
       "source": "arXiv cs.AI",
-      "published": "2026-09-29T04:00:00.000Z"
+      "published": "2026-09-30T04:00:00.000Z"
     },
     {
-      "title": "Predicting Transmembrane Protein Topology from 3D Structure",
-      "url": "https://arxiv.org/abs/2609.30446",
+      "title": "Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training",
+      "url": "https://arxiv.org/abs/2609.35890",
       "source": "arXiv cs.AI",
-      "published": "2026-09-29T04:00:00.000Z"
+      "published": "2026-09-30T04:00:00.000Z"
     },
     {
-      "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
-      "url": "https://arxiv.org/abs/2609.30456",
+      "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
+      "url": "https://arxiv.org/abs/2609.35897",
       "source": "arXiv cs.AI",
-      "published": "2026-09-29T04:00:00.000Z"
+      "published": "2026-09-30T04:00:00.000Z"
     },
     {
-      "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
-      "url": "https://arxiv.org/abs/2609.30469",
+      "title": "Grab a Coffee: Future-Aware Guidance for Discrete Diffusion with Compiled Objectives",
+      "url": "https://arxiv.org/abs/2609.35924",
       "source": "arXiv cs.AI",
-      "published": "2026-09-29T04:00:00.000Z"
+      "published": "2026-09-30T04:00:00.000Z"
     },
     {
-      "title": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
-      "url": "https://arxiv.org/abs/2609.30484",
+      "title": "Right Words, Wrong Moment: A Clinician-Grounded Analysis of Distress in 19,930 Conversations between Young People and ChatGPT",
+      "url": "https://arxiv.org/abs/2609.35953",
       "source": "arXiv cs.AI",
-      "published": "2026-09-29T04:00:00.000Z"
+      "published": "2026-09-30T04:00:00.000Z"
     },
     {
-      "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
-      "url": "https://arxiv.org/abs/2609.30489",
+      "title": "SAGE: A Statistical Acceptance Gate for Self-Evolving Agents",
+      "url": "https://arxiv.org/abs/2609.36043",
       "source": "arXiv cs.AI",
-      "published": "2026-09-29T04:00:00.000Z"
+      "published": "2026-09-30T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Nvidia is touting a software tool to contain runaway AI. How would it work?",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-is-touting-a-software-tool-to-contain-runaway-ai-how-would-it-work/articleshow/134554998.cms",
-      "source": "ET Tech",
-      "published": "2026-09-29T03:15:24.000Z",
-      "summary": "The chipmaker unveiled its Open Agent Safety Platform amid an intensifying debate about AI safety, fueled a string of alarming recent incidents involving AI systems acting on their own to break into other organisations."
+      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+      "url": "https://arxiv.org/abs/2609.35799",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-30T04:00:00.000Z",
+      "summary": "arXiv:2609.35799v1 Announce Type: new Abstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infrastructure. Could existing alignment testing practices have foreseen this incident? If not, what need…"
     },
     {
-      "title": "OpenAI scraps planned October launch of GPT-6.1 Astra over safety concerns",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-scraps-planned-october-launch-of-gpt-6-1-astra-over-safety-concerns/articleshow/134559031.cms",
-      "source": "ET Tech",
-      "published": "2026-09-29T01:23:35.000Z",
-      "summary": "OpenAI has decided not to release GPT-6.1 Astra, citing failure to meet safety standards. Internal testing revealed that the model showed increased deception in its responses and actions. This decision follows recent calls for a more cautious approach to AI development by indu…"
+      "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
+      "url": "https://arxiv.org/abs/2609.38143",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-30T04:00:00.000Z",
+      "summary": "arXiv:2609.38143v1 Announce Type: new Abstract: Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a Target while both models' wei…"
     },
     {
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
+      "url": "https://arxiv.org/abs/2609.38147",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-30T04:00:00.000Z",
+      "summary": "arXiv:2609.38147v1 Announce Type: new Abstract: As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whether to start fresh, or when …"
+    },
+    {
+      "title": "PADM\\'E: Preference Alignment Data Synthesis for Meta-Evaluation of LM Agent Evaluators",
+      "url": "https://arxiv.org/abs/2609.36086",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-30T04:00:00.000Z",
+      "summary": "arXiv:2609.36086v1 Announce Type: cross Abstract: Language models are frequently employed to evaluate other language models. An LM evaluator scoring agentic behaviors across multiple criteria is valuable, provided that its decisions align with human judgment. We call the probl…"
+    },
+    {
+      "title": "Meta-SecAlign: Training LLMs against Prompt Injection for Robust Agents",
+      "url": "https://arxiv.org/abs/2507.02735",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-30T04:00:00.000Z",
+      "summary": "arXiv:2507.02735v4 Announce Type: replace-cross Abstract: Prompt injection attacks, where untrusted data contains an injected prompt to manipulate the system, have been listed as the top security threat to AI agents. By fine-tuning on simulated prompt injections, SecAlign, a l…"
+    },
+    {
+      "title": "NoiseRater: Meta-Learned Noise Valuation for Diffusion Model Training",
+      "url": "https://arxiv.org/abs/2605.08144",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-30T04:00:00.000Z",
+      "summary": "arXiv:2605.08144v2 Announce Type: replace-cross Abstract: Training a diffusion model involves two sources of randomness for each data sample: the timestep and the Gaussian noise realization. The timestep has been studied extensively through scheduling and weighting, whereas th…"
+    },
+    {
+      "title": "Skill-MAS: Evolving Meta-Skill for Automatic Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2606.18837",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-30T04:00:00.000Z",
+      "summary": "arXiv:2606.18837v3 Announce Type: replace-cross Abstract: Large Language Model (LLM)-based automatic Multi-Agent Systems (MAS) generation has become a crucial frontier for tackling complex tasks. However, existing methods face a dilemma between model capability and experience …"
+    },
+    {
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
       "source": "TechCrunch AI",
-      "published": "2026-09-28T18:31:23.000Z",
-      "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out."
-    },
-    {
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T16:52:38.000Z",
-      "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers."
-    },
-    {
-      "title": "Nvidia unveils security platform to stop AI agents from going rogue",
-      "url": "https://yourstory.com/2026/09/nvidia-unveils-security-platform-to-stop-ai-agents-from-going-rogue",
-      "source": "YourStory",
-      "published": "2026-09-28T12:57:46.000Z",
-      "summary": "The company said that its Open Agent Safety Platform includes software that “sets boundaries for agents,” and follows a series of revelations from top AI companies about their models escaping and breaking into other organisations."
+      "published": "2026-09-29T22:20:59.000Z",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
     }
   ],
   "people": [
@@ -143,9 +164,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-said-he-would-dine-with-anthropic-ceo-dario-amodei-amid-mounting-ai-debate/articleshow/134530799.cms",
-      "article": "Trump said he would dine with Anthropic CEO Dario Amodei amid mounting AI debate",
-      "source": "ET Tech"
+      "link": "https://www.darioamodei.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Yann LeCun",
@@ -157,9 +178,9 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "article": "Nvidia launches new platform for reining in rogue AI agents",
-      "source": "TechCrunch AI"
+      "link": "https://nvidianews.nvidia.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Andrej Karpathy",
