@@ -1,135 +1,149 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "top": {
-    "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
-    "url": "https://arxiv.org/abs/2609.38282",
-    "source": "arXiv cs.AI",
-    "published": "2026-10-01T04:00:00.000Z",
-    "summary": "arXiv:2609.38282v1 Announce Type: new Abstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Sequence-level task rewards and local teacher guidance are complementary, but gui…"
+    "title": "Don’t be fooled—LLMs don’t reason",
+    "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "source": "MIT Tech Review",
+    "published": "2026-10-02T08:00:00.000Z",
+    "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…"
   },
   "topIndia": {
-    "title": "Google Unveils Gemini 4 Argon, Its Most Advanced AI Model Yet",
-    "url": "https://inc42.com/buzz/google-unveils-gemini-4-argon-its-most-advanced-ai-model-yet/",
-    "source": "Inc42",
-    "published": "2026-10-01T09:40:23.000Z",
-    "summary": "Amid increasing competition in AI, Google has now unveiled its new, most powerful model Gemini 4 Argon. The model is…"
+    "title": "Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-warns-government-attitudes-may-hurt-customer-ties-ipo-prospectus-shows/articleshow/134637989.cms",
+    "source": "ET Tech",
+    "published": "2026-10-02T11:12:36.000Z",
+    "summary": "Companies routinely warn that policy changes could affect their business, particularly government contractors. For example, SpaceX said in its IPO filing that maintaining strong relationships with US government agencies is critical to its business and warned that any deteriora…"
   },
   "headlines": [
     {
-      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-      "url": "https://arxiv.org/abs/2609.38288",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-01T04:00:00.000Z"
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face",
+      "published": "2026-10-02T04:01:31.000Z"
     },
     {
-      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
-      "url": "https://arxiv.org/abs/2609.38294",
+      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "url": "https://arxiv.org/abs/2610.00010",
       "source": "arXiv cs.AI",
-      "published": "2026-10-01T04:00:00.000Z"
+      "published": "2026-10-02T04:00:00.000Z"
     },
     {
-      "title": "AI Agents are Vulnerable to Radicalization",
-      "url": "https://arxiv.org/abs/2609.38296",
+      "title": "When Do Causal World Models Help Modular LLM Agents",
+      "url": "https://arxiv.org/abs/2610.00012",
       "source": "arXiv cs.AI",
-      "published": "2026-10-01T04:00:00.000Z"
+      "published": "2026-10-02T04:00:00.000Z"
     },
     {
-      "title": "CARAT: Do Materials LLMs Reason or Recite?",
-      "url": "https://arxiv.org/abs/2609.38340",
+      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+      "url": "https://arxiv.org/abs/2610.00015",
       "source": "arXiv cs.AI",
-      "published": "2026-10-01T04:00:00.000Z"
+      "published": "2026-10-02T04:00:00.000Z"
     },
     {
-      "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
-      "url": "https://arxiv.org/abs/2609.38346",
+      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+      "url": "https://arxiv.org/abs/2610.00018",
       "source": "arXiv cs.AI",
-      "published": "2026-10-01T04:00:00.000Z"
+      "published": "2026-10-02T04:00:00.000Z"
     },
     {
-      "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
-      "url": "https://arxiv.org/abs/2609.38359",
+      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+      "url": "https://arxiv.org/abs/2610.00025",
       "source": "arXiv cs.AI",
-      "published": "2026-10-01T04:00:00.000Z"
+      "published": "2026-10-02T04:00:00.000Z"
     },
     {
-      "title": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
-      "url": "https://arxiv.org/abs/2609.38369",
+      "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+      "url": "https://arxiv.org/abs/2610.00047",
       "source": "arXiv cs.AI",
-      "published": "2026-10-01T04:00:00.000Z"
+      "published": "2026-10-02T04:00:00.000Z"
     },
     {
-      "title": "Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer",
-      "url": "https://arxiv.org/abs/2609.38372",
+      "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
+      "url": "https://arxiv.org/abs/2610.00061",
       "source": "arXiv cs.AI",
-      "published": "2026-10-01T04:00:00.000Z"
+      "published": "2026-10-02T04:00:00.000Z"
     },
     {
-      "title": "Aligned Data Can Induce Misalignment via Context Confusion",
-      "url": "https://arxiv.org/abs/2609.38379",
+      "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+      "url": "https://arxiv.org/abs/2610.00074",
       "source": "arXiv cs.AI",
-      "published": "2026-10-01T04:00:00.000Z"
+      "published": "2026-10-02T04:00:00.000Z"
     },
     {
-      "title": "Fine-Tuning Diffusion Language Models with Context Selection and Target Weighting",
-      "url": "https://arxiv.org/abs/2609.38385",
+      "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
+      "url": "https://arxiv.org/abs/2610.00084",
       "source": "arXiv cs.AI",
-      "published": "2026-10-01T04:00:00.000Z"
+      "published": "2026-10-02T04:00:00.000Z"
     },
     {
-      "title": "Decode-Latency Feedback Prefill: A Model-Free Controller and Its Generalization Limits",
-      "url": "https://arxiv.org/abs/2609.38386",
+      "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
+      "url": "https://arxiv.org/abs/2610.00197",
       "source": "arXiv cs.AI",
-      "published": "2026-10-01T04:00:00.000Z"
+      "published": "2026-10-02T04:00:00.000Z"
     },
     {
-      "title": "MetaPersona: Task-Grounded Synthetic Populations from Empirical Social Science",
-      "url": "https://arxiv.org/abs/2609.38392",
+      "title": "EviGraph: Proof-Carrying Selective Recommendation over Temporal Public-Service Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2610.00212",
       "source": "arXiv cs.AI",
-      "published": "2026-10-01T04:00:00.000Z"
+      "published": "2026-10-02T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Google Unveils Gemini 4 Argon, Its Most Advanced AI Model Yet",
-      "url": "https://inc42.com/buzz/google-unveils-gemini-4-argon-its-most-advanced-ai-model-yet/",
-      "source": "Inc42",
-      "published": "2026-10-01T09:40:23.000Z",
-      "summary": "Amid increasing competition in AI, Google has now unveiled its new, most powerful model Gemini 4 Argon. The model is…"
+      "title": "Meta-Multi-Agent Reinforcement Learning for Fast Adaptation of Interactive Policies with Applications to Autonomous Driving",
+      "url": "https://arxiv.org/abs/2610.00705",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-02T04:00:00.000Z",
+      "summary": "arXiv:2610.00705v1 Announce Type: new Abstract: This paper develops a meta-multi-agent reinforcement learning (meta-MARL) framework to enable fast adaptation of interactive policies in a multi-agent system (MAS). Meta-reinforcement learning (meta-RL) enables agents to rapidly …"
     },
     {
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "title": "Legal text classification in Korean sexual offense cases: from traditional machine learning to large language models with XAI insights",
+      "url": "https://arxiv.org/abs/2610.00087",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-02T04:00:00.000Z",
+      "summary": "arXiv:2610.00087v1 Announce Type: cross Abstract: The advancement of natural language processing (NLP) has expanded AI-based text classification in the legal domain. However, accurately classifying legal documents remains challenging due to the complexity of legal texts and su…"
+    },
+    {
+      "title": "A Hybrid Approach to Malware Detection: Integrating Few-Shot Model-Agnostic Meta-Learning with Autoencoders",
+      "url": "https://arxiv.org/abs/2610.01949",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-02T04:00:00.000Z",
+      "summary": "arXiv:2610.01949v1 Announce Type: cross Abstract: Ransomware has emerged as a major cybersecurity threat, with incidents increasing in frequency and impact across critical sectors. These attacks are typically launched through phishing emails, malicious downloads, or exploitati…"
+    },
+    {
+      "title": "Scalable, Transferable Meta-network for Data Selection Requires a Different Loss (and Why the Obvious Choice is Problematic)",
+      "url": "https://arxiv.org/abs/2610.02092",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-02T04:00:00.000Z",
+      "summary": "arXiv:2610.02092v1 Announce Type: cross Abstract: Data selection is critical for training large language models on massive and heterogeneous corpora. Meta-learning for Training-data Selection offers a principled alternative to heuristic scoring by learning data weights from a …"
+    },
+    {
+      "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
+      "url": "https://arxiv.org/abs/2609.38143",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-02T04:00:00.000Z",
+      "summary": "arXiv:2609.38143v2 Announce Type: replace Abstract: Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a Target while both models'…"
+    },
+    {
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
       "source": "TechCrunch AI",
-      "published": "2026-09-29T22:20:59.000Z",
-      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
+      "published": "2026-10-01T19:18:03.000Z",
+      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers."
     },
     {
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T19:52:37.000Z",
-      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
-    },
-    {
-      "title": "OpenAI takes on Meta with always-on Dots agent in enterprise AI push",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-takes-on-meta-with-always-on-dots-agent-in-enterprise-ai-push/articleshow/134571434.cms",
+      "title": "Synopsys shares jump on robust growth outlook, OpenAI and AWS deals",
+      "url": "https://economictimes.indiatimes.com/tech/technology/synopsys-shares-jump-on-robust-growth-outlook-openai-and-aws-deals/articleshow/134626421.cms",
       "source": "ET Tech",
-      "published": "2026-09-29T17:19:42.000Z",
-      "summary": "OpenAI on Tuesday unveiled always-on agents called Dots that chase user goals across apps on their own, deepening its push into the lucrative enterprise market and pitting it against Meta in the race to sell AI that can work"
+      "published": "2026-10-01T19:09:02.000Z",
+      "summary": "Synopsys shares jumped 10% on Thursday after the chip-design software maker forecast fiscal 2027 revenue and profit above analysts' estimates and unveiled deals with OpenAI and Amazon Web Services."
     },
     {
-      "title": "Anthropic says rogue AI agents pose uncertain legal risk for the company",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-says-rogue-ai-agents-pose-uncertain-legal-risk-for-the-company/articleshow/134570817.cms",
+      "title": "California attorney general opens probe into OpenAI over cybersecurity concerns",
+      "url": "https://economictimes.indiatimes.com/tech/technology/california-attorney-general-opens-probe-into-openai-over-cybersecurity-concerns/articleshow/134625489.cms",
       "source": "ET Tech",
-      "published": "2026-09-29T16:45:55.000Z",
-      "summary": "Anthropic could face legal claims from customers and users over the actions of rogue artificial intelligence agents, though the legal framework is uncertain, the company said in the prospectus for its stock market debut seen by Reuters."
-    },
-    {
-      "title": "Nvidia is touting a software tool to contain runaway AI. How would it work?",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-is-touting-a-software-tool-to-contain-runaway-ai-how-would-it-work/articleshow/134554998.cms",
-      "source": "ET Tech",
-      "published": "2026-09-29T03:15:24.000Z",
-      "summary": "The chipmaker unveiled its Open Agent Safety Platform amid an intensifying debate about AI safety, fueled a string of alarming recent incidents involving AI systems acting on their own to break into other organisations."
+      "published": "2026-10-01T18:24:57.000Z",
+      "summary": "Last month, Bonta announced that the Department of Justice was conducting a formal investigation into the \"Hugging Face incident,\" amid increasing scrutiny of the AI industry."
     }
   ],
   "people": [
@@ -150,9 +164,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://www.darioamodei.com",
-      "article": null,
-      "source": "Profile"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/effective-altruism-the-philosophy-behind-silicon-valleys-ai-fears/articleshow/134630829.cms",
+      "article": "Effective Altruism: the philosophy behind Silicon Valley's AI fears",
+      "source": "ET Tech"
     },
     {
       "name": "Yann LeCun",
