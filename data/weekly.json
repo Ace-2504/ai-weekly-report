@@ -1,46 +1,40 @@
 {
-  "weekOf": "2026-09-26 to 2026-10-02",
-  "generated": "2026-10-02T11:32:37.631Z",
-  "intro": "649 AI items this week (49 India-relevant) across 8 sources.",
+  "weekOf": "2026-09-27 to 2026-10-03",
+  "generated": "2026-10-03T10:46:57.454Z",
+  "intro": "79 AI items this week (43 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
-          "url": "https://arxiv.org/abs/2610.00010",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory …"
+          "title": "Redefining enterprise intelligence with autonomous AI",
+          "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+          "source": "MIT Tech Review",
+          "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% fr…"
         },
         {
-          "title": "When Do Causal World Models Help Modular LLM Agents",
-          "url": "https://arxiv.org/abs/2610.00012",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observati…"
+          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "url": "https://huggingface.co/blog/allenai/astabrief",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
-          "url": "https://arxiv.org/abs/2610.00015",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00015v1 Announce Type: new Abstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We present Praxa, an agent harness that represents these states…"
+          "title": "Amazon releases its own Jev clone as decision models flood the web",
+          "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
         },
         {
-          "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
-          "url": "https://arxiv.org/abs/2610.00025",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We …"
+          "title": "Making AI an asset, not an expense",
+          "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+          "source": "MIT Tech Review",
+          "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves …"
         },
         {
-          "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
-          "url": "https://arxiv.org/abs/2610.00047",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00047v1 Announce Type: new Abstract: Diversity collapse in parallel chain-of-thought has motivated inference-time interventions built on a natural design: when a process reward model (PRM) prunes a chain, its high-PRM prefix is extracted and grafted verbatim as an i…"
-        },
-        {
-          "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
-          "url": "https://arxiv.org/abs/2610.00074",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00074v1 Announce Type: new Abstract: K-Dense BYOK (bring your own keys) is a free, open-source AI research assistant for scientists in any field that runs on the researcher's own computer. The researcher supplies access to a model of their choice, hosted or running …"
+          "title": "When can we say AI made a scientific discovery?",
+          "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+          "source": "MIT Tech Review",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture…"
         }
       ]
     },
@@ -48,40 +42,22 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Frozen Scenes, Shifting Winners: Configuration Fragility in Text-to-3D Evaluation",
-          "url": "https://arxiv.org/abs/2610.00447",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00447v1 Announce Type: new Abstract: Can a text-to-3D leaderboard change when every generated scene stays fixed? We audit this question for rendered-image evaluation, where camera settings and caption wording become part of the measurement protocol. Across 300 froze…"
+          "title": "Sean Parker is rebuilding Stability AI around music",
+          "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+          "source": "TechCrunch AI",
+          "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
         },
         {
-          "title": "ITC-MoE: Importance-guided Token-aware Compression for MoE Diffusion Language Models",
-          "url": "https://arxiv.org/abs/2610.01296",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.01296v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) Diffusion Language Models (DLMs) offer flexible parallel decoding and increased model capacity, but their large number of expert parameters incurs substantial computation and storage costs. Existing low-r…"
+          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+          "url": "https://huggingface.co/blog/open-tts-leaderboard",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "ProtoFlow: Prototype-Guided Flow Matching for Multivariate Time Series Forecasting",
-          "url": "https://arxiv.org/abs/2610.01320",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.01320v1 Announce Type: new Abstract: Generative modeling has shown strong promise for multivariate time mseries (MTS) forecasting, especially scale to high-dimensional settings. Diffusion-based methods achieve competitive performance but typically require many sampl…"
-        },
-        {
-          "title": "Generation Provenance Before Behavior Attribution: Auditing Synthetic Speech Research Objects",
-          "url": "https://arxiv.org/abs/2610.01378",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.01378v1 Announce Type: new Abstract: Attributing model behavior to synthetic training data requires knowing what produced each training item before estimating what that item caused. A waveform-label pair does not preserve this knowledge. We propose a generation-prov…"
-        },
-        {
-          "title": "Gacha Decoding: Eliciting Diverse Generations Through Instruction Following",
-          "url": "https://arxiv.org/abs/2610.01382",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.01382v1 Announce Type: new Abstract: We introduce Gacha Decoding, an inference-time method for eliciting diverse language model generations that scales with model capability. Across open-ended domains (in-the-wild chat, creative writing, planning for image generatio…"
-        },
-        {
-          "title": "PRISM: A Category-Theoretic Framework for Measuring and Refining Multimodal Analogies",
-          "url": "https://arxiv.org/abs/2610.01383",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.01383v1 Announce Type: new Abstract: Analogical reasoning involves identifying and preserving relational structures across domains. However, existing approaches to AI-driven multimodal analogy generation lack an interpretable measure of whether this structure is und…"
+          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+          "source": "Google AI Blog",
+          "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
         }
       ]
     },
@@ -89,40 +65,22 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
-          "url": "https://arxiv.org/abs/2610.00061",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00061v1 Announce Type: new Abstract: Personalizing large language models (LLMs) requires aligning generation behavior with user-specific preferences rather than aggregate quality. While Direct Preference Optimization (DPO) provides a stable framework for preference …"
+          "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+          "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time."
         },
         {
-          "title": "Knowing When to Yield: Grounded Arbitration of User Corrections in Text-Based Embodied Agents",
-          "url": "https://arxiv.org/abs/2610.00282",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00282v1 Announce Type: new Abstract: How should an embodied agent respond when a person's correction may be wrong? We formulate grounded correction arbitration as a choice among accepting, rejecting, inspecting the world, and asking the speaker. GAVA implements this…"
+          "title": "Brian Chesky interview: AI agents need their own operating system",
+          "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+          "source": "TechCrunch AI",
+          "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system."
         },
         {
-          "title": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
-          "url": "https://arxiv.org/abs/2610.00313",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00313v1 Announce Type: new Abstract: Scientific coding agents receive equations, boundary conditions, and output requirements in writing, then must assess the programs they revise. Rules to Tools (R2T) supplies prepared executable checks of public scientific require…"
-        },
-        {
-          "title": "ContractRL: Shielded Group-Relative Policy Optimization for Auditable Tool-Call Repair",
-          "url": "https://arxiv.org/abs/2610.00328",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00328v1 Announce Type: new Abstract: Structured tool calls often fail after only a small number of fields violate a schema or an execution contract. Regenerating the complete object enlarges the action surface and makes repeated repair difficult to audit. We introdu…"
-        },
-        {
-          "title": "Fault-Tolerant Budget Conservation in Distributed Multi-Agent Delegation",
-          "url": "https://arxiv.org/abs/2610.00349",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00349v1 Announce Type: new Abstract: Resource limits are becoming an authorization boundary for AI agents that delegate work across concurrent and failure-prone workers. Parent-child allocation constraints, affine objects, and distributed escrow do not by themselves…"
-        },
-        {
-          "title": "What Should an Agent Remember? Disentangling Retention from Retrieval in Bounded-Memory Evaluation",
-          "url": "https://arxiv.org/abs/2610.00366",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00366v1 Announce Type: new Abstract: A persistent agent must decide both what to retain as information arrives and what to surface once a query appears, yet memory evaluations can confound these decisions by comparing methods that differ in both retention and select…"
+          "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -130,40 +88,10 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
-          "url": "https://arxiv.org/abs/2610.00084",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00084v1 Announce Type: new Abstract: Detailed profession-specific system prompts raise token use and estimated cost per response without a consistent accuracy gain. We evaluate Scientific Agents, an open-source corpus of 503 profession-specific AGENTS.md profiles, w…"
-        },
-        {
-          "title": "Kepler: Auditable World Models for ARC-AGI-3",
-          "url": "https://arxiv.org/abs/2610.00834",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00834v1 Announce Type: new Abstract: ARC-AGI-3 evaluates agents in interactive environments whose rules and objectives must be inferred from observation. We present Kepler, an open-source harness that represents hypotheses as executable world models and validates th…"
-        },
-        {
-          "title": "Counterfactual Auditing of Bias in Open-Source Large Language Models for Clinical Triage",
-          "url": "https://arxiv.org/abs/2610.01963",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.01963v1 Announce Type: new Abstract: Emergency department (ED) triage is a high-stakes prioritization task in which demographic, socioeconomic, and system-context information may improperly influence acuity assignment. Although open-source large language models (LLM…"
-        },
-        {
-          "title": "Mingbird: A Local-First Agent Harness Enabling Small Open Models to Complete Real Tasks",
-          "url": "https://arxiv.org/abs/2610.02001",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.02001v1 Announce Type: new Abstract: Small open-weight models (2-9B) run on ordinary laptops, but under cloud-scale agent harnesses they rarely complete real tasks: tool prefill overflows the context, self-correction diverges, tool demonstrations loop, and tasks are…"
-        },
-        {
-          "title": "Mean field games as a tool for AI safety: a worked example from the July 2026 Hugging Face incident",
-          "url": "https://arxiv.org/abs/2610.00902",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00902v1 Announce Type: cross Abstract: One way to make AI systems safe is to shape what the system is: its objective and dispositions. We take a complementary route: treat the agents' characteristics as partly unknown and ask what structure of interaction ensures th…"
-        },
-        {
-          "title": "Understanding Issues, Causes and Solutions in Open-Source LLM-based Multi-Agent Systems",
-          "url": "https://arxiv.org/abs/2610.00905",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00905v1 Announce Type: cross Abstract: With the advancement of LLM-based multi-agent systems (MAS), an increasing number of opensource projects are adopting multi-agent architectures as the foundation of their core functionality. Although research and practice on MA…"
+          "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+          "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+          "source": "MIT Tech Review",
+          "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the…"
         }
       ]
     },
@@ -171,46 +99,70 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Don’t be fooled—LLMs don’t reason",
-          "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-          "source": "MIT Tech Review",
-          "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…"
+          "title": "Meta wants your next gadget to be Muse-infused",
+          "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+          "source": "TechCrunch AI",
+          "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
         },
         {
-          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+          "source": "Ars Technica",
+          "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
         },
         {
-          "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
-          "url": "https://arxiv.org/abs/2610.00018",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00018v1 Announce Type: new Abstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, stronger support assessment, or a new failure surface. We introduce a me…"
+          "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+          "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+          "source": "TechCrunch AI",
+          "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
         },
         {
-          "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
-          "url": "https://arxiv.org/abs/2610.00197",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00197v1 Announce Type: new Abstract: We investigate automated rewards for training language models in conversational humor, focusing on reward exploits and countermeasures. Two approaches aim to capture understandable surprise and predicted audience amusement. Contr…"
+          "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier."
         },
         {
-          "title": "EviGraph: Proof-Carrying Selective Recommendation over Temporal Public-Service Knowledge Graphs",
-          "url": "https://arxiv.org/abs/2610.00212",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00212v1 Announce Type: new Abstract: Public-service recommendations require evidence that matches the requested service, scope, and date. Yet treating every missing detail as decisive can withhold useful recommendations. We introduce EviGraph, which distinguishes cr…"
+          "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+          "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+          "source": "TechCrunch AI",
+          "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebrand…"
         },
         {
-          "title": "Build2SPARQL: A Large-Scale Text-to-SPARQL Benchmark Dataset for Building Knowledge Graph Querying",
-          "url": "https://arxiv.org/abs/2610.00224",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.00224v1 Announce Type: new Abstract: Building automation systems are increasingly represented as semantic knowledge graphs (KGs) using ontologies such as Brick and ASHRAE 223P, creating a machine-readable substrate for artificial-intelligence applications. One promi…"
+          "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+          "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+          "source": "TechCrunch AI",
+          "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebrand…"
         }
       ]
     },
     {
       "heading": "India & Subcontinent",
       "items": [
+        {
+          "title": "Skin In The Game: Why Banks Are Taking Stakes In AI Labs",
+          "url": "https://inc42.com/features/skin-in-the-game-why-banks-are-taking-stakes-in-ai-labs/",
+          "source": "Inc42",
+          "summary": "Rogo, a US-based financial-services AI startup, raised $30 Mn this month. What made this unique was that some of the…"
+        },
+        {
+          "title": "Quantum World Ventures looks to move the technology beyond the lab",
+          "url": "https://yourstory.com/2026/10/quantum-world-ventures-looks-to-move-the-technology-beyond-the-lab",
+          "source": "YourStory",
+          "summary": "The Bengaluru-based startup is developing quantum and AI applications for medical technology while building an education business and exploring longer-term opportunities in security."
+        },
+        {
+          "title": "Fed's Lisa Cook sees AI inflationary push as a top 2027 risk",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/feds-cook-sees-ai-inflationary-push-as-a-top-2027-risk/articleshow/134643510.cms",
+          "source": "ET Tech",
+          "summary": "Cook joined a unanimous vote last month at the Fed to raise the policy rate by a quarter of a point to support a \"timelier\" return of inflation to the Fed's 2% goal. Inflation by the Fed's targeted measure was 3.4% in August and has been above the goal for more than 5-1/2 years."
+        },
+        {
+          "title": "White-collar hiring grows 2% led by AI/ML sector in Sep: Report",
+          "url": "https://yourstory.com/2026/10/white-collar-hiring-grows-2-led-by-aiml-sector-in-sep-report",
+          "source": "YourStory",
+          "summary": "The report revealed that Artificial Intelligence and Machine Learning (AI/ML) roles continued to record growth, rising 20% in September, while the Auto sector grew 11%."
+        },
         {
           "title": "Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows",
           "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-warns-government-attitudes-may-hurt-customer-ties-ipo-prospectus-shows/articleshow/134637989.cms",
@@ -234,30 +186,6 @@
           "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity/articleshow/134631110.cms",
           "source": "ET Tech",
           "summary": "OpenAI has informed more than 100 organizations about incidents involving unauthorized activity tied to its AI agents, according to a blog post by the ChatGPT maker, as AI labs face mounting scrutiny over rogue AI agent activity."
-        },
-        {
-          "title": "Effective Altruism: the philosophy behind Silicon Valley's AI fears",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/effective-altruism-the-philosophy-behind-silicon-valleys-ai-fears/articleshow/134630829.cms",
-          "source": "ET Tech",
-          "summary": "Dario Amodei says he is not part of it. To many in the Trump administration, it fuels unfounded and exaggerated fears about artificial intelligence -- the kind of warnings Amodei has become known for."
-        },
-        {
-          "title": "Anthropic's Dario Amodei: AI's most visible CEO and enigma",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-dario-amodei-ais-most-visible-ceo-and-enigma/articleshow/134630604.cms",
-          "source": "ET Tech",
-          "summary": "The surge in artificial intelligence and the heated debate around its risks have made Anthropic CEO Dario Amodei the most visible tech leader -- though the 43-year-old remains an enigma. \"I think he is one of the great legends in tech and business,\" says Alex Karp, CEO of data…"
-        },
-        {
-          "title": "Nvidia's bet that its chips can finance the AI boom gets a Wall Street reality check",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-bet-that-its-chips-can-finance-the-ai-boom-gets-a-wall-street-reality-check/articleshow/134630579.cms",
-          "source": "ET Tech",
-          "summary": "By Saeed Azhar, Max A.- Nvidia's mammoth financing plan has opened a debate on Wall Street about how much its advanced chips and the infrastructure around them are worth."
-        },
-        {
-          "title": "Researchers Flag AI Overreach, Moneyview’s Bumper IPO & More",
-          "url": "https://inc42.com/buzz/researchers-flag-ai-overreach-moneyviews-bumper-ipo-more/",
-          "source": "Inc42",
-          "summary": "OpenAI Dispute Sparks Academic Panic Last month, OpenAI’s Codex possibly solved the Navier-Stokes equations in days. But mathematician Tristan Buckmaster…"
         }
       ]
     }

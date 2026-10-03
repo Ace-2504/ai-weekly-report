@@ -1,129 +1,94 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "top": {
-    "title": "Don’t be fooled—LLMs don’t reason",
-    "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-    "source": "MIT Tech Review",
-    "published": "2026-10-02T08:00:00.000Z",
-    "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…"
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "source": "TechCrunch AI",
+    "published": "2026-10-03T00:45:39.000Z",
+    "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
   },
   "topIndia": {
-    "title": "Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-warns-government-attitudes-may-hurt-customer-ties-ipo-prospectus-shows/articleshow/134637989.cms",
-    "source": "ET Tech",
-    "published": "2026-10-02T11:12:36.000Z",
-    "summary": "Companies routinely warn that policy changes could affect their business, particularly government contractors. For example, SpaceX said in its IPO filing that maintaining strong relationships with US government agencies is critical to its business and warned that any deteriora…"
+    "title": "Skin In The Game: Why Banks Are Taking Stakes In AI Labs",
+    "url": "https://inc42.com/features/skin-in-the-game-why-banks-are-taking-stakes-in-ai-labs/",
+    "source": "Inc42",
+    "published": "2026-10-03T07:12:53.000Z",
+    "summary": "Rogo, a US-based financial-services AI startup, raised $30 Mn this month. What made this unique was that some of the…"
   },
   "headlines": [
     {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "source": "Ars Technica",
+      "published": "2026-10-02T23:03:16.000Z"
+    },
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-02T21:09:14.000Z"
+    },
+    {
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-02T19:15:51.000Z"
+    },
+    {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-02T18:11:27.000Z"
+    },
+    {
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-02T17:56:00.000Z"
+    },
+    {
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-02T17:48:16.000Z"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-02T17:32:05.000Z"
+    },
+    {
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-02T17:00:00.000Z"
+    },
+    {
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-02T15:49:04.000Z"
+    },
+    {
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-02T15:39:41.000Z"
+    },
+    {
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
       "source": "Hugging Face",
-      "published": "2026-10-02T04:01:31.000Z"
+      "published": "2026-10-02T15:19:50.000Z"
     },
     {
-      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
-      "url": "https://arxiv.org/abs/2610.00010",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "When Do Causal World Models Help Modular LLM Agents",
-      "url": "https://arxiv.org/abs/2610.00012",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
-      "url": "https://arxiv.org/abs/2610.00015",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
-      "url": "https://arxiv.org/abs/2610.00018",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
-      "url": "https://arxiv.org/abs/2610.00025",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
-      "url": "https://arxiv.org/abs/2610.00047",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
-      "url": "https://arxiv.org/abs/2610.00061",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
-      "url": "https://arxiv.org/abs/2610.00074",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
-      "url": "https://arxiv.org/abs/2610.00084",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
-      "url": "https://arxiv.org/abs/2610.00197",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "title": "EviGraph: Proof-Carrying Selective Recommendation over Temporal Public-Service Knowledge Graphs",
-      "url": "https://arxiv.org/abs/2610.00212",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z"
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI Blog",
+      "published": "2026-10-02T15:00:00.000Z"
     }
   ],
   "events": [
-    {
-      "title": "Meta-Multi-Agent Reinforcement Learning for Fast Adaptation of Interactive Policies with Applications to Autonomous Driving",
-      "url": "https://arxiv.org/abs/2610.00705",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z",
-      "summary": "arXiv:2610.00705v1 Announce Type: new Abstract: This paper develops a meta-multi-agent reinforcement learning (meta-MARL) framework to enable fast adaptation of interactive policies in a multi-agent system (MAS). Meta-reinforcement learning (meta-RL) enables agents to rapidly …"
-    },
-    {
-      "title": "Legal text classification in Korean sexual offense cases: from traditional machine learning to large language models with XAI insights",
-      "url": "https://arxiv.org/abs/2610.00087",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z",
-      "summary": "arXiv:2610.00087v1 Announce Type: cross Abstract: The advancement of natural language processing (NLP) has expanded AI-based text classification in the legal domain. However, accurately classifying legal documents remains challenging due to the complexity of legal texts and su…"
-    },
-    {
-      "title": "A Hybrid Approach to Malware Detection: Integrating Few-Shot Model-Agnostic Meta-Learning with Autoencoders",
-      "url": "https://arxiv.org/abs/2610.01949",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z",
-      "summary": "arXiv:2610.01949v1 Announce Type: cross Abstract: Ransomware has emerged as a major cybersecurity threat, with incidents increasing in frequency and impact across critical sectors. These attacks are typically launched through phishing emails, malicious downloads, or exploitati…"
-    },
-    {
-      "title": "Scalable, Transferable Meta-network for Data Selection Requires a Different Loss (and Why the Obvious Choice is Problematic)",
-      "url": "https://arxiv.org/abs/2610.02092",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z",
-      "summary": "arXiv:2610.02092v1 Announce Type: cross Abstract: Data selection is critical for training large language models on massive and heterogeneous corpora. Meta-learning for Training-data Selection offers a principled alternative to heuristic scoring by learning data weights from a …"
-    },
-    {
-      "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
-      "url": "https://arxiv.org/abs/2609.38143",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-02T04:00:00.000Z",
-      "summary": "arXiv:2609.38143v2 Announce Type: replace Abstract: Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a Target while both models'…"
-    },
     {
       "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
       "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
@@ -144,6 +109,13 @@
       "source": "ET Tech",
       "published": "2026-10-01T18:24:57.000Z",
       "summary": "Last month, Bonta announced that the Department of Justice was conducting a formal investigation into the \"Hugging Face incident,\" amid increasing scrutiny of the AI industry."
+    },
+    {
+      "title": "Google Unveils Gemini 4 Argon, Its Most Advanced AI Model Yet",
+      "url": "https://inc42.com/buzz/google-unveils-gemini-4-argon-its-most-advanced-ai-model-yet/",
+      "source": "Inc42",
+      "published": "2026-10-01T09:40:23.000Z",
+      "summary": "Amid increasing competition in AI, Google has now unveiled its new, most powerful model Gemini 4 Argon. The model is…"
     }
   ],
   "people": [
@@ -164,9 +136,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/effective-altruism-the-philosophy-behind-silicon-valleys-ai-fears/articleshow/134630829.cms",
-      "article": "Effective Altruism: the philosophy behind Silicon Valley's AI fears",
-      "source": "ET Tech"
+      "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "article": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "source": "TechCrunch AI"
     },
     {
       "name": "Yann LeCun",
