@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-09-27 to 2026-10-03",
-  "generated": "2026-10-03T10:46:57.454Z",
-  "intro": "79 AI items this week (43 India-relevant) across 8 sources.",
+  "weekOf": "2026-09-28 to 2026-10-04",
+  "generated": "2026-10-04T11:29:18.160Z",
+  "intro": "82 AI items this week (45 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -65,16 +65,10 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-          "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-          "source": "TechCrunch AI",
-          "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time."
-        },
-        {
-          "title": "Brian Chesky interview: AI agents need their own operating system",
-          "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-          "source": "TechCrunch AI",
-          "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system."
+          "title": "The Agent Said It Was Done. The Database Disagreed.",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
           "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
@@ -99,6 +93,24 @@
       "heading": "Industry & Research",
       "items": [
         {
+          "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+          "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+          "source": "TechCrunch AI",
+          "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+        },
+        {
+          "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+          "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+          "source": "TechCrunch AI",
+          "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
+        },
+        {
+          "title": "All the AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "source": "TechCrunch AI",
+          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+        },
+        {
           "title": "Meta wants your next gadget to be Muse-infused",
           "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
           "source": "TechCrunch AI",
@@ -115,30 +127,36 @@
           "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
           "source": "TechCrunch AI",
           "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
-        },
-        {
-          "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-          "source": "TechCrunch AI",
-          "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier."
-        },
-        {
-          "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-          "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-          "source": "TechCrunch AI",
-          "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebrand…"
-        },
-        {
-          "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-          "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-          "source": "TechCrunch AI",
-          "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebrand…"
         }
       ]
     },
     {
       "heading": "India & Subcontinent",
       "items": [
+        {
+          "title": "Workflow, sustainability, AI: test your business creativity with Edition 252 of our weekly quiz!",
+          "url": "https://yourstory.com/2026/10/workflow-sustainability-ai-business-creativity-entrepreneur-education-quiz",
+          "source": "YourStory",
+          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 252nd quiz. Ready?"
+        },
+        {
+          "title": "VC money is pouring into Indian startups; Inside Softdel’s enterprise AI strategy",
+          "url": "https://yourstory.com/2026/10/vc-money-is-pouring-into-indian-startups",
+          "source": "YourStory",
+          "summary": "The total funding for the first week of October was at $418 million across 22 deals. In contrast, the previous week saw a total of $382 million."
+        },
+        {
+          "title": "From K-pop to AI, Karnataka seeks deeper ties with Korea",
+          "url": "https://yourstory.com/2026/10/karnataka-korean-investment-technology-partnerships",
+          "source": "YourStory",
+          "summary": "From K-pop to AI, Karnataka is looking to turn India’s growing Korean connection into investment and technology partnerships."
+        },
+        {
+          "title": "OpenAI safety employee quits, calls for nuclear-level safeguards",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-safety-employee-quits-calls-for-nuclear-level-safeguards/articleshow/134661414.cms",
+          "source": "ET Tech",
+          "summary": "David Robinson, who previously led transparency work on OpenAI’s safety team, wrote in an essay that the ChatGPT maker “has thrived by trial and error.” However, he said the stakes of the inevitable failures that come from that approach are growing along with the technology’s …"
+        },
         {
           "title": "Skin In The Game: Why Banks Are Taking Stakes In AI Labs",
           "url": "https://inc42.com/features/skin-in-the-game-why-banks-are-taking-stakes-in-ai-labs/",
@@ -162,30 +180,6 @@
           "url": "https://yourstory.com/2026/10/white-collar-hiring-grows-2-led-by-aiml-sector-in-sep-report",
           "source": "YourStory",
           "summary": "The report revealed that Artificial Intelligence and Machine Learning (AI/ML) roles continued to record growth, rising 20% in September, while the Auto sector grew 11%."
-        },
-        {
-          "title": "Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-warns-government-attitudes-may-hurt-customer-ties-ipo-prospectus-shows/articleshow/134637989.cms",
-          "source": "ET Tech",
-          "summary": "Companies routinely warn that policy changes could affect their business, particularly government contractors. For example, SpaceX said in its IPO filing that maintaining strong relationships with US government agencies is critical to its business and warned that any deteriora…"
-        },
-        {
-          "title": "Inside ixigo’s Full-Stack Model: How Trains, Flights And Buses Are Funding Its Next Bets",
-          "url": "https://inc42.com/features/inside-ixigos-full-stack-model-how-trains-flights-and-buses-are-funding-its-next-bets/",
-          "source": "Inc42",
-          "summary": "Everything ixigo has done since it started off in 2007 can be called a stepping stone to get to where…"
-        },
-        {
-          "title": "TakeMe2Space, SatLeo, EON Space Labs Launch Payloads Aboard SpaceX Falcon 9",
-          "url": "https://inc42.com/buzz/takeme2space-satleo-eon-space-labs-launch-payloads-aboard-spacex-falcon-9/",
-          "source": "Inc42",
-          "summary": "Indian spacetech startups TakeMe2Space, SatLeo Labs, and EON Space Labs sent AI computing and Earth observation technologies into orbit aboard…"
-        },
-        {
-          "title": "OpenAI alerts more than 100 groups about rogue AI agent activity",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity/articleshow/134631110.cms",
-          "source": "ET Tech",
-          "summary": "OpenAI has informed more than 100 organizations about incidents involving unauthorized activity tied to its AI agents, according to a blog post by the ChatGPT maker, as AI labs face mounting scrutiny over rogue AI agent activity."
         }
       ]
     }
