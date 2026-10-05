@@ -1,100 +1,114 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "top": {
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "source": "Hugging Face",
-    "published": "2026-10-03T22:56:48.000Z",
-    "summary": ""
+    "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+    "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+    "source": "TechCrunch AI",
+    "published": "2026-10-05T12:00:00.000Z",
+    "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones."
   },
   "topIndia": {
-    "title": "Workflow, sustainability, AI: test your business creativity with Edition 252 of our weekly quiz!",
-    "url": "https://yourstory.com/2026/10/workflow-sustainability-ai-business-creativity-entrepreneur-education-quiz",
-    "source": "YourStory",
-    "published": "2026-10-04T02:10:00.000Z",
-    "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 252nd quiz. Ready?"
+    "title": "Razorpay Partners With OpenAI To Help Indian Brands Advertise On ChatGPT",
+    "url": "https://inc42.com/buzz/razorpay-partners-with-openai-to-help-indian-brands-advertise-on-chatgpt/",
+    "source": "Inc42",
+    "published": "2026-10-05T11:35:44.000Z",
+    "summary": "IPO-bound Razorpay announced today that it has deepened its partnership with AI major OpenAI to help Indian brands advertise on…"
   },
   "headlines": [
     {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-03T18:43:57.000Z"
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-05T08:00:00.000Z"
     },
     {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-03T16:30:01.000Z"
+      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "url": "https://arxiv.org/abs/2610.02260",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-05T04:00:00.000Z"
     },
     {
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-03T14:00:00.000Z"
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "url": "https://arxiv.org/abs/2610.02267",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-05T04:00:00.000Z"
     },
     {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-03T00:45:39.000Z"
+      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+      "url": "https://arxiv.org/abs/2610.02281",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-05T04:00:00.000Z"
     },
     {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "source": "Ars Technica",
-      "published": "2026-10-02T23:03:16.000Z"
+      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+      "url": "https://arxiv.org/abs/2610.02300",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-05T04:00:00.000Z"
     },
     {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-02T21:09:14.000Z"
+      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+      "url": "https://arxiv.org/abs/2610.02330",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-05T04:00:00.000Z"
     },
     {
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-02T19:15:51.000Z"
+      "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
+      "url": "https://arxiv.org/abs/2610.02331",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-05T04:00:00.000Z"
     },
     {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-02T18:11:27.000Z"
+      "title": "A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection",
+      "url": "https://arxiv.org/abs/2610.02342",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-05T04:00:00.000Z"
     },
     {
-      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-02T17:56:00.000Z"
+      "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
+      "url": "https://arxiv.org/abs/2610.02351",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-05T04:00:00.000Z"
     },
     {
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-02T17:48:16.000Z"
+      "title": "Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion",
+      "url": "https://arxiv.org/abs/2610.02372",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-05T04:00:00.000Z"
     },
     {
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-02T17:32:05.000Z"
+      "title": "THPL: A Vision-to-Language Decision Support Framework for Rainbow Trout Feeding Management in RAS",
+      "url": "https://arxiv.org/abs/2610.02378",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-05T04:00:00.000Z"
     },
     {
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-02T17:00:00.000Z"
+      "title": "FlashSinkhorn 2: Block-Sparse Entropic Optimal Transport",
+      "url": "https://arxiv.org/abs/2610.02395",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-05T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-01T19:18:03.000Z",
-      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers."
+      "title": "Razorpay Partners With OpenAI To Help Indian Brands Advertise On ChatGPT",
+      "url": "https://inc42.com/buzz/razorpay-partners-with-openai-to-help-indian-brands-advertise-on-chatgpt/",
+      "source": "Inc42",
+      "published": "2026-10-05T11:35:44.000Z",
+      "summary": "IPO-bound Razorpay announced today that it has deepened its partnership with AI major OpenAI to help Indian brands advertise on…"
+    },
+    {
+      "title": "Learning What to Investigate Next: Meta-Reasoning for Long-Horizon Research Agents",
+      "url": "https://arxiv.org/abs/2610.02525",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-05T04:00:00.000Z",
+      "summary": "arXiv:2610.02525v1 Announce Type: new Abstract: Long-horizon research agents must decide both how to investigate and what to investigate next as evidence accumulates. This is hard to learn because such decisions are sparse in long execution traces, and their consequences may e…"
+    },
+    {
+      "title": "Measuring Google AI Overviews: Activation, Source Quality, Claim Fidelity, and Publisher Impact",
+      "url": "https://arxiv.org/abs/2605.14021",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-05T04:00:00.000Z",
+      "summary": "arXiv:2605.14021v2 Announce Type: replace-cross Abstract: Google AI Overviews (AIOs) are arguably the most widely encountered deployment of generative AI, reaching over 2 billion users who may not realize the answers they see are AI-generated. Where search engines have traditi…"
     },
     {
       "title": "Synopsys shares jump on robust growth outlook, OpenAI and AWS deals",
@@ -115,9 +129,9 @@
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://blog.samaltman.com",
-      "article": null,
-      "source": "Profile"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-sam-altman-says-ai-benefits-warrant-accepting-some-risks/articleshow/134684200.cms",
+      "article": "OpenAI's Sam Altman says AI benefits warrant accepting some risks",
+      "source": "ET Tech"
     },
     {
       "name": "Demis Hassabis",
