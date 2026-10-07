@@ -1,116 +1,137 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "top": {
-    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-    "source": "Hugging Face",
-    "published": "2026-10-06T06:44:39.000Z",
-    "summary": ""
+    "title": "Introducing Playground: Create and play custom games",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "source": "Google AI Blog",
+    "published": "2026-10-07T12:00:00.000Z",
+    "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
   },
   "topIndia": {
-    "title": "Software startup Vinci raises $250 million at a $1.5 billion valuation",
-    "url": "https://economictimes.indiatimes.com/tech/funding/software-startup-vinci-raises-250-million-at-a-1-5-billion-valuation/articleshow/134739689.cms",
-    "source": "ET Tech",
-    "published": "2026-10-06T11:55:46.000Z",
-    "summary": "The Palo Alto, California-based company is entering a market that includes similar AI-based simulation products from established chip design software firms such as Cadence and Synopsys."
+    "title": "Desible.ai Raises ₹32 Cr To Build AI Operating Layer For BFSI",
+    "url": "https://inc42.com/buzz/desible-ai-raises-%e2%82%b932-cr-to-build-ai-operating-layer-for-bfsi/",
+    "source": "Inc42",
+    "published": "2026-10-07T09:00:33.000Z",
+    "summary": "Voice AI startup Desible.ai has raised ₹32 Cr (around $3.7 Mn) in a seed funding round led by Prime Venture…"
   },
   "headlines": [
     {
-      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-      "source": "Ars Technica",
-      "published": "2026-10-05T22:26:35.000Z"
+      "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+      "url": "https://arxiv.org/abs/2610.06910",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z"
     },
     {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T20:36:48.000Z"
+      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+      "url": "https://arxiv.org/abs/2610.06914",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z"
     },
     {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T19:33:53.000Z"
+      "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+      "url": "https://arxiv.org/abs/2610.06917",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z"
     },
     {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T18:54:30.000Z"
+      "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+      "url": "https://arxiv.org/abs/2610.06919",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z"
     },
     {
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T18:29:00.000Z"
+      "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+      "url": "https://arxiv.org/abs/2610.06923",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z"
     },
     {
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T17:29:22.000Z"
+      "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
+      "url": "https://arxiv.org/abs/2610.06928",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z"
     },
     {
-      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T16:43:35.000Z"
+      "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
+      "url": "https://arxiv.org/abs/2610.06964",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z"
     },
     {
-      "title": "Connecting AI agents to enterprise knowledge",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-05T15:47:52.000Z"
+      "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
+      "url": "https://arxiv.org/abs/2610.06971",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z"
     },
     {
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T15:14:24.000Z"
+      "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
+      "url": "https://arxiv.org/abs/2610.06986",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z"
     },
     {
-      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T15:00:00.000Z"
+      "title": "When better traffic forecasts fail to improve signal control: a layered diagnostic study of forecast-to-decision value",
+      "url": "https://arxiv.org/abs/2610.06992",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z"
     },
     {
-      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T14:35:09.000Z"
+      "title": "Joint upper-bound coverage and route-choice utility: an empirical evaluation on two urban proxy tasks",
+      "url": "https://arxiv.org/abs/2610.06995",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z"
     },
     {
-      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T14:30:00.000Z"
+      "title": "Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents",
+      "url": "https://arxiv.org/abs/2610.07004",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Learning from Revision Consequences: Hindsight Meta-Experience Distillation for Self-Improving Agents",
+      "url": "https://arxiv.org/abs/2610.07979",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z",
+      "summary": "arXiv:2610.07979v1 Announce Type: new Abstract: As agents continuously improve by generating and revising Skills, the process that discovers and refines those Skills becomes a learnable object in its own right. Task-Skills directly act on task execution, whereas Meta-Skills go…"
+    },
+    {
+      "title": "Catching Developers in the Flow: Low-Latency Agentic Program Repair at Google Scale",
+      "url": "https://arxiv.org/abs/2610.07289",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z",
+      "summary": "arXiv:2610.07289v1 Announce Type: cross Abstract: Manual repair of program failures is time-consuming and disruptive for software developers, particularly during the pre-submit phase where test failures occur within continuous integration systems. While Automated Program Repai…"
+    },
+    {
+      "title": "MetaLearnNCA: Few-Shot Offline Meta-Learning via Interacting Neural Cellular Automata",
+      "url": "https://arxiv.org/abs/2610.08479",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T04:00:00.000Z",
+      "summary": "arXiv:2610.08479v1 Announce Type: cross Abstract: Few-shot meta-learning traditionally formulates task adaptation either as analytical gradient descent through unrolled computational graphs or as metric-based distance comparisons over flattened 1D fea- ture vectors, which eith…"
+    },
+    {
+      "title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-backed-reflection-unveils-first-ai-model-to-take-on-chinese-open-models/articleshow/134721941.cms",
+      "source": "ET Tech",
+      "published": "2026-10-06T03:17:24.000Z",
+      "summary": "Nvidia-backed Reflection AI debuted its first open-weight model named Beam on Monday, as the startup aims to compete with lower-cost Chinese models such as DeepSeek and Kimi in coding and agentic tasks."
+    },
     {
       "title": "OpenAI launches visual ads that appear alongside image generation results",
       "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
       "source": "TechCrunch AI",
       "published": "2026-10-05T15:14:24.000Z",
       "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers."
-    },
-    {
-      "title": "Razorpay Partners With OpenAI To Help Indian Brands Advertise On ChatGPT",
-      "url": "https://inc42.com/buzz/razorpay-partners-with-openai-to-help-indian-brands-advertise-on-chatgpt/",
-      "source": "Inc42",
-      "published": "2026-10-05T11:35:44.000Z",
-      "summary": "IPO-bound Razorpay announced today that it has deepened its partnership with AI major OpenAI to help Indian brands advertise on…"
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-sam-altman-says-ai-benefits-warrant-accepting-some-risks/articleshow/134684200.cms",
-      "article": "OpenAI's Sam Altman says AI benefits warrant accepting some risks",
-      "source": "ET Tech"
+      "link": "https://blog.samaltman.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Demis Hassabis",

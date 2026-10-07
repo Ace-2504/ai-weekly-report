@@ -1,40 +1,46 @@
 {
-  "weekOf": "2026-09-30 to 2026-10-06",
-  "generated": "2026-10-06T12:23:13.878Z",
-  "intro": "61 AI items this week (26 India-relevant) across 8 sources.",
+  "weekOf": "2026-10-01 to 2026-10-07",
+  "generated": "2026-10-07T12:15:50.788Z",
+  "intro": "575 AI items this week (36 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+          "url": "https://arxiv.org/abs/2610.06914",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.06914v1 Announce Type: new Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent Runtime combine schema-constrained model decisions with …"
         },
         {
-          "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-          "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-          "source": "TechCrunch AI",
-          "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data."
+          "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+          "url": "https://arxiv.org/abs/2610.06917",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.06917v1 Announce Type: new Abstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existing systems typically combine a fixed prefill/decode worker…"
         },
         {
-          "title": "People really hate AI, so why can’t they get enough?",
-          "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-          "source": "MIT Tech Review",
-          "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a…"
+          "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+          "url": "https://arxiv.org/abs/2610.06923",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.06923v1 Announce Type: new Abstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data modalities. This fragmentation contrasts with the longitudinal rad…"
         },
         {
-          "title": "Redefining enterprise intelligence with autonomous AI",
-          "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-          "source": "MIT Tech Review",
-          "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% fr…"
+          "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
+          "url": "https://arxiv.org/abs/2610.06964",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.06964v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated strong capabilities in interactive environments, yet their ability to continually evolve from experience remains limited. Although fine-tuning enables adaptation, its dependence…"
         },
         {
-          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "url": "https://huggingface.co/blog/allenai/astabrief",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents",
+          "url": "https://arxiv.org/abs/2610.07004",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07004v1 Announce Type: new Abstract: Task planning for LLM agents requires workflows that satisfy both user intent and complex sub-task dependencies. While existing planners work well for sequential or directed acyclic graph (DAG)-like structures, they struggle with…"
+        },
+        {
+          "title": "Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment",
+          "url": "https://arxiv.org/abs/2610.07023",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07023v1 Announce Type: new Abstract: Large Language Models (LLMs) have achieved remarkable capabilities but remain vulnerable to jailbreak attacks that elicit harmful or unsafe outputs. Existing safety alignment approaches, including Supervised Fine-Tuning (SFT) and…"
         }
       ]
     },
@@ -42,22 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "OpenAI launches visual ads that appear alongside image generation results",
-          "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-          "source": "TechCrunch AI",
-          "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers."
+          "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
+          "url": "https://arxiv.org/abs/2610.06928",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.06928v1 Announce Type: new Abstract: We study how Vision Transformers ground abstract concepts (e.g., angry) when training data provide limited direct referential evidence. We hypothesize a metonymic grounding mechanism in which abstract predictions are driven by co…"
         },
         {
-          "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-          "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-          "source": "TechCrunch AI",
-          "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
+          "title": "When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models",
+          "url": "https://arxiv.org/abs/2610.07018",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07018v1 Announce Type: new Abstract: Vision-language models (VLMs) have achieved strong performance in multimodal reasoning, yet they remain prone to generating plausible but incorrect answers. Self-verification offers a practical way to improve answer reliability w…"
         },
         {
-          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "url": "https://huggingface.co/blog/open-tts-leaderboard",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
+          "url": "https://arxiv.org/abs/2610.07026",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07026v1 Announce Type: new Abstract: The Offline AI Modules workstream enables practical, low-power, and community-accessible deployment of voice-first AI systems that operate fully offline. Designed for African language communities where speech is the dominant mode…"
+        },
+        {
+          "title": "Inference-Time Projection for Physically Valid Biomolecular Diffusion Models",
+          "url": "https://arxiv.org/abs/2610.07037",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07037v1 Announce Type: new Abstract: AlphaFold 3-style cofolding models predict biomolecular complexes with high structural accuracy, yet a large fraction of their outputs are physically invalid: chains overlap at interfaces, ligand bond lengths and angles are disto…"
+        },
+        {
+          "title": "Sim-to-Real Transfer of Vision-Language Navigation in Continuous Environments Using an Ackermann-Steered Mobile Robot",
+          "url": "https://arxiv.org/abs/2610.07192",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07192v1 Announce Type: new Abstract: Vision-Language Navigation (VLN) enables robots to navigate through environments using natural language instructions, making human-robot interaction intuitive. Traditional VLN models often rely on navigation graphs, 360-degree vi…"
+        },
+        {
+          "title": "Energy-Conditioned Noise Schedule and Whitening for Spectral Diffusion",
+          "url": "https://arxiv.org/abs/2610.07206",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07206v1 Announce Type: new Abstract: This paper introduces an energy-adaptive noise scheduling and whitening strategy for transform-domain diffusion models. Existing spectral diffusion methods account for the non-uniform statistics of transform coefficients through …"
         }
       ]
     },
@@ -65,40 +89,40 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-          "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-          "source": "Ars Technica",
-          "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another."
+          "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
+          "url": "https://arxiv.org/abs/2610.06971",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.06971v1 Announce Type: new Abstract: Traditional data pipelines are notoriously brittle, often failing due to upstream schema drift, API contract changes, or website DOM modifications. Present observability tools only raise alerts but for human engineers, resulting …"
         },
         {
-          "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-          "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-          "source": "TechCrunch AI",
-          "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or ta…"
+          "title": "CuratorMAS: Automating Dataset Curation via Multi-Agent Orchestration",
+          "url": "https://arxiv.org/abs/2610.07075",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07075v1 Announce Type: new Abstract: High-quality datasets are essential for reliable machine learning, but dataset curation remains costly and hard to generalize across domains. Existing methods typically rely on manually designed heuristics or model-dependent sign…"
         },
         {
-          "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-          "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-          "source": "TechCrunch AI",
-          "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
+          "title": "When to Remember, When to Abstain: Category-Conditioned Retention for Reliable Agent Memory",
+          "url": "https://arxiv.org/abs/2610.07100",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07100v1 Announce Type: new Abstract: Persistent agent memory is only as reliable as its retention decision: an assertion weakly supported by its source can be stored and later reused as established fact. We study whether the retention decision should be governed by …"
         },
         {
-          "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-          "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-          "source": "TechCrunch AI",
-          "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap."
+          "title": "Is this machine playing?",
+          "url": "https://arxiv.org/abs/2610.07130",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07130v1 Announce Type: new Abstract: We placed a modern AI coding assistant in an unintended role: as the mind of a body on an unknown digital island. With only a minimal instruction mentioning no specific task, reward, or activity, the machine started animating its…"
         },
         {
-          "title": "The Agent Said It Was Done. The Database Disagreed.",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "SPECTRUM: Proximal Spectral Modulation for Looped Self-Distillation",
+          "url": "https://arxiv.org/abs/2610.07237",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07237v1 Announce Type: new Abstract: A model that learns from its own outputs inherits more than their correctness: it inherits which solutions it produces. We formulate Looped Self-Distillation, a self-evolution framework for code generation in which a model repeat…"
         },
         {
-          "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Can Semantic Geometry Teach an AI Judgement?",
+          "url": "https://arxiv.org/abs/2610.07249",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07249v1 Announce Type: new Abstract: How can an AI agent determine what rules to follow? One rule permits an action. Another imposes a condition, exception, or conflicting obligation. Deterministic systems can resolve those relationships when they have been specifie…"
         }
       ]
     },
@@ -106,16 +130,40 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-          "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-          "source": "TechCrunch AI",
-          "summary": "AI slop seems to be overwhelming bug bounty programs."
+          "title": "BluffJAX: Adversarial Imperfect Information Games in JAX",
+          "url": "https://arxiv.org/abs/2610.07686",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07686v1 Announce Type: new Abstract: We introduce BluffJAX: an open-source suite of adversarial imperfect information games in JAX. We provide canonical implementations of games designed for high simulation throughputs and parallelization on GPU accelerators. Our su…"
         },
         {
-          "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-          "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-          "source": "MIT Tech Review",
-          "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the…"
+          "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
+          "url": "https://arxiv.org/abs/2610.08699",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.08699v1 Announce Type: new Abstract: Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendo…"
+        },
+        {
+          "title": "Visual-Invariance-Augmented Feature Optimal Alignment for Transferable Adversarial Attacks against Closed-Source MLLMs",
+          "url": "https://arxiv.org/abs/2610.06977",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.06977v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) remain vulnerable to transferable adversarial examples, especially in black-box settings where only open-source surrogate models are accessible. Existing targeted transfer attacks mainly…"
+        },
+        {
+          "title": "Jailbreaking Open-Weight LLMs via Random Embedding Perturbations",
+          "url": "https://arxiv.org/abs/2610.07125",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07125v1 Announce Type: cross Abstract: While open-weight models have enjoyed steady progress in capabilities and wide adoption across multiple domains, their safety remains an important concern. One key feature is the ability to refuse or deflect harmful, malicious,…"
+        },
+        {
+          "title": "LibreOffice says ‘no AI’ is now a software feature",
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+          "source": "TechCrunch AI",
+          "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy."
+        },
+        {
+          "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+          "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+          "source": "TechCrunch AI",
+          "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data."
         }
       ]
     },
@@ -123,40 +171,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-          "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-          "source": "TechCrunch AI",
-          "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
+          "title": "Introducing Playground: Create and play custom games",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+          "source": "Google AI Blog",
+          "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
         },
         {
-          "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-          "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-          "source": "TechCrunch AI",
-          "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency."
+          "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+          "url": "https://arxiv.org/abs/2610.06910",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts freque…"
         },
         {
-          "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-          "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-          "source": "TechCrunch AI",
-          "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers."
+          "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+          "url": "https://arxiv.org/abs/2610.06919",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.06919v1 Announce Type: new Abstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured using cosine similarity, which provides a single fixed geometry. Semantic similarity, however, is in…"
         },
         {
-          "title": "Connecting AI agents to enterprise knowledge",
-          "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-          "source": "MIT Tech Review",
-          "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need t…"
+          "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
+          "url": "https://arxiv.org/abs/2610.06986",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.06986v1 Announce Type: new Abstract: AI research agents are increasingly used to search over programs, mathematical constructions, and proofs. However, existing systems typically optimize evaluator feedback without adequately governing how that feedback is interpret…"
         },
         {
-          "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-          "source": "TechCrunch AI",
-          "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off."
+          "title": "When better traffic forecasts fail to improve signal control: a layered diagnostic study of forecast-to-decision value",
+          "url": "https://arxiv.org/abs/2610.06992",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.06992v1 Announce Type: new Abstract: Improved traffic forecasts do not necessarily yield better signal-control decisions. We investigate this gap through a layered diagnostic study using 29 days of reconstructed demand from Xuancheng, China, with seven dates reserve…"
         },
         {
-          "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-          "source": "TechCrunch AI",
-          "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off."
+          "title": "Joint upper-bound coverage and route-choice utility: an empirical evaluation on two urban proxy tasks",
+          "url": "https://arxiv.org/abs/2610.06995",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.06995v1 Announce Type: new Abstract: Whether more accurate traffic forecasts or higher uncertainty coverage improve route decisions is unclear. We evaluate this question with a frozen protocol that separates speed error, joint candidate path upper bound coverage, ro…"
         }
       ]
     },
@@ -164,52 +212,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Software startup Vinci raises $250 million at a $1.5 billion valuation",
-          "url": "https://economictimes.indiatimes.com/tech/funding/software-startup-vinci-raises-250-million-at-a-1-5-billion-valuation/articleshow/134739689.cms",
-          "source": "ET Tech",
-          "summary": "The Palo Alto, California-based company is entering a market that includes similar AI-based simulation products from established chip design software firms such as Cadence and Synopsys."
-        },
-        {
-          "title": "Anthropic CEO Dario Amodei made $18 million last year, middle of the tech CEO pack",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-dario-amodei-made-18-million-last-year-middle-of-the-tech-ceo-pack/articleshow/134739190.cms",
-          "source": "ET Tech",
-          "summary": "Dario Amodei made $18 million last year as CEO of Claude AI developer Anthropic, the company's IPO filing shows, putting him in the middle ranks of top executives at major technology firms in terms of compensation."
-        },
-        {
-          "title": "India among top 10 emerging markets in AI readiness; private AI investment triples: World Bank",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-among-top-10-emerging-markets-in-ai-readiness-private-ai-investment-triples-world-bank/articleshow/134737922.cms",
-          "source": "ET Tech",
-          "summary": "In its latest report titled 'India and Artificial Intelligence: Seizing the Development Opportunity', the World Bank said private investment in AI in India more than tripled to $4.1 billion in 2025 from $1.2 billion in 2024."
-        },
-        {
-          "title": "From growing demand for AI to premium upgrades, Amazon India reveals what customers want ahead of Amazon Great Indian Festival 2026",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-growing-demand-for-ai-to-premium-upgrades-amazon-india-reveals-what-customers-want-ahead-of-amazon-great-indian-festival-2026/articleshow/134729445.cms",
-          "source": "ET Tech",
-          "summary": "As the Amazon Great Indian Festival 2026 approaches, technology shoppers are becoming more research-led, weighing AI capabilities, performance and long-term value before upgrading. Zeba Khan, Director - Consumer Electronics, Amazon India, weighs in."
-        },
-        {
-          "title": "AMD plans to substantially increase supply in 2027, CEO says",
-          "url": "https://economictimes.indiatimes.com/tech/technology/amd-plans-to-substantially-increase-supply-in-2027-ceo-says/articleshow/134729173.cms",
-          "source": "ET Tech",
-          "summary": "AMD, Nvidia's closest rival in AI graphics processors, has been rapidly expanding its AI chip business, with its market value recently topping $1 trillion amid an AI-driven rally."
-        },
-        {
-          "title": "OpenAI’s ‘Rogue’ AI Agents Hit Wikimedia, Raise Fresh Oversight Concerns",
-          "url": "https://inc42.com/buzz/openais-rogue-ai-agents-hit-wikimedia-raise-fresh-oversight-concerns/",
+          "title": "Desible.ai Raises ₹32 Cr To Build AI Operating Layer For BFSI",
+          "url": "https://inc42.com/buzz/desible-ai-raises-%e2%82%b932-cr-to-build-ai-operating-layer-for-bfsi/",
           "source": "Inc42",
-          "summary": "OpenAI’s AI agents have come under scrutiny yet again after the Wikimedia Foundation, the non-profit that hosts Wikipedia, found what…"
+          "summary": "Voice AI startup Desible.ai has raised ₹32 Cr (around $3.7 Mn) in a seed funding round led by Prime Venture…"
         },
         {
-          "title": "A reckoning on social media addiction came late for many kids. Will AI safety be different?",
-          "url": "https://economictimes.indiatimes.com/tech/technology/a-reckoning-on-social-media-addiction-came-late-for-many-kids-will-ai-safety-be-different/articleshow/134722797.cms",
+          "title": "ITC Infotech launches 'VANGUARDS': An elite forward- deployed engineering cadre to accelerate enterprise AI transformation",
+          "url": "https://economictimes.indiatimes.com/tech/ites/itc-infotech-launches-vanguards-an-elite-forward-deployed-engineering-cadre-to-accelerate-enterprise-ai-transformation/articleshow/134759789.cms",
           "source": "ET Tech",
-          "summary": "When Meta agreed to changes to its social media platforms and enhanced safeguards in an $18 billion settlement, it made progress by \"getting at what we've known for years\" about the dangers, said Kristin Bride, a parent advocate who has fought for social media reform since the…"
+          "summary": "ITC Infotech has launched the VANGUARDS program aimed at fostering high-potential engineers to drive AI transformation. This program connects technical expertise with business needs to achieve measurable outcomes. VANGUARDS engineers will work directly within client environmen…"
         },
         {
-          "title": "'Reckless' AI firms can't control models, says whistleblower",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/reckless-ai-firms-cant-control-models-says-whistleblower/articleshow/134722009.cms",
+          "title": "byteXL Raises $9 Mn To Take Tech, AI Skilling To More Engineering Colleges",
+          "url": "https://inc42.com/buzz/bytexl-raises-9-mn-to-take-tech-ai-skilling-to-more-engineering-colleges/",
+          "source": "Inc42",
+          "summary": "Hyderabad-based B2B edtech startup byteXL has raised $9 Mn (about ₹86.7 Cr) in a funding round led by Elevar Equity,…"
+        },
+        {
+          "title": "Edtech firm byteXL raises $9M as investors back college-linked AI skilling model",
+          "url": "https://yourstory.com/2026/10/edtech-firm-bytexl-9m-investors-back-college-linked-ai-skilling-model",
+          "source": "YourStory",
+          "summary": "Hyderabad-based byteXL said the fresh capital will help expand its college network, strengthen AI-led learning tools and reach 500,000 engineering students across 15 states."
+        },
+        {
+          "title": "Billionaire Ray Dalio says we’re nearing point where AI bubble may burst",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/billionaire-ray-dalio-says-were-nearing-point-where-ai-bubble-may-burst/articleshow/134756519.cms",
           "source": "ET Tech",
-          "summary": "Leading artificial intelligence companies do not know how to keep AI systems from pursuing objectives their developers did not assign, whistleblower Jacob Coxon, a former OpenAI and Anthropic employee, warned Monday. In early September, the British researcher published a state…"
+          "summary": "Speaking at the Forbes Global CEO Conference in Singapore on Wednesday, Dalio said that a huge amount of debt is being taken out to fund AI. As rates continue to climb, that is a point at which the bubble begins to pop."
+        },
+        {
+          "title": "South Korean megachurches probe suspected AI-linked cyberattacks",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korean-megachurches-probe-suspected-ai-linked-cyberattacks/articleshow/134756283.cms",
+          "source": "ET Tech",
+          "summary": "Two South Korean megachurches are investigating suspected cyberattacks that may have exposed the personal data of hundreds of thousands of congregants, with evidence suggesting AI tools may have been used in the attacks, according to the churches and a cybersecurity firm."
+        },
+        {
+          "title": "Novice Reliance Calibration in AI-Assisted Decision Making: The Role of Explanations and Self-Assessment",
+          "url": "https://arxiv.org/abs/2610.07800",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.07800v1 Announce Type: cross Abstract: Artificial Intelligence (AI) tools are widely used to support decision making in tasks and domains where no immediate performance feedback is available. In these settings, users cannot learn to adjust their reliance behavior ov…"
+        },
+        {
+          "title": "US, China, EU: three paths to regulating AI",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-china-eu-three-paths-to-regulating-ai/articleshow/134755083.cms",
+          "source": "ET Tech",
+          "summary": "The United States, China and the European Union are taking different paths to govern artificial intelligence, as calls grow worldwide to rein in its most powerful systems. The same day, Trump ordered federal agencies to replace the term \"artificial intelligence\" with \"super in…"
         }
       ]
     }
