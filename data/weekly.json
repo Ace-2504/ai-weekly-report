@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-10-01 to 2026-10-07",
-  "generated": "2026-10-07T12:15:50.788Z",
-  "intro": "575 AI items this week (36 India-relevant) across 9 sources.",
+  "weekOf": "2026-10-02 to 2026-10-08",
+  "generated": "2026-10-08T12:25:48.270Z",
+  "intro": "577 AI items this week (33 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -152,18 +152,6 @@
           "url": "https://arxiv.org/abs/2610.07125",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2610.07125v1 Announce Type: cross Abstract: While open-weight models have enjoyed steady progress in capabilities and wide adoption across multiple domains, their safety remains an important concern. One key feature is the ability to refuse or deflect harmful, malicious,…"
-        },
-        {
-          "title": "LibreOffice says ‘no AI’ is now a software feature",
-          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-          "source": "TechCrunch AI",
-          "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy."
-        },
-        {
-          "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-          "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-          "source": "TechCrunch AI",
-          "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data."
         }
       ]
     },
@@ -171,10 +159,16 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Introducing Playground: Create and play custom games",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-          "source": "Google AI Blog",
-          "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+          "title": "AI breakthroughs in robotics won’t change your life any time soon",
+          "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+          "source": "MIT Tech Review",
+          "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been pop…"
+        },
+        {
+          "title": "Building a safer path to autonomous industrial AI",
+          "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+          "source": "MIT Tech Review",
+          "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that …"
         },
         {
           "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
@@ -199,12 +193,6 @@
           "url": "https://arxiv.org/abs/2610.06992",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2610.06992v1 Announce Type: new Abstract: Improved traffic forecasts do not necessarily yield better signal-control decisions. We investigate this gap through a layered diagnostic study using 29 days of reconstructed demand from Xuancheng, China, with seven dates reserve…"
-        },
-        {
-          "title": "Joint upper-bound coverage and route-choice utility: an empirical evaluation on two urban proxy tasks",
-          "url": "https://arxiv.org/abs/2610.06995",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.06995v1 Announce Type: new Abstract: Whether more accurate traffic forecasts or higher uncertainty coverage improve route decisions is unclear. We evaluate this question with a frozen protocol that separates speed error, joint candidate path upper bound coverage, ro…"
         }
       ]
     },
@@ -212,40 +200,34 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Desible.ai Raises ₹32 Cr To Build AI Operating Layer For BFSI",
-          "url": "https://inc42.com/buzz/desible-ai-raises-%e2%82%b932-cr-to-build-ai-operating-layer-for-bfsi/",
+          "title": "Miko Maker Inner Sky Labs Unveils Foundation Models For Physical AI",
+          "url": "https://inc42.com/buzz/miko-maker-inner-sky-labs-unveils-foundation-models-for-physical-ai/",
           "source": "Inc42",
-          "summary": "Voice AI startup Desible.ai has raised ₹32 Cr (around $3.7 Mn) in a seed funding round led by Prime Venture…"
+          "summary": "AI startup Inner Sky Labs, the maker of children’s companion robots under the Miko brand, has launched a suite of…"
         },
         {
-          "title": "ITC Infotech launches 'VANGUARDS': An elite forward- deployed engineering cadre to accelerate enterprise AI transformation",
-          "url": "https://economictimes.indiatimes.com/tech/ites/itc-infotech-launches-vanguards-an-elite-forward-deployed-engineering-cadre-to-accelerate-enterprise-ai-transformation/articleshow/134759789.cms",
-          "source": "ET Tech",
-          "summary": "ITC Infotech has launched the VANGUARDS program aimed at fostering high-potential engineers to drive AI transformation. This program connects technical expertise with business needs to achieve measurable outcomes. VANGUARDS engineers will work directly within client environmen…"
-        },
-        {
-          "title": "byteXL Raises $9 Mn To Take Tech, AI Skilling To More Engineering Colleges",
-          "url": "https://inc42.com/buzz/bytexl-raises-9-mn-to-take-tech-ai-skilling-to-more-engineering-colleges/",
-          "source": "Inc42",
-          "summary": "Hyderabad-based B2B edtech startup byteXL has raised $9 Mn (about ₹86.7 Cr) in a funding round led by Elevar Equity,…"
-        },
-        {
-          "title": "Edtech firm byteXL raises $9M as investors back college-linked AI skilling model",
-          "url": "https://yourstory.com/2026/10/edtech-firm-bytexl-9m-investors-back-college-linked-ai-skilling-model",
+          "title": "Meta says it acted on 5.3M pieces of child abuse content in first half of 2026; rolls out new AI tools to crack down on ads",
+          "url": "https://yourstory.com/2026/10/meta-acted-on-53-mn-pieces-of-child-abuse-content-in-h126-rolls-out-new-ai-tools-to-check-ads",
           "source": "YourStory",
-          "summary": "Hyderabad-based byteXL said the fresh capital will help expand its college network, strengthen AI-led learning tools and reach 500,000 engineering students across 15 states."
+          "summary": "Globally, the company said, it actioned 33.2 million such items on Facebook and Instagram between January and June, with over 97% found proactively."
         },
         {
-          "title": "Billionaire Ray Dalio says we’re nearing point where AI bubble may burst",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/billionaire-ray-dalio-says-were-nearing-point-where-ai-bubble-may-burst/articleshow/134756519.cms",
-          "source": "ET Tech",
-          "summary": "Speaking at the Forbes Global CEO Conference in Singapore on Wednesday, Dalio said that a huge amount of debt is being taken out to fund AI. As rates continue to climb, that is a point at which the bubble begins to pop."
+          "title": "CoreWeave Enters India, Partners AdaniConneX For 240 MW Data Centre Capacity",
+          "url": "https://inc42.com/buzz/coreweave-enters-india-partners-adaniconnex-for-240-mw-data-centre-capacity/",
+          "source": "Inc42",
+          "summary": "US-based AI cloud infrastructure provider CoreWeave has announced its entry into India, with plans to deploy 240 MW (megawatts) of…"
         },
         {
-          "title": "South Korean megachurches probe suspected AI-linked cyberattacks",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korean-megachurches-probe-suspected-ai-linked-cyberattacks/articleshow/134756283.cms",
+          "title": "Snapdragon X2 Plus puts AI at the heart of Lenovo’s new Yoga Slim 7x",
+          "url": "https://economictimes.indiatimes.com/tech/internet/snapdragon-x2-plus-puts-ai-at-the-heart-of-lenovos-new-yoga-slim-7x/articleshow/134781980.cms",
           "source": "ET Tech",
-          "summary": "Two South Korean megachurches are investigating suspected cyberattacks that may have exposed the personal data of hundreds of thousands of congregants, with evidence suggesting AI tools may have been used in the attacks, according to the churches and a cybersecurity firm."
+          "summary": "Qualcomm’s mainstream AI silicon meets Lenovo’s flagship thin-and-light design and Microsoft’s Copilot+ PC software, sharpening the case for Arm-based Windows PCs. The result is a slick, smart, and savvy Lenovo Yoga Slim 7x."
+        },
+        {
+          "title": "AMD CEO Lisa Su courts Korean AI chipmakers as it takes on Nvidia",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amd-ceo-lisa-su-courts-korean-ai-chipmakers-as-it-takes-on-nvidia/articleshow/134779443.cms",
+          "source": "ET Tech",
+          "summary": "AMD Chair and CEO Lisa Su put Korean AI chips at the center of partnership talks in Seoul on Wednesday, exploring how they could work alongside AMD processors in systems built for global markets, reported The Korea Herald."
         },
         {
           "title": "Novice Reliance Calibration in AI-Assisted Decision Making: The Role of Explanations and Self-Assessment",
@@ -254,10 +236,16 @@
           "summary": "arXiv:2610.07800v1 Announce Type: cross Abstract: Artificial Intelligence (AI) tools are widely used to support decision making in tasks and domains where no immediate performance feedback is available. In these settings, users cannot learn to adjust their reliance behavior ov…"
         },
         {
-          "title": "US, China, EU: three paths to regulating AI",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-china-eu-three-paths-to-regulating-ai/articleshow/134755083.cms",
+          "title": "Some guardrails on ChatGPT for Teens don't work as promised, watchdog group says",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/some-guardrails-on-chatgpt-for-teens-dont-work-as-promised-watchdog-group-says/articleshow/134778924.cms",
           "source": "ET Tech",
-          "summary": "The United States, China and the European Union are taking different paths to govern artificial intelligence, as calls grow worldwide to rein in its most powerful systems. The same day, Trump ordered federal agencies to replace the term \"artificial intelligence\" with \"super in…"
+          "summary": "While even adults can fall victim to anthropomorphizing AI and develop unhealthy relationships with it, teenagers' brains are not yet fully developed and they can be particularly vulnerable, child development experts say."
+        },
+        {
+          "title": "Microsoft pushes AI vision with new, expensive Surface laptop",
+          "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-pushes-ai-vision-with-new-expensive-surface-laptop/articleshow/134778495.cms",
+          "source": "ET Tech",
+          "summary": "Microsoft is pushing a \"hybrid intelligence\" future with a new Surface Ultra laptop that runs on Nvidia artificial intelligence (AI) chips and will cost more than $2,500, the company announced Wednesday. The new Surface Ultra will use Nvidia's state-of-the-art AI chip, RTX Spa…"
         }
       ]
     }
