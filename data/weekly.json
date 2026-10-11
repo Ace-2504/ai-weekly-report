@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-10-04 to 2026-10-10",
-  "generated": "2026-10-10T11:32:50.352Z",
-  "intro": "72 AI items this week (35 India-relevant) across 8 sources.",
+  "weekOf": "2026-10-05 to 2026-10-11",
+  "generated": "2026-10-11T11:46:18.975Z",
+  "intro": "72 AI items this week (36 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -37,10 +37,10 @@
           "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance."
         },
         {
-          "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-          "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-          "source": "TechCrunch AI",
-          "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy."
+          "title": "The model that didn't exist, so you made it yourself",
+          "url": "https://huggingface.co/blog/building-with-ml-intern",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -69,18 +69,36 @@
           "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
           "source": "Ars Technica",
           "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another."
-        },
-        {
-          "title": "The Agent Said It Was Done. The Database Disagreed.",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face",
-          "summary": ""
         }
       ]
     },
     {
       "heading": "Industry & Research",
       "items": [
+        {
+          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+          "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "source": "TechCrunch AI",
+          "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+        },
+        {
+          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "source": "TechCrunch AI",
+          "summary": "Is Apple hoping to get into the AI-generated podcast business?"
+        },
+        {
+          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+          "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+          "source": "TechCrunch AI",
+          "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass …"
+        },
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "source": "TechCrunch AI",
+          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+        },
         {
           "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
           "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -92,30 +110,6 @@
           "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
           "source": "TechCrunch AI",
           "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacte…"
-        },
-        {
-          "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-          "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-          "source": "TechCrunch AI",
-          "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacte…"
-        },
-        {
-          "title": "Danu Robotics’ fight to build a better recycling robot",
-          "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-          "source": "TechCrunch AI",
-          "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
-        },
-        {
-          "title": "We can’t help treating AI like it’s human. But should we?",
-          "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-          "source": "TechCrunch AI",
-          "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
-        },
-        {
-          "title": "Impactful scheduling for GPU clusters",
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-          "source": "Hugging Face",
-          "summary": ""
         }
       ]
     },
@@ -123,52 +117,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "OpenAI, Anthropic Prepare For Backlash Over Potential AI Catastrophe: Report",
-          "url": "https://inc42.com/buzz/openai-anthropic-prepare-for-backlash-over-potential-ai-catastrophe-report/",
-          "source": "Inc42",
-          "summary": "OpenAI, Anthropic, and other AI companies are reportedly preparing for the public and political backlash that could follow a catastrophic…"
-        },
-        {
-          "title": "World Mental Health Day: Rest in the Age of AI",
-          "url": "https://yourstory.com/2026/10/world-mental-health-day-rest-in-the-age-of-ai",
-          "source": "YourStory",
-          "summary": "On World Mental Health Day, Gurudev Sri Sri Ravi Shankar explains how AI, screen time and meditation affect creativity, mental wellbeing and human connection."
-        },
-        {
-          "title": "If a startup can reach orbit, India can build AI the world wants: Satyan Gajwani, Chairman, Times Internet",
-          "url": "https://economictimes.indiatimes.com/tech/startups/if-a-startup-can-reach-orbit-india-can-build-ai-the-world-wants-satyan-gajwani/videoshow/134836838.cms",
+          "title": "India's tech push: five things to know",
+          "url": "https://economictimes.indiatimes.com/tech/technology/indias-tech-push-five-things-to-know/articleshow/134868670.cms",
           "source": "ET Tech",
-          "summary": ""
+          "summary": "India has committed billions of dollars in semiconductors, electronics manufacturing and artificial intelligence in a bid to become a global technology powerhouse. India's electronics production rose from about $31 billion in 2014-15 to $133 billion in 2024-25, according to th…"
         },
         {
-          "title": "Where will India's deep tech be in 10 years? Pixxel, Agrani Labs, BrainSight AI founders explain",
-          "url": "https://economictimes.indiatimes.com/tech/startups/where-will-indias-deep-tech-be-in-10-years-pixxel-agrani-labs-brainsight-ai-founders-explain/videoshow/134836290.cms",
+          "title": "Google faces backlash against India data centre",
+          "url": "https://economictimes.indiatimes.com/tech/technology/google-faces-backlash-against-india-data-centre/articleshow/134868659.cms",
           "source": "ET Tech",
-          "summary": ""
+          "summary": "Handcuffs encircle Google's logo on one campaign poster, while another warns that people \"cannot drink data\", as opposition mounts to the tech giant's planned AI mega-facility in India. Still, water use worries residents, especially given plans for Vizag to become a tech megahub."
         },
         {
-          "title": "How Arrowhead Is Using Voice AI To Fix The Gaps In Enterprise Sales And Support",
-          "url": "https://inc42.com/startups/how-arrowhead-is-using-voice-ai-to-fix-the-gaps-in-enterprise-sales-and-support/",
-          "source": "Inc42",
-          "summary": "For years, enterprises hired thousands of human executives to sell loans, answer customer queries and recover abandoned sales. Yet, even…"
+          "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
+          "url": "https://economictimes.indiatimes.com/tech/technology/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china/articleshow/134868642.cms",
+          "source": "ET Tech",
+          "summary": "In March, US prosecutors charged Ting-Wei \"Willy\" Sun and two others associated with Super Micro, including a co-founder, with conspiring to divert about $2.5 billion worth of US AI technology to China in violation of export laws."
         },
         {
-          "title": "The festive sales playbook: How Amazon and Flipkart are winning India’s mega sales",
-          "url": "https://yourstory.com/2026/10/festive-sales-playbook-how-amazon-flipkart-winning-indias-mega-sales",
+          "title": "Most trustworthy AI system demands least inherent model trust: Microsoft CEO Satya Nadella",
+          "url": "https://economictimes.indiatimes.com/tech/technology/most-trustworthy-ai-system-demands-least-inherent-model-trust-microsoft-ceo-satya-nadella/articleshow/134868309.cms",
+          "source": "ET Tech",
+          "summary": "The most trustworthy Super Intelligence system will not be the one powered by the model users trust the most, but rather the system that allows people to trust the model the least, Microsoft CEO Satya Nadella stated in a post on X."
+        },
+        {
+          "title": "Nvidia in talks to invest further in Reflection AI or buy it: FT",
+          "url": "https://economictimes.indiatimes.com/tech/startups/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft/articleshow/134868290.cms",
+          "source": "ET Tech",
+          "summary": "Talks are at an early stage and a deal could take several forms, including a so-called acqui-hire arrangement where Nvidia would hire staff and license technology rather than pursue a full acquisition, potentially avoiding a lengthy regulatory review, the newspaper said."
+        },
+        {
+          "title": "TechSparks masterclass: Gemini, AI, and the business of building better",
+          "url": "https://yourstory.com/2026/10/techsparks-masterclass-gemini-ai-and-the-business-of-building-better",
           "source": "YourStory",
-          "summary": "India’s festive sale showdown sees Amazon and Flipkart racing to dominate non-metro markets, relying on instant quick-commerce deliveries, no-cost financing, and targeted AI tools to turn record traffic into sales."
+          "summary": "At TechSparks 2026, Google Cloud’s Rajesh Shewani will show how businesses can turn Gemini’s capabilities into enterprise advantage."
         },
         {
-          "title": "Anthropic Bans ‘Cruel’ Behaviour Towards AI Models, Tightens Rules On AI Misuse",
-          "url": "https://inc42.com/buzz/anthropic-bans-cruel-behaviour-towards-ai-models-tightens-rules-on-ai-misuse/",
-          "source": "Inc42",
-          "summary": "Anthropic has updated its usage policy to introduce restrictions on “sustained and needless abusive behaviour” towards its AI models. The…"
-        },
-        {
-          "title": "Juspay FY26 revenue rises 30% to Rs 664 Cr as international business and AI bets scale",
-          "url": "https://yourstory.com/2026/10/juspay-fy26-revenue-rises-30-percent-rs-664-crore-international-business-ai-bets-scale",
+          "title": "Design, AI, impact: test your business creativity with Edition 253 of our weekly quiz!",
+          "url": "https://yourstory.com/2026/10/design-ai-impact-entrepreneur-education-creativity-quiz",
           "source": "YourStory",
-          "summary": "Juspay reported a 30% year-on-year increase in FY26 revenue to Rs 664 crore, driven by global expansion and scaling daily transaction volumes, while strategic investments in AI infrastructure widened its net loss."
+          "summary": "Lateral Sparks, the weekly quiz from YourStory, tests your domain knowledge, business acumen, and lateral thinking skills (see the previous edition here). In this 252nd edition of the quiz, we present issues tackled by real-life entrepreneurs in their startup journeys. What wo…"
+        },
+        {
+          "title": "ShuruKar: Your next business could start in your hometown",
+          "url": "https://yourstory.com/2026/10/shurukar-your-next-business-could-start-in-your-hometown",
+          "source": "YourStory",
+          "summary": "YourStory's ShuruKar is a nationwide initiative that combines AI tools, founder mentorship, and local networks to help aspiring entrepreneurs move from identifying a problem to finding their first customer."
         }
       ]
     }
