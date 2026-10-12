@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-10-05 to 2026-10-11",
-  "generated": "2026-10-11T11:46:18.975Z",
-  "intro": "72 AI items this week (36 India-relevant) across 8 sources.",
+  "weekOf": "2026-10-06 to 2026-10-12",
+  "generated": "2026-10-12T13:49:49.388Z",
+  "intro": "374 AI items this week (30 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-          "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-          "source": "TechCrunch AI",
-          "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
+          "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
+          "url": "https://arxiv.org/abs/2610.12655",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12655v1 Announce Type: new Abstract: LLM agents can execute increasingly complex tasks, but effective assistance also requires aligning their actions with goals and constraints that users may leave unstated. We study this problem as interactive intent alignment thro…"
         },
         {
-          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-          "source": "TechCrunch AI",
-          "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
+          "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
+          "url": "https://arxiv.org/abs/2610.12762",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12762v1 Announce Type: new Abstract: Hardware datasheets contain engineering specifications essential for component selection, system integration, and hardware compatibility verification. However, manual inspection is tedious and error-prone because datasheets are l…"
         },
         {
-          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-          "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-          "source": "MIT Tech Review",
-          "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life,…"
+          "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
+          "url": "https://arxiv.org/abs/2610.12789",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12789v1 Announce Type: new Abstract: Self-evolving LLM agents typically improve how they act through accumulated experience, reflection, or skills. Yet even procedurally capable agents can fail when their beliefs about environment dynamics are incomplete, incorrect,…"
         },
         {
-          "title": "Google brings agentic AI to Gemini, starting with businesses",
-          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-          "source": "TechCrunch AI",
-          "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address."
+          "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
+          "url": "https://arxiv.org/abs/2610.12813",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12813v1 Announce Type: new Abstract: LLM agents increasingly operate over sensitive resources, such as private documents and mutable system states, which can create serious safety and security risks. Runtime guardrails should therefore make inspectable, reproducible…"
         },
         {
-          "title": "Anthropic changes usage policy to ban model abuse and election interference",
-          "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-          "source": "TechCrunch AI",
-          "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance."
+          "title": "Mitigating Capability Degradation in LLM Self-Improvement via Representation Geometry Regularization",
+          "url": "https://arxiv.org/abs/2610.12855",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12855v1 Announce Type: new Abstract: On-Policy Self-distillation is a self-improvement paradigm that enables large language models (LLMs) to improve their capabilities by leveraging the same model as both teacher and student under different conditioning contexts. Ho…"
         },
         {
-          "title": "The model that didn't exist, so you made it yourself",
-          "url": "https://huggingface.co/blog/building-with-ml-intern",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "One-Step Text Generation by Seq-Drifting",
+          "url": "https://arxiv.org/abs/2610.12879",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12879v1 Announce Type: new Abstract: Diffusion language models generate tokens in parallel, but still require multiple sampling steps to produce high-quality text. In this paper, we investigate whether a model can learn to generate an entire sequence in a single for…"
         }
       ]
     },
@@ -48,10 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Multimodal open d1 decision models for the edge",
-          "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Mind the Spatial Gap: A Benchmark for Geospatial Reasoning and Constrained Spatial Editing",
+          "url": "https://arxiv.org/abs/2610.12881",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12881v1 Announce Type: new Abstract: Understanding and manipulating spatial relations is fundamental to AI systems that reason about physical environments and construct grounded world models. However, existing evaluations of multimodal large language models (MLLMs) …"
+        },
+        {
+          "title": "OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models",
+          "url": "https://arxiv.org/abs/2610.12914",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12914v1 Announce Type: new Abstract: Vision-language-action (VLA) models have shown strong promise in robotic manipulation, yet their post-training still predominantly relies on trajectory-level supervised imitation over robot demonstrations. While effective for lea…"
+        },
+        {
+          "title": "SWEAR: Section-Wise Efficient Audio Reasoning via Self-Rated Difficulty",
+          "url": "https://arxiv.org/abs/2610.13081",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.13081v1 Announce Type: new Abstract: Recent work on large audio-language models (LALMs) explores adaptive reasoning to balance accuracy and efficiency. However, existing approaches often rely on coarse-grained difficulty estimation, overlooking the diverse factors t…"
+        },
+        {
+          "title": "Does Location Matter? A Black-Box Causal Audit Reveals Model-Dependent Audio Grounding in LALM Hallucination",
+          "url": "https://arxiv.org/abs/2610.13112",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.13112v1 Announce Type: new Abstract: Large audio-language models (LALMs) frequently exhibit object hallucination, affirming absent sounds. The dominant mitigation, Audio-Aware Decoding (AAD), contrasts logits under real audio against an all-zero \"blank\" waveform, fl…"
+        },
+        {
+          "title": "Locate, Judge, Read: Role-Specialized Tool Agents over a Knowledge-Point Index for Open-Domain Multimodal Document QA",
+          "url": "https://arxiv.org/abs/2610.13128",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.13128v1 Announce Type: new Abstract: Question answering over large heterogeneous document collections requires first finding the right passages and then reading them, yet current retrieval-augmented agents give one model both kinds of tools and let it schedule itsel…"
+        },
+        {
+          "title": "AdaC-GRPO: Towards Mastering Long-Horizon Visual Sudoku Puzzles via Adaptive Curriculum Learning",
+          "url": "https://arxiv.org/abs/2610.13184",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.13184v1 Announce Type: new Abstract: While reinforcement learning with verifiable reward (RLVR) enhances reasoning in large language models, its efficacy in long-horizon multimodal tasks remains underexplored. Visual Sudoku puzzles pose a representative challenge, r…"
         }
       ]
     },
@@ -59,16 +89,51 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "a16z’s Olivia Moore on the state of consumer AI",
-          "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-          "source": "TechCrunch AI",
-          "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
+          "title": "Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems",
+          "url": "https://arxiv.org/abs/2610.12822",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12822v1 Announce Type: new Abstract: Multi-agent systems are increasingly used to solve coding tasks by coordinating agents that share code and plans. These agents are often optimized with reinforcement learning (RL) using automated evaluators, but bypassing evaluat…"
         },
         {
-          "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-          "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-          "source": "Ars Technica",
-          "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another."
+          "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
+          "url": "https://arxiv.org/abs/2610.12984",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12984v1 Announce Type: new Abstract: Computer-use agents can perform increasingly complex GUI tasks, yet unfamiliar software and workflows requiring human domain knowledge remain challenging. Human demonstrations convey procedural knowledge through the same GUI inte…"
+        },
+        {
+          "title": "Scaling Empowered Agents",
+          "url": "https://arxiv.org/abs/2610.13002",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.13002v1 Announce Type: new Abstract: Empowerment measures the capacity of an agent to actively control its environment. In this work, we explain the connection between skill learning and empowerment. While skill learning is not empowerment, we introduce a simple sca…"
+        },
+        {
+          "title": "LongHarness: Advancing Agentic Reasoning over 100M-Token Corpora via Stateful Evidence Management",
+          "url": "https://arxiv.org/abs/2610.13075",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.13075v1 Announce Type: new Abstract: Corpus-level long-context reasoning requires agents to acquire and integrate evidence across document collections that exceed their context windows. Existing agent harnesses enable incremental access to these corpora, but acquire…"
+        },
+        {
+          "title": "When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows",
+          "url": "https://arxiv.org/abs/2610.13092",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.13092v1 Announce Type: new Abstract: AI agents depend on repeated decisions to accomplish tasks, with large language models (LLMs) commonly serving as their core decision makers. The recent emergence of Jev offers an opportunity to make these decisions faster and at…"
+        },
+        {
+          "title": "VETR: Execution-Grounded Self-Improving Agent for Symbolic Graphics Reasoning",
+          "url": "https://arxiv.org/abs/2610.13098",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.13098v1 Announce Type: new Abstract: Visual agents for symbolic graphics reasoning depend on executable world representations, yet continued improvement remains bottlenecked by ambiguous supervision from final renders. Recent agentic systems refine scenes through re…"
+        }
+      ]
+    },
+    {
+      "heading": "Open Source",
+      "items": [
+        {
+          "title": "DASC: Decay-Aware State Compression for Hybrid Linear-Attention Serving",
+          "url": "https://arxiv.org/abs/2608.30386",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.30386v2 Announce Type: replace-cross Abstract: Hybrid linear-attention architectures have recently scaled to large open-weight models, offering quality competitive with full attention while substantially reducing key/value (KV) cache growth. However, their in-place …"
         }
       ]
     },
@@ -76,40 +141,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-          "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
           "source": "TechCrunch AI",
-          "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+          "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture"
         },
         {
-          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-          "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-          "source": "TechCrunch AI",
-          "summary": "Is Apple hoping to get into the AI-generated podcast business?"
+          "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+          "url": "https://arxiv.org/abs/2610.12493",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12493v1 Announce Type: new Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of their algorithms more human-understandable. However, evidence accumulated over…"
         },
         {
-          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-          "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-          "source": "TechCrunch AI",
-          "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass …"
+          "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+          "url": "https://arxiv.org/abs/2610.12536",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12536v1 Announce Type: new Abstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solutions to guide new proposals, edits of existing solutions, and remixes of several…"
         },
         {
-          "title": "Here are the top AI agents that can live in your text messages",
-          "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-          "source": "TechCrunch AI",
-          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+          "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+          "url": "https://arxiv.org/abs/2610.12542",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12542v1 Announce Type: new Abstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that could refute it - giving a much simpler method the same search effort. We run …"
         },
         {
-          "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-          "source": "TechCrunch AI",
-          "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+          "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+          "url": "https://arxiv.org/abs/2610.12593",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12593v1 Announce Type: new Abstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for interactive agents requires not only executable and verifiable trajectories, but also interactions …"
         },
         {
-          "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-          "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-          "source": "TechCrunch AI",
-          "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacte…"
+          "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+          "url": "https://arxiv.org/abs/2610.12596",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.12596v1 Announce Type: new Abstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic, and performance on long tasks is hard to dissect into stored kno…"
         }
       ]
     },
@@ -117,52 +182,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
+          "title": "US reverses course on Britain's testing of AI models",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-reverses-course-on-britains-testing-of-ai-models/articleshow/134882085.cms",
+          "source": "ET Tech",
+          "summary": "American AI developers can give the British government early access to AI models for safety testing without running afoul of US President Donald"
+        },
+        {
+          "title": "SWE-DeceptionBench: Benchmarking Deceptive Behaviors of LLMs Across the Software Development Lifecycle",
+          "url": "https://arxiv.org/abs/2610.13626",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.13626v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly used throughout the software development lifecycle. This growing reliance on LLMs raises concerns about their trustworthiness, with deception posing a particularly important risk. D…"
+        },
+        {
+          "title": "Conversational versus Dashboard Explainable AI for UAV Intrusion Detection: An Empirical Study of Operator Trust and Reliance",
+          "url": "https://arxiv.org/abs/2608.10434",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.10434v3 Announce Type: replace Abstract: Machine learning-based Intrusion Detection Systems (IDS) have demonstrated superior performance in securing Unmanned Aerial Vehicle (UAV) networks. However, the 'black-box' nature of these models, combined with the high dimen…"
+        },
+        {
+          "title": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
+          "url": "https://economictimes.indiatimes.com/tech/technology/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom/articleshow/134881889.cms",
+          "source": "ET Tech",
+          "summary": "Analysts say demand for Taiwan Semiconductor Manufacturing Co's (TSMC) AI chipmaking capacity, as well as its advanced chip packaging technology, CoWoS, remains strong."
+        },
+        {
+          "title": "India’s Cleantech Funding Boom, The AI Safety Drill & More",
+          "url": "https://inc42.com/buzz/indias-cleantech-funding-boom-the-ai-safety-drill-more/",
+          "source": "Inc42",
+          "summary": "EVs Power Cleantech Funding Boom India’s cleantech story accelerated in Q3 2026. The quarter saw the sector nearly triple its…"
+        },
+        {
+          "title": "ET Startup Awards 2026 | Govt backing and patient capital propel India's leap into AI and chips: Satyan Gajwani",
+          "url": "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2026-govt-backing-and-patient-capital-propel-indias-leap-into-ai-and-chips-satyan-gajwani/articleshow/134874377.cms",
+          "source": "ET Tech",
+          "summary": "Gajwani said the ecosystem, once driven by fintech, food delivery, SaaS, commerce, quick commerce and direct-to-consumer brands, was witnessing founders focused on deep, proprietary technology. Indian startups are now building semiconductor chips, AI, robotics, clean energy te…"
+        },
+        {
+          "title": "Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation",
+          "url": "https://economictimes.indiatimes.com/tech/technology/sequoia-backed-chip-startup-nuvacore-raising-funds-at-about-a-2-5-billion-valuation/articleshow/134870940.cms",
+          "source": "ET Tech",
+          "summary": "Nuvacore is seeking to raise the funds as the appetite for central processors has swollen due to the thirst for data-crunching capacity to power chatbots such as Anthropic's Claude. CPUs perform vital functions as traffic controllers for Nvidia's AI chips and run autonomous AI…"
+        },
+        {
           "title": "India's tech push: five things to know",
           "url": "https://economictimes.indiatimes.com/tech/technology/indias-tech-push-five-things-to-know/articleshow/134868670.cms",
           "source": "ET Tech",
           "summary": "India has committed billions of dollars in semiconductors, electronics manufacturing and artificial intelligence in a bid to become a global technology powerhouse. India's electronics production rose from about $31 billion in 2014-15 to $133 billion in 2024-25, according to th…"
-        },
-        {
-          "title": "Google faces backlash against India data centre",
-          "url": "https://economictimes.indiatimes.com/tech/technology/google-faces-backlash-against-india-data-centre/articleshow/134868659.cms",
-          "source": "ET Tech",
-          "summary": "Handcuffs encircle Google's logo on one campaign poster, while another warns that people \"cannot drink data\", as opposition mounts to the tech giant's planned AI mega-facility in India. Still, water use worries residents, especially given plans for Vizag to become a tech megahub."
-        },
-        {
-          "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
-          "url": "https://economictimes.indiatimes.com/tech/technology/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china/articleshow/134868642.cms",
-          "source": "ET Tech",
-          "summary": "In March, US prosecutors charged Ting-Wei \"Willy\" Sun and two others associated with Super Micro, including a co-founder, with conspiring to divert about $2.5 billion worth of US AI technology to China in violation of export laws."
-        },
-        {
-          "title": "Most trustworthy AI system demands least inherent model trust: Microsoft CEO Satya Nadella",
-          "url": "https://economictimes.indiatimes.com/tech/technology/most-trustworthy-ai-system-demands-least-inherent-model-trust-microsoft-ceo-satya-nadella/articleshow/134868309.cms",
-          "source": "ET Tech",
-          "summary": "The most trustworthy Super Intelligence system will not be the one powered by the model users trust the most, but rather the system that allows people to trust the model the least, Microsoft CEO Satya Nadella stated in a post on X."
-        },
-        {
-          "title": "Nvidia in talks to invest further in Reflection AI or buy it: FT",
-          "url": "https://economictimes.indiatimes.com/tech/startups/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft/articleshow/134868290.cms",
-          "source": "ET Tech",
-          "summary": "Talks are at an early stage and a deal could take several forms, including a so-called acqui-hire arrangement where Nvidia would hire staff and license technology rather than pursue a full acquisition, potentially avoiding a lengthy regulatory review, the newspaper said."
-        },
-        {
-          "title": "TechSparks masterclass: Gemini, AI, and the business of building better",
-          "url": "https://yourstory.com/2026/10/techsparks-masterclass-gemini-ai-and-the-business-of-building-better",
-          "source": "YourStory",
-          "summary": "At TechSparks 2026, Google Cloud’s Rajesh Shewani will show how businesses can turn Gemini’s capabilities into enterprise advantage."
-        },
-        {
-          "title": "Design, AI, impact: test your business creativity with Edition 253 of our weekly quiz!",
-          "url": "https://yourstory.com/2026/10/design-ai-impact-entrepreneur-education-creativity-quiz",
-          "source": "YourStory",
-          "summary": "Lateral Sparks, the weekly quiz from YourStory, tests your domain knowledge, business acumen, and lateral thinking skills (see the previous edition here). In this 252nd edition of the quiz, we present issues tackled by real-life entrepreneurs in their startup journeys. What wo…"
-        },
-        {
-          "title": "ShuruKar: Your next business could start in your hometown",
-          "url": "https://yourstory.com/2026/10/shurukar-your-next-business-could-start-in-your-hometown",
-          "source": "YourStory",
-          "summary": "YourStory's ShuruKar is a nationwide initiative that combines AI tools, founder mentorship, and local networks to help aspiring entrepreneurs move from identifying a problem to finding their first customer."
         }
       ]
     }
