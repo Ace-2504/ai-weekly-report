@@ -1,7 +1,7 @@
 {
   "weekOf": "2026-10-06 to 2026-10-12",
-  "generated": "2026-10-12T13:49:49.388Z",
-  "intro": "374 AI items this week (30 India-relevant) across 9 sources.",
+  "generated": "2026-10-12T16:16:52.306Z",
+  "intro": "374 AI items this week (31 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -141,6 +141,24 @@
       "heading": "Industry & Research",
       "items": [
         {
+          "title": "Microsoft president says UK is best placed to drive AI regulation",
+          "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
+        },
+        {
+          "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+          "source": "TechCrunch AI",
+          "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch."
+        },
+        {
+          "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+          "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+          "source": "TechCrunch AI",
+          "summary": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket…"
+        },
+        {
           "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
           "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
           "source": "TechCrunch AI",
@@ -157,30 +175,24 @@
           "url": "https://arxiv.org/abs/2610.12536",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2610.12536v1 Announce Type: new Abstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solutions to guide new proposals, edits of existing solutions, and remixes of several…"
-        },
-        {
-          "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
-          "url": "https://arxiv.org/abs/2610.12542",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12542v1 Announce Type: new Abstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that could refute it - giving a much simpler method the same search effort. We run …"
-        },
-        {
-          "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
-          "url": "https://arxiv.org/abs/2610.12593",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12593v1 Announce Type: new Abstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for interactive agents requires not only executable and verifiable trajectories, but also interactions …"
-        },
-        {
-          "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
-          "url": "https://arxiv.org/abs/2610.12596",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12596v1 Announce Type: new Abstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic, and performance on long tasks is hard to dissect into stored kno…"
         }
       ]
     },
     {
       "heading": "India & Subcontinent",
       "items": [
+        {
+          "title": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs",
+          "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-plans-huge-deployment-of-its-own-ai-chips-with-an-eye-on-saving-costs/articleshow/134896014.cms",
+          "source": "ET Tech",
+          "summary": "The Maia 300, as the chip is called, is the third generation of the company's custom chips designed to handle AI data crunching such as coding and carrying out complex business tasks on a user's behalf. Its predecessor is already running Microsoft's in-house AI models, as well…"
+        },
+        {
+          "title": "Brands Have A New Mission: How To Get AI To Say Your Name",
+          "url": "https://inc42.com/features/brands-have-a-new-mission-how-to-get-ai-to-say-your-name/",
+          "source": "Inc42",
+          "summary": "“Have you ever clicked your mouse HERE? You will.” That was the text accompanying the first banner ad on the…"
+        },
         {
           "title": "US reverses course on Britain's testing of AI models",
           "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-reverses-course-on-britains-testing-of-ai-models/articleshow/134882085.cms",
@@ -216,18 +228,6 @@
           "url": "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2026-govt-backing-and-patient-capital-propel-indias-leap-into-ai-and-chips-satyan-gajwani/articleshow/134874377.cms",
           "source": "ET Tech",
           "summary": "Gajwani said the ecosystem, once driven by fintech, food delivery, SaaS, commerce, quick commerce and direct-to-consumer brands, was witnessing founders focused on deep, proprietary technology. Indian startups are now building semiconductor chips, AI, robotics, clean energy te…"
-        },
-        {
-          "title": "Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation",
-          "url": "https://economictimes.indiatimes.com/tech/technology/sequoia-backed-chip-startup-nuvacore-raising-funds-at-about-a-2-5-billion-valuation/articleshow/134870940.cms",
-          "source": "ET Tech",
-          "summary": "Nuvacore is seeking to raise the funds as the appetite for central processors has swollen due to the thirst for data-crunching capacity to power chatbots such as Anthropic's Claude. CPUs perform vital functions as traffic controllers for Nvidia's AI chips and run autonomous AI…"
-        },
-        {
-          "title": "India's tech push: five things to know",
-          "url": "https://economictimes.indiatimes.com/tech/technology/indias-tech-push-five-things-to-know/articleshow/134868670.cms",
-          "source": "ET Tech",
-          "summary": "India has committed billions of dollars in semiconductors, electronics manufacturing and artificial intelligence in a bid to become a global technology powerhouse. India's electronics production rose from about $31 billion in 2014-15 to $133 billion in 2024-25, according to th…"
         }
       ]
     }
