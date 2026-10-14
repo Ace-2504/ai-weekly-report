@@ -1,11 +1,17 @@
 {
-  "weekOf": "2026-10-07 to 2026-10-13",
-  "generated": "2026-10-13T13:07:59.734Z",
-  "intro": "375 AI items this week (32 India-relevant) across 8 sources.",
+  "weekOf": "2026-10-08 to 2026-10-14",
+  "generated": "2026-10-14T10:48:48.556Z",
+  "intro": "72 AI items this week (39 India-relevant) across 7 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
+        {
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "source": "Google AI Blog",
+          "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+        },
         {
           "title": "Open models have real benefits. Do they outweigh the risks?",
           "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
@@ -13,34 +19,28 @@
           "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a ma…"
         },
         {
-          "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
-          "url": "https://arxiv.org/abs/2610.12655",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12655v1 Announce Type: new Abstract: LLM agents can execute increasingly complex tasks, but effective assistance also requires aligning their actions with goals and constraints that users may leave unstated. We study this problem as interactive intent alignment thro…"
+          "title": "Meta releases its first frontier model, Muse Wonder",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "source": "TechCrunch AI",
+          "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
         },
         {
-          "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
-          "url": "https://arxiv.org/abs/2610.12762",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12762v1 Announce Type: new Abstract: Hardware datasheets contain engineering specifications essential for component selection, system integration, and hardware compatibility verification. However, manual inspection is tedious and error-prone because datasheets are l…"
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "source": "MIT Tech Review",
+          "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life,…"
         },
         {
-          "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
-          "url": "https://arxiv.org/abs/2610.12789",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12789v1 Announce Type: new Abstract: Self-evolving LLM agents typically improve how they act through accumulated experience, reflection, or skills. Yet even procedurally capable agents can fail when their beliefs about environment dynamics are incomplete, incorrect,…"
+          "title": "The model that didn't exist, so you made it yourself",
+          "url": "https://huggingface.co/blog/building-with-ml-intern",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
-          "url": "https://arxiv.org/abs/2610.12813",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12813v1 Announce Type: new Abstract: LLM agents increasingly operate over sensitive resources, such as private documents and mutable system states, which can create serious safety and security risks. Runtime guardrails should therefore make inspectable, reproducible…"
-        },
-        {
-          "title": "Mitigating Capability Degradation in LLM Self-Improvement via Representation Geometry Regularization",
-          "url": "https://arxiv.org/abs/2610.12855",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12855v1 Announce Type: new Abstract: On-Policy Self-distillation is a self-improvement paradigm that enables large language models (LLMs) to improve their capabilities by leveraging the same model as both teacher and student under different conditioning contexts. Ho…"
+          "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -48,40 +48,10 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "One-Step Text Generation by Seq-Drifting",
-          "url": "https://arxiv.org/abs/2610.12879",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12879v1 Announce Type: new Abstract: Diffusion language models generate tokens in parallel, but still require multiple sampling steps to produce high-quality text. In this paper, we investigate whether a model can learn to generate an entire sequence in a single for…"
-        },
-        {
-          "title": "Mind the Spatial Gap: A Benchmark for Geospatial Reasoning and Constrained Spatial Editing",
-          "url": "https://arxiv.org/abs/2610.12881",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12881v1 Announce Type: new Abstract: Understanding and manipulating spatial relations is fundamental to AI systems that reason about physical environments and construct grounded world models. However, existing evaluations of multimodal large language models (MLLMs) …"
-        },
-        {
-          "title": "OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models",
-          "url": "https://arxiv.org/abs/2610.12914",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12914v1 Announce Type: new Abstract: Vision-language-action (VLA) models have shown strong promise in robotic manipulation, yet their post-training still predominantly relies on trajectory-level supervised imitation over robot demonstrations. While effective for lea…"
-        },
-        {
-          "title": "SWEAR: Section-Wise Efficient Audio Reasoning via Self-Rated Difficulty",
-          "url": "https://arxiv.org/abs/2610.13081",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.13081v1 Announce Type: new Abstract: Recent work on large audio-language models (LALMs) explores adaptive reasoning to balance accuracy and efficiency. However, existing approaches often rely on coarse-grained difficulty estimation, overlooking the diverse factors t…"
-        },
-        {
-          "title": "Does Location Matter? A Black-Box Causal Audit Reveals Model-Dependent Audio Grounding in LALM Hallucination",
-          "url": "https://arxiv.org/abs/2610.13112",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.13112v1 Announce Type: new Abstract: Large audio-language models (LALMs) frequently exhibit object hallucination, affirming absent sounds. The dominant mitigation, Audio-Aware Decoding (AAD), contrasts logits under real audio against an all-zero \"blank\" waveform, fl…"
-        },
-        {
-          "title": "Locate, Judge, Read: Role-Specialized Tool Agents over a Knowledge-Point Index for Open-Domain Multimodal Document QA",
-          "url": "https://arxiv.org/abs/2610.13128",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.13128v1 Announce Type: new Abstract: Question answering over large heterogeneous document collections requires first finding the right passages and then reading them, yet current retrieval-augmented agents give one model both kinds of tools and let it schedule itsel…"
+          "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+          "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+          "source": "TechCrunch AI",
+          "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
         }
       ]
     },
@@ -93,47 +63,6 @@
           "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
           "source": "TechCrunch AI",
           "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows."
-        },
-        {
-          "title": "Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems",
-          "url": "https://arxiv.org/abs/2610.12822",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12822v1 Announce Type: new Abstract: Multi-agent systems are increasingly used to solve coding tasks by coordinating agents that share code and plans. These agents are often optimized with reinforcement learning (RL) using automated evaluators, but bypassing evaluat…"
-        },
-        {
-          "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
-          "url": "https://arxiv.org/abs/2610.12984",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12984v1 Announce Type: new Abstract: Computer-use agents can perform increasingly complex GUI tasks, yet unfamiliar software and workflows requiring human domain knowledge remain challenging. Human demonstrations convey procedural knowledge through the same GUI inte…"
-        },
-        {
-          "title": "Scaling Empowered Agents",
-          "url": "https://arxiv.org/abs/2610.13002",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.13002v1 Announce Type: new Abstract: Empowerment measures the capacity of an agent to actively control its environment. In this work, we explain the connection between skill learning and empowerment. While skill learning is not empowerment, we introduce a simple sca…"
-        },
-        {
-          "title": "LongHarness: Advancing Agentic Reasoning over 100M-Token Corpora via Stateful Evidence Management",
-          "url": "https://arxiv.org/abs/2610.13075",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.13075v1 Announce Type: new Abstract: Corpus-level long-context reasoning requires agents to acquire and integrate evidence across document collections that exceed their context windows. Existing agent harnesses enable incremental access to these corpora, but acquire…"
-        },
-        {
-          "title": "When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows",
-          "url": "https://arxiv.org/abs/2610.13092",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.13092v1 Announce Type: new Abstract: AI agents depend on repeated decisions to accomplish tasks, with large language models (LLMs) commonly serving as their core decision makers. The recent emergence of Jev offers an opportunity to make these decisions faster and at…"
-        }
-      ]
-    },
-    {
-      "heading": "Open Source",
-      "items": [
-        {
-          "title": "DASC: Decay-Aware State Compression for Hybrid Linear-Attention Serving",
-          "url": "https://arxiv.org/abs/2608.30386",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.30386v2 Announce Type: replace-cross Abstract: Hybrid linear-attention architectures have recently scaled to large open-weight models, offering quality competitive with full attention while substantially reducing key/value (KV) cache growth. However, their in-place …"
         }
       ]
     },
@@ -141,40 +70,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-          "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+          "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
           "source": "TechCrunch AI",
-          "summary": "The startup will sell some of its assets to Disney for $20 million."
+          "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
         },
         {
-          "title": "AI labs are buying data from dead startups to train their models",
-          "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-          "source": "MIT Tech Review",
-          "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code…"
+          "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+          "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+          "source": "TechCrunch AI",
+          "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
         },
         {
-          "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
-          "url": "https://arxiv.org/abs/2610.12493",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12493v1 Announce Type: new Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of their algorithms more human-understandable. However, evidence accumulated over…"
+          "title": "Cerebras CEO pushes back on AI doomsday warnings",
+          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+          "source": "TechCrunch AI",
+          "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits."
         },
         {
-          "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
-          "url": "https://arxiv.org/abs/2610.12536",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12536v1 Announce Type: new Abstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solutions to guide new proposals, edits of existing solutions, and remixes of several…"
+          "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+          "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+          "source": "TechCrunch AI",
+          "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
         },
         {
-          "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
-          "url": "https://arxiv.org/abs/2610.12542",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12542v1 Announce Type: new Abstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that could refute it - giving a much simpler method the same search effort. We run …"
+          "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+          "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+          "source": "TechCrunch AI",
+          "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
         },
         {
-          "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
-          "url": "https://arxiv.org/abs/2610.12593",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.12593v1 Announce Type: new Abstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for interactive agents requires not only executable and verifiable trajectories, but also interactions …"
+          "title": "Facebook is giving users more control over their algorithm",
+          "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+          "source": "TechCrunch AI",
+          "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
         }
       ]
     },
@@ -182,52 +111,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "High data centre, chip costs and cheaper AI models pose risks to capacity usage: Infosys CEO",
-          "url": "https://economictimes.indiatimes.com/tech/information-tech/high-data-centre-chip-costs-and-cheaper-ai-models-pose-risks-to-capacity-usage-infosys-ceo/articleshow/134918407.cms",
+          "title": "Apple vs OpenAI: What the trade secret theft lawsuit is about",
+          "url": "https://economictimes.indiatimes.com/tech/technology/apple-vs-openai-what-the-trade-secret-theft-lawsuit-is-about/articleshow/134937124.cms",
           "source": "ET Tech",
-          "summary": "High data centre and chip costs, coupled with emerging AI models offering cheaper inference, pose risks to AI infrastructure investments and future capacity utilisation, Infosys CEO Salil Parekh said."
+          "summary": "In the lawsuit, which was filed in July, Apple accused OpenAI, io Products and two former employees, Chang Liu and Yu-Ting “Alyssa” Peng, of taking or using its trade secrets and breaking confidentiality agreements."
         },
         {
-          "title": "Clueso Bags $10 Mn To Automate Enterprise Video Creation With AI Agents",
-          "url": "https://inc42.com/buzz/clueso-bags-10-mn-to-automate-enterprise-video-creation-with-ai-agents/",
+          "title": "Spill Games Raises $10.5 Mn To Scale AI-Led Mobile Gaming Studio",
+          "url": "https://inc42.com/buzz/spill-games-raises-10-5-mn-to-scale-ai-led-mobile-gaming-studio/",
           "source": "Inc42",
-          "summary": "AI video startup Clueso has raised $10 Mn (about ₹95 Cr) in a Series A funding round led by Dharana…"
+          "summary": "Mobile gaming studio Spill Games has raised $10.5 Mn (about ₹100 Cr) in a Series A round led by Elevation…"
         },
         {
-          "title": "Hostinger’s Auksė Žirgulė on winning customer experience in the AI era",
-          "url": "https://yourstory.com/2026/10/customer-obsession-the-foundation-hostinger-aukse-zirgule-techsparks",
-          "source": "YourStory",
-          "summary": "Žirgulė highlighted on how AI tools are changing the way businesses are built, customer expectations are changing and how experimentation is now the key to success."
-        },
-        {
-          "title": "US, India must deepen cooperation on AI, semiconductors for shared security: Gina Raimondo",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-india-must-deepen-cooperation-on-ai-semiconductors-for-shared-security-gina-raimondo/articleshow/134912781.cms",
+          "title": "Why AI makes computer worms harder to stop",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/why-ai-makes-computer-worms-harder-to-stop/articleshow/134932397.cms",
           "source": "ET Tech",
-          "summary": "She recalled that during an earlier meeting with Prime Minister Narendra Modi, their conversation centred on AI and the potential for India and the United States to collaborate in the field."
+          "summary": "Anthropic's warning that AI-powered \"worms\" could soon spread across smart gadgets is the latest in a series of studies showing how artificial intelligence could supercharge self-spreading malware. A computer worm is malicious software that spreads between devices on its own."
         },
         {
-          "title": "Fundamentum Frontier Advisors Marks First Close Of ₹3,000 Cr Deeptech-Focused Fund",
-          "url": "https://inc42.com/buzz/fundamentum-frontier-advisors-marks-first-close-of-%e2%82%b93000-cr-deeptech-focused-fund/",
+          "title": "EU takes a page from Ireland's AI playbook",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-takes-a-page-from-irelands-ai-playbook/articleshow/134931453.cms",
+          "source": "ET Tech",
+          "summary": "The EU wants to catch up in the AI race by taking a cue from Ireland -- an early adopter of the technology which has rolled out the red carpet for data centres despite local backlash. The EU wants to ramp up its capacity and is pouring billions into so-called AI gigafactories …"
+        },
+        {
+          "title": "Agentic AI Startup RevRag.AI Nets $2.5 Mn To Build AI Relationship Managers For Lenders And Insurers",
+          "url": "https://inc42.com/buzz/fintech-saas-startup-revrag-ai-nets-2-5-mn-to-build-ai-relationship-managers-for-lenders-and-insurers/",
           "source": "Inc42",
-          "summary": "Ex-Fundamentum’s cofounder Ashish Kumar’s VC firm Fundamentum Frontier Advisors (F2A) has marked the first close of its growth-stage AI and…"
+          "summary": "Agentic AI startup RevRag.AI has raised $2.5 Mn (about ₹24 Cr) in a seed funding round led by Accion Ventures…"
         },
         {
-          "title": "AI could outperform 90% of coders in six months: Zoho's Sridhar Vembu",
-          "url": "https://yourstory.com/2026/10/ai-could-outperform-coders-in-months-zoho-sridhar-vembu",
-          "source": "YourStory",
-          "summary": "At TechSparks 2026, Zoho’s Sridhar Vembu spoke about why software automation is not nessarily a crisis, urging the nation to focus on technological ownership, hardware foundations, and self-reliance over foreign IP dependency."
+          "title": "SoftBank junk bond sale raises stakes for CEO Son's all-in AI bet",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-junk-bond-sale-raises-stakes-for-ceo-sons-all-in-ai-bet/articleshow/134930375.cms",
+          "source": "ET Tech",
+          "summary": "SoftBank's promise to pay its highest-ever yields in a record $11 billion junk-bond offering highlights the pressure on CEO Masayoshi Son to secure returns on his all-in bet on AI amid concerns about possible overheating in the market."
         },
         {
-          "title": "Can AI find the right antibody for a drug target? ImmunitoAI thinks so",
-          "url": "https://yourstory.com/2026/10/tech30-immunitoai-bengaluru-startup-antibody-drugs",
-          "source": "YourStory",
-          "summary": "ImmunitoAI’s platform designs antibodies for specific disease targets, which the startup then tests in its own laboratory."
+          "title": "Anthropic seeks rehearing of case over Pentagon's security risk branding",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-seeks-rehearing-of-case-over-pentagons-security-risk-branding/articleshow/134930323.cms",
+          "source": "ET Tech",
+          "summary": "Anthropic asked a US appeals court on Tuesday to reconsider a ruling that upheld the Pentagon's decision to label the AI company as a national security supply chain risk over a dispute about safety guardrails on its technology."
         },
         {
-          "title": "Segritech is using AI to grade fruits and improve farmers' earnings",
-          "url": "https://yourstory.com/2026/10/tech30-segritech-ai-grade-fruits-improve-farmers-earnings",
+          "title": "TechSparks 2026: Here’s all that’s happening on Day 2",
+          "url": "https://yourstory.com/2026/10/techsparks-2026-day-2-agenda-speakers",
           "source": "YourStory",
-          "summary": "Hyderabad-based agritech startup Segritech builds compact, AI-powered fruit grading machines and is developing autonomous harvesting robots to help farmers get better prices for their produce."
+          "summary": "Day two of TechSparks 2026 brings Vibecode30, agentic AI, deeptech capital and more, with speakers from Stripe, Swiggy and Peak XV."
         }
       ]
     }
