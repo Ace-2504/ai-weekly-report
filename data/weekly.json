@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-10-08 to 2026-10-14",
-  "generated": "2026-10-14T10:48:48.556Z",
-  "intro": "72 AI items this week (39 India-relevant) across 7 sources.",
+  "weekOf": "2026-10-09 to 2026-10-15",
+  "generated": "2026-10-15T10:31:32.536Z",
+  "intro": "1419 AI items this week (49 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Gemini 4 Argon: Built to solve your hardest problems",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-          "source": "Google AI Blog",
-          "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+          "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+          "url": "https://arxiv.org/abs/2610.14005",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than…"
         },
         {
-          "title": "Open models have real benefits. Do they outweigh the risks?",
-          "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-          "source": "MIT Tech Review",
-          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a ma…"
+          "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+          "url": "https://arxiv.org/abs/2610.14118",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shell…"
         },
         {
-          "title": "Meta releases its first frontier model, Muse Wonder",
-          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-          "source": "TechCrunch AI",
-          "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
+          "title": "Unconstrained CTI-REALM with Open-Weights",
+          "url": "https://arxiv.org/abs/2610.14180",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14180v1 Announce Type: new Abstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive closed frontier models. We study that choice on CTI-REALM (…"
         },
         {
-          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-          "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-          "source": "MIT Tech Review",
-          "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life,…"
+          "title": "Visualizing the World Model in an Agent's Value Function",
+          "url": "https://arxiv.org/abs/2610.14186",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everything about a state fixed, besides a targeted change, to expl…"
         },
         {
-          "title": "The model that didn't exist, so you made it yourself",
-          "url": "https://huggingface.co/blog/building-with-ml-intern",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
+          "url": "https://arxiv.org/abs/2610.14190",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14190v1 Announce Type: new Abstract: Explaining a vision--language model (VLM) prediction requires tracing training-example influence to the multimodal evidence that mediates it, yet existing attribution methods largely operate only at the sample level. Recent laten…"
         },
         {
-          "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Harness^2: Recursive Agent Harnessing for an Open World",
+          "url": "https://arxiv.org/abs/2610.14224",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14224v1 Announce Type: new Abstract: LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these harnesses. However, deploying R…"
         }
       ]
     },
@@ -48,10 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-          "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-          "source": "TechCrunch AI",
-          "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
+          "title": "Correction Training for Diffusion Models",
+          "url": "https://arxiv.org/abs/2610.14136",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predic…"
+        },
+        {
+          "title": "Controllable Diverse Sampling through Pullback Directions",
+          "url": "https://arxiv.org/abs/2610.14294",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14294v1 Announce Type: new Abstract: Conditional diffusion models can generate high-quality images that align closely with a given prompt. However, samples generated from different random seeds may remain visually similar, limiting creative exploration. Existing app…"
+        },
+        {
+          "title": "Reels-RSI: Program-Level Self-Improvement for Code-Rendered Explainer Videos",
+          "url": "https://arxiv.org/abs/2610.14495",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14495v1 Announce Type: new Abstract: Explainer videos -- a worked geometry problem, why the sky is blue, how a dynasty fell -- are usually one more target for pixel video generation. We argue they are a different kind of artifact: a program (script, storyboard and p…"
+        },
+        {
+          "title": "Are Multimodal Benchmarks Really Useful? Item-Level Multimodal Benchmark Diagnosis via Structure-Response Co-Calibration",
+          "url": "https://arxiv.org/abs/2610.14542",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14542v1 Announce Type: new Abstract: Multimodal benchmarks are central to evaluating whether models can reason over information from multiple modalities. However, existing literature has revealed that some benchmarks may contain shortcut items that can be answered f…"
+        },
+        {
+          "title": "Decoupling Knowledge Forgetting and Refusal Learning in MLLM Unlearning",
+          "url": "https://arxiv.org/abs/2610.14605",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14605v1 Announce Type: new Abstract: Current evaluations of multimodal unlearning typically focus on whether a model stops outputting target information. This surface-level criterion, however, masks two critical failure modes. First, knowledge suppression techniques…"
+        },
+        {
+          "title": "AegisVox: Factorized Privacy and Clinical Preservation for Long-Form Speech",
+          "url": "https://arxiv.org/abs/2610.14643",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14643v1 Announce Type: new Abstract: Clinical speech reveals identity through both spoken identifiers and voice, yet its pauses, delivery, and speaker roles can also carry useful clinical evidence. Protecting that speech therefore requires more than preserving its w…"
         }
       ]
     },
@@ -59,10 +89,81 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-          "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-          "source": "TechCrunch AI",
-          "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows."
+          "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+          "url": "https://arxiv.org/abs/2610.14146",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (L…"
+        },
+        {
+          "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
+          "url": "https://arxiv.org/abs/2610.14209",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14209v1 Announce Type: new Abstract: The most accurate agents executing user-provided tasks are driven by large, cloud-hosted models, which solve them by reading the private data of the user. Agents powered by models small enough to run on edge devices keep that dat…"
+        },
+        {
+          "title": "Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions",
+          "url": "https://arxiv.org/abs/2610.14334",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14334v1 Announce Type: new Abstract: In Model Context Protocol (MCP) systems, LLMs select tools from metadata rather than from their implementations. Names and descriptions summarize what a tool does, while the parameter schema specifies the fields a tool accepts an…"
+        },
+        {
+          "title": "ANASSA: From High-Level Framework to Low-Level Architecture for Spatial Agentic AI",
+          "url": "https://arxiv.org/abs/2610.14382",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14382v1 Announce Type: new Abstract: Agentic AI systems operating over geospatial data require more than autonomous reasoning and tool use; they must also support explicit orchestration, spatial validation, governance, provenance, failure handling, and human decisio…"
+        },
+        {
+          "title": "CB-Agent: Concept-Based In-Context Learning for Sequential Action Selection",
+          "url": "https://arxiv.org/abs/2610.14574",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14574v1 Announce Type: new Abstract: In-context learning (ICL) allows large language models to use demonstrations without updating their parameters. For interactive agents, demonstrations are trajectories of reasoning, actions, and observations that illustrate how t…"
+        },
+        {
+          "title": "RASSG: Repair-Aware Semantic Survival Gating for Streaming Tool Execution",
+          "url": "https://arxiv.org/abs/2610.14659",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14659v1 Announce Type: new Abstract: Streaming speech assistants can launch tools before users finish speaking, overlapping execution with incoming speech to reduce user waiting time. However, subsequent self-corrections can invalidate apparently stable arguments, c…"
+        }
+      ]
+    },
+    {
+      "heading": "Open Source",
+      "items": [
+        {
+          "title": "Measuring the Inference Energy Efficiency of Open-Weight LLMs across Benchmarks, Reasoning Modes, and Hardware",
+          "url": "https://arxiv.org/abs/2610.14389",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14389v1 Announce Type: new Abstract: Benchmark scores tell us what an LLM can do, but not how much energy is required to deliver that capability. We directly measure this trade-off for 86 open-weight model checkpoints, evaluated on seven benchmarks and six hardware …"
+        },
+        {
+          "title": "REVEAL: Reverse Engineering Agentic Latents from Frontier-Model Traces",
+          "url": "https://arxiv.org/abs/2610.16288",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.16288v2 Announce Type: new Abstract: Frontier LLM agents perform complex interactive tasks, but their inference costs motivate transferring their experience to smaller open-source agents. Distillation and latent communication typically require target-model training …"
+        },
+        {
+          "title": "Glasseek: A Transparent Recipe for Training and Trustworthy Evaluation of DeepSearch Agents",
+          "url": "https://arxiv.org/abs/2610.16998",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.16998v1 Announce Type: new Abstract: Deep search enables language agents to solve complex information-seeking tasks through iterative web exploration. However, developing robust open-source agents remains challenging for three reasons. First, opaque trajectory-const…"
+        },
+        {
+          "title": "The Agent Knew: Internal States Forecast Unauthorized Actions and Stop Them, and the Lies That Follow",
+          "url": "https://arxiv.org/abs/2610.17301",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.17301v1 Announce Type: new Abstract: Language-model agents sometimes act beyond their authorization and then misreport what they did. On CAPE-Bench, matched agent tasks in which one fact decides whether an action is authorized, frontier open-weight agents do both, a…"
+        },
+        {
+          "title": "AIPOCH Open-Science: An Open-Source AI Research Workbench with Reproducible .science Packages",
+          "url": "https://arxiv.org/abs/2610.17110",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.17110v1 Announce Type: cross Abstract: AI-assisted research leaves instructions, computations, artifact revisions and checks whose relationships matter when another researcher receives the work. We present AIPOCH Open-Science, an open-source research workbench with …"
+        },
+        {
+          "title": "Misaligned Clinical Risk Classification and Cost Asymmetry in Open-Weight Large Language Models",
+          "url": "https://arxiv.org/abs/2609.23999",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.23999v3 Announce Type: replace-cross Abstract: How large language models (LLMs) integrate patient risk with clinical cost tradeoffs remains poorly understood. We investigated how four open-weight LLMs (Qwen-2.5-7B/32B and Llama-3.1-8B/70B) internally represent cost …"
         }
       ]
     },
@@ -70,40 +171,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+          "title": "Figma announces new features to define how agents work on its platform",
+          "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
           "source": "TechCrunch AI",
-          "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
+          "summary": "Figma is also releasing its code layers feature in open beta."
         },
         {
-          "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-          "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-          "source": "TechCrunch AI",
-          "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
+          "title": "The Silent Failures in Agentic Data Science",
+          "url": "https://arxiv.org/abs/2610.14115",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formu…"
         },
         {
-          "title": "Cerebras CEO pushes back on AI doomsday warnings",
-          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-          "source": "TechCrunch AI",
-          "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits."
+          "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+          "url": "https://arxiv.org/abs/2610.14149",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-insti…"
         },
         {
-          "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-          "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-          "source": "TechCrunch AI",
-          "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
+          "title": "Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference",
+          "url": "https://arxiv.org/abs/2610.14277",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14277v1 Announce Type: new Abstract: Tensor parallelism ends every layer with an all-reduce that sits between two dependent matrix multiplications, so its cost cannot be hidden and grows as compute outpaces interconnect bandwidth. Sending 4-bit instead of 16-bit val…"
         },
         {
-          "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-          "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-          "source": "TechCrunch AI",
-          "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
+          "title": "ConicFlow: constrained Inference-time optimal control for flow matching models",
+          "url": "https://arxiv.org/abs/2610.14307",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14307v1 Announce Type: new Abstract: We propose ConicFlow, which frames constrained sampling from a flow matching model at inference time as an optimal control problem that balances deviation from the pretrained trajectory against reward, subject to hard terminal co…"
         },
         {
-          "title": "Facebook is giving users more control over their algorithm",
-          "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-          "source": "TechCrunch AI",
-          "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
+          "title": "Actionable Meta-Requirements for AI Robustness Auditing",
+          "url": "https://arxiv.org/abs/2610.14356",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.14356v1 Announce Type: new Abstract: AI-enabled systems must remain dependable when the conditions under which they operate change (e.g., due to input perturbations, distribution shifts, or changes in external dependencies). This makes robustness auditing of such sy…"
         }
       ]
     },
@@ -111,52 +212,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Apple vs OpenAI: What the trade secret theft lawsuit is about",
-          "url": "https://economictimes.indiatimes.com/tech/technology/apple-vs-openai-what-the-trade-secret-theft-lawsuit-is-about/articleshow/134937124.cms",
-          "source": "ET Tech",
-          "summary": "In the lawsuit, which was filed in July, Apple accused OpenAI, io Products and two former employees, Chang Liu and Yu-Ting “Alyssa” Peng, of taking or using its trade secrets and breaking confidentiality agreements."
-        },
-        {
-          "title": "Spill Games Raises $10.5 Mn To Scale AI-Led Mobile Gaming Studio",
-          "url": "https://inc42.com/buzz/spill-games-raises-10-5-mn-to-scale-ai-led-mobile-gaming-studio/",
+          "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In October",
+          "url": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-october/",
           "source": "Inc42",
-          "summary": "Mobile gaming studio Spill Games has raised $10.5 Mn (about ₹100 Cr) in a Series A round led by Elevation…"
+          "summary": "India’s AI story is moving beyond the model. Until last year, the big question in Indian boardrooms was which large…"
         },
         {
-          "title": "Why AI makes computer worms harder to stop",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/why-ai-makes-computer-worms-harder-to-stop/articleshow/134932397.cms",
-          "source": "ET Tech",
-          "summary": "Anthropic's warning that AI-powered \"worms\" could soon spread across smart gadgets is the latest in a series of studies showing how artificial intelligence could supercharge self-spreading malware. A computer worm is malicious software that spreads between devices on its own."
-        },
-        {
-          "title": "EU takes a page from Ireland's AI playbook",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-takes-a-page-from-irelands-ai-playbook/articleshow/134931453.cms",
-          "source": "ET Tech",
-          "summary": "The EU wants to catch up in the AI race by taking a cue from Ireland -- an early adopter of the technology which has rolled out the red carpet for data centres despite local backlash. The EU wants to ramp up its capacity and is pouring billions into so-called AI gigafactories …"
-        },
-        {
-          "title": "Agentic AI Startup RevRag.AI Nets $2.5 Mn To Build AI Relationship Managers For Lenders And Insurers",
-          "url": "https://inc42.com/buzz/fintech-saas-startup-revrag-ai-nets-2-5-mn-to-build-ai-relationship-managers-for-lenders-and-insurers/",
+          "title": "How Ubiqedge Is Giving Old Industrial Machines An AIoT Upgrade",
+          "url": "https://inc42.com/startups/how-ubiqedge-is-giving-old-industrial-machines-an-aiot-upgrade/",
           "source": "Inc42",
-          "summary": "Agentic AI startup RevRag.AI has raised $2.5 Mn (about ₹24 Cr) in a seed funding round led by Accion Ventures…"
+          "summary": "Nobody on a factory floor wakes up wanting AI, Internet of Things (IoT) systems or a smarter dashboard. Their job…"
         },
         {
-          "title": "SoftBank junk bond sale raises stakes for CEO Son's all-in AI bet",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-junk-bond-sale-raises-stakes-for-ceo-sons-all-in-ai-bet/articleshow/134930375.cms",
+          "title": "Confido Health Raises $12.5 Mn To Automate Healthcare Administration With AI",
+          "url": "https://inc42.com/buzz/confido-health-raises-12-5-mn-to-automate-healthcare-administration-with-ai/",
+          "source": "Inc42",
+          "summary": "US-based AI healthtech startup Confido Health has raised $12.5 Mn (about ₹119 Cr) in a Series A extension led by…"
+        },
+        {
+          "title": "OpenAI flags AI adoption gap in Europe despite 8-fold surge in agent use among small businesses",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-flags-ai-adoption-gap-in-europe-despite-8-fold-surge-in-agent-use-among-small-businesses/articleshow/134959429.cms",
           "source": "ET Tech",
-          "summary": "SoftBank's promise to pay its highest-ever yields in a record $11 billion junk-bond offering highlights the pressure on CEO Masayoshi Son to secure returns on his all-in bet on AI amid concerns about possible overheating in the market."
+          "summary": "OpenAI has highlighted a widening opportunity for European businesses to turn growing artificial intelligence (AI) adoption into higher productivity, as AI agents now account for more than half of the output generated through its enterprise and business platforms in the Europe…"
         },
         {
-          "title": "Anthropic seeks rehearing of case over Pentagon's security risk branding",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-seeks-rehearing-of-case-over-pentagons-security-risk-branding/articleshow/134930323.cms",
+          "title": "Shamrock AI Bags $5 Mn To Help Enterprises Deploy AI Agents Reliably",
+          "url": "https://inc42.com/buzz/shamrock-ai-bags-5-mn-to-help-enterprises-deploy-ai-agents-reliably/",
+          "source": "Inc42",
+          "summary": "Enterprise AI startup Shamrock AI has raised $5 Mn (about ₹47.4 Cr) in a seed funding round led by Endiya…"
+        },
+        {
+          "title": "TSMC Q3 profit jumps 69% to record, beating expectations",
+          "url": "https://economictimes.indiatimes.com/tech/technology/tsmc-q3-profit-jumps-69-to-record-beating-expectations/articleshow/134958500.cms",
           "source": "ET Tech",
-          "summary": "Anthropic asked a US appeals court on Tuesday to reconsider a ruling that upheld the Pentagon's decision to label the AI company as a national security supply chain risk over a dispute about safety guardrails on its technology."
+          "summary": "TSMC, the world's largest contract chipmaker, posted a 69% jump in third-quarter net profit on Thursday, beating market forecasts and hitting a record, thanks to soaring global demand for its AI processors."
         },
         {
-          "title": "TechSparks 2026: Here’s all that’s happening on Day 2",
-          "url": "https://yourstory.com/2026/10/techsparks-2026-day-2-agenda-speakers",
+          "title": "Peak XV is taking bigger bets as Indian startups grow more ambitious: Mohit Bhatnagar",
+          "url": "https://yourstory.com/2026/10/ambition-of-indian-founders-has-grown-bigger-mohit-bhatnagar-of-peak-xv",
           "source": "YourStory",
-          "summary": "Day two of TechSparks 2026 brings Vibecode30, agentic AI, deeptech capital and more, with speakers from Stripe, Swiggy and Peak XV."
+          "summary": "At TechSparks 2026, Peak XV's Managing Director Mohit Bhatnagar said the venture capital firm is increasingly willing to back ambitious, high-risk startups as AI opens up new opportunities for Indian founders to build global companies."
+        },
+        {
+          "title": "AI credit default swap spreads widen sharply",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-credit-default-swap-spreads-widen-sharply/articleshow/134958105.cms",
+          "source": "ET Tech",
+          "summary": "Five-year credit default swap spreads at cloud computing giant Oracle widened by 26 basis points overnight to a record 288 bps, according S&P Global Market Intelligence."
         }
       ]
     }
