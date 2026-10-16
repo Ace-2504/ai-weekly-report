@@ -1,149 +1,149 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "top": {
-    "title": "Figma announces new features to define how agents work on its platform",
-    "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-    "source": "TechCrunch AI",
-    "published": "2026-10-15T04:30:00.000Z",
-    "summary": "Figma is also releasing its code layers feature in open beta."
+    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+    "url": "https://arxiv.org/abs/2610.20665",
+    "source": "arXiv cs.AI",
+    "published": "2026-10-16T04:00:00.000Z",
+    "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, wi…"
   },
   "topIndia": {
-    "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In October",
-    "url": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-october/",
-    "source": "Inc42",
-    "published": "2026-10-15T09:37:39.000Z",
-    "summary": "India’s AI story is moving beyond the model. Until last year, the big question in Indian boardrooms was which large…"
+    "title": "AI execution company RapidCanvas raises $29M in Series B",
+    "url": "https://yourstory.com/2026/10/ai-execution-company-rapidcanvas-raises-29m-in-series-b",
+    "source": "YourStory",
+    "published": "2026-10-16T09:55:30.000Z",
+    "summary": "RapidCanvas pairs its AI platform with field AI engineers to deliver custom AI solutions. AI engineers learn each customer's business processes, design and build custom AI applications, and stay accountable for the applications' outcomes after delivery. The startup has raised a"
   },
   "headlines": [
     {
-      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-      "url": "https://arxiv.org/abs/2610.14005",
+      "title": "Evaluating Model Capabilities After Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2610.20667",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z"
+      "published": "2026-10-16T04:00:00.000Z"
     },
     {
-      "title": "The Silent Failures in Agentic Data Science",
-      "url": "https://arxiv.org/abs/2610.14115",
+      "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+      "url": "https://arxiv.org/abs/2610.20669",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z"
+      "published": "2026-10-16T04:00:00.000Z"
     },
     {
-      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-      "url": "https://arxiv.org/abs/2610.14118",
+      "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+      "url": "https://arxiv.org/abs/2610.20675",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z"
+      "published": "2026-10-16T04:00:00.000Z"
     },
     {
-      "title": "Correction Training for Diffusion Models",
-      "url": "https://arxiv.org/abs/2610.14136",
+      "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
+      "url": "https://arxiv.org/abs/2610.20676",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z"
+      "published": "2026-10-16T04:00:00.000Z"
     },
     {
-      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
-      "url": "https://arxiv.org/abs/2610.14146",
+      "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.20679",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z"
+      "published": "2026-10-16T04:00:00.000Z"
     },
     {
-      "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
-      "url": "https://arxiv.org/abs/2610.14149",
+      "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
+      "url": "https://arxiv.org/abs/2610.20681",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z"
+      "published": "2026-10-16T04:00:00.000Z"
     },
     {
-      "title": "Unconstrained CTI-REALM with Open-Weights",
-      "url": "https://arxiv.org/abs/2610.14180",
+      "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
+      "url": "https://arxiv.org/abs/2610.20685",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z"
+      "published": "2026-10-16T04:00:00.000Z"
     },
     {
-      "title": "Visualizing the World Model in an Agent's Value Function",
-      "url": "https://arxiv.org/abs/2610.14186",
+      "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
+      "url": "https://arxiv.org/abs/2610.20764",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z"
+      "published": "2026-10-16T04:00:00.000Z"
     },
     {
-      "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
-      "url": "https://arxiv.org/abs/2610.14190",
+      "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2610.20780",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z"
+      "published": "2026-10-16T04:00:00.000Z"
     },
     {
-      "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
-      "url": "https://arxiv.org/abs/2610.14209",
+      "title": "Open-world AI: a Tale of Three Requirements",
+      "url": "https://arxiv.org/abs/2610.20782",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z"
+      "published": "2026-10-16T04:00:00.000Z"
     },
     {
-      "title": "Harness^2: Recursive Agent Harnessing for an Open World",
-      "url": "https://arxiv.org/abs/2610.14224",
+      "title": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
+      "url": "https://arxiv.org/abs/2610.20786",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z"
+      "published": "2026-10-16T04:00:00.000Z"
     },
     {
-      "title": "Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference",
-      "url": "https://arxiv.org/abs/2610.14277",
+      "title": "When Reasoning Traces Conflict with Evidence: How Answer Configuration Shapes Evidence Following",
+      "url": "https://arxiv.org/abs/2610.20805",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z"
+      "published": "2026-10-16T04:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Actionable Meta-Requirements for AI Robustness Auditing",
-      "url": "https://arxiv.org/abs/2610.14356",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z",
-      "summary": "arXiv:2610.14356v1 Announce Type: new Abstract: AI-enabled systems must remain dependable when the conditions under which they operate change (e.g., due to input perturbations, distribution shifts, or changes in external dependencies). This makes robustness auditing of such sy…"
+      "title": "New York City pension fund asks Anthropic to delay IPO",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-york-city-pension-fund-asks-anthropic-to-delay-ipo/articleshow/134982189.cms",
+      "source": "ET Tech",
+      "published": "2026-10-16T04:12:45.000Z",
+      "summary": "The supervisor of New York City's pension funds, one of the largest in the United States, asked Anthropic to postpone its stock market debut until risks posed by its artificial intelligence technology are better controlled. A small fraction of those assets, around $7 million, …"
     },
     {
-      "title": "Google Earth AI Geospatial Reasoning Agent: Capabilities and a Systematic Evaluation",
-      "url": "https://arxiv.org/abs/2610.15750",
+      "title": "Recursive Reward Improvement via Adversarial Meta-Prompt Evolution",
+      "url": "https://arxiv.org/abs/2610.21040",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z",
-      "summary": "arXiv:2610.15750v1 Announce Type: new Abstract: Google Earth AI is a family of geospatial AI models, together with an agent that orchestrates them. We present this agent, Google Earth AI's Geospatial Reasoning agent (GRA), a Gemini-powered research system that combines geospat…"
+      "published": "2026-10-16T04:00:00.000Z",
+      "summary": "arXiv:2610.21040v1 Announce Type: new Abstract: Recursive Self-Improvement (RSI) has gained wide attention for its ability to work with limited data. In a proposer-solver loop, a proposer model writes training tasks and a solver model learns to solve them through reinforcement…"
     },
     {
-      "title": "XAI-Guided Fourier Domain Generalisation for Pure-Simulation Sim-to-Real Deep Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.16478",
+      "title": "RSIFlow: Adaptive Self-Improvement Workflows with an Evolving Meta-Agent",
+      "url": "https://arxiv.org/abs/2610.21791",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z",
-      "summary": "arXiv:2610.16478v1 Announce Type: new Abstract: Deep reinforcement learning has shown strong potential for vision-based autonomous driving, but policies trained in simulation often suffer severe performance degradation when deployed in the real world. Existing sim-to-real meth…"
+      "published": "2026-10-16T04:00:00.000Z",
+      "summary": "arXiv:2610.21791v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated strong capabilities in complex tasks, including code generation, tool use, and multi-hop question answering. Existing self-improvement methods enhance agent performance through …"
     },
     {
-      "title": "Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.15428",
+      "title": "Decoding What iOS Location Services Send to Apple: An LLM Is an Unreliable Analyst but a Useful Toolmaker",
+      "url": "https://arxiv.org/abs/2610.21597",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z",
-      "summary": "arXiv:2610.15428v1 Announce Type: cross Abstract: Context-based offline meta-reinforcement learning (COMRL) has advanced almost entirely through better task representations, which separate task identity from artifacts of the behavior policy so that the latent reflects the task…"
+      "published": "2026-10-16T04:00:00.000Z",
+      "summary": "arXiv:2610.21597v1 Announce Type: cross Abstract: Reverse engineering the data formats used by mobile software is skilled and slow, and using AI to assist with it is attractive. We evaluate this for the protobuf messages that an iPhone sends to Apple's location services. Worki…"
     },
     {
-      "title": "What the Machine Invented: Mining New Mathematical Instruments from OpenAI's October 2026 Release of AI-Generated Mathematics",
-      "url": "https://arxiv.org/abs/2610.17090",
+      "title": "ANEForge: Python for direct computation on the Apple Neural Engine",
+      "url": "https://arxiv.org/abs/2606.17090",
       "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z",
-      "summary": "arXiv:2610.17090v1 Announce Type: cross Abstract: On 6 October 2026 OpenAI published an initial 722 AI-written mathematical manuscripts, organized into 372 problem families, in the public repository github.com/openai/math. The release includes claimed solutions to many promine…"
+      "published": "2026-10-16T04:00:00.000Z",
+      "summary": "arXiv:2606.17090v2 Announce Type: replace-cross Abstract: ANEForge is a Python package that programs the Apple Neural Engine (ANE), the fixed-function neural accelerator on every recent Apple device, directly and without CoreML. In production the engine is reachable only throu…"
     },
     {
-      "title": "Cross-Market Meta-Learning for Electricity Price Forecasting",
-      "url": "https://arxiv.org/abs/2610.17387",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z",
-      "summary": "arXiv:2610.17387v1 Announce Type: cross Abstract: Day-ahead (DA) electricity price forecasting is usually posed per market, with a separate model fitted to each grid's own history. This caps accuracy: statistical and tree-based baselines saturate, while higher-capacity sequenc…"
+      "title": "Google boosts news and link visibility in AI mode",
+      "url": "https://economictimes.indiatimes.com/tech/technology/google-boosts-news-and-link-visibility-in-ai-mode/articleshow/134980737.cms",
+      "source": "ET Tech",
+      "published": "2026-10-16T02:53:04.000Z",
+      "summary": "Google announced Thursday it will start displaying links to websites and articles more prominently and higher up in search results powered by artificial intelligence (AI), as brands and news publishers warn of a sharp decline in their traffic. According to a report by consulta…"
     },
     {
-      "title": "ROI-Reasoning: Rational Optimization for Inference via Pre-Computation Meta-Cognition",
-      "url": "https://arxiv.org/abs/2601.03822",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z",
-      "summary": "arXiv:2601.03822v2 Announce Type: replace Abstract: Large language models (LLMs) can achieve strong reasoning performance with sufficient computation, but they do not inherently know how much computation a task requires. We study budgeted inference-time reasoning for multiple …"
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T20:04:53.000Z",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
     },
     {
-      "title": "Can Generative AI Automate Data Extraction for Meta-Analysis? A Case Study on Intercropping Research",
-      "url": "https://arxiv.org/abs/2609.35089",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-15T04:00:00.000Z",
-      "summary": "arXiv:2609.35089v2 Announce Type: replace Abstract: Meta-analysis is the synthesis of information from multiple sources to arrive at an overarching conclusion. There is a large need for meta-analysis in agricultural research to synthesize what is known and analyze overarching …"
+      "title": "Amazon launches two new portable AI listening devices",
+      "url": "https://economictimes.indiatimes.com/tech/technology/amazon-launches-two-new-portable-ai-listening-devices/articleshow/134973760.cms",
+      "source": "ET Tech",
+      "published": "2026-10-15T17:44:09.000Z",
+      "summary": "Frontier is a bracelet and Eclipse is a brick that resembles a portable magnetic charger. Users attach the devices to their smartphones. They aggregate information from calendars, apps like email and other points throughout the day that are accessed through an app or a website…"
     }
   ],
   "people": [
