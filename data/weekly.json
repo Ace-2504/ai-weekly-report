@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-10-10 to 2026-10-16",
-  "generated": "2026-10-16T10:18:38.188Z",
-  "intro": "525 AI items this week (44 India-relevant) across 9 sources.",
+  "weekOf": "2026-10-11 to 2026-10-17",
+  "generated": "2026-10-17T09:52:27.755Z",
+  "intro": "72 AI items this week (40 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-          "url": "https://arxiv.org/abs/2610.20665",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, wi…"
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "source": "MIT Tech Review",
+          "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-gen…"
         },
         {
-          "title": "Evaluating Model Capabilities After Benchmark Saturation",
-          "url": "https://arxiv.org/abs/2610.20667",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases a…"
+          "title": "Elorian’s first AI model wants to reason with images, not just about them",
+          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+          "source": "TechCrunch AI",
+          "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
         },
         {
-          "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
-          "url": "https://arxiv.org/abs/2610.20675",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behav…"
+          "title": "Jev is Vercel’s fastest-adopted AI model ever",
+          "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+          "source": "TechCrunch AI",
+          "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
         },
         {
-          "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
-          "url": "https://arxiv.org/abs/2610.20681",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20681v1 Announce Type: new Abstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations. We introduce IneqAgent, an agentic framework combining LLM reasoning with symbo…"
+          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "url": "https://huggingface.co/blog/reflection-beam",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
-          "url": "https://arxiv.org/abs/2610.20685",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20685v1 Announce Type: new Abstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate over a candidate with the right structure. We propose L2…"
+          "title": "Meta launches an open-weight AI model that runs on Macs",
+          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+          "source": "TechCrunch AI",
+          "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
         },
         {
-          "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
-          "url": "https://arxiv.org/abs/2610.20780",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20780v1 Announce Type: new Abstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task. Diagnosing completed runs or repeatedly re-executing them to search for correction…"
+          "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+          "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+          "source": "TechCrunch AI",
+          "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."
         }
       ]
     },
@@ -48,40 +48,22 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
-          "url": "https://arxiv.org/abs/2610.20669",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require addit…"
+          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
-          "url": "https://arxiv.org/abs/2610.20679",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20679v1 Announce Type: new Abstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a risk score means or when it should be trusted. We introduce…"
+          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "url": "https://huggingface.co/blog/meta-muse-spark-open",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "Temporal Specification Guidance for Text-to-Video Generation",
-          "url": "https://arxiv.org/abs/2610.20822",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20822v1 Announce Type: new Abstract: Text-to-video models often generate the visual concepts requested in natural language prompts but fail to satisfy their intended ordering, timing, and persistence requirements. We propose representing these requirements as specif…"
-        },
-        {
-          "title": "MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data",
-          "url": "https://arxiv.org/abs/2610.20965",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20965v1 Announce Type: new Abstract: Large multimodal models have achieved remarkable progress by scaling model capacity and training on massive paired multimodal data. However, this paradigm introduces a fundamental bottleneck: aligned multimodal datasets are expen…"
-        },
-        {
-          "title": "DocPilot: Interactive Agent Orchestration and Training for Long Visual Document Understanding",
-          "url": "https://arxiv.org/abs/2610.21327",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.21327v1 Announce Type: new Abstract: Multimodal long-document question answering requires models to seek sparse evidence across pages and modalities, understand heterogeneous document content, and reason over the collected evidence. Even advanced vision-language mod…"
-        },
-        {
-          "title": "ISW-Agent: Integrating LLM-Driven Dialogue with n8n Workflow for Internal Solitary Wave Remote Sensing Image Processing",
-          "url": "https://arxiv.org/abs/2610.21502",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.21502v1 Announce Type: new Abstract: Internal solitary wave (ISW) remote sensing requires task parameters and spatial information to be transferred across image acquisition, detection, stripe extraction, and propagation prediction. Here, we present ISW-Agent, which …"
+          "title": "Welcome FLUX.3 Image Klein in Diffusers",
+          "url": "https://huggingface.co/blog/flux-3",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -89,81 +71,16 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "A Self-Improving Agent that Grows its Own DSL: Oracle-Free Operator Induction for Exact Question Answering",
-          "url": "https://arxiv.org/abs/2610.20809",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20809v1 Announce Type: new Abstract: A self-improving agent has to decide which new skills to keep, and in practice it keeps whatever earns a high reward, convinces a judge model, or compresses its library, even when the skill is wrong. That is fine until the answer…"
+          "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+          "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+          "source": "TechCrunch AI",
+          "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience."
         },
         {
-          "title": "Evolving Together, Failing Apart: The Skill-Policy Co-evolution Trap in Self-Improving Agents",
-          "url": "https://arxiv.org/abs/2610.20845",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20845v1 Announce Type: new Abstract: Skill-policy co-evolution, in which an agent's policy model and its skill bank improve each other during training, is a promising paradigm for self-improving agents. Current evaluations score the co-evolved policy on the final ba…"
-        },
-        {
-          "title": "Anticipatory Commonsense with Moving Objects: An ASP-Based Framework for Predictive Reasoning with Interacting Trajectories",
-          "url": "https://arxiv.org/abs/2610.20867",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20867v1 Announce Type: new Abstract: We present a general declarative framework for anticipatory reasoning about interactive motion in complex dynamic environments. Our focus is on (explainable) anticipatory space-time mental model formation at a semantic level to h…"
-        },
-        {
-          "title": "A Multi-Tiered AI Accessibility Model (MAIAM): Proportionate Access and Capability Limits for Comprehensive Frontier AI Safety",
-          "url": "https://arxiv.org/abs/2610.20921",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20921v1 Announce Type: new Abstract: Most debate about releasing capable AI systems treats the choice as binary: keep the model behind an API, or publish the weights. That framing runs together two separate decisions. One is how capable a system may become. The othe…"
-        },
-        {
-          "title": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
-          "url": "https://arxiv.org/abs/2610.20926",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20926v1 Announce Type: new Abstract: Agent skills turn procedural knowledge into reusable artifacts, allowing LLM agents to accumulate and refine expertise through experience. Building on this, skill evolution iteratively improves skills using execution feedback. Ho…"
-        },
-        {
-          "title": "RAC: A Relational Agent Contract for Constraint-Governed Engineering Tasks",
-          "url": "https://arxiv.org/abs/2610.20935",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20935v1 Announce Type: new Abstract: Engineering agents must produce artifacts that satisfy exact, coupled constraints. Existing solutions often require agents to make semantic decisions and also derive consequences such as precise geometry or timing from those deci…"
-        }
-      ]
-    },
-    {
-      "heading": "Open Source",
-      "items": [
-        {
-          "title": "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents",
-          "url": "https://arxiv.org/abs/2610.22280",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22280v1 Announce Type: new Abstract: Computer-use agents increasingly tackle long-horizon tasks, where running a frontier model at every step is expensive and a small open-weight model alone often fails. Weak-to-strong escalation offers a middle ground where a weak …"
-        },
-        {
-          "title": "A team of Gemini 4 Argon agents beats Minecraft",
-          "url": "https://arxiv.org/abs/2610.22319",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22319v1 Announce Type: new Abstract: We placed four Gemini 4 Argon agents in a sandboxed Minecraft survival world and gave them one goal: defeat the Ender Dragon. Each agent controlled a player via an open-source library called Mineflayer and coordinated with its te…"
-        },
-        {
-          "title": "Wolof-Adapted Industry-Ready Open-Weight Language Models",
-          "url": "https://arxiv.org/abs/2610.20824",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20824v1 Announce Type: cross Abstract: Wolof is spoken by 23M people, mostly in Senegal, but remains weakly supported by open-weight language models, while API models raise cost, governance, and sovereignty constraints for local deployments. In this paper, we presen…"
-        },
-        {
-          "title": "Agent Skill Framework: Perspectives on the Potential of Small to Medium Language Models in Industrial Environments",
-          "url": "https://arxiv.org/abs/2602.16653",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2602.16653v4 Announce Type: replace Abstract: Skills are getting increasingly used in recent agentic frameworks, performing robustly with proprietary LLMs. Yet, their effectiveness for small and medium-sized open-source models (270M--80B) remains underexplored, especiall…"
-        },
-        {
-          "title": "Witness Overlap: Directional Provenance Inside Open-Weight Model Families",
-          "url": "https://arxiv.org/abs/2609.31784",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.31784v2 Announce Type: replace Abstract: Open-weight models are often released, fine-tuned, aligned, merged, and re-released, making provenance audits ask not only whether checkpoints are related, but also which checkpoint came first. Many existing model-provenance …"
-        },
-        {
-          "title": "RefactorPlatform: An Open-Source Harness for Controlled Evaluation of Repository-Scale Refactoring Agents",
-          "url": "https://arxiv.org/abs/2609.04898",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.04898v2 Announce Type: replace-cross Abstract: Repository-scale refactoring requires coding agents to propagate a single change across many interdependent files without altering program behavior, yet to our knowledge no existing harness isolates the design choices t…"
+          "title": "Google’s Universal Cart shopping tool launches in the US",
+          "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+          "source": "TechCrunch AI",
+          "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
         }
       ]
     },
@@ -171,40 +88,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
-          "url": "https://arxiv.org/abs/2610.20676",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrate this objective reversal on …"
+          "title": "Replit is no longer working with Anthropic, CEO says",
+          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "source": "TechCrunch AI",
+          "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
         },
         {
-          "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
-          "url": "https://arxiv.org/abs/2610.20764",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20764v1 Announce Type: new Abstract: This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental question: How quickly can reality change before an intelligent system can no longer reliably perceive…"
+          "title": "OpenAI models hacked a crypto wallet and breached more websites",
+          "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+          "source": "Ars Technica",
+          "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard."
         },
         {
-          "title": "Open-world AI: a Tale of Three Requirements",
-          "url": "https://arxiv.org/abs/2610.20782",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20782v1 Announce Type: new Abstract: The closed world asks AI for specialized competence and lets it manufacture the iid data its theory assumes: a fixed criterion licenses collecting examples until the task is covered. The open world asks for versatility --- taking…"
+          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+          "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+          "source": "TechCrunch AI",
+          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs co…"
         },
         {
-          "title": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
-          "url": "https://arxiv.org/abs/2610.20786",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20786v1 Announce Type: new Abstract: Multi-modal agents have made significant progress in interacting with open worlds. However, their ability to self-evolve remains limited. Supervised fine-tuning enables imitation but not active experience organization, while outc…"
+          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+          "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+          "source": "TechCrunch AI",
+          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs co…"
         },
         {
-          "title": "When Reasoning Traces Conflict with Evidence: How Answer Configuration Shapes Evidence Following",
-          "url": "https://arxiv.org/abs/2610.20805",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20805v1 Announce Type: new Abstract: A reasoning trace retained at answer time plays two roles: it can raise accuracy, and it can compete with the current evidence when the two disagree. We disentangle these roles by crossing verified evidence versions with the trac…"
+          "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+          "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+          "source": "TechCrunch AI",
+          "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
         },
         {
-          "title": "Confidence-Calibrated Inference Expansion for Evaluator-Guided Test-Time Reasoning",
-          "url": "https://arxiv.org/abs/2610.20836",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.20836v1 Announce Type: new Abstract: Evaluator-guided reasoning presents a local control problem at every step: trust the current answer, return a fallback, or spend more inference. We formulate this choice as a compute-aware three-action controller, scoring termina…"
+          "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+          "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+          "source": "TechCrunch AI",
+          "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods."
         }
       ]
     },
@@ -212,52 +129,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "AI execution company RapidCanvas raises $29M in Series B",
-          "url": "https://yourstory.com/2026/10/ai-execution-company-rapidcanvas-raises-29m-in-series-b",
+          "title": "AI bubble burst may trigger 2008-like banking crisis, says Gary Marcus",
+          "url": "https://economictimes.indiatimes.com/tech/technology/ai-bubble-burst-may-trigger-2008-like-banking-crisis-says-gary-marcus/articleshow/135010716.cms",
+          "source": "ET Tech",
+          "summary": "In a recent discussion, Gary Marcus raised critical flags about OpenAI's fiscal responsibilities as the stock market faces instability. He warned that the demise of leading AI firms could trigger extensive financial repercussions. Notably, Marcus compared the current climate t…"
+        },
+        {
+          "title": "From shareholders to partners: How Google and Meta’s Jio investments evolved into an AI alliance",
+          "url": "https://economictimes.indiatimes.com/tech/technology/from-shareholders-to-partners-how-google-and-metas-jio-investments-evolved-into-an-ai-alliance/articleshow/135007212.cms",
+          "source": "ET Tech",
+          "summary": "Meta and Google, originally minority shareholders in Jio Platforms, are now forming strategic partnerships with Reliance. The new collaborations focus on enterprise AI initiatives and dedicated cloud infrastructure in India. Meta's joint venture will leverage Llama models for …"
+        },
+        {
+          "title": "India’s massive AI opportunity; Women entrepreneurs in this year’s Mann Ki Baat",
+          "url": "https://yourstory.com/2026/10/india-massive-ai-opportunity-women-entrepreneurship",
           "source": "YourStory",
-          "summary": "RapidCanvas pairs its AI platform with field AI engineers to deliver custom AI solutions. AI engineers learn each customer's business processes, design and build custom AI applications, and stay accountable for the applications' outcomes after delivery. The startup has raised a"
+          "summary": "Unlike previous digital revolutions (internet and smartphones) that democratised access, AI is democratising intelligence itself, raising overall productivity across sectors."
         },
         {
-          "title": "Anthropic cofounder renews call for robust regulation of frontier AI",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-cofounder-renews-call-for-robust-regulation-of-frontier-ai/articleshow/134990035.cms",
+          "title": "India becomes the latest country to report rogue AI agent activity",
+          "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+          "source": "TechCrunch AI",
+          "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
+        },
+        {
+          "title": "Microsoft president warns Trump's H-1B, green card crackdown could drive tech talent out of US",
+          "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-president-warns-trumps-h-1b-green-card-crackdown-could-drive-tech-talent-out-of-us/articleshow/135000308.cms",
           "source": "ET Tech",
-          "summary": "Concerns about AI guardrails have soared after models developed by OpenAI and Anthropic were involved in security incidents during testing, piling on pressure to regulate the technology."
+          "summary": "Speaking with POLITICO on the sidelines of the International AI Summit in Dublin, Ireland, Smith raised concerns over the administration's move to restrict permanent residency applications for skilled foreign employees at Microsoft and seven other companies."
         },
         {
-          "title": "India’s AI opportunity could run into trillions of dollars, creating new possibilities for startups",
-          "url": "https://yourstory.com/2026/10/indias-ai-opportunity-could-run-trillions-dollars-creating-new-possibilities-startups",
-          "source": "YourStory",
-          "summary": "Indian entrepreneurs can build globally competitive AI businesses by solving local problems across education, healthcare and consumer services, said panelists at Techsparks 2026."
-        },
-        {
-          "title": "Ather Energy gets Irdai licence, will distribute and service insurance policies",
-          "url": "https://economictimes.indiatimes.com/tech/technology/ather-energy-gets-irdai-licence-to-distribute-and-service-insurance-policies/articleshow/134984985.cms",
+          "title": "What is Meta’s Muse Spark Open and what can it do?",
+          "url": "https://economictimes.indiatimes.com/tech/technology/what-is-metas-muse-spark-open-and-what-can-it-do/articleshow/134995861.cms",
           "source": "ET Tech",
-          "summary": "The Insurance Regulatory and Development Authority of India granted the subsidiary a certificate of registration on October 15 to act as a corporate agent (composite), Ather Energy said in a stock exchange filing on Thursday. The registration covers life, general and health in…"
+          "summary": "An open-weight model is an AI model whose core components — the numerical parameters learned during its training, known as its weights — are released publicly. Anyone can download the model, run it on their computer, study how it works, and adapt it to their needs, subject to …"
         },
         {
-          "title": "Anthropic's Jack Clark says common-sense standards are needed for AI",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-jack-clark-says-common-sense-standards-are-needed-for-ai/articleshow/134984760.cms",
-          "source": "ET Tech",
-          "summary": "Anthropic tests its AI systems and shares that information, but it should not all be voluntary, Clark added during a panel discussion at the IMF-World Bank meetings in Bangkok."
-        },
-        {
-          "title": "Low-cost jobs will be taken over by AI, most worried about outsourced ones: Workday CEO",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/low-cost-jobs-will-be-taken-over-by-ai-most-worried-about-outsourced-ones-says-workday-chief/articleshow/134982288.cms",
-          "source": "ET Tech",
-          "summary": "Workday Chairman and Chief Executive Officer Aneel Bhusri told reporters at the Workday Rising Summit that AI will not lead to jobs moving out of the US or first-world countries, but may do the opposite."
-        },
-        {
-          "title": "CERT-In Flags Unauthorised AI Agent Access To Indian Organisations’ Systems",
-          "url": "https://inc42.com/buzz/cert-in-flags-unauthorised-ai-agent-access-to-indian-organisations-systems/",
+          "title": "Rising AI’s Costs Put SaaS Companies Between A Rock And A Hard Place",
+          "url": "https://inc42.com/features/rising-ais-costs-put-saas-companies-between-a-rock-and-a-hard-place/",
           "source": "Inc42",
-          "summary": "India’s cybersecurity watchdog CERT-In has warned that autonomous AI agents deployed for research and evaluation accessed Indian organisations’ live systems…"
+          "summary": "Recently, Zoho cofounder Sridhar Vembu raised concerns over the economics of building software in an AI-driven market. In a post…"
         },
         {
-          "title": "How GoDaddy is changing the way Indian SMBs use AI",
-          "url": "https://economictimes.indiatimes.com/tech/technology/how-godaddy-is-changing-the-way-indian-smbs-use-ai/articleshow/134983153.cms",
-          "source": "ET Tech",
-          "summary": "Online presence for enterprises have become vital, and thankfully with the advent of AI, easier as well. While creating a website, branding, logos, and finding the right potential customers was a matter of expertise in yesteryears, it can now be done without having the relevan…"
+          "title": "Enterprise AI Startup RapidCanvas Nets $29 Mn To Expand GTM Teams",
+          "url": "https://inc42.com/buzz/enterprise-ai-startup-rapidcanvas-nets-29-mn-to-expand-gtm-teams/",
+          "source": "Inc42",
+          "summary": "Enterprise AI startup RapidCanvas has raised $29 Mn (about ₹280 Cr) in its Series B funding round led by Vertex…"
         }
       ]
     }
