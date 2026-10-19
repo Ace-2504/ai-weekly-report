@@ -9,11 +9,11 @@
       "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus…"
     },
     "topIndia": {
-      "title": "Data, not chips, will decide India’s AI and biotech future, say deeptech founders",
-      "url": "https://yourstory.com/2026/10/india-data-infrastructure-ai-biotech-coremantle-loopworm",
-      "source": "YourStory",
-      "published": "2026-10-19T10:48:03.000Z",
-      "summary": "Founders from CoreMantle and Loopworm say India must own context-rich data to scale AI and biotech and cut reliance on imports."
+      "title": "Karnataka’s ElevenLabs Partnership Irks Indian Voice AI Startups",
+      "url": "https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups",
+      "source": "Analytics India Mag",
+      "published": "2026-10-19T13:24:51.000Z",
+      "summary": "Indian voice AI startups worry that giving a formal entry to ElevenLabs and Anthropic could deprive domestic companies of any credibility."
     },
     "headlines": [
       {
@@ -194,8 +194,8 @@
   },
   "weekly": {
     "weekOf": "2026-10-13 to 2026-10-19",
-    "generated": "2026-10-19T11:30:13.970Z",
-    "intro": "451 AI items this week (75 India-relevant) across 9 sources.",
+    "generated": "2026-10-19T14:09:16.023Z",
+    "intro": "452 AI items this week (76 India-relevant) across 10 sources.",
     "sections": [
       {
         "heading": "Large Language Models",
@@ -388,6 +388,30 @@
         "heading": "India & Subcontinent",
         "items": [
           {
+            "title": "Karnataka’s ElevenLabs Partnership Irks Indian Voice AI Startups",
+            "url": "https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups",
+            "source": "Analytics India Mag",
+            "summary": "Indian voice AI startups worry that giving a formal entry to ElevenLabs and Anthropic could deprive domestic companies of any credibility."
+          },
+          {
+            "title": "Hunar Raises ₹40 Cr To Scale Agentic AI For Frontline Hiring",
+            "url": "https://inc42.com/buzz/hunar-raises-%e2%82%b940-cr-to-scale-agentic-ai-for-frontline-hiring/",
+            "source": "Inc42",
+            "summary": "Hiring thousands of frontline workers (employees who directly provide goods and services to communities) across multiple cities is a coordination-heavy…"
+          },
+          {
+            "title": "Beyond the GenAI hype: Amazon's Rajeev Rastogi bets on agentic AI to boost enterpise operations",
+            "url": "https://yourstory.com/2026/10/beyond-genai-hype-amazon-rajeev-rastogi-bets-on-agentic-ai",
+            "source": "YourStory",
+            "summary": "Speaking at TechSparks 2026, Rajeev Rastogi, Vice President of Machine Learning at Amazon highlighted the rise of agentic AI in the entire enterprise operating layer, marking a transition from static software to autonomous systems capable of understanding natural language inst…"
+          },
+          {
+            "title": "Mobavenue’s Tejas Rathod On The Shift From Ad Optimisation To AI Decisioning",
+            "url": "https://inc42.com/features/mobavenues-tejas-rathod-on-the-shift-from-ad-optimisation-to-ai-decisioning/",
+            "source": "Inc42",
+            "summary": "A high click rate cannot tell a fintech company whether a user will complete the KYC. Similarly, downloading an app…"
+          },
+          {
             "title": "Data, not chips, will decide India’s AI and biotech future, say deeptech founders",
             "url": "https://yourstory.com/2026/10/india-data-infrastructure-ai-biotech-coremantle-loopworm",
             "source": "YourStory",
@@ -410,30 +434,6 @@
             "url": "https://yourstory.com/2026/10/data-not-moat-india-cto-define-next-tech-edge-sharechat-amagi-innovaccer-angel-one",
             "source": "YourStory",
             "summary": "At TechSparks 2026, technology leaders from ShareChat, Angel One, Amagi and Innovaccer said India’s next competitive edge will depend on deep industry expertise, customer insights, trust and the ability to turn AI into real-world solutions."
-          },
-          {
-            "title": "Sahi’s Dale Vaz wants an AI financial team in every pocket",
-            "url": "https://yourstory.com/2026/10/sahi-dale-vaz-ai-assistant-cairo-retail-investing-india",
-            "source": "YourStory",
-            "summary": "From plain-language trading strategies to a Discipline Score that flags overtrading, Sahi’s Kyro shows how AI could give every Indian investor a personal team of financial agents, in their own language."
-          },
-          {
-            "title": "Is your marketing AI tool driving profit or just noise? CleverTap co-founder Anand Jain weighs in",
-            "url": "https://yourstory.com/2026/10/is-your-marketing-ai-driving-profit-or-just-more-noise-clevertap-co-founder-anand-jain-weighs-in",
-            "source": "YourStory",
-            "summary": "At TechSparks 2026, CleverTap co-founder Anand Jain explained why marketing teams must move beyond basic generative AI productivity tools and adopt autonomous, real-time decisioning systems that drive genuine business profit."
-          },
-          {
-            "title": "Claude Code is 3x Faster, Thanks to a 34 Year Old Tool",
-            "url": "https://analyticsindiamag.com/ai-news/claude-code-is-3x-faster-thanks-to-a-34-year-old-tool",
-            "source": "Analytics India Mag",
-            "summary": "\"Claude Code now gzips the conversation it sends on every turn, so it reaches the model faster,” said Anthropic in a post on X"
-          },
-          {
-            "title": "AI Agent Breach Exposes Flaws in India’s Autonomous System Defences",
-            "url": "https://analyticsindiamag.com/ai-features/ai-agent-breach-exposes-flaws-in-indias-autonomous-system-defences",
-            "source": "Analytics India Mag",
-            "summary": "The CERT-In disclosure has renewed concerns about AI agents interacting iwith sensitive systems such as government portals and financial institutions."
           }
         ]
       }
