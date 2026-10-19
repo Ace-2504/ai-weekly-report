@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-10-12 to 2026-10-18",
-  "generated": "2026-10-18T10:03:56.584Z",
-  "intro": "69 AI items this week (37 India-relevant) across 8 sources.",
+  "weekOf": "2026-10-13 to 2026-10-19",
+  "generated": "2026-10-19T11:30:13.970Z",
+  "intro": "451 AI items this week (75 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-          "source": "TechCrunch AI",
-          "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
-        },
-        {
-          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-          "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+          "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
           "source": "MIT Tech Review",
-          "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-gen…"
+          "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus…"
         },
         {
-          "title": "Elorian’s first AI model wants to reason with images, not just about them",
-          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-          "source": "TechCrunch AI",
-          "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
+          "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
+          "url": "https://arxiv.org/abs/2610.22373",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22373v1 Announce Type: new Abstract: LLM-based agents are increasingly used as autonomous orchestrators in distributed and multi-agent systems, yet a control gap remains: no protocol-level mechanism allows human operators to inject binding directives that persist ac…"
         },
         {
-          "title": "Jev is Vercel’s fastest-adopted AI model ever",
-          "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-          "source": "TechCrunch AI",
-          "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
+          "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
+          "url": "https://arxiv.org/abs/2610.22400",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22400v1 Announce Type: new Abstract: Existing large language model (LLM)-based user encoders serialize heterogeneous behavioral logs and compress them into static representations through autoregressive (AR) prediction. However, their unidirectional constraint limits…"
         },
         {
-          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-          "url": "https://huggingface.co/blog/reflection-beam",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
+          "url": "https://arxiv.org/abs/2610.22420",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22420v1 Announce Type: new Abstract: Agent-based models are well-suited for modelling agro-ecological systems for decision-making, yet turning their simulations into actionable insight requires identifying which decisions actually drive the behaviours. In such a con…"
         },
         {
-          "title": "Meta launches an open-weight AI model that runs on Macs",
-          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-          "source": "TechCrunch AI",
-          "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
+          "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
+          "url": "https://arxiv.org/abs/2610.22426",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22426v1 Announce Type: new Abstract: LLM agents are used to check records against an organization's requirements, for example whether a vulnerability report is ready for investigation. Requirements often allow several ways to be met, such as a severity rating with a…"
+        },
+        {
+          "title": "From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems",
+          "url": "https://arxiv.org/abs/2610.22441",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22441v1 Announce Type: new Abstract: Large language models (LLMs) provide a convenient interface for translating natural language commands into task plans for cyber-physical systems (CPSs). However, two gaps hinder their use for real execution: generated plans may m…"
         }
       ]
     },
@@ -48,22 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
+          "url": "https://arxiv.org/abs/2610.22408",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22408v1 Announce Type: new Abstract: Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increases visual-token usage and inference costs, while textual summaries can discard critical state information, underm…"
         },
         {
-          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-          "url": "https://huggingface.co/blog/meta-muse-spark-open",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "FlexUMM: Flexible Representation Learning for Unified Multimodal Models",
+          "url": "https://arxiv.org/abs/2610.22682",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22682v1 Announce Type: new Abstract: Unified multimodal models (UMMs) can integrate understanding and generation within a single backbone. However, it is commonly known that these two capabilities can cause conflicting representations, leading to a central question:…"
         },
         {
-          "title": "Welcome FLUX.3 Image Klein in Diffusers",
-          "url": "https://huggingface.co/blog/flux-3",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Brain-Aligned Multimodal LLMs for Social and Emotional Understanding of Cartoon Movies",
+          "url": "https://arxiv.org/abs/2610.22706",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22706v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) offer scalable annotations of social and affective content, but their temporal agreement with human judgments and neural predictive value require further evaluation. We compared diffusion-…"
+        },
+        {
+          "title": "ShadowFPT: Backdooring Federated Prompt Tuning via Shadow Triggers",
+          "url": "https://arxiv.org/abs/2610.22871",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22871v1 Announce Type: new Abstract: Federated Prompt Tuning (FPT) adapts large vision--language models by freezing the pretrained backbone and optimizing only lightweight prompt parameters across clients. Although this design improves communication and parameter ef…"
+        },
+        {
+          "title": "DiffusionRVGE: Reinforcement Learning via Regression-Based Value Gradient Estimation",
+          "url": "https://arxiv.org/abs/2610.22973",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22973v1 Announce Type: new Abstract: Reinforcement learning improves diffusion models using rewards on generated images, but repeated denoising and gradient estimation make training expensive. We introduce \\method, an efficient method that constructs useful update d…"
+        },
+        {
+          "title": "GOLD: Geometric Optimized Latent Diffusion for Structure-Aware RNA Inverse Folding",
+          "url": "https://arxiv.org/abs/2610.22992",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22992v1 Announce Type: new Abstract: Designing RNA sequences that fold into specific 3D structures is a fundamental challenge in therapeutics. Current RNA inverse folding methods typically condition on 3D backbone coordinates but the generation is limited to 1D disc…"
         }
       ]
     },
@@ -71,16 +89,63 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-          "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-          "source": "TechCrunch AI",
-          "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience."
+          "title": "Harness-Delta Attribution: Dissecting Gains From Harness Evolution",
+          "url": "https://arxiv.org/abs/2610.22466",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22466v1 Announce Type: new Abstract: Harness evolution automatically optimizes the prompts, skills, tools, and orchestration code around a fixed-weight model, offering a way to improve agentic systems without updating model weights. The agent harness is iteratively …"
         },
         {
-          "title": "Google’s Universal Cart shopping tool launches in the US",
-          "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+          "title": "Testing the Planning Claims of LLM-Based Agents against Formal Semantics",
+          "url": "https://arxiv.org/abs/2610.22469",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22469v1 Announce Type: new Abstract: LLM-based agents are increasingly credited with the competences of practical reasoning: planning, monitoring, and correcting their own actions. Their success is attributed to the prompting strategies and agent architectures built…"
+        },
+        {
+          "title": "FRACTAL: A Self-Similar Multi-Agent Orchestration Architecture with Formal Communication, Convergence, and Depth Bounds",
+          "url": "https://arxiv.org/abs/2610.22561",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22561v1 Announce Type: new Abstract: We present FRACTAL, a self-similar multi-agent architecture for recursive goal decomposition, in which the same five-component organizational pattern -- Orchestrator, Ensemble, Knowledge Ledger, Decision Maker, Meta-Observer -- r…"
+        },
+        {
+          "title": "Not All Graphs Are Maps: A Task-Agnostic Exploration Framework for Mobile GUI Navigation",
+          "url": "https://arxiv.org/abs/2610.22672",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22672v1 Announce Type: new Abstract: Modern mobile GUI agents can perceive visible screens and execute local actions, but they still lack persistent app-specific navigation knowledge: where functions live, which pages contain them, and which screens are equivalent a…"
+        },
+        {
+          "title": "R$^2$Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop",
+          "url": "https://arxiv.org/abs/2610.22740",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22740v1 Announce Type: new Abstract: In recent years, agentic orchestration has been widely applied to solve complex human tasks. However, existing orchestration learning still faces key challenges, including hand-designed curricula, advantage collapse when a task's…"
+        },
+        {
+          "title": "Between Spoilers and Guesswork: Avoiding Over-Specification in Coding Benchmarks",
+          "url": "https://arxiv.org/abs/2610.22760",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22760v1 Announce Type: new Abstract: Benchmarks drive AI progress, but are hampered by task under-specification and over-specification. Task under-specification causes guesswork, where solutions have to make things up, or worse, resort to contamination or reward hac…"
+        }
+      ]
+    },
+    {
+      "heading": "Open Source",
+      "items": [
+        {
+          "title": "KAYROS: An Anytime and Exact Open-Source Solver for Duration-Minimization Time-Dependent Vehicle Routing. A Technical Report and a Case Study in Human-AI Engineering",
+          "url": "https://arxiv.org/abs/2607.23116",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.23116v3 Announce Type: replace-cross Abstract: Time-dependent routing recognizes that the same journey can take a different time depending on when it begins. Under duration minimization, even the departure time of each vehicle becomes a decision. Exact methods for t…"
+        },
+        {
+          "title": "Meta launches an open-weight AI model that runs on Macs",
+          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
           "source": "TechCrunch AI",
-          "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
+          "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
+        },
+        {
+          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "url": "https://huggingface.co/blog/meta-muse-spark-open",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -88,40 +153,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Meta removes language that raised scraping and AI training concerns",
-          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-          "source": "TechCrunch AI",
-          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+          "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
+          "url": "https://arxiv.org/abs/2610.22403",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22403v1 Announce Type: new Abstract: What a reasoning system emits is a conclusion; what it owes is a justification. Producing one requires every operation to be admissible on the facts actually available, the dependencies of intermediate results to survive to the e…"
         },
         {
-          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-          "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-          "source": "TechCrunch AI",
-          "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
+          "title": "Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability",
+          "url": "https://arxiv.org/abs/2610.22445",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22445v1 Announce Type: new Abstract: Automated discovery systems propose scientific explanations and test which to accept. Does passing a test establish the intended claim? We develop four executable operations for changing physical descriptions: identifying redunda…"
         },
         {
-          "title": "OpenAI models hacked a crypto wallet and breached more websites",
-          "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-          "source": "Ars Technica",
-          "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard."
+          "title": "Learnable Splines for Unstructured Neural Operators",
+          "url": "https://arxiv.org/abs/2610.22446",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22446v1 Announce Type: new Abstract: Neural operators approximate solution operators of partial differential equations at a fraction of the cost of numerical solvers. Efficient grid-based architectures such as the Fourier neural operator (FNO) assume uniform rectang…"
         },
         {
-          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-          "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-          "source": "TechCrunch AI",
-          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs co…"
+          "title": "Functional Welfare for AI Safety",
+          "url": "https://arxiv.org/abs/2610.22460",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22460v1 Announce Type: new Abstract: AI welfare is generally treated purely as an ethical issue rather than also as a safety issue. We argue this is a mistake. Whatever their moral status, models exhibit welfare-like states that causally influence their behaviour. F…"
         },
         {
-          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-          "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-          "source": "TechCrunch AI",
-          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs co…"
+          "title": "Author-in-the-loop Agentic Reproducibility Auditing for a Machine Learning Conference",
+          "url": "https://arxiv.org/abs/2610.22465",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22465v1 Announce Type: new Abstract: Reproducibility checks during peer review require a shared understanding of what authors' code is expected to reproduce. We present an author-in-the-loop collaborative audit that makes author declarations explicit inputs to an AI…"
         },
         {
-          "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-          "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-          "source": "TechCrunch AI",
-          "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
+          "title": "Are Large Reasoning Models Good Everyday Reasoners? A Comparison with Non-Reasoning Models on Logical Reasoning Tasks",
+          "url": "https://arxiv.org/abs/2610.22538",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.22538v1 Announce Type: new Abstract: Large reasoning models (LRMs) that leverage test-time computation achieve strong performance on mathematical and scientific benchmarks and are increasingly deployed in real-world applications. However, their ability to perform \\t…"
         }
       ]
     },
@@ -129,52 +194,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "AI bubble burst may trigger 2008-like banking crisis, says Gary Marcus",
-          "url": "https://economictimes.indiatimes.com/tech/technology/ai-bubble-burst-may-trigger-2008-like-banking-crisis-says-gary-marcus/articleshow/135010716.cms",
-          "source": "ET Tech",
-          "summary": "In a recent discussion, Gary Marcus raised critical flags about OpenAI's fiscal responsibilities as the stock market faces instability. He warned that the demise of leading AI firms could trigger extensive financial repercussions. Notably, Marcus compared the current climate t…"
-        },
-        {
-          "title": "From shareholders to partners: How Google and Meta’s Jio investments evolved into an AI alliance",
-          "url": "https://economictimes.indiatimes.com/tech/technology/from-shareholders-to-partners-how-google-and-metas-jio-investments-evolved-into-an-ai-alliance/articleshow/135007212.cms",
-          "source": "ET Tech",
-          "summary": "Meta and Google, originally minority shareholders in Jio Platforms, are now forming strategic partnerships with Reliance. The new collaborations focus on enterprise AI initiatives and dedicated cloud infrastructure in India. Meta's joint venture will leverage Llama models for …"
-        },
-        {
-          "title": "India’s massive AI opportunity; Women entrepreneurs in this year’s Mann Ki Baat",
-          "url": "https://yourstory.com/2026/10/india-massive-ai-opportunity-women-entrepreneurship",
+          "title": "Data, not chips, will decide India’s AI and biotech future, say deeptech founders",
+          "url": "https://yourstory.com/2026/10/india-data-infrastructure-ai-biotech-coremantle-loopworm",
           "source": "YourStory",
-          "summary": "Unlike previous digital revolutions (internet and smartphones) that democratised access, AI is democratising intelligence itself, raising overall productivity across sectors."
+          "summary": "Founders from CoreMantle and Loopworm say India must own context-rich data to scale AI and biotech and cut reliance on imports."
         },
         {
-          "title": "India becomes the latest country to report rogue AI agent activity",
-          "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-          "source": "TechCrunch AI",
-          "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
-        },
-        {
-          "title": "Microsoft president warns Trump's H-1B, green card crackdown could drive tech talent out of US",
-          "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-president-warns-trumps-h-1b-green-card-crackdown-could-drive-tech-talent-out-of-us/articleshow/135000308.cms",
-          "source": "ET Tech",
-          "summary": "Speaking with POLITICO on the sidelines of the International AI Summit in Dublin, Ireland, Smith raised concerns over the administration's move to restrict permanent residency applications for skilled foreign employees at Microsoft and seven other companies."
-        },
-        {
-          "title": "What is Meta’s Muse Spark Open and what can it do?",
-          "url": "https://economictimes.indiatimes.com/tech/technology/what-is-metas-muse-spark-open-and-what-can-it-do/articleshow/134995861.cms",
-          "source": "ET Tech",
-          "summary": "An open-weight model is an AI model whose core components — the numerical parameters learned during its training, known as its weights — are released publicly. Anyone can download the model, run it on their computer, study how it works, and adapt it to their needs, subject to …"
-        },
-        {
-          "title": "Rising AI’s Costs Put SaaS Companies Between A Rock And A Hard Place",
-          "url": "https://inc42.com/features/rising-ais-costs-put-saas-companies-between-a-rock-and-a-hard-place/",
-          "source": "Inc42",
-          "summary": "Recently, Zoho cofounder Sridhar Vembu raised concerns over the economics of building software in an AI-driven market. In a post…"
-        },
-        {
-          "title": "AI execution company RapidCanvas raises $29M in Series B",
-          "url": "https://yourstory.com/2026/10/ai-execution-company-rapidcanvas-raises-29m-in-series-b",
+          "title": "From implementation to innovation: The next step in your Gemini Enterprise journey",
+          "url": "https://yourstory.com/2026/10/-implementation-to-innovation-next-step-your-gemini-enterprise-journey",
           "source": "YourStory",
-          "summary": "RapidCanvas pairs its AI platform with field AI engineers to deliver custom AI solutions. AI engineers learn each customer's business processes, design and build custom AI applications, and stay accountable for the applications' outcomes after delivery. The startup has raised a"
+          "summary": "Join Google Cloud's AI and ML experts for the second edition of the Gemini Enterprise series, covering app connectivity, identity management, and enterprise-grade security."
+        },
+        {
+          "title": "The Next Limits on AI May Be Physical",
+          "url": "https://analyticsindiamag.com/ai-features/the-next-limits-on-ai-may-be-physical",
+          "source": "Analytics India Mag",
+          "summary": "Moby Chief AI Officer Michael Ferrari argues that AI’s expansion will increasingly depend on access to power, water, materials and silicon. Computing could eventually move from land to the ocean and, ultimately, into orbit."
+        },
+        {
+          "title": "Data is not a moat: What India’s CTOs say will define the next tech edge",
+          "url": "https://yourstory.com/2026/10/data-not-moat-india-cto-define-next-tech-edge-sharechat-amagi-innovaccer-angel-one",
+          "source": "YourStory",
+          "summary": "At TechSparks 2026, technology leaders from ShareChat, Angel One, Amagi and Innovaccer said India’s next competitive edge will depend on deep industry expertise, customer insights, trust and the ability to turn AI into real-world solutions."
+        },
+        {
+          "title": "Sahi’s Dale Vaz wants an AI financial team in every pocket",
+          "url": "https://yourstory.com/2026/10/sahi-dale-vaz-ai-assistant-cairo-retail-investing-india",
+          "source": "YourStory",
+          "summary": "From plain-language trading strategies to a Discipline Score that flags overtrading, Sahi’s Kyro shows how AI could give every Indian investor a personal team of financial agents, in their own language."
+        },
+        {
+          "title": "Is your marketing AI tool driving profit or just noise? CleverTap co-founder Anand Jain weighs in",
+          "url": "https://yourstory.com/2026/10/is-your-marketing-ai-driving-profit-or-just-more-noise-clevertap-co-founder-anand-jain-weighs-in",
+          "source": "YourStory",
+          "summary": "At TechSparks 2026, CleverTap co-founder Anand Jain explained why marketing teams must move beyond basic generative AI productivity tools and adopt autonomous, real-time decisioning systems that drive genuine business profit."
+        },
+        {
+          "title": "Claude Code is 3x Faster, Thanks to a 34 Year Old Tool",
+          "url": "https://analyticsindiamag.com/ai-news/claude-code-is-3x-faster-thanks-to-a-34-year-old-tool",
+          "source": "Analytics India Mag",
+          "summary": "\"Claude Code now gzips the conversation it sends on every turn, so it reaches the model faster,” said Anthropic in a post on X"
+        },
+        {
+          "title": "AI Agent Breach Exposes Flaws in India’s Autonomous System Defences",
+          "url": "https://analyticsindiamag.com/ai-features/ai-agent-breach-exposes-flaws-in-indias-autonomous-system-defences",
+          "source": "Analytics India Mag",
+          "summary": "The CERT-In disclosure has renewed concerns about AI agents interacting iwith sensitive systems such as government portals and financial institutions."
         }
       ]
     }

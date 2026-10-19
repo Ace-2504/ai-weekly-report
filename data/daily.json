@@ -1,85 +1,91 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "top": {
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "source": "TechCrunch AI",
-    "published": "2026-10-17T21:31:32.000Z",
-    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "source": "MIT Tech Review",
+    "published": "2026-10-19T09:08:05.000Z",
+    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus…"
   },
   "topIndia": {
-    "title": "AI bubble burst may trigger 2008-like banking crisis, says Gary Marcus",
-    "url": "https://economictimes.indiatimes.com/tech/technology/ai-bubble-burst-may-trigger-2008-like-banking-crisis-says-gary-marcus/articleshow/135010716.cms",
-    "source": "ET Tech",
-    "published": "2026-10-17T04:26:04.000Z",
-    "summary": "In a recent discussion, Gary Marcus raised critical flags about OpenAI's fiscal responsibilities as the stock market faces instability. He warned that the demise of leading AI firms could trigger extensive financial repercussions. Notably, Marcus compared the current climate t…"
+    "title": "Data, not chips, will decide India’s AI and biotech future, say deeptech founders",
+    "url": "https://yourstory.com/2026/10/india-data-infrastructure-ai-biotech-coremantle-loopworm",
+    "source": "YourStory",
+    "published": "2026-10-19T10:48:03.000Z",
+    "summary": "Founders from CoreMantle and Loopworm say India must own context-rich data to scale AI and biotech and cut reliance on imports."
   },
   "headlines": [
     {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-17T20:21:19.000Z"
+      "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
+      "url": "https://arxiv.org/abs/2610.22373",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-19T04:00:00.000Z"
     },
     {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-17T18:48:08.000Z"
+      "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
+      "url": "https://arxiv.org/abs/2610.22400",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-19T04:00:00.000Z"
     },
     {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "source": "Ars Technica",
-      "published": "2026-10-16T20:59:01.000Z"
+      "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
+      "url": "https://arxiv.org/abs/2610.22403",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-19T04:00:00.000Z"
     },
     {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-16T18:00:00.000Z"
+      "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2610.22408",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-19T04:00:00.000Z"
     },
     {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-16T16:30:00.000Z"
+      "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
+      "url": "https://arxiv.org/abs/2610.22420",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-19T04:00:00.000Z"
     },
     {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-16T16:30:00.000Z"
+      "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
+      "url": "https://arxiv.org/abs/2610.22426",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-19T04:00:00.000Z"
     },
     {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-16T16:01:37.000Z"
+      "title": "From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems",
+      "url": "https://arxiv.org/abs/2610.22441",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-19T04:00:00.000Z"
     },
     {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-16T15:33:49.000Z"
+      "title": "Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability",
+      "url": "https://arxiv.org/abs/2610.22445",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-19T04:00:00.000Z"
     },
     {
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-16T14:26:51.000Z"
+      "title": "Learnable Splines for Unstructured Neural Operators",
+      "url": "https://arxiv.org/abs/2610.22446",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-19T04:00:00.000Z"
     },
     {
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-16T14:00:00.000Z"
+      "title": "Functional Welfare for AI Safety",
+      "url": "https://arxiv.org/abs/2610.22460",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-19T04:00:00.000Z"
     },
     {
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-16T12:55:09.000Z"
+      "title": "Author-in-the-loop Agentic Reproducibility Auditing for a Machine Learning Conference",
+      "url": "https://arxiv.org/abs/2610.22465",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-19T04:00:00.000Z"
+    },
+    {
+      "title": "Harness-Delta Attribution: Dissecting Gains From Harness Evolution",
+      "url": "https://arxiv.org/abs/2610.22466",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-19T04:00:00.000Z"
     }
   ],
   "events": [
@@ -119,11 +125,11 @@
       "summary": "The deal marks the first partnership announced since Skydance's merger with Paramount, under CEO David Ellison, who has sought to position the media group as a technology-driven business."
     },
     {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-15T14:29:33.000Z",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
+      "title": "Sachin Katti To Leave OpenAI After Leading Major Compute Expansion",
+      "url": "https://analyticsindiamag.com/ai-news/sachin-katti-to-leave-openai-after-leading-major-compute-expansion",
+      "source": "Analytics India Mag",
+      "published": "2026-10-15T06:31:55.000Z",
+      "summary": "He is slated to leave the company on November 15 and continue as an advisor after overseeing major infrastructure deals and the launch of GPT Infra."
     }
   ],
   "people": [
@@ -158,9 +164,9 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ceo-jensen-huang-says-he-would-cut-off-customers-who-build-unsafe-ai/articleshow/134950532.cms",
-      "article": "Nvidia CEO Jensen Huang says he would cut off customers who build unsafe AI",
-      "source": "ET Tech"
+      "link": "https://nvidianews.nvidia.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Andrej Karpathy",
