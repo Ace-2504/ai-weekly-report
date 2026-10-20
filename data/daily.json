@@ -1,94 +1,115 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "top": {
-    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "title": "A visit to Samsung’s massive new semiconductor hub",
+    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
     "source": "MIT Tech Review",
-    "published": "2026-10-19T09:08:05.000Z",
-    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus…"
+    "published": "2026-10-20T09:00:00.000Z",
+    "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three …"
   },
   "topIndia": {
-    "title": "Karnataka’s ElevenLabs Partnership Irks Indian Voice AI Startups",
-    "url": "https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups",
+    "title": "Why Enterprise AI Prototypes Break in Production",
+    "url": "https://analyticsindiamag.com/ai-features/why-enterprise-ai-prototypes-break-in-production",
     "source": "Analytics India Mag",
-    "published": "2026-10-19T13:24:51.000Z",
-    "summary": "Indian voice AI startups worry that giving a formal entry to ElevenLabs and Anthropic could deprive domestic companies of any credibility."
+    "published": "2026-10-20T10:30:00.000Z",
+    "summary": "At Cypher 2026, Tiger Analytics executives explained why moving generative AI from a working prototype to production requires more than getting the model to produce the right answer."
   },
   "headlines": [
     {
-      "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
-      "url": "https://arxiv.org/abs/2610.22373",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-19T04:00:00.000Z"
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-20T01:27:03.000Z"
     },
     {
-      "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
-      "url": "https://arxiv.org/abs/2610.22400",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-19T04:00:00.000Z"
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T23:39:38.000Z"
     },
     {
-      "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
-      "url": "https://arxiv.org/abs/2610.22403",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-19T04:00:00.000Z"
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T22:49:27.000Z"
     },
     {
-      "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2610.22408",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-19T04:00:00.000Z"
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T22:04:28.000Z"
     },
     {
-      "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
-      "url": "https://arxiv.org/abs/2610.22420",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-19T04:00:00.000Z"
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T20:09:24.000Z"
     },
     {
-      "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
-      "url": "https://arxiv.org/abs/2610.22426",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-19T04:00:00.000Z"
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T19:28:34.000Z"
     },
     {
-      "title": "From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems",
-      "url": "https://arxiv.org/abs/2610.22441",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-19T04:00:00.000Z"
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T19:00:12.000Z"
     },
     {
-      "title": "Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability",
-      "url": "https://arxiv.org/abs/2610.22445",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-19T04:00:00.000Z"
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T18:49:04.000Z"
     },
     {
-      "title": "Learnable Splines for Unstructured Neural Operators",
-      "url": "https://arxiv.org/abs/2610.22446",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-19T04:00:00.000Z"
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T18:37:27.000Z"
     },
     {
-      "title": "Functional Welfare for AI Safety",
-      "url": "https://arxiv.org/abs/2610.22460",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-19T04:00:00.000Z"
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-19T18:22:47.000Z"
     },
     {
-      "title": "Author-in-the-loop Agentic Reproducibility Auditing for a Machine Learning Conference",
-      "url": "https://arxiv.org/abs/2610.22465",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-19T04:00:00.000Z"
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-19T17:45:55.000Z"
     },
     {
-      "title": "Harness-Delta Attribution: Dissecting Gains From Harness Evolution",
-      "url": "https://arxiv.org/abs/2610.22466",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-19T04:00:00.000Z"
+      "title": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T16:13:22.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Apple to host 'Pro and tell' event on October 28 in LA",
+      "url": "https://economictimes.indiatimes.com/tech/technology/apple-to-host-pro-and-tell-event-on-october-28-in-la/articleshow/135054883.cms",
+      "source": "ET Tech",
+      "published": "2026-10-19T18:21:36.000Z",
+      "summary": "Apple said on Monday it would host a \"Pro and tell\" event in Los Angeles on October 28, the latest in a series of product launches as the iPhone maker expands its hardware lineup and AI offerings."
+    },
+    {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T15:37:09.000Z",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-17T18:48:08.000Z",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic."
+    },
     {
       "title": "New York City pension fund asks Anthropic to delay IPO",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-york-city-pension-fund-asks-anthropic-to-delay-ipo/articleshow/134982189.cms",
@@ -102,13 +123,6 @@
       "source": "ET Tech",
       "published": "2026-10-16T02:53:04.000Z",
       "summary": "Google announced Thursday it will start displaying links to websites and articles more prominently and higher up in search results powered by artificial intelligence (AI), as brands and news publishers warn of a sharp decline in their traffic. According to a report by consulta…"
-    },
-    {
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-15T20:04:53.000Z",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
     },
     {
       "title": "Amazon launches two new portable AI listening devices",

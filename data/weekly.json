@@ -1,11 +1,17 @@
 {
-  "weekOf": "2026-10-13 to 2026-10-19",
-  "generated": "2026-10-19T14:09:16.023Z",
-  "intro": "452 AI items this week (76 India-relevant) across 10 sources.",
+  "weekOf": "2026-10-14 to 2026-10-20",
+  "generated": "2026-10-20T10:36:00.176Z",
+  "intro": "110 AI items this week (74 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
+        {
+          "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+          "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+          "source": "TechCrunch AI",
+          "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
+        },
         {
           "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
           "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
@@ -13,34 +19,28 @@
           "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus…"
         },
         {
-          "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
-          "url": "https://arxiv.org/abs/2610.22373",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22373v1 Announce Type: new Abstract: LLM-based agents are increasingly used as autonomous orchestrators in distributed and multi-agent systems, yet a control gap remains: no protocol-level mechanism allows human operators to inject binding directives that persist ac…"
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "source": "MIT Tech Review",
+          "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-gen…"
         },
         {
-          "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
-          "url": "https://arxiv.org/abs/2610.22400",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22400v1 Announce Type: new Abstract: Existing large language model (LLM)-based user encoders serialize heterogeneous behavioral logs and compress them into static representations through autoregressive (AR) prediction. However, their unidirectional constraint limits…"
+          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "url": "https://huggingface.co/blog/reflection-beam",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
-          "url": "https://arxiv.org/abs/2610.22420",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22420v1 Announce Type: new Abstract: Agent-based models are well-suited for modelling agro-ecological systems for decision-making, yet turning their simulations into actionable insight requires identifying which decisions actually drive the behaviours. In such a con…"
+          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "url": "https://huggingface.co/blog/meta-muse-spark-open",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
-          "url": "https://arxiv.org/abs/2610.22426",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22426v1 Announce Type: new Abstract: LLM agents are used to check records against an organization's requirements, for example whether a vulnerability report is ready for investigation. Requirements often allow several ways to be met, such as a severity rating with a…"
-        },
-        {
-          "title": "From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems",
-          "url": "https://arxiv.org/abs/2610.22441",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22441v1 Announce Type: new Abstract: Large language models (LLMs) provide a convenient interface for translating natural language commands into task plans for cyber-physical systems (CPSs). However, two gaps hinder their use for real execution: generated plans may m…"
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "source": "Google AI Blog",
+          "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
         }
       ]
     },
@@ -48,40 +48,16 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
-          "url": "https://arxiv.org/abs/2610.22408",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22408v1 Announce Type: new Abstract: Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increases visual-token usage and inference costs, while textual summaries can discard critical state information, underm…"
+          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "FlexUMM: Flexible Representation Learning for Unified Multimodal Models",
-          "url": "https://arxiv.org/abs/2610.22682",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22682v1 Announce Type: new Abstract: Unified multimodal models (UMMs) can integrate understanding and generation within a single backbone. However, it is commonly known that these two capabilities can cause conflicting representations, leading to a central question:…"
-        },
-        {
-          "title": "Brain-Aligned Multimodal LLMs for Social and Emotional Understanding of Cartoon Movies",
-          "url": "https://arxiv.org/abs/2610.22706",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22706v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) offer scalable annotations of social and affective content, but their temporal agreement with human judgments and neural predictive value require further evaluation. We compared diffusion-…"
-        },
-        {
-          "title": "ShadowFPT: Backdooring Federated Prompt Tuning via Shadow Triggers",
-          "url": "https://arxiv.org/abs/2610.22871",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22871v1 Announce Type: new Abstract: Federated Prompt Tuning (FPT) adapts large vision--language models by freezing the pretrained backbone and optimizing only lightweight prompt parameters across clients. Although this design improves communication and parameter ef…"
-        },
-        {
-          "title": "DiffusionRVGE: Reinforcement Learning via Regression-Based Value Gradient Estimation",
-          "url": "https://arxiv.org/abs/2610.22973",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22973v1 Announce Type: new Abstract: Reinforcement learning improves diffusion models using rewards on generated images, but repeated denoising and gradient estimation make training expensive. We introduce \\method, an efficient method that constructs useful update d…"
-        },
-        {
-          "title": "GOLD: Geometric Optimized Latent Diffusion for Structure-Aware RNA Inverse Folding",
-          "url": "https://arxiv.org/abs/2610.22992",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22992v1 Announce Type: new Abstract: Designing RNA sequences that fold into specific 3D structures is a fundamental challenge in therapeutics. Current RNA inverse folding methods typically condition on 3D backbone coordinates but the generation is limited to 1D disc…"
+          "title": "Welcome FLUX.3 Image Klein in Diffusers",
+          "url": "https://huggingface.co/blog/flux-3",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -89,40 +65,10 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Harness-Delta Attribution: Dissecting Gains From Harness Evolution",
-          "url": "https://arxiv.org/abs/2610.22466",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22466v1 Announce Type: new Abstract: Harness evolution automatically optimizes the prompts, skills, tools, and orchestration code around a fixed-weight model, offering a way to improve agentic systems without updating model weights. The agent harness is iteratively …"
-        },
-        {
-          "title": "Testing the Planning Claims of LLM-Based Agents against Formal Semantics",
-          "url": "https://arxiv.org/abs/2610.22469",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22469v1 Announce Type: new Abstract: LLM-based agents are increasingly credited with the competences of practical reasoning: planning, monitoring, and correcting their own actions. Their success is attributed to the prompting strategies and agent architectures built…"
-        },
-        {
-          "title": "FRACTAL: A Self-Similar Multi-Agent Orchestration Architecture with Formal Communication, Convergence, and Depth Bounds",
-          "url": "https://arxiv.org/abs/2610.22561",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22561v1 Announce Type: new Abstract: We present FRACTAL, a self-similar multi-agent architecture for recursive goal decomposition, in which the same five-component organizational pattern -- Orchestrator, Ensemble, Knowledge Ledger, Decision Maker, Meta-Observer -- r…"
-        },
-        {
-          "title": "Not All Graphs Are Maps: A Task-Agnostic Exploration Framework for Mobile GUI Navigation",
-          "url": "https://arxiv.org/abs/2610.22672",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22672v1 Announce Type: new Abstract: Modern mobile GUI agents can perceive visible screens and execute local actions, but they still lack persistent app-specific navigation knowledge: where functions live, which pages contain them, and which screens are equivalent a…"
-        },
-        {
-          "title": "R$^2$Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop",
-          "url": "https://arxiv.org/abs/2610.22740",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22740v1 Announce Type: new Abstract: In recent years, agentic orchestration has been widely applied to solve complex human tasks. However, existing orchestration learning still faces key challenges, including hand-designed curricula, advantage collapse when a task's…"
-        },
-        {
-          "title": "Between Spoilers and Guesswork: Avoiding Over-Specification in Coding Benchmarks",
-          "url": "https://arxiv.org/abs/2610.22760",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22760v1 Announce Type: new Abstract: Benchmarks drive AI progress, but are hampered by task under-specification and over-specification. Task under-specification causes guesswork, where solutions have to make things up, or worse, resort to contamination or reward hac…"
+          "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+          "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
         }
       ]
     },
@@ -130,22 +76,16 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "KAYROS: An Anytime and Exact Open-Source Solver for Duration-Minimization Time-Dependent Vehicle Routing. A Technical Report and a Case Study in Human-AI Engineering",
-          "url": "https://arxiv.org/abs/2607.23116",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.23116v3 Announce Type: replace-cross Abstract: Time-dependent routing recognizes that the same journey can take a different time depending on when it begins. Under duration minimization, even the departure time of each vehicle becomes a decision. Exact methods for t…"
-        },
-        {
-          "title": "Meta launches an open-weight AI model that runs on Macs",
-          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+          "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+          "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
           "source": "TechCrunch AI",
-          "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
+          "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms …"
         },
         {
-          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-          "url": "https://huggingface.co/blog/meta-muse-spark-open",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "source": "TechCrunch AI",
+          "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
         }
       ]
     },
@@ -153,40 +93,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
-          "url": "https://arxiv.org/abs/2610.22403",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22403v1 Announce Type: new Abstract: What a reasoning system emits is a conclusion; what it owes is a justification. Producing one requires every operation to be admissible on the facts actually available, the dependencies of intermediate results to survive to the e…"
+          "title": "A visit to Samsung’s massive new semiconductor hub",
+          "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+          "source": "MIT Tech Review",
+          "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three …"
         },
         {
-          "title": "Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability",
-          "url": "https://arxiv.org/abs/2610.22445",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22445v1 Announce Type: new Abstract: Automated discovery systems propose scientific explanations and test which to accept. Does passing a test establish the intended claim? We develop four executable operations for changing physical descriptions: identifying redunda…"
+          "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+          "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+          "source": "TechCrunch AI",
+          "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
         },
         {
-          "title": "Learnable Splines for Unstructured Neural Operators",
-          "url": "https://arxiv.org/abs/2610.22446",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22446v1 Announce Type: new Abstract: Neural operators approximate solution operators of partial differential equations at a fraction of the cost of numerical solvers. Efficient grid-based architectures such as the Fourier neural operator (FNO) assume uniform rectang…"
+          "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+          "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+          "source": "TechCrunch AI",
+          "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
         },
         {
-          "title": "Functional Welfare for AI Safety",
-          "url": "https://arxiv.org/abs/2610.22460",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22460v1 Announce Type: new Abstract: AI welfare is generally treated purely as an ethical issue rather than also as a safety issue. We argue this is a mistake. Whatever their moral status, models exhibit welfare-like states that causally influence their behaviour. F…"
+          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+          "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
         },
         {
-          "title": "Author-in-the-loop Agentic Reproducibility Auditing for a Machine Learning Conference",
-          "url": "https://arxiv.org/abs/2610.22465",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22465v1 Announce Type: new Abstract: Reproducibility checks during peer review require a shared understanding of what authors' code is expected to reproduce. We present an author-in-the-loop collaborative audit that makes author declarations explicit inputs to an AI…"
+          "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+          "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+          "source": "TechCrunch AI",
+          "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
         },
         {
-          "title": "Are Large Reasoning Models Good Everyday Reasoners? A Comparison with Non-Reasoning Models on Logical Reasoning Tasks",
-          "url": "https://arxiv.org/abs/2610.22538",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.22538v1 Announce Type: new Abstract: Large reasoning models (LRMs) that leverage test-time computation achieve strong performance on mathematical and scientific benchmarks and are increasingly deployed in real-world applications. However, their ability to perform \\t…"
+          "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+          "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+          "source": "TechCrunch AI",
+          "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
         }
       ]
     },
@@ -194,52 +134,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Karnataka’s ElevenLabs Partnership Irks Indian Voice AI Startups",
-          "url": "https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups",
+          "title": "Why Enterprise AI Prototypes Break in Production",
+          "url": "https://analyticsindiamag.com/ai-features/why-enterprise-ai-prototypes-break-in-production",
           "source": "Analytics India Mag",
-          "summary": "Indian voice AI startups worry that giving a formal entry to ElevenLabs and Anthropic could deprive domestic companies of any credibility."
+          "summary": "At Cypher 2026, Tiger Analytics executives explained why moving generative AI from a working prototype to production requires more than getting the model to produce the right answer."
         },
         {
-          "title": "Hunar Raises ₹40 Cr To Scale Agentic AI For Frontline Hiring",
-          "url": "https://inc42.com/buzz/hunar-raises-%e2%82%b940-cr-to-scale-agentic-ai-for-frontline-hiring/",
-          "source": "Inc42",
-          "summary": "Hiring thousands of frontline workers (employees who directly provide goods and services to communities) across multiple cities is a coordination-heavy…"
-        },
-        {
-          "title": "Beyond the GenAI hype: Amazon's Rajeev Rastogi bets on agentic AI to boost enterpise operations",
-          "url": "https://yourstory.com/2026/10/beyond-genai-hype-amazon-rajeev-rastogi-bets-on-agentic-ai",
+          "title": "Eloelo's Saurabh Pandey bets that Dolphin AI can break the gatekeepers of Indian storytelling",
+          "url": "https://yourstory.com/2026/10/eloelos-saurabh-pandey-bets-that-dolphin-ai-can-break-the-gatekeepers-of-indian-storytelling",
           "source": "YourStory",
-          "summary": "Speaking at TechSparks 2026, Rajeev Rastogi, Vice President of Machine Learning at Amazon highlighted the rise of agentic AI in the entire enterprise operating layer, marking a transition from static software to autonomous systems capable of understanding natural language inst…"
+          "summary": "The Eloelo Group founder says AI-led production could turn India's storytellers into a global export force."
         },
         {
-          "title": "Mobavenue’s Tejas Rathod On The Shift From Ad Optimisation To AI Decisioning",
-          "url": "https://inc42.com/features/mobavenues-tejas-rathod-on-the-shift-from-ad-optimisation-to-ai-decisioning/",
-          "source": "Inc42",
-          "summary": "A high click rate cannot tell a fintech company whether a user will complete the KYC. Similarly, downloading an app…"
-        },
-        {
-          "title": "Data, not chips, will decide India’s AI and biotech future, say deeptech founders",
-          "url": "https://yourstory.com/2026/10/india-data-infrastructure-ai-biotech-coremantle-loopworm",
-          "source": "YourStory",
-          "summary": "Founders from CoreMantle and Loopworm say India must own context-rich data to scale AI and biotech and cut reliance on imports."
-        },
-        {
-          "title": "From implementation to innovation: The next step in your Gemini Enterprise journey",
-          "url": "https://yourstory.com/2026/10/-implementation-to-innovation-next-step-your-gemini-enterprise-journey",
-          "source": "YourStory",
-          "summary": "Join Google Cloud's AI and ML experts for the second edition of the Gemini Enterprise series, covering app connectivity, identity management, and enterprise-grade security."
-        },
-        {
-          "title": "The Next Limits on AI May Be Physical",
-          "url": "https://analyticsindiamag.com/ai-features/the-next-limits-on-ai-may-be-physical",
+          "title": "Anyone Can Make a Robot Move, Few Can Make It Stop",
+          "url": "https://analyticsindiamag.com/deep-tech/anyone-can-make-a-robot-move-few-can-make-it-stop",
           "source": "Analytics India Mag",
-          "summary": "Moby Chief AI Officer Michael Ferrari argues that AI’s expansion will increasingly depend on access to power, water, materials and silicon. Computing could eventually move from land to the ocean and, ultimately, into orbit."
+          "summary": "Robotic companies are building safeguards for AI-powered robots, but unpredictable environments still challenge industrial deployment."
         },
         {
-          "title": "Data is not a moat: What India’s CTOs say will define the next tech edge",
-          "url": "https://yourstory.com/2026/10/data-not-moat-india-cto-define-next-tech-edge-sharechat-amagi-innovaccer-angel-one",
-          "source": "YourStory",
-          "summary": "At TechSparks 2026, technology leaders from ShareChat, Angel One, Amagi and Innovaccer said India’s next competitive edge will depend on deep industry expertise, customer insights, trust and the ability to turn AI into real-world solutions."
+          "title": "US banning Chinese AI DeepSeek from government agency IT systems",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/articleshow/135054998.cms",
+          "source": "ET Tech",
+          "summary": "The department is also banning acquisition of DeepSeek products and third-party services developed using DeepSeek by US civilian government agencies. DHS said DeepSeek models pose \"multiple threat vectors\" and raised concerns that use of the product \"may result in the transfer…"
+        },
+        {
+          "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing: court filing",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing/articleshow/135054947.cms",
+          "source": "ET Tech",
+          "summary": "US prosecutors allege that the defendant, Abdulrahman Alfozan, 35, was in frequent communication with an unnamed member of the Saudi Royal family and that a member of the Saudi military paid for a one-way plane ticket for Alfozan's wife and son to return to Saudi Arabia, accor…"
+        },
+        {
+          "title": "Apple to host 'Pro and tell' event on October 28 in LA",
+          "url": "https://economictimes.indiatimes.com/tech/technology/apple-to-host-pro-and-tell-event-on-october-28-in-la/articleshow/135054883.cms",
+          "source": "ET Tech",
+          "summary": "Apple said on Monday it would host a \"Pro and tell\" event in Los Angeles on October 28, the latest in a series of product launches as the iPhone maker expands its hardware lineup and AI offerings."
+        },
+        {
+          "title": "LTTS Secures $203 Million in Large Deals, More Than Half AI-Led",
+          "url": "https://analyticsindiamag.com/ai-news/ltts-secures-203-million-in-large-deals-more-than-half-ai-led",
+          "source": "Analytics India Mag",
+          "summary": "L&T Technology Services reported $120 million in annualised Engineering Intelligence revenue as EBIT margins rose to 16.3% in Q2 FY27."
+        },
+        {
+          "title": "Nvidia wins fast-growing AI startup Modal for new central processors",
+          "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-wins-fast-growing-ai-startup-modal-for-new-central-processors/articleshow/135051728.cms",
+          "source": "ET Tech",
+          "summary": "Modal, a cloud-computing startup that rents out computing power to AI developers, said it plans to start using Nvidia's new Vera central processor for the first time for hosting agents, the AI systems that can carry out long-running tasks for human users. Modal until now has r…"
         }
       ]
     }
