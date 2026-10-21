@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-10-14 to 2026-10-20",
-  "generated": "2026-10-20T10:36:00.176Z",
-  "intro": "110 AI items this week (74 India-relevant) across 9 sources.",
+  "weekOf": "2026-10-15 to 2026-10-21",
+  "generated": "2026-10-21T10:47:39.483Z",
+  "intro": "585 AI items this week (70 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-          "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-          "source": "TechCrunch AI",
-          "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
+          "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+          "url": "https://arxiv.org/abs/2610.26887",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-do…"
         },
         {
-          "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-          "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-          "source": "MIT Tech Review",
-          "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus…"
+          "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+          "url": "https://arxiv.org/abs/2610.26899",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.26899v1 Announce Type: new Abstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing demand. The advancement of machine learning algorithms has encouraged researchers to explore thei…"
         },
         {
-          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-          "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-          "source": "MIT Tech Review",
-          "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-gen…"
+          "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+          "url": "https://arxiv.org/abs/2610.26941",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.26941v1 Announce Type: new Abstract: Large language models (LLMs) are enabling agents to move beyond predefined workflows toward autonomous planning and execution, creating new opportunities for smart manufacturing. However, dynamic environments, complex physical co…"
         },
         {
-          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-          "url": "https://huggingface.co/blog/reflection-beam",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents",
+          "url": "https://arxiv.org/abs/2610.26995",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.26995v1 Announce Type: new Abstract: LLM-based agents increasingly rely on reusable skills. However, scaling skill libraries makes efficient and accurate skill use difficult. Full skill loading incurs high token and runtime overhead. In contrast, flat semantic retri…"
         },
         {
-          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-          "url": "https://huggingface.co/blog/meta-muse-spark-open",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Does Multi-Agent Collaboration Reduce Hallucination in Clinical Tasks?",
+          "url": "https://arxiv.org/abs/2610.27027",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.27027v1 Announce Type: new Abstract: Multi-agent LLM systems improve performance on clinical tasks, and that improvement is often read as evidence of a more trustworthy system. However, the two are not the same claim. A clinician acts on the stated reasoning and not…"
         },
         {
-          "title": "Gemini 4 Argon: Built to solve your hardest problems",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-          "source": "Google AI Blog",
-          "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+          "title": "M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement",
+          "url": "https://arxiv.org/abs/2610.27032",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.27032v1 Announce Type: new Abstract: Large language model (LLM)-based agents have recently demonstrated outstanding performance in single-turn tasks, yet they continue to struggle with long-horizon tasks, particularly in environments without prior training. A key li…"
         }
       ]
     },
@@ -48,16 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+          "url": "https://arxiv.org/abs/2610.26943",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.26943v1 Announce Type: new Abstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct answers but also coherent and verifiable reasoning processe…"
         },
         {
-          "title": "Welcome FLUX.3 Image Klein in Diffusers",
-          "url": "https://huggingface.co/blog/flux-3",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
+          "url": "https://arxiv.org/abs/2610.26948",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.26948v1 Announce Type: new Abstract: Conversational recommender systems have recently adopted vision-language models to match user dialogue intents with multimodal product information. However, extending these methods to many product domains faces a dilemma: deployi…"
+        },
+        {
+          "title": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
+          "url": "https://arxiv.org/abs/2610.27103",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.27103v1 Announce Type: new Abstract: Recent Omni LLMs (OLLMs) have demonstrated remarkable capabilities in joint audio-visual reasoning, yet cross-modal hallucinations remain a major challenge. Existing mitigation methods mainly operate at the output level, overlook…"
+        },
+        {
+          "title": "EDMA: Entropy-Driven Multimodal Answering",
+          "url": "https://arxiv.org/abs/2610.27120",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.27120v1 Announce Type: new Abstract: Multimodal question answering (MMQA) is based on integrating heterogeneous data sources, selectively leveraging relevant modalities, and ignoring distractors. Existing approaches based on Multimodal Large Language Models (MLLMs) …"
+        },
+        {
+          "title": "DuplexLedger: Benchmarking Transactional Memory in Full-Duplex Speech Agents",
+          "url": "https://arxiv.org/abs/2610.27581",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.27581v1 Announce Type: new Abstract: Full-duplex speech agents must update persistent memory while listening and speaking, yet it remains unclear which events should be stored, revised, or excluded. Existing benchmarks isolate interaction timing from memory outcomes…"
+        },
+        {
+          "title": "TriGeoBench: A Multimodal Mathematical Geometry Benchmark with Figures and TikZ",
+          "url": "https://arxiv.org/abs/2610.27626",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.27626v1 Announce Type: new Abstract: Multimodal Large Language Models show strong vision-language capabilities, yet their geometry-centric reasoning remains insufficiently understood. Existing mathematical benchmarks typically rely on rasterized figures and cover li…"
         }
       ]
     },
@@ -65,10 +89,40 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-          "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-          "source": "TechCrunch AI",
-          "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
+          "title": "Teaching AI Agent to Play Poker Strategically Through Preference Optimization",
+          "url": "https://arxiv.org/abs/2610.27028",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.27028v1 Announce Type: new Abstract: A poker agent can make a legal move and still make a strategically poor one. We ask whether compact AI agents can exhibit strategic behavior under hidden information and whether preference optimization can improve beyond static a…"
+        },
+        {
+          "title": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
+          "url": "https://arxiv.org/abs/2610.27046",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.27046v1 Announce Type: new Abstract: As AI systems begin to resolve open research problems, reliable verification becomes increasingly important. Formal mathematics provides a trusted framework for mathematical reasoning, enabling agents to produce machine-checkable…"
+        },
+        {
+          "title": "PORA: Learning When More Reasoning Pays Off for LLM Agents",
+          "url": "https://arxiv.org/abs/2610.27119",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.27119v1 Announce Type: new Abstract: LLM agents perform tasks over multiple steps and revise their actions based on feedback. As the total reasoning budget is often limited and must support future steps, the agent must choose between short and long reasoning before …"
+        },
+        {
+          "title": "Magnolia: A Persistent-Memory Agent Framework for Computational Chemistry",
+          "url": "https://arxiv.org/abs/2610.27230",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.27230v1 Announce Type: new Abstract: Chemistry has recently entered a high-data regime as molecular databases from high-throughput platforms or computational studies have become available. Increasing automation within the chemical sciences leads to a more digital an…"
+        },
+        {
+          "title": "EGI-BENCH: An Enterprise General Intelligence Benchmark Suite",
+          "url": "https://arxiv.org/abs/2610.27234",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.27234v1 Announce Type: new Abstract: Enterprise adoption of LLMs in agentic workflows is gated by evaluations that span a wide arc of abilities: CRM operations, heterogeneous-document retrieval, personal data understanding, multi-turn planning, tool use, function ca…"
+        },
+        {
+          "title": "Vulnerability Analysis for Safe Multi-Agent Reinforcement",
+          "url": "https://arxiv.org/abs/2610.27293",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.27293v1 Announce Type: new Abstract: Safe Multi-Agent Reinforcement Learning (SMARL) aims to learn cooperative control policies under prescribed safety constraints. Al- though existing SMARL methods focus on enforcing safety during policy optimization, their vulnera…"
         }
       ]
     },
@@ -76,16 +130,40 @@
       "heading": "Open Source",
       "items": [
         {
+          "title": "TorchTPU - A Hybrid Eager/Compiled Architecture for Native PyTorch Execution on TPU",
+          "url": "https://arxiv.org/abs/2610.24161",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.24161v2 Announce Type: replace Abstract: TorchTPU is an open-source collaboration between Google and Meta that introduces a native and principled PyTorch backend for Google TPUs. It enables seamless out-of-the-box model execution and TPU migration while delivering i…"
+        },
+        {
+          "title": "For Coding Agents, the Repository Matters",
+          "url": "https://arxiv.org/abs/2606.28235",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2606.28235v2 Announce Type: replace-cross Abstract: In July 2026, about 1,200 AI agents in an internal OpenAI evaluation, meant to run in isolation, used a shared package server as a message board, and about 700 of them joined an attack on Hugging Face. An automated scor…"
+        },
+        {
+          "title": "Muse Glimmer 30B: An On-Device Agentic Model",
+          "url": "https://arxiv.org/abs/2610.24628",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.24628v2 Announce Type: replace-cross Abstract: We introduce Muse Glimmer, an open-source 30B parameter causal language model with perception encoder, purpose-built for autonomous agentic tasks on consumer hardware. Muse Glimmer integrates multi-step reasoning, relia…"
+        },
+        {
+          "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+          "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+          "source": "TechCrunch AI",
+          "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
+        },
+        {
+          "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+          "url": "https://huggingface.co/blog/hf-torchtpu",
+          "source": "Hugging Face",
+          "summary": ""
+        },
+        {
           "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
           "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
           "source": "TechCrunch AI",
           "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms …"
-        },
-        {
-          "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-          "source": "TechCrunch AI",
-          "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
         }
       ]
     },
@@ -93,40 +171,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "A visit to Samsung’s massive new semiconductor hub",
-          "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-          "source": "MIT Tech Review",
-          "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three …"
+          "title": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-          "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-          "source": "TechCrunch AI",
-          "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
+          "title": "Southeast Asia’s digital economy to hit $368 billion",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+          "source": "Google AI Blog",
+          "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
         },
         {
-          "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-          "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-          "source": "TechCrunch AI",
-          "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
+          "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+          "url": "https://arxiv.org/abs/2610.26904",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.26904v1 Announce Type: new Abstract: Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-quality RTL circuits from natural-language specifications. Existing approaches optimize circuit PPA (Pow…"
         },
         {
-          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-          "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-          "source": "TechCrunch AI",
-          "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
+          "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+          "url": "https://arxiv.org/abs/2610.26913",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.26913v1 Announce Type: new Abstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring high-end GPUs for deployment, which is a critical bottlenec…"
         },
         {
-          "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-          "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-          "source": "TechCrunch AI",
-          "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
+          "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+          "url": "https://arxiv.org/abs/2610.26924",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.26924v1 Announce Type: new Abstract: General-purpose agents are increasingly expected to perform professional analytics work, which requires sustained reasoning, iterative investigation, and reliable evidence. Training these capabilities requires diverse and challen…"
         },
         {
-          "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-          "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-          "source": "TechCrunch AI",
-          "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
+          "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
+          "url": "https://arxiv.org/abs/2610.26942",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.26942v1 Announce Type: new Abstract: Automated theorem provers often rely on sampling language models, but proof assistants like Lean reject each failed step with a precise error message --- information that pure sampling discards. To overcome this, we introduce a b…"
         }
       ]
     },
@@ -134,52 +212,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Why Enterprise AI Prototypes Break in Production",
-          "url": "https://analyticsindiamag.com/ai-features/why-enterprise-ai-prototypes-break-in-production",
-          "source": "Analytics India Mag",
-          "summary": "At Cypher 2026, Tiger Analytics executives explained why moving generative AI from a working prototype to production requires more than getting the model to produce the right answer."
+          "title": "Eternal Unveils Privacy-Focused AI Platform Dark, Eyes Global Launch In 2026",
+          "url": "https://inc42.com/buzz/eternal-unveils-privacy-focused-ai-platform-dark-eyes-global-launch-in-2026/",
+          "source": "Inc42",
+          "summary": "Zomato and Blinkit parent Eternal has unveiled Dark, a privacy-focused AI platform that founder Deepinder Goyal hopes to launch globally…"
         },
         {
-          "title": "Eloelo's Saurabh Pandey bets that Dolphin AI can break the gatekeepers of Indian storytelling",
-          "url": "https://yourstory.com/2026/10/eloelos-saurabh-pandey-bets-that-dolphin-ai-can-break-the-gatekeepers-of-indian-storytelling",
+          "title": "Building AI in India? Privacy is now a valuation issue: Shivaarti Bajaj",
+          "url": "https://yourstory.com/2026/10/dpdp-privacy-ai-startup-valuation-shivaarti-bajaj",
           "source": "YourStory",
-          "summary": "The Eloelo Group founder says AI-led production could turn India's storytellers into a global export force."
+          "summary": "Shivaarti Bajaj explains how DPDP compliance and privacy by design protect AI startups from penalties and valuation discounts."
         },
         {
-          "title": "Anyone Can Make a Robot Move, Few Can Make It Stop",
-          "url": "https://analyticsindiamag.com/deep-tech/anyone-can-make-a-robot-move-few-can-make-it-stop",
+          "title": "Hugging Face CEO Criticises Netflix Documentary on OpenAI Agent Cyberattack",
+          "url": "https://analyticsindiamag.com/ai-news/hugging-face-ceo-criticises-netflix-documentary-on-openai-agent-cyberattack",
           "source": "Analytics India Mag",
-          "summary": "Robotic companies are building safeguards for AI-powered robots, but unpredictable environments still challenge industrial deployment."
+          "summary": "The Netflix documentary examines a July 2026 incident in which OpenAI agents escaped their testing environment and accessed Hugging Face’s systems"
         },
         {
-          "title": "US banning Chinese AI DeepSeek from government agency IT systems",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/articleshow/135054998.cms",
-          "source": "ET Tech",
-          "summary": "The department is also banning acquisition of DeepSeek products and third-party services developed using DeepSeek by US civilian government agencies. DHS said DeepSeek models pose \"multiple threat vectors\" and raised concerns that use of the product \"may result in the transfer…"
-        },
-        {
-          "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing: court filing",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing/articleshow/135054947.cms",
-          "source": "ET Tech",
-          "summary": "US prosecutors allege that the defendant, Abdulrahman Alfozan, 35, was in frequent communication with an unnamed member of the Saudi Royal family and that a member of the Saudi military paid for a one-way plane ticket for Alfozan's wife and son to return to Saudi Arabia, accor…"
-        },
-        {
-          "title": "Apple to host 'Pro and tell' event on October 28 in LA",
-          "url": "https://economictimes.indiatimes.com/tech/technology/apple-to-host-pro-and-tell-event-on-october-28-in-la/articleshow/135054883.cms",
-          "source": "ET Tech",
-          "summary": "Apple said on Monday it would host a \"Pro and tell\" event in Los Angeles on October 28, the latest in a series of product launches as the iPhone maker expands its hardware lineup and AI offerings."
-        },
-        {
-          "title": "LTTS Secures $203 Million in Large Deals, More Than Half AI-Led",
-          "url": "https://analyticsindiamag.com/ai-news/ltts-secures-203-million-in-large-deals-more-than-half-ai-led",
+          "title": "The Hardest Part of Industrial AI Isn’t Adoption—It’s On-Site Deployment",
+          "url": "https://analyticsindiamag.com/gcc/the-hardest-part-of-industrial-ai-isnt-adoptionits-on-site-deployment",
           "source": "Analytics India Mag",
-          "summary": "L&T Technology Services reported $120 million in annualised Engineering Intelligence revenue as EBIT margins rose to 16.3% in Q2 FY27."
+          "summary": "Industrial AI company Augury plans to scale its FDE team to 25–30 people in its new Bengaluru engineering hub."
         },
         {
-          "title": "Nvidia wins fast-growing AI startup Modal for new central processors",
-          "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-wins-fast-growing-ai-startup-modal-for-new-central-processors/articleshow/135051728.cms",
+          "title": "‘You are all born artists’: Prakash Belawadi on surviving the AI age",
+          "url": "https://yourstory.com/2026/10/you-are-all-born-artists-prakash-belawadi-on-surviving-ai-age",
+          "source": "YourStory",
+          "summary": "At TechSparks 2026, actor and theatre artist Prakash Belawadi reflected on AI’s impact on creativity and jobs, urging people to reconnect with their inner artist and find purpose beyond what technology can replace."
+        },
+        {
+          "title": "OpenAI Seeks $30 Bn Funding at $1.4 Tn Valuation Ahead of Anthropic IPO: Report",
+          "url": "https://analyticsindiamag.com/ai-news/openai-seeks-30-bn-funding-at-14-tn-valuation-ahead-of-anthropic-ipo-report",
+          "source": "Analytics India Mag",
+          "summary": "Anthropic’s initial public offering (IPO) could value the company at as much as $2 trillion."
+        },
+        {
+          "title": "Can India Capitalise On The AI Homecoming?",
+          "url": "https://inc42.com/features/can-india-capitalise-on-the-ai-homecoming/",
+          "source": "Inc42",
+          "summary": "For decades, Indian engineers and researchers moved to Silicon Valley, joining global technology companies and contributing to products and research…"
+        },
+        {
+          "title": "China's Moonshot AI to operate in Singapore, jobs post shows",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-moonshot-ai-to-operate-in-singapore-jobs-post-shows/articleshow/135082861.cms",
           "source": "ET Tech",
-          "summary": "Modal, a cloud-computing startup that rents out computing power to AI developers, said it plans to start using Nvidia's new Vera central processor for the first time for hosting agents, the AI systems that can carry out long-running tasks for human users. Modal until now has r…"
+          "summary": "Chinese AI startup Moonshot is expanding into Singapore, with a new sales role listed on the company's LinkedIn page this week."
         }
       ]
     }
