@@ -1,114 +1,128 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "top": {
-    "title": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
-    "source": "Hugging Face",
-    "published": "2026-10-21T10:41:36.000Z",
-    "summary": ""
+    "title": "Making the case for context-aware AI",
+    "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "source": "MIT Tech Review",
+    "published": "2026-10-22T10:00:00.000Z",
+    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the …"
   },
   "topIndia": {
-    "title": "Eternal Unveils Privacy-Focused AI Platform Dark, Eyes Global Launch In 2026",
-    "url": "https://inc42.com/buzz/eternal-unveils-privacy-focused-ai-platform-dark-eyes-global-launch-in-2026/",
-    "source": "Inc42",
-    "published": "2026-10-21T10:18:38.000Z",
-    "summary": "Zomato and Blinkit parent Eternal has unveiled Dark, a privacy-focused AI platform that founder Deepinder Goyal hopes to launch globally…"
+    "title": "Karta AI Raises $3 Million in Seed Funding to Automate Complex Banking Calls",
+    "url": "https://analyticsindiamag.com/ai-news/karta-ai-raises-3-million-in-seed-funding-to-automate-complex-banking-calls",
+    "source": "Analytics India Mag",
+    "published": "2026-10-22T10:26:19.000Z",
+    "summary": "Discover how Karta AI's funding will innovate banking communication. Learn more about their impact on financial services!"
   },
   "headlines": [
     {
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "source": "Google AI Blog",
-      "published": "2026-10-21T04:00:00.000Z"
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-22T08:41:18.000Z"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "source": "Hugging Face",
+      "published": "2026-10-22T07:51:31.000Z"
     },
     {
       "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
       "url": "https://arxiv.org/abs/2610.26887",
       "source": "arXiv cs.AI",
-      "published": "2026-10-21T04:00:00.000Z"
+      "published": "2026-10-22T04:00:00.000Z"
     },
     {
       "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
       "url": "https://arxiv.org/abs/2610.26899",
       "source": "arXiv cs.AI",
-      "published": "2026-10-21T04:00:00.000Z"
+      "published": "2026-10-22T04:00:00.000Z"
     },
     {
       "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
       "url": "https://arxiv.org/abs/2610.26904",
       "source": "arXiv cs.AI",
-      "published": "2026-10-21T04:00:00.000Z"
+      "published": "2026-10-22T04:00:00.000Z"
     },
     {
       "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
       "url": "https://arxiv.org/abs/2610.26913",
       "source": "arXiv cs.AI",
-      "published": "2026-10-21T04:00:00.000Z"
+      "published": "2026-10-22T04:00:00.000Z"
     },
     {
       "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
       "url": "https://arxiv.org/abs/2610.26924",
       "source": "arXiv cs.AI",
-      "published": "2026-10-21T04:00:00.000Z"
+      "published": "2026-10-22T04:00:00.000Z"
     },
     {
       "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
       "url": "https://arxiv.org/abs/2610.26941",
       "source": "arXiv cs.AI",
-      "published": "2026-10-21T04:00:00.000Z"
+      "published": "2026-10-22T04:00:00.000Z"
     },
     {
       "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
       "url": "https://arxiv.org/abs/2610.26942",
       "source": "arXiv cs.AI",
-      "published": "2026-10-21T04:00:00.000Z"
+      "published": "2026-10-22T04:00:00.000Z"
     },
     {
       "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
       "url": "https://arxiv.org/abs/2610.26943",
       "source": "arXiv cs.AI",
-      "published": "2026-10-21T04:00:00.000Z"
+      "published": "2026-10-22T04:00:00.000Z"
     },
     {
       "title": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
       "url": "https://arxiv.org/abs/2610.26948",
       "source": "arXiv cs.AI",
-      "published": "2026-10-21T04:00:00.000Z"
+      "published": "2026-10-22T04:00:00.000Z"
     },
     {
       "title": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
       "url": "https://arxiv.org/abs/2610.26964",
       "source": "arXiv cs.AI",
-      "published": "2026-10-21T04:00:00.000Z"
-    },
-    {
-      "title": "SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents",
-      "url": "https://arxiv.org/abs/2610.26995",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-21T04:00:00.000Z"
+      "published": "2026-10-22T04:00:00.000Z"
     }
   ],
   "events": [
     {
+      "title": "Anthropic Takes On OpenAI, Meta With New Proactive AI Agent Claude Duet",
+      "url": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/",
+      "source": "Inc42",
+      "published": "2026-10-22T06:06:13.000Z",
+      "summary": "Anthropic has unveiled Claude Duet, a proactive AI agent designed to monitor connected apps, prioritise tasks, and carry out work…"
+    },
+    {
       "title": "Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE",
       "url": "https://arxiv.org/abs/2610.27598",
       "source": "arXiv cs.AI",
-      "published": "2026-10-21T04:00:00.000Z",
+      "published": "2026-10-22T04:00:00.000Z",
       "summary": "arXiv:2610.27598v1 Announce Type: new Abstract: As model parameters scale up, sparsely activated Mixture-of-Experts (MoE) approaches have become essential for model scaling. However, mainstream models currently adopt hierarchical architectures, where experts in different layer…"
     },
     {
       "title": "NVIDIA Spectrum-X: Hardware-Accelerated Multiplane Networking for Large-Scale AI Training",
       "url": "https://arxiv.org/abs/2605.21187",
       "source": "arXiv cs.AI",
-      "published": "2026-10-21T04:00:00.000Z",
+      "published": "2026-10-22T04:00:00.000Z",
       "summary": "arXiv:2605.21187v2 Announce Type: replace-cross Abstract: As distributed model training scales to span hundreds of thousands of GPUs, scale-out networks face unprecedented performance and efficiency demands. NVIDIA Spectrum-X Ethernet has been designed from the ground up to ac…"
     },
     {
       "title": "Probe, Don't Prompt: A Hidden-State Probe for Metadata Filtering in Multi-Meta-RAG",
       "url": "https://arxiv.org/abs/2607.03929",
       "source": "arXiv cs.AI",
-      "published": "2026-10-21T04:00:00.000Z",
+      "published": "2026-10-22T04:00:00.000Z",
       "summary": "arXiv:2607.03929v2 Announce Type: replace-cross Abstract: Multi-Meta-RAG improves retrieval for multi-hop question answering by filtering a vector store on metadata, specifically the news source and the publication date, which it extracts from each query using GPT-3.5. This ex…"
+    },
+    {
+      "title": "From Humanoid Robots to Telecom Trials, 12 Major Announcements at NVIDIA GTC Berlin 2026",
+      "url": "https://analyticsindiamag.com/deep-tech/from-humanoid-robots-to-telecom-trials-12-major-announcements-at-nvidia-gtc-berlin-2026",
+      "source": "Analytics India Mag",
+      "published": "2026-10-21T12:21:23.000Z",
+      "summary": "The company outlined plans to expand AI infrastructure, strengthen chip manufacturing, develop autonomous networks and advance physical AI."
     },
     {
       "title": "Apple to host 'Pro and tell' event on October 28 in LA",
@@ -116,27 +130,6 @@
       "source": "ET Tech",
       "published": "2026-10-19T18:21:36.000Z",
       "summary": "Apple said on Monday it would host a \"Pro and tell\" event in Los Angeles on October 28, the latest in a series of product launches as the iPhone maker expands its hardware lineup and AI offerings."
-    },
-    {
-      "title": "New York City pension fund asks Anthropic to delay IPO",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-york-city-pension-fund-asks-anthropic-to-delay-ipo/articleshow/134982189.cms",
-      "source": "ET Tech",
-      "published": "2026-10-16T04:12:45.000Z",
-      "summary": "The supervisor of New York City's pension funds, one of the largest in the United States, asked Anthropic to postpone its stock market debut until risks posed by its artificial intelligence technology are better controlled. A small fraction of those assets, around $7 million, …"
-    },
-    {
-      "title": "Google boosts news and link visibility in AI mode",
-      "url": "https://economictimes.indiatimes.com/tech/technology/google-boosts-news-and-link-visibility-in-ai-mode/articleshow/134980737.cms",
-      "source": "ET Tech",
-      "published": "2026-10-16T02:53:04.000Z",
-      "summary": "Google announced Thursday it will start displaying links to websites and articles more prominently and higher up in search results powered by artificial intelligence (AI), as brands and news publishers warn of a sharp decline in their traffic. According to a report by consulta…"
-    },
-    {
-      "title": "Sachin Katti To Leave OpenAI After Leading Major Compute Expansion",
-      "url": "https://analyticsindiamag.com/ai-news/sachin-katti-to-leave-openai-after-leading-major-compute-expansion",
-      "source": "Analytics India Mag",
-      "published": "2026-10-15T06:31:55.000Z",
-      "summary": "He is slated to leave the company on November 15 and continue as an advisor after overseeing major infrastructure deals and the launch of GPT Infra."
     }
   ],
   "people": [
