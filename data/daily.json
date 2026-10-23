@@ -1,94 +1,129 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "top": {
-    "title": "Making the case for context-aware AI",
-    "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-    "source": "MIT Tech Review",
-    "published": "2026-10-22T10:00:00.000Z",
-    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the …"
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "source": "TechCrunch AI",
+    "published": "2026-10-23T04:00:00.000Z",
+    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
   },
   "topIndia": {
-    "title": "Karta AI Raises $3 Million in Seed Funding to Automate Complex Banking Calls",
-    "url": "https://analyticsindiamag.com/ai-news/karta-ai-raises-3-million-in-seed-funding-to-automate-complex-banking-calls",
+    "title": "Chariot Launches Speech Recognition Model for 10 Indian Languages",
+    "url": "https://analyticsindiamag.com/ai-news/chariot-launches-speech-recognition-model-for-10-indian-languages",
     "source": "Analytics India Mag",
-    "published": "2026-10-22T10:26:19.000Z",
-    "summary": "Discover how Karta AI's funding will innovate banking communication. Learn more about their impact on financial services!"
+    "published": "2026-10-23T10:16:23.000Z",
+    "summary": "Discover Chariot's new model that outperforms competitors in Indian languages. Learn more about its capabilities and applications!"
   },
   "headlines": [
     {
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-22T08:41:18.000Z"
-    },
-    {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face",
-      "published": "2026-10-22T07:51:31.000Z"
-    },
-    {
-      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
-      "url": "https://arxiv.org/abs/2610.26887",
+      "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2610.28686",
       "source": "arXiv cs.AI",
-      "published": "2026-10-22T04:00:00.000Z"
+      "published": "2026-10-23T04:00:00.000Z"
     },
     {
-      "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
-      "url": "https://arxiv.org/abs/2610.26899",
+      "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+      "url": "https://arxiv.org/abs/2610.28698",
       "source": "arXiv cs.AI",
-      "published": "2026-10-22T04:00:00.000Z"
+      "published": "2026-10-23T04:00:00.000Z"
     },
     {
-      "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
-      "url": "https://arxiv.org/abs/2610.26904",
+      "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
+      "url": "https://arxiv.org/abs/2610.28706",
       "source": "arXiv cs.AI",
-      "published": "2026-10-22T04:00:00.000Z"
+      "published": "2026-10-23T04:00:00.000Z"
     },
     {
-      "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
-      "url": "https://arxiv.org/abs/2610.26913",
+      "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+      "url": "https://arxiv.org/abs/2610.28763",
       "source": "arXiv cs.AI",
-      "published": "2026-10-22T04:00:00.000Z"
+      "published": "2026-10-23T04:00:00.000Z"
     },
     {
-      "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
-      "url": "https://arxiv.org/abs/2610.26924",
+      "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
+      "url": "https://arxiv.org/abs/2610.28815",
       "source": "arXiv cs.AI",
-      "published": "2026-10-22T04:00:00.000Z"
+      "published": "2026-10-23T04:00:00.000Z"
     },
     {
-      "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
-      "url": "https://arxiv.org/abs/2610.26941",
+      "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+      "url": "https://arxiv.org/abs/2610.28826",
       "source": "arXiv cs.AI",
-      "published": "2026-10-22T04:00:00.000Z"
+      "published": "2026-10-23T04:00:00.000Z"
     },
     {
-      "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
-      "url": "https://arxiv.org/abs/2610.26942",
+      "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
+      "url": "https://arxiv.org/abs/2610.28836",
       "source": "arXiv cs.AI",
-      "published": "2026-10-22T04:00:00.000Z"
+      "published": "2026-10-23T04:00:00.000Z"
     },
     {
-      "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
-      "url": "https://arxiv.org/abs/2610.26943",
+      "title": "Speedrunning Relational Foundation Model Pretraining",
+      "url": "https://arxiv.org/abs/2610.28855",
       "source": "arXiv cs.AI",
-      "published": "2026-10-22T04:00:00.000Z"
+      "published": "2026-10-23T04:00:00.000Z"
     },
     {
-      "title": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
-      "url": "https://arxiv.org/abs/2610.26948",
+      "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
+      "url": "https://arxiv.org/abs/2610.28875",
       "source": "arXiv cs.AI",
-      "published": "2026-10-22T04:00:00.000Z"
+      "published": "2026-10-23T04:00:00.000Z"
     },
     {
-      "title": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
-      "url": "https://arxiv.org/abs/2610.26964",
+      "title": "Fig: Automated Multiagent Behavior Elicitor",
+      "url": "https://arxiv.org/abs/2610.28891",
       "source": "arXiv cs.AI",
-      "published": "2026-10-22T04:00:00.000Z"
+      "published": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "title": "Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication",
+      "url": "https://arxiv.org/abs/2610.28905",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2610.28909",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-23T04:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Deep Reasoning in General Purpose Agents via Structured Meta-Cognition",
+      "url": "https://arxiv.org/abs/2605.11388",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-23T04:00:00.000Z",
+      "summary": "arXiv:2605.11388v2 Announce Type: replace-cross Abstract: Humans intuitively solve complex problems by flexibly shifting among reasoning modes: they plan, execute, revise intermediate goals, resolve ambiguity through associative judgment, and apply formal procedures to well-sp…"
+    },
+    {
+      "title": "Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.15428",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-23T04:00:00.000Z",
+      "summary": "arXiv:2610.15428v2 Announce Type: replace-cross Abstract: Context-based offline meta-reinforcement learning (COMRL) has advanced almost entirely through better task representations, which separate task identity from artifacts of the behavior policy so that the latent reflects …"
+    },
+    {
+      "title": "Anthropic unveils Claude Duet AI agent app",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-duet-ai-agent-app/articleshow/135121069.cms",
+      "source": "ET Tech",
+      "published": "2026-10-22T14:11:55.000Z",
+      "summary": "Anthropic on Thursday unveiled Claude Duet, a standalone AI agent app designed to act as a proactive assistant for professionals and small-business owners, as rivals such as OpenAI and Meta race to develop AI agents that can complete work autonomously on users' behalf."
+    },
+    {
+      "title": "Nutanix announces AI infrastructure tie-ups with NVIDIA, Supermicro and Netris",
+      "url": "https://analyticsindiamag.com/ai-news/nutanix-announces-ai-infrastructure-tie-ups-with-nvidia-supermicro-and-netris",
+      "source": "Analytics India Mag",
+      "published": "2026-10-22T11:24:17.000Z",
+      "summary": "Nutanix plans to work with NVIDIA, Supermicro and Netris to help enterprises and AI cloud providers deploy production AI faster and cheaper."
+    },
+    {
+      "title": "HCLTech Launches NVIDIA-Powered Validation Offering for Software-Defined Vehicles",
+      "url": "https://analyticsindiamag.com/ai-news/hcltech-launches-nvidia-powered-validation-offering-for-software-defined-vehicles",
+      "source": "Analytics India Mag",
+      "published": "2026-10-22T11:03:57.000Z",
+      "summary": "The offering uses AI agents and virtual simulations to test automotive software, including rare and safety-critical scenarios, before release."
+    },
     {
       "title": "Anthropic Takes On OpenAI, Meta With New Proactive AI Agent Claude Duet",
       "url": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/",
@@ -97,39 +132,11 @@
       "summary": "Anthropic has unveiled Claude Duet, a proactive AI agent designed to monitor connected apps, prioritise tasks, and carry out work…"
     },
     {
-      "title": "Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE",
-      "url": "https://arxiv.org/abs/2610.27598",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-22T04:00:00.000Z",
-      "summary": "arXiv:2610.27598v1 Announce Type: new Abstract: As model parameters scale up, sparsely activated Mixture-of-Experts (MoE) approaches have become essential for model scaling. However, mainstream models currently adopt hierarchical architectures, where experts in different layer…"
-    },
-    {
-      "title": "NVIDIA Spectrum-X: Hardware-Accelerated Multiplane Networking for Large-Scale AI Training",
-      "url": "https://arxiv.org/abs/2605.21187",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-22T04:00:00.000Z",
-      "summary": "arXiv:2605.21187v2 Announce Type: replace-cross Abstract: As distributed model training scales to span hundreds of thousands of GPUs, scale-out networks face unprecedented performance and efficiency demands. NVIDIA Spectrum-X Ethernet has been designed from the ground up to ac…"
-    },
-    {
-      "title": "Probe, Don't Prompt: A Hidden-State Probe for Metadata Filtering in Multi-Meta-RAG",
-      "url": "https://arxiv.org/abs/2607.03929",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-22T04:00:00.000Z",
-      "summary": "arXiv:2607.03929v2 Announce Type: replace-cross Abstract: Multi-Meta-RAG improves retrieval for multi-hop question answering by filtering a vector store on metadata, specifically the news source and the publication date, which it extracts from each query using GPT-3.5. This ex…"
-    },
-    {
       "title": "From Humanoid Robots to Telecom Trials, 12 Major Announcements at NVIDIA GTC Berlin 2026",
       "url": "https://analyticsindiamag.com/deep-tech/from-humanoid-robots-to-telecom-trials-12-major-announcements-at-nvidia-gtc-berlin-2026",
       "source": "Analytics India Mag",
       "published": "2026-10-21T12:21:23.000Z",
       "summary": "The company outlined plans to expand AI infrastructure, strengthen chip manufacturing, develop autonomous networks and advance physical AI."
-    },
-    {
-      "title": "Apple to host 'Pro and tell' event on October 28 in LA",
-      "url": "https://economictimes.indiatimes.com/tech/technology/apple-to-host-pro-and-tell-event-on-october-28-in-la/articleshow/135054883.cms",
-      "source": "ET Tech",
-      "published": "2026-10-19T18:21:36.000Z",
-      "summary": "Apple said on Monday it would host a \"Pro and tell\" event in Los Angeles on October 28, the latest in a series of product launches as the iPhone maker expands its hardware lineup and AI offerings."
     }
   ],
   "people": [
@@ -150,9 +157,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "article": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "source": "TechCrunch AI"
+      "link": "https://www.darioamodei.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Yann LeCun",
