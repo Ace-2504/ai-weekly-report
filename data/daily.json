@@ -1,108 +1,94 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "top": {
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
     "source": "TechCrunch AI",
-    "published": "2026-10-23T04:00:00.000Z",
-    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+    "published": "2026-10-23T23:05:49.000Z",
+    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
   },
   "topIndia": {
-    "title": "Chariot Launches Speech Recognition Model for 10 Indian Languages",
-    "url": "https://analyticsindiamag.com/ai-news/chariot-launches-speech-recognition-model-for-10-indian-languages",
-    "source": "Analytics India Mag",
-    "published": "2026-10-23T10:16:23.000Z",
-    "summary": "Discover Chariot's new model that outperforms competitors in Indian languages. Learn more about its capabilities and applications!"
+    "title": "The Tender247 Story: Turning tender intelligence into a competitive advantage with Anupam Kher",
+    "url": "https://economictimes.indiatimes.com/tech/technology/the-tender247-story-turning-tender-intelligence-into-a-competitive-advantage-with-anupam-kher/articleshow/135165216.cms",
+    "source": "ET Tech",
+    "published": "2026-10-24T07:56:54.000Z",
+    "summary": "Harnessing the power of AI, Tender247 is transforming the landscape for businesses seeking tender opportunities on government platforms. Appointing Anupam Kher as its brand ambassador, the company focuses on simplifying the tender process for smaller businesses. The initiative…"
   },
   "headlines": [
     {
-      "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2610.28686",
-      "source": "arXiv cs.AI",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-23T21:59:19.000Z"
+    },
+    {
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-23T19:06:23.000Z"
+    },
+    {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "Hugging Face",
+      "published": "2026-10-23T16:15:50.000Z"
+    },
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch AI",
       "published": "2026-10-23T04:00:00.000Z"
     },
     {
-      "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-      "url": "https://arxiv.org/abs/2610.28698",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-23T04:00:00.000Z"
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-23T00:45:37.000Z"
     },
     {
-      "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
-      "url": "https://arxiv.org/abs/2610.28706",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-23T04:00:00.000Z"
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face",
+      "published": "2026-10-23T00:00:00.000Z"
     },
     {
-      "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
-      "url": "https://arxiv.org/abs/2610.28763",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-23T04:00:00.000Z"
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face",
+      "published": "2026-10-22T22:24:34.000Z"
     },
     {
-      "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
-      "url": "https://arxiv.org/abs/2610.28815",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-23T04:00:00.000Z"
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T22:08:24.000Z"
     },
     {
-      "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
-      "url": "https://arxiv.org/abs/2610.28826",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-23T04:00:00.000Z"
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-22T21:17:29.000Z"
     },
     {
-      "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
-      "url": "https://arxiv.org/abs/2610.28836",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-23T04:00:00.000Z"
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T19:07:09.000Z"
     },
     {
-      "title": "Speedrunning Relational Foundation Model Pretraining",
-      "url": "https://arxiv.org/abs/2610.28855",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-23T04:00:00.000Z"
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T19:00:00.000Z"
     },
     {
-      "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
-      "url": "https://arxiv.org/abs/2610.28875",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-23T04:00:00.000Z"
-    },
-    {
-      "title": "Fig: Automated Multiagent Behavior Elicitor",
-      "url": "https://arxiv.org/abs/2610.28891",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-23T04:00:00.000Z"
-    },
-    {
-      "title": "Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication",
-      "url": "https://arxiv.org/abs/2610.28905",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-23T04:00:00.000Z"
-    },
-    {
-      "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2610.28909",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-23T04:00:00.000Z"
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T19:00:00.000Z"
     }
   ],
   "events": [
-    {
-      "title": "Deep Reasoning in General Purpose Agents via Structured Meta-Cognition",
-      "url": "https://arxiv.org/abs/2605.11388",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-23T04:00:00.000Z",
-      "summary": "arXiv:2605.11388v2 Announce Type: replace-cross Abstract: Humans intuitively solve complex problems by flexibly shifting among reasoning modes: they plan, execute, revise intermediate goals, resolve ambiguity through associative judgment, and apply formal procedures to well-sp…"
-    },
-    {
-      "title": "Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.15428",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-23T04:00:00.000Z",
-      "summary": "arXiv:2610.15428v2 Announce Type: replace-cross Abstract: Context-based offline meta-reinforcement learning (COMRL) has advanced almost entirely through better task representations, which separate task identity from artifacts of the behavior policy so that the latent reflects …"
-    },
     {
       "title": "Anthropic unveils Claude Duet AI agent app",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-duet-ai-agent-app/articleshow/135121069.cms",
@@ -123,13 +109,6 @@
       "source": "Analytics India Mag",
       "published": "2026-10-22T11:03:57.000Z",
       "summary": "The offering uses AI agents and virtual simulations to test automotive software, including rare and safety-critical scenarios, before release."
-    },
-    {
-      "title": "Anthropic Takes On OpenAI, Meta With New Proactive AI Agent Claude Duet",
-      "url": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/",
-      "source": "Inc42",
-      "published": "2026-10-22T06:06:13.000Z",
-      "summary": "Anthropic has unveiled Claude Duet, a proactive AI agent designed to monitor connected apps, prioritise tasks, and carry out work…"
     },
     {
       "title": "From Humanoid Robots to Telecom Trials, 12 Major Announcements at NVIDIA GTC Berlin 2026",

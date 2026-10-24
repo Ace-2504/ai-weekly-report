@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-10-17 to 2026-10-23",
-  "generated": "2026-10-23T10:40:38.326Z",
-  "intro": "480 AI items this week (72 India-relevant) across 10 sources.",
+  "weekOf": "2026-10-18 to 2026-10-24",
+  "generated": "2026-10-24T09:57:53.693Z",
+  "intro": "113 AI items this week (70 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
-          "url": "https://arxiv.org/abs/2610.28686",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28686v1 Announce Type: new Abstract: Query clarification is essential for retrieval-augmented generation (RAG) systems that face ambiguous user queries. We consider multi-turn grounded conversational scenarios where a user query is either ill-formed or ambiguous in …"
+          "title": "Does Your Model Run on AWS Trainium? Look It Up",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-          "url": "https://arxiv.org/abs/2610.28698",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28698v1 Announce Type: new Abstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to virtual worlds with different vi…"
+          "title": "Designing an AI serving harness built to last",
+          "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+          "source": "MIT Tech Review",
+          "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, …"
         },
         {
-          "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
-          "url": "https://arxiv.org/abs/2610.28706",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28706v1 Announce Type: new Abstract: LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly and slow, often applying expensive reasoning uniformly while underusing evidence from failed, redundant, and satu…"
+          "title": "Canva releases its first image generation model",
+          "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+          "source": "TechCrunch AI",
+          "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
         },
         {
-          "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
-          "url": "https://arxiv.org/abs/2610.28763",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28763v1 Announce Type: new Abstract: Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of that promise: improving a scientific model often requires domain insight beyond routine ML engineer…"
+          "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+          "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
         },
         {
-          "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
-          "url": "https://arxiv.org/abs/2610.28826",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28826v1 Announce Type: new Abstract: Automated judges of clinical artificial intelligence (AI) outputs are necessary, but large language model (LLM) judges are costly and slow at scale. We compared Jev, a decision language model that returns structured judgments, wi…"
+          "title": "Claude Duet app is Anthropic’s bet on agents",
+          "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Claude Duet is available through waitlist for Pro and Max plan users."
         },
         {
-          "title": "Speedrunning Relational Foundation Model Pretraining",
-          "url": "https://arxiv.org/abs/2610.28855",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28855v1 Announce Type: new Abstract: Progress on foundation model pretraining is gated by who can afford a trial, and relational pretraining is no exception. Recipes are developed inside individual labs, reported under private protocols, and do not accumulate. Speed…"
+          "title": "AI’s hidden storage bill: What inference leaves behind",
+          "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+          "source": "MIT Tech Review",
+          "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data…"
         }
       ]
     },
@@ -48,40 +48,22 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication",
-          "url": "https://arxiv.org/abs/2610.28905",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28905v1 Announce Type: new Abstract: Diffusion language models form answers through a sequence of revisable continuous states, but multi-agent systems usually discard those states and make agents communicate only after decoding text. We ask whether one independent d…"
+          "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+          "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+          "source": "TechCrunch AI",
+          "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
         },
         {
-          "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
-          "url": "https://arxiv.org/abs/2610.28909",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28909v1 Announce Type: new Abstract: Deep research systems iteratively plan, gather evidence, synthesize, and revise, making end-to-end latency a key bottleneck for interactive use. Almost all production systems are built on autoregressive (AR) language models and i…"
+          "title": "Spotify’s current AI bet is about being the music service that agents choose",
+          "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+          "source": "TechCrunch AI",
+          "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service."
         },
         {
-          "title": "MERP: A Latent-Bottleneck Framework for Robust Multi-Modal Multi-Label Emotion Recognition",
-          "url": "https://arxiv.org/abs/2610.29430",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.29430v1 Announce Type: new Abstract: Multimodal multi-label emotion recognition is important for affect-aware systems, but models trained with complete text, visual, and acoustic streams often degrade sharply when some streams are unavailable at deployment. We addre…"
-        },
-        {
-          "title": "When Do Gaussian Priors Fail? A Latent Geometry Investigation of RL Fine-Tuning",
-          "url": "https://arxiv.org/abs/2610.28849",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28849v1 Announce Type: cross Abstract: Latent diffusion models almost universally place a Gaussian prior on the VAE latent space. For base generation this default is unproblematic; under reinforcement-learning fine-tuning, however, it carries a structural limitation…"
-        },
-        {
-          "title": "DualHeads: Reward-tilted few-step diffusion made simple",
-          "url": "https://arxiv.org/abs/2610.28858",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28858v1 Announce Type: cross Abstract: Distilled diffusion models generate high-quality images in a few sampling steps, but aligning them with task requirements and human preferences is difficult. Methods developed for multi-step diffusion models rely on differentia…"
-        },
-        {
-          "title": "StyleStream 2.0: Fast and Controllable Streaming Voice Style Conversion",
-          "url": "https://arxiv.org/abs/2610.28940",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28940v1 Announce Type: cross Abstract: Voice style conversion (VSC) aims to transform a source utterance to match the timbre, accent, and emotion of a target voice while preserving linguistic content. StyleStream 1.0 introduced the first streamable zero-shot VSC sys…"
+          "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -89,40 +71,10 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
-          "url": "https://arxiv.org/abs/2610.28815",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28815v1 Announce Type: new Abstract: Agentic harness evolution optimizes an agent's instructions, tools, and control flow by using its task execution experiences as evolving evidence. While more evolution tasks should intuitively improve performance, our preliminary…"
-        },
-        {
-          "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
-          "url": "https://arxiv.org/abs/2610.28836",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28836v1 Announce Type: new Abstract: This study proposes a sketch-to-simulation system to solve handwritten circuit diagrams. The system converts raw images into a Simulation Program with Integrated Circuit Emphasis (SPICE)-compatible netlist and automatically calcu…"
-        },
-        {
-          "title": "D-Skill: Distilling Teacher Knowledge through Agent Skills",
-          "url": "https://arxiv.org/abs/2610.28914",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28914v1 Announce Type: new Abstract: Frontier language-model agents excel at complex tasks, but high inference costs make transferring their capabilities to smaller models essential. Traditional knowledge distillation achieves this through parameter updates, requiri…"
-        },
-        {
-          "title": "Back Up Before You Regret: Measuring Backup Awareness and Automating Backup in Coding Agents",
-          "url": "https://arxiv.org/abs/2610.28934",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28934v1 Announce Type: new Abstract: Coding agents now complete tasks autonomously, modifying real-world state such as artifacts, software environments, and configurations along the way. Yet they show limited backup awareness: recognizing that an action will modify …"
-        },
-        {
-          "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
-          "url": "https://arxiv.org/abs/2610.28982",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28982v1 Announce Type: new Abstract: While large language models are increasingly deployed as tool-calling agents, their safety evaluations still focus primarily on their ability to refuse harmful requests in text. We investigate whether the refusal behavior in text…"
-        },
-        {
-          "title": "AgentPolicyForge: From Executable Environments to Policy Benchmarks and Adaptive Guards",
-          "url": "https://arxiv.org/abs/2610.28989",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28989v1 Announce Type: new Abstract: Customized agent deployments define policies over tools, resources, and execution conditions. Providing these policies in the task agent's prompt does not reliably prevent violations. Training a guard requires examples of tool ca…"
+          "title": "Uber puts all 30,000 employees on ChatGPT Work",
+          "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+          "source": "TechCrunch AI",
+          "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
         }
       ]
     },
@@ -141,40 +93,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+        },
+        {
+          "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+          "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside t…"
+        },
+        {
+          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "url": "https://huggingface.co/blog/allenai/litpivot",
+          "source": "Hugging Face",
+          "summary": ""
+        },
+        {
+          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
           "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
           "source": "TechCrunch AI",
-          "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+          "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
         },
         {
-          "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
-          "url": "https://arxiv.org/abs/2610.28875",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28875v1 Announce Type: new Abstract: Large language models increasingly take part in extended conversations where they can both shape and be shaped by another party's views, yet most persuasion research measures only one side of that exchange. We introduce a control…"
+          "title": "Left alone with nothing to do, AI agents started playing",
+          "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+          "source": "TechCrunch AI",
+          "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
         },
         {
-          "title": "Fig: Automated Multiagent Behavior Elicitor",
-          "url": "https://arxiv.org/abs/2610.28891",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28891v1 Announce Type: new Abstract: Many social evaluations for multiagent systems study behaviors as they emerge from environments instead of systematically intervening in the environment to elicit such behaviors. We introduce Fig (Finding Interactions in Games), …"
-        },
-        {
-          "title": "Simply Logical -- The First Three Decades",
-          "url": "https://arxiv.org/abs/2610.28912",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28912v1 Announce Type: new Abstract: This paper charts the evolution of the Prolog textbook Simply Logical -- Intelligent Reasoning by Example from print with runnable programmes on a 3.5-inch diskette published in 1994, via various intermediate online versions, to …"
-        },
-        {
-          "title": "Self-Improving Agents with World Model Predictive Paths",
-          "url": "https://arxiv.org/abs/2610.28945",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28945v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly expected to interact with environments and improve their decisions during deployment. However, how anticipating future outcomes and drawing on accumulated interaction experience …"
-        },
-        {
-          "title": "PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust",
-          "url": "https://arxiv.org/abs/2610.28987",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.28987v1 Announce Type: new Abstract: Persistent memory is a largely undefended surface for injection and poisoning, and the same risk limits memory sharing among agents. We present PerMIT, a memory architecture with provable integrity guarantees under an explicit tr…"
+          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -182,52 +134,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Chariot Launches Speech Recognition Model for 10 Indian Languages",
-          "url": "https://analyticsindiamag.com/ai-news/chariot-launches-speech-recognition-model-for-10-indian-languages",
-          "source": "Analytics India Mag",
-          "summary": "Discover Chariot's new model that outperforms competitors in Indian languages. Learn more about its capabilities and applications!"
+          "title": "The Tender247 Story: Turning tender intelligence into a competitive advantage with Anupam Kher",
+          "url": "https://economictimes.indiatimes.com/tech/technology/the-tender247-story-turning-tender-intelligence-into-a-competitive-advantage-with-anupam-kher/articleshow/135165216.cms",
+          "source": "ET Tech",
+          "summary": "Harnessing the power of AI, Tender247 is transforming the landscape for businesses seeking tender opportunities on government platforms. Appointing Anupam Kher as its brand ambassador, the company focuses on simplifying the tender process for smaller businesses. The initiative…"
         },
         {
-          "title": "AMD’s Server CPU Business Faces a New AI Boom",
-          "url": "https://analyticsindiamag.com/ai-features/amds-server-cpu-business-faces-a-new-ai-boom",
-          "source": "Analytics India Mag",
-          "summary": "AI agents have put CPU back in the spotlight after years of being relatively overshadowed by GPUs."
+          "title": "Mark Cuban says AI hack agents are like cockroaches, but can be controlled",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mark-cuban-says-ai-hack-agents-are-like-cockroaches-but-can-be-controlled/articleshow/135163806.cms",
+          "source": "ET Tech",
+          "summary": "Cuban, famous for his role on business reality show \"Shark Tank\" and his involvement in the Dallas Mavericks NBA team, ventured into healthcare when he started the online pharmacy Cost Plus Drug Company in 2022 with a standard pricing scheme: the cost it pays for the drug, plu…"
         },
         {
-          "title": "Meta Expects Up To $145 Billion In Capex As AI Investments Expand",
-          "url": "https://analyticsindiamag.com/ai-news/meta-expects-up-to-145-billion-in-capex-as-ai-investments-expand",
-          "source": "Analytics India Mag",
-          "summary": "The company expects capital expenditure of $135-145 billion in 2026 as it expands AI infrastructure and develops new products."
+          "title": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks/articleshow/135162609.cms",
+          "source": "ET Tech",
+          "summary": "Beijing-based Moonshot announced the curbs while introducing Kimi K3.1 Pro, which it describes as its most capable 3-trillion-parameter-class open-weight model. The company plans to publish the model's weights - files allowing outside developers to run and modify it on their o…"
         },
         {
-          "title": "Cyient's Technology Order Intake Rises 39.7% as It Expands AI Capabilities",
-          "url": "https://analyticsindiamag.com/ai-news/cyients-technology-order-intake-rises-397-as-it-expands-ai-capabilities",
-          "source": "Analytics India Mag",
-          "summary": "The engineering company reported $233.9 million in revenue, while DET's EBIT margin reached 14.2% and semiconductor supply constraints threatened growth."
+          "title": "China's Moonshot AI launches Kimi K3.1 Pro; plans full model weights release by November",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-moonshot-ai-launches-kimi-k3-1-pro-plans-full-model-weights-release-by-nov/articleshow/135162538.cms",
+          "source": "ET Tech",
+          "summary": "Chinese artificial intelligence (AI) company Moonshot AI has unveiled Kimi K3.1 Pro, a 3-trillion-parameter open-weight AI model featuring a 1-million-token context window, alongside a high-speed variant, Kimi K3.1 Pro Highspeed, according to a company statement."
         },
         {
-          "title": "Autonomy and control are not opposites, they go together: EY GDS at DevSparks Chennai",
-          "url": "https://yourstory.com/2026/10/autonomy-and-control-are-not-opposites-they-go-together-ey-gds-at-devsparks-chennai",
-          "source": "YourStory",
-          "summary": "Strapline: At DevSparks Chennai 2026, Arvind Purushothaman of EY GDS made the case that moving agents into production is an engineering problem, not a model problem. Gayatri Guha Ask a room of developers about agents today and you will get plenty of answers. Almost everyone ha…"
+          "title": "UK government sets out $800 million for AI security funding",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-government-sets-out-800-million-of-ai-security-funding/articleshow/135162312.cms",
+          "source": "ET Tech",
+          "summary": "The biggest chunk of funding will go to a new biosecurity initiative, including £100 million for a laboratory using AI to detect biological threats and £65 million to develop countermeasures against pathogens."
         },
         {
-          "title": "How an Engineer Is Using AI to Bridge the Accessible Education Gap",
-          "url": "https://analyticsindiamag.com/ai-features/how-an-engineer-is-using-ai-to-bridge-the-accessible-education-gap",
-          "source": "Analytics India Mag",
-          "summary": "Discover how AI is transforming accessible education. Learn more about innovative tools like ListenToMe that bridge the learning gap today!"
+          "title": "What to know about the AI-detected security bug impacting wide swaths of the internet",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet/articleshow/135162036.cms",
+          "source": "ET Tech",
+          "summary": "PHP is a widely used general-purpose scripting language that is geared toward web development, and thus, it powers the majority of websites around the world. When the organization behind the language and the FBI's cyber division warned Wednesday of significant vulnerabilities …"
         },
         {
-          "title": "Former OpenAI Exec Raises $215 Mn to Build AI-Powered Drug Research Labs",
-          "url": "https://analyticsindiamag.com/ai-news/former-openai-exec-raises-215-mn-to-build-ai-powered-drug-research-labs",
-          "source": "Analytics India Mag",
-          "summary": "Warp Sciences will initially focus on synthesising molecular variations for drug candidates, combining chemists, robotics, and AI models trained on laboratory experiments."
+          "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/articleshow/135161388.cms",
+          "source": "ET Tech",
+          "summary": "OpenAI had paused training of its most capable models after one of its research models used a configuration error to gain limited internet access in September. The company said it contained the incident and used the pause to strengthen its defenses."
         },
         {
-          "title": "How AI Is democratising creativity, according to Canva India’s Chandrika Deb",
-          "url": "https://yourstory.com/2026/10/ai-democratising-creativity-canva-indias-chandrika-deb",
-          "source": "YourStory",
-          "summary": "At TechSparks 2026, Canva India’s Chandrika Deb discussed how AI is democratising creativity, reshaping workplace collaboration and making creative tools more accessible."
+          "title": "Why AI data centers are powering a boom in fuel-cell demand",
+          "url": "https://economictimes.indiatimes.com/tech/technology/why-ai-data-centers-are-powering-a-boom-in-fuel-cell-demand/articleshow/135161365.cms",
+          "source": "ET Tech",
+          "summary": "A fuel cell generates electricity through a chemical reaction between a fuel, such as natural gas or hydrogen, and oxygen, converting the fuel's energy directly into electricity rather than burning it."
         }
       ]
     }
