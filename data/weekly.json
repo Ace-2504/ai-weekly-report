@@ -1,11 +1,23 @@
 {
-  "weekOf": "2026-10-18 to 2026-10-24",
-  "generated": "2026-10-24T09:57:53.693Z",
-  "intro": "113 AI items this week (70 India-relevant) across 8 sources.",
+  "weekOf": "2026-10-19 to 2026-10-25",
+  "generated": "2026-10-25T10:20:58.744Z",
+  "intro": "117 AI items this week (74 India-relevant) across 7 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
+        {
+          "title": "Block’s new voice model sounds eerily human",
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "source": "TechCrunch AI",
+          "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+        },
+        {
+          "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+          "source": "TechCrunch AI",
+          "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+        },
         {
           "title": "Does Your Model Run on AWS Trainium? Look It Up",
           "url": "https://huggingface.co/blog/torch-neuronx-model-support",
@@ -29,18 +41,6 @@
           "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
           "source": "TechCrunch AI",
           "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
-        },
-        {
-          "title": "Claude Duet app is Anthropic’s bet on agents",
-          "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-          "source": "TechCrunch AI",
-          "summary": "Claude Duet is available through waitlist for Pro and Max plan users."
-        },
-        {
-          "title": "AI’s hidden storage bill: What inference leaves behind",
-          "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-          "source": "MIT Tech Review",
-          "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data…"
         }
       ]
     },
@@ -93,6 +93,18 @@
       "heading": "Industry & Research",
       "items": [
         {
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "source": "TechCrunch AI",
+          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+        },
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "source": "TechCrunch AI",
+          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+        },
+        {
           "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
           "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
           "source": "TechCrunch AI",
@@ -115,24 +127,48 @@
           "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
           "source": "TechCrunch AI",
           "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
-        },
-        {
-          "title": "Left alone with nothing to do, AI agents started playing",
-          "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-          "source": "TechCrunch AI",
-          "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
-        },
-        {
-          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-          "source": "Hugging Face",
-          "summary": ""
         }
       ]
     },
     {
       "heading": "India & Subcontinent",
       "items": [
+        {
+          "title": "What will it take for India’s fintech infrastructure to go global?",
+          "url": "https://yourstory.com/2026/10/what-will-it-take-for-indias-fintech-infrastructure-global",
+          "source": "YourStory",
+          "summary": "At TechSparks 2026, Movin Jain of Skydo and Srijon Biswas of PhonePe discussed building payments infrastructure at scale, the challenges of cross-border transactions, and how AI could change business operations."
+        },
+        {
+          "title": "Beyond transactions: How PhonePe and Razorpay are using AI to improve digital payments",
+          "url": "https://yourstory.com/2026/10/beyond-transactions-how-phonepe-and-razorpay-are-using-ai-to-improve-digital-payments",
+          "source": "YourStory",
+          "summary": "At TechSparks 2026, Deep Agrawal of PhonePe and Khilan Haria of Razorpay discussed how contextual payments and AI can improve customer experiences, make financial services more accessible, and help small businesses grow."
+        },
+        {
+          "title": "Workflow, ecosystems, AI: Test your business creativity with Edition 255 of our weekly quiz!",
+          "url": "https://yourstory.com/2026/10/business-creativity-quiz-education-entrepreneur",
+          "source": "YourStory",
+          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 255th quiz. Ready?"
+        },
+        {
+          "title": "AI Can Be Cyborg or Centaur. But Can Enterprises Monetise It?",
+          "url": "https://analyticsindiamag.com/ai-features/ai-can-be-cyborg-or-centaur-but-can-enterprises-monetise-it",
+          "source": "Analytics India Mag",
+          "summary": "Satish Viswanathan, former global data and AI lead for travel at Accenture, argues that companies are overlooking organisational readiness, workforce skills, an"
+        },
+        {
+          "title": "Comm min identifying AI-proof professions, sectors where India can take global lead: Goyal",
+          "url": "https://yourstory.com/2026/10/comm-min-identifying-ai-proof-professions-sectors-where-india-can-take-global-lead-goyal",
+          "source": "YourStory",
+          "summary": "The commerce and industry minister said that the focus would be on sectors where AI could improve efficiency without necessarily replacing human workers, while leveraging India's large pool of skilled talent, youthful population and traditional strengths."
+        },
+        {
+          "title": "Honasa Consumer elevates Vipul Maheshwari to chief product &amp; technology officer",
+          "url": "https://economictimes.indiatimes.com/tech/startups/honasa-consumer-elevates-vipul-maheshwari-to-chief-product-technology-officer/articleshow/135167378.cms",
+          "source": "ET Tech",
+          "summary": "In his new role, Maheshwari will lead the company’s product, technology, engineering and analytics functions. His main task will be to advance Honasa’s plans to use artificial intelligence (AI) in its business, including agentic AI, which refers to AI systems that can carry ou…"
+        },
         {
           "title": "The Tender247 Story: Turning tender intelligence into a competitive advantage with Anupam Kher",
           "url": "https://economictimes.indiatimes.com/tech/technology/the-tender247-story-turning-tender-intelligence-into-a-competitive-advantage-with-anupam-kher/articleshow/135165216.cms",
@@ -144,42 +180,6 @@
           "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mark-cuban-says-ai-hack-agents-are-like-cockroaches-but-can-be-controlled/articleshow/135163806.cms",
           "source": "ET Tech",
           "summary": "Cuban, famous for his role on business reality show \"Shark Tank\" and his involvement in the Dallas Mavericks NBA team, ventured into healthcare when he started the online pharmacy Cost Plus Drug Company in 2022 with a standard pricing scheme: the cost it pays for the drug, plu…"
-        },
-        {
-          "title": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks/articleshow/135162609.cms",
-          "source": "ET Tech",
-          "summary": "Beijing-based Moonshot announced the curbs while introducing Kimi K3.1 Pro, which it describes as its most capable 3-trillion-parameter-class open-weight model. The company plans to publish the model's weights - files allowing outside developers to run and modify it on their o…"
-        },
-        {
-          "title": "China's Moonshot AI launches Kimi K3.1 Pro; plans full model weights release by November",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-moonshot-ai-launches-kimi-k3-1-pro-plans-full-model-weights-release-by-nov/articleshow/135162538.cms",
-          "source": "ET Tech",
-          "summary": "Chinese artificial intelligence (AI) company Moonshot AI has unveiled Kimi K3.1 Pro, a 3-trillion-parameter open-weight AI model featuring a 1-million-token context window, alongside a high-speed variant, Kimi K3.1 Pro Highspeed, according to a company statement."
-        },
-        {
-          "title": "UK government sets out $800 million for AI security funding",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-government-sets-out-800-million-of-ai-security-funding/articleshow/135162312.cms",
-          "source": "ET Tech",
-          "summary": "The biggest chunk of funding will go to a new biosecurity initiative, including £100 million for a laboratory using AI to detect biological threats and £65 million to develop countermeasures against pathogens."
-        },
-        {
-          "title": "What to know about the AI-detected security bug impacting wide swaths of the internet",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet/articleshow/135162036.cms",
-          "source": "ET Tech",
-          "summary": "PHP is a widely used general-purpose scripting language that is geared toward web development, and thus, it powers the majority of websites around the world. When the organization behind the language and the FBI's cyber division warned Wednesday of significant vulnerabilities …"
-        },
-        {
-          "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/articleshow/135161388.cms",
-          "source": "ET Tech",
-          "summary": "OpenAI had paused training of its most capable models after one of its research models used a configuration error to gain limited internet access in September. The company said it contained the incident and used the pause to strengthen its defenses."
-        },
-        {
-          "title": "Why AI data centers are powering a boom in fuel-cell demand",
-          "url": "https://economictimes.indiatimes.com/tech/technology/why-ai-data-centers-are-powering-a-boom-in-fuel-cell-demand/articleshow/135161365.cms",
-          "source": "ET Tech",
-          "summary": "A fuel cell generates electricity through a chemical reaction between a fuel, such as natural gas or hydrogen, and oxygen, converting the fuel's energy directly into electricity rather than burning it."
         }
       ]
     }
