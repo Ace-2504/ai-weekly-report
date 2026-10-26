@@ -2,20 +2,26 @@
   "daily": {
     "date": "2026-10-26",
     "top": {
-      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
-      "url": "https://arxiv.org/abs/2610.31701",
-      "source": "arXiv cs.AI",
-      "published": "2026-10-26T04:00:00.000Z",
-      "summary": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts rece…"
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-26T09:01:00.000Z",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But…"
     },
     "topIndia": {
-      "title": "Tata Communications Plans $450 Mn Investment to Build 10,000 Km AI Network",
-      "url": "https://analyticsindiamag.com/ai-news/tata-communications-plans-450-mn-investment-to-build-10000-km-ai-network",
-      "source": "Analytics India Mag",
-      "published": "2026-10-26T11:15:33.000Z",
-      "summary": "The network will connect key data centre corridors across India, starting with Mumbai, Pune, Hyderabad and Chennai, before expanding to other regions."
+      "title": "Ather rides to profit; Sahamati defers new fee model",
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/ather-rides-to-profit-sahamati-defers-new-fee-model/articleshow/135212517.cms",
+      "source": "ET Tech",
+      "published": "2026-10-26T13:34:53.000Z",
+      "summary": "Ather Energy swung to profit in the July-September quarter. This and more in today’s ETtech Top 5."
     },
     "headlines": [
+      {
+        "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+        "url": "https://arxiv.org/abs/2610.31701",
+        "source": "arXiv cs.AI",
+        "published": "2026-10-26T04:00:00.000Z"
+      },
       {
         "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
         "url": "https://arxiv.org/abs/2610.31789",
@@ -79,12 +85,6 @@
       {
         "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
         "url": "https://arxiv.org/abs/2610.31985",
-        "source": "arXiv cs.AI",
-        "published": "2026-10-26T04:00:00.000Z"
-      },
-      {
-        "title": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
-        "url": "https://arxiv.org/abs/2610.32022",
         "source": "arXiv cs.AI",
         "published": "2026-10-26T04:00:00.000Z"
       }
@@ -187,8 +187,8 @@
   },
   "weekly": {
     "weekOf": "2026-10-20 to 2026-10-26",
-    "generated": "2026-10-26T11:49:39.671Z",
-    "intro": "436 AI items this week (75 India-relevant) across 9 sources.",
+    "generated": "2026-10-26T13:42:48.805Z",
+    "intro": "443 AI items this week (81 India-relevant) across 9 sources.",
     "sections": [
       {
         "heading": "Large Language Models",
@@ -358,6 +358,12 @@
         "heading": "Industry & Research",
         "items": [
           {
+            "title": "The focus on AI safety disasters ignores everyday harms",
+            "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+            "source": "MIT Tech Review",
+            "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But…"
+          },
+          {
             "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
             "url": "https://arxiv.org/abs/2610.31701",
             "source": "arXiv cs.AI",
@@ -386,12 +392,6 @@
             "url": "https://arxiv.org/abs/2610.32024",
             "source": "arXiv cs.AI",
             "summary": "arXiv:2610.32024v1 Announce Type: new Abstract: Task instructions from users for agents are inherently underspecified, especially regarding safety boundaries--creating behavioral risks. To study these risks, we introduce BARC-Bench, a collection of 110 tasks across nine simula…"
-          },
-          {
-            "title": "PPO vs. SAC: A Comparative Study for Cooperative Motion Control of Dual-Arm Space Robots",
-            "url": "https://arxiv.org/abs/2610.32034",
-            "source": "arXiv cs.AI",
-            "summary": "arXiv:2610.32034v1 Announce Type: new Abstract: The growing population of orbital debris has intensified interest in active debris removal and on-orbit servicing, for which dual-arm space manipulators offer improved grasping stability and load distribution relative to single-a…"
           }
         ]
       },
@@ -399,52 +399,52 @@
         "heading": "India & Subcontinent",
         "items": [
           {
-            "title": "Tata Communications Plans $450 Mn Investment to Build 10,000 Km AI Network",
-            "url": "https://analyticsindiamag.com/ai-news/tata-communications-plans-450-mn-investment-to-build-10000-km-ai-network",
-            "source": "Analytics India Mag",
-            "summary": "The network will connect key data centre corridors across India, starting with Mumbai, Pune, Hyderabad and Chennai, before expanding to other regions."
-          },
-          {
-            "title": "US political candidates tailor messages for AI models used by voters",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-political-candidates-tailor-messages-for-ai-models-used-by-voters/articleshow/135208787.cms",
+            "title": "Ather rides to profit; Sahamati defers new fee model",
+            "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/ather-rides-to-profit-sahamati-defers-new-fee-model/articleshow/135212517.cms",
             "source": "ET Tech",
-            "summary": "US political candidates have been engineering their campaign messages to appeal to the AI chatbots that more voters have been using to answer questions about issues, and documents seen by Reuters have revealed some of their strategies."
+            "summary": "Ather Energy swung to profit in the July-September quarter. This and more in today’s ETtech Top 5."
           },
           {
-            "title": "Moonshot resets subscriber quotas after Kimi K3.1 Pro launch issues",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/moonshot-resets-subscriber-quotas-after-kimi-k3-1-pro-launch-issues/articleshow/135208663.cms",
-            "source": "ET Tech",
-            "summary": "Chinese artificial intelligence startup Moonshot AI apologised on Monday for rate limiting and unnecessary quota consumption after its Kimi K3.1 Pro launch."
-          },
-          {
-            "title": "How Attero is using AI to solve recycling’s pricing and compliance challenges",
-            "url": "https://yourstory.com/2026/10/attero-ai-recycling-scrap-pricing-compliance-techsparks",
-            "source": "YourStory",
-            "summary": "At TechSparks 2026, Ayush Agarwal, Head of Product and Technology at Attero, explains how AI-powered systems are helping the e-waste recycler standardise scrap pricing, automate compliance and improve financial visibility."
-          },
-          {
-            "title": "Telangana Unveils AI-Powered Digital Twin of IT Minister at DevFest 2026",
-            "url": "https://analyticsindiamag.com/ai-news/telangana-unveils-ai-powered-digital-twin-of-it-minister-at-devfest-2026",
-            "source": "Analytics India Mag",
-            "summary": "The launch signals Telangana’s interest in applying AI beyond technology demonstrations to public-facing services"
-          },
-          {
-            "title": "Same AI, different outcomes: what 25 lean AI startups got right",
-            "url": "https://yourstory.com/2026/10/lean-ai-startup-scaling-framework-seven-growth-drivers",
-            "source": "YourStory",
-            "summary": "Why do lean AI startups scale while others stall? A Suvan Ventures report identifies seven growth drivers across 25 companies."
-          },
-          {
-            "title": "L Catterton Invests In InMobi-Backed AI Shopping Platform Glance",
-            "url": "https://inc42.com/buzz/l-catterton-backs-inmobi-backed-glance-to-expand-its-ai-shopping-business-in-us/",
+            "title": "Exclusive: AI-Powered Trading Platform Tradl Bags $4.1 Mn From Nexus, Stellaris",
+            "url": "https://inc42.com/buzz/exclusive-ai-powered-trading-platform-tradl-bags-4-1-mn-from-nexus-stellaris/",
             "source": "Inc42",
-            "summary": "Consumer-focused investment firm L Catterton has made a strategic investment in InMobi-backed AI shopping platform Glance to support its expansion,…"
+            "summary": "Bengaluru-based AI-powered trading platform Tradl has raised $4.1 Mn (about ₹40 Cr) in a seed funding round from Nexus Venture…"
           },
           {
-            "title": "Collective Artists Network’s Vijay Subramaniam on AI and the changing media landscape",
-            "url": "https://yourstory.com/2026/10/collective-artists-network-vijay-subramaniam-ai-changing-media-landscape",
+            "title": "Build, scale, and govern AI agents: Inside Google Cloud’s Gemini roadmap",
+            "url": "https://yourstory.com/2026/10/build-scale-and-govern-ai-agents-inside-google-clouds-gemini-roadmap",
             "source": "YourStory",
-            "summary": "At TechSparks 2026, Collective Artists Network founder Vijay Subramaniam discussed how AI is reshaping content creation, democratising storytelling, and changing the economics of entertainment."
+            "summary": "Join Google Cloud product leaders for the latest on the Gemini Enterprise Agent Platform and Gemini Enterprise for Customer Experience."
+          },
+          {
+            "title": "Pronto Founder Anjali Sardana Sets Up Physical AI Venture Provision Labs In US",
+            "url": "https://inc42.com/buzz/pronto-founder-anjali-sardana-sets-up-physical-ai-venture-provision-labs-in-us/",
+            "source": "Inc42",
+            "summary": "Instant home services startup Pronto’s founder Anjali Sardana has launched Provision Labs, a physical AI venture based in San Francisco.…"
+          },
+          {
+            "title": "Anthropic is said to plan public filing for Mega-IPO Monday",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-is-said-to-plan-public-filing-for-mega-ipo-monday/articleshow/135212202.cms",
+            "source": "ET Tech",
+            "summary": "Anthropic PBC plans to file for an initial public offering in New York on Monday morning. The artificial intelligence model maker is expected to begin its marketing efforts by November 9. The anticipated IPO aims to rival the size of SpaceX's previous offering, according to in…"
+          },
+          {
+            "title": "Tata Comm to invest $450M in high-speed fibre network to connect AI data centres",
+            "url": "https://yourstory.com/2026/10/tata-comm-invest-usd-450m-high-speed-fibre-network-connect-ai-data-centres",
+            "source": "YourStory",
+            "summary": "The first phase of the programme will focus on the Mumbai-Pune-Hyderabad-Chennai corridor, one of India's most important Al and hyperscale growth routes."
+          },
+          {
+            "title": "Bihar Partners with IT Cos to Train Government School Teachers In AI",
+            "url": "https://analyticsindiamag.com/ai-news/bihar-partners-with-it-cos-to-train-government-school-teachers-in-ai",
+            "source": "Analytics India Mag",
+            "summary": "The initiative will combine hands-on IT instruction for educators with plans to make computer education compulsory from 6th standard across Bihar’s government s"
+          },
+          {
+            "title": "Meta Business Agent aims to turn WhatsApp into a 24/7 storefront for D2C brands",
+            "url": "https://yourstory.com/2026/10/meta-business-agent-whatsapp-d2c-growth",
+            "source": "YourStory",
+            "summary": "At TechSparks 2026, Meta’s Piyush Vaidya outlined how Meta Business Agent could help D2C brands use WhatsApp for personalised customer engagement, product discovery and round-the-clock support."
           }
         ]
       }
