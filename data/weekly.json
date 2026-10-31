@@ -1,22 +1,157 @@
 {
-  "weekOf": "2026-10-24 to 2026-10-30",
-  "generated": "2026-10-30T11:49:52.514Z",
-  "intro": "108 AI items this week (74 India-relevant) across 8 sources.",
+  "weekOf": "2026-10-25 to 2026-10-31",
+  "generated": "2026-10-31T11:23:27.978Z",
+  "intro": "712 AI items this week (76 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-          "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-          "source": "TechCrunch AI",
-          "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't."
+          "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+          "url": "https://arxiv.org/abs/2610.37731",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and…"
         },
         {
-          "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-          "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-          "source": "TechCrunch AI",
-          "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States."
+          "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+          "url": "https://arxiv.org/abs/2610.37809",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37809v1 Announce Type: new Abstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema makes a reliable judge. Yet a checker can be wrong as well: i…"
+        },
+        {
+          "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+          "url": "https://arxiv.org/abs/2610.37859",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37859v1 Announce Type: new Abstract: Language-model agents differ fundamentally from prior intelligent systems in their ability to learn from natural language in context. This capability enables agents to iteratively refine their answers in response to feedback, a p…"
+        },
+        {
+          "title": "Verification Learning Theory: A Process Model of Checking and Retention in AI-Assisted Judgment",
+          "url": "https://arxiv.org/abs/2610.37875",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37875v1 Announce Type: new Abstract: Accurate AI assistance can improve immediate judgments while reducing opportunities to practise the operations needed for independent performance. Verification Learning Theory (VLT) formalises this possibility for claim-evaluatio…"
+        },
+        {
+          "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+          "url": "https://arxiv.org/abs/2610.37905",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37905v1 Announce Type: new Abstract: Public disclosure repositories such as SEC EDGAR support informed investment through web access to corporate filings. Supporting their review with language model agents requires discovering unstated deficiencies across related do…"
+        },
+        {
+          "title": "SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World",
+          "url": "https://arxiv.org/abs/2610.37919",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37919v1 Announce Type: new Abstract: Large language model agents are increasingly used for scientific discovery. However, existing benchmarks mix law inference with programming, score data fitting instead of prediction on unseen inputs, and do not separate empirical…"
+        }
+      ]
+    },
+    {
+      "heading": "Multimodal & Media",
+      "items": [
+        {
+          "title": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+          "url": "https://arxiv.org/abs/2610.38568",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.38568v1 Announce Type: new Abstract: Recursive self-improvement requires models not only to acquire useful training experience, but also to decide when their current experience has ceased to be useful. Existing methods often focus on what experience to generate next…"
+        },
+        {
+          "title": "Auditable Belief Updates as a Missing Safety Layer for LLM-Powered Multi-Agent Systems",
+          "url": "https://arxiv.org/abs/2610.38869",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.38869v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly being used as cognitive interfaces that shape how users interpret evidence, communicate, and make decisions. As deployed systems become more multimodal, tool-using, and multi-agent, s…"
+        },
+        {
+          "title": "Efficient Agentic Audio-Visual Question Answering through Toolset Pruning and Modality Consolidation",
+          "url": "https://arxiv.org/abs/2610.38960",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.38960v1 Announce Type: new Abstract: Fine-grained audio-visual question answering (AVQA) requires models to resolve complex cross-modal correspondences and temporally grounding from sparsely distributed evidence. Omni-modal agents, which autonomously orchestrate per…"
+        },
+        {
+          "title": "Agentic AI Reasoning and Learned Sampling for Task-Aware Projection Selection in Sparse-View CT: Predicting Hemodynamics",
+          "url": "https://arxiv.org/abs/2610.39003",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.39003v1 Announce Type: new Abstract: Sparse-view computed tomography (CT) reduces the number of acquired projections, but conventional sampling strategies are designed primarily for image reconstruction rather than for downstream physical inference. Here, we investi…"
+        },
+        {
+          "title": "Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps",
+          "url": "https://arxiv.org/abs/2610.39264",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.39264v1 Announce Type: new Abstract: While frontier vision-language models demonstrate strong capabilities in user interface (UI) navigation, their high inference costs prohibit everyday use. Conversely, smaller models trained via supervised fine-tuning (SFT) or off…"
+        },
+        {
+          "title": "Timbre: Reliability-aware harmonic consensus for label-free multimodal test-time rexinforcement learning",
+          "url": "https://arxiv.org/abs/2610.39439",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.39439v1 Announce Type: new Abstract: Label-free test-time reinforcement learning adapts vision--language models using rewards derived from their own predictions. However, misinterpreted visual evidence and sensitivity to textual formulation can produce a consistent …"
+        }
+      ]
+    },
+    {
+      "heading": "Developer Tools & Agents",
+      "items": [
+        {
+          "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+          "url": "https://arxiv.org/abs/2610.37786",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, while generative construction can diverge from specified re…"
+        },
+        {
+          "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+          "url": "https://arxiv.org/abs/2610.37851",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37851v1 Announce Type: new Abstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified by sequencing protocols, a capability critical for analyzing customized sequenc…"
+        },
+        {
+          "title": "GARDEN: Generalist Autonomous Reward Design Through Evidence Navigation for Cooperative Multi-Agent Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2610.37926",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37926v1 Announce Type: new Abstract: Cooperative multi-agent reinforcement learning (MARL) enables teams of agents, such as robots and autonomous vehicles, to learn coordinated behavior, but what such teams learn is largely determined by their reward function. Becau…"
+        },
+        {
+          "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
+          "url": "https://arxiv.org/abs/2610.37935",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37935v1 Announce Type: new Abstract: Latent multi-agent systems reduce inference cost by keeping intermediate reasoning and inter-agent communication in continuous representations.\\ Reusable skills, however, are commonly supplied as text or stored as layer-wise Key-…"
+        },
+        {
+          "title": "AI-Driven Digital Twin Framework for Warehouse Logistics Automation Optimization",
+          "url": "https://arxiv.org/abs/2610.38101",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.38101v1 Announce Type: new Abstract: In recent years, warehouse logistics optimization has increasingly focused on intelligent, data-driven systems to enhance operational efficiency. Conventional static product placement strategies are being progressively replaced b…"
+        },
+        {
+          "title": "SkillCT: A Multidimensional Benchmark and Execution-Free Baseline for Agent Skill Assessment",
+          "url": "https://arxiv.org/abs/2610.38147",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.38147v1 Announce Type: new Abstract: Agent skills package instructions, scripts, and resources for specialized tasks and are increasingly distributed through public Web repositories. However, existing skill benchmarks primarily focus on downstream task execution, in…"
+        }
+      ]
+    },
+    {
+      "heading": "Open Source",
+      "items": [
+        {
+          "title": "MuQ-Eval: An Open-Source Per-Sample Quality Metric for AI Music Generation Evaluation",
+          "url": "https://arxiv.org/abs/2603.22677",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2603.22677v2 Announce Type: replace Abstract: Distributional metrics such as Fr\\'echet Audio Distance cannot score individual music clips and correlate poorly with human judgments, while the only per-sample learned metric achieving high human correlation is closed-source…"
+        },
+        {
+          "title": "TorchTPU - A Hybrid Eager/Compiled Architecture for Native PyTorch Execution on TPU",
+          "url": "https://arxiv.org/abs/2610.24161",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.24161v4 Announce Type: replace Abstract: TorchTPU is an open-source collaboration between Google and Meta that introduces a native and principled PyTorch backend for Google TPUs. It enables seamless out-of-the-box model execution and TPU migration while delivering i…"
+        },
+        {
+          "title": "MedGemma vs GPT-4: Open-Source and Proprietary Zero-shot Medical Disease Classification from Images",
+          "url": "https://arxiv.org/abs/2512.23304",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2512.23304v2 Announce Type: replace-cross Abstract: Multimodal Large Language Models (LLMs) introduce an emerging paradigm for medical imaging by interpreting scans through the lens of extensive clinical knowledge, offering a transformative approach to disease classifica…"
+        },
+        {
+          "title": "We urgently need to monitor AI agents’ actions in real time",
+          "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+          "source": "MIT Tech Review",
+          "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed pr…"
         },
         {
           "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
@@ -27,112 +162,43 @@
       ]
     },
     {
-      "heading": "Multimodal & Media",
-      "items": [
-        {
-          "title": "Meta quietly launches an AI fashion app called Style Sketch",
-          "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-          "source": "TechCrunch AI",
-          "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll."
-        },
-        {
-          "title": "Granola crunches up a dictation feature to compete with Wispr",
-          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-          "source": "TechCrunch AI",
-          "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting."
-        },
-        {
-          "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-          "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-          "source": "TechCrunch AI",
-          "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure."
-        },
-        {
-          "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "url": "https://huggingface.co/blog/anydecisionmodel",
-          "source": "Hugging Face",
-          "summary": ""
-        },
-        {
-          "title": "Build specialized multimodal models with LFM3",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-          "source": "Hugging Face",
-          "summary": ""
-        }
-      ]
-    },
-    {
-      "heading": "Developer Tools & Agents",
-      "items": [
-        {
-          "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-          "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-          "source": "TechCrunch AI",
-          "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
-        },
-        {
-          "title": "We urgently need to monitor AI agents’ actions in real time",
-          "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-          "source": "MIT Tech Review",
-          "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed pr…"
-        }
-      ]
-    },
-    {
-      "heading": "Open Source",
-      "items": [
-        {
-          "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-          "source": "TechCrunch AI",
-          "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities c…"
-        },
-        {
-          "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-          "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
-          "source": "TechCrunch AI",
-          "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities c…"
-        }
-      ]
-    },
-    {
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-          "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-          "source": "TechCrunch AI",
-          "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+          "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+          "url": "https://arxiv.org/abs/2610.37720",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placement and replication methods redistribute this workload, yet…"
         },
         {
-          "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-          "source": "TechCrunch AI",
-          "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
+          "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+          "url": "https://arxiv.org/abs/2610.37732",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forward pass is fast but often wrong on decisions that take s…"
         },
         {
-          "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-          "source": "TechCrunch AI",
-          "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
+          "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+          "url": "https://arxiv.org/abs/2610.37739",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. W…"
         },
         {
-          "title": "Rivian expands joint venture with VW to include AI assistant",
-          "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-          "source": "TechCrunch AI",
-          "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
+          "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+          "url": "https://arxiv.org/abs/2610.37830",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart contracts, the programs behind Web3 applications that move mo…"
         },
         {
-          "title": "OpenAI-backed Thrive Holdings acquires ADT",
-          "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-          "source": "TechCrunch AI",
-          "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
+          "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+          "url": "https://arxiv.org/abs/2610.37849",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37849v1 Announce Type: new Abstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. We propose a behavioural test: a partner that uses a code reacts to the exact w…"
         },
         {
-          "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-          "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-          "source": "TechCrunch AI",
-          "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times."
+          "title": "The Anatomy of Socio-Demographics in Pluralistic Offensiveness Modeling: When and Where It Helps, and the Role of Reasoning",
+          "url": "https://arxiv.org/abs/2610.37896",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37896v1 Announce Type: new Abstract: Subjective judgments such as offensiveness often vary substantially across individuals, motivating pluralistic modeling approaches that incorporate annotators' socio-demographic information to capture this variation. However, pri…"
         }
       ]
     },
@@ -140,52 +206,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "How Tagbin’s BRIXX uses AI to simplify building design and planning",
-          "url": "https://yourstory.com/2026/10/how-tagbins-brixx-uses-ai-to-simplify-building-design-planning",
+          "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
+          "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
           "source": "YourStory",
-          "summary": "At TechSparks 2026, Tagbin Co-founders Saurav Bhaik and Ankit Sinha demonstrated how BRIXX uses natural-language prompts to bring architectural design, construction planning, and cost estimation together on a single platform."
+          "summary": "The handbook outlines a techno-legal framework that allows institutions to collaborate on data for AI training while keeping control of their data."
         },
         {
-          "title": "Waiting for an AI law is a poor compliance strategy",
-          "url": "https://yourstory.com/2026/10/waiting-for-an-ai-law-is-a-poor-compliance-strategy",
-          "source": "YourStory",
-          "summary": "India's courts and sectoral regulators have already begun assigning liability for AI failures. Businesses that are holding out for a statute are preparing for the wrong deadline."
-        },
-        {
-          "title": "India needs a digital goods marketplace and control of its distribution layer, say Indus Appstore and Eloelo",
-          "url": "https://yourstory.com/2026/10/india-needs-digital-goods-marketplace-control-distribution-layer-say-indus-appstore-eloelo",
-          "source": "YourStory",
-          "summary": "Priya Narasimhan of Indus Appstore and Sagar Gaonkar of Eloelo Group argued that India’s next 500 million users will come through AI-ready, locally priced platforms, and that sovereignty must extend beyond chips and models to app distribution, billing and data."
-        },
-        {
-          "title": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble",
-          "url": "https://economictimes.indiatimes.com/tech/technology/foxconn-working-on-a-new-tie-up-with-openai-says-there-is-no-ai-bubble/articleshow/135352103.cms",
+          "title": "Mistral AI publicly releases Large 4, targets cybersecurity users",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users/articleshow/135390933.cms",
           "source": "ET Tech",
-          "summary": "Foxconn Chairman Young Liu told reporters at the company's annual event to showcase its technology that he had met OpenAI Chief Executive Sam Altman earlier in the day and there would be an announcement once details were confirmed."
+          "summary": "Mistral said the released version was an upgrade from the one unveiled three weeks ago, following testing with governments and corporate users, which helped improve its performance."
         },
         {
-          "title": "Intel forecast disappoints as Israel fab blast, PC weakness weigh",
-          "url": "https://economictimes.indiatimes.com/tech/technology/intel-forecast-disappoints-as-israel-fab-blast-pc-weakness-weigh/articleshow/135350115.cms",
+          "title": "Are Boutique AI Firms India’s Next Big Thing?",
+          "url": "https://analyticsindiamag.com/it-services/are-boutique-ai-firms-indias-next-big-thing",
+          "source": "Analytics India Mag",
+          "summary": "AI-native consultancies are positioning themselves as smaller, faster engineering partners that can take AI projects from concept to production in days, not mon"
+        },
+        {
+          "title": "What Constitutes Food Similarity? Visual Representations and Retrieval in Indian Cuisine",
+          "url": "https://arxiv.org/abs/2610.37867",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.37867v1 Announce Type: new Abstract: Food similarity underlies retrieval, recommendation, substitution, and other food computing tasks, yet food representations are typically evaluated by identity preservation. We ask what happens to food similarity beyond identity:…"
+        },
+        {
+          "title": "The Indian Financial Automated Advice Bias (IFAAB) Dataset : Auditing Socioeconomic and Demographic Disparities in LLM-Generated Financial Advice in India",
+          "url": "https://arxiv.org/abs/2610.38239",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.38239v1 Announce Type: cross Abstract: Large language models are increasingly used for financial guidance, yet little is known about whether their advice changes across social identities in Global South contexts. We introduce the Indian Financial Automated Advice Bi…"
+        },
+        {
+          "title": "Epistemic Warrant for LLM Recommendations: Characterizing the Basis for Reliance When Ground Truth Is Unavailable",
+          "url": "https://arxiv.org/abs/2609.04127",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2609.04127v2 Announce Type: replace Abstract: Large language models are increasingly used to support organizational decisions. Despite their rapid and widespread adoption, users often lack a principled basis for assessing whether to rely on a specific recommendation. We …"
+        },
+        {
+          "title": "Breadcrumbing Search Agents: Per-Turn Scheming Over Long-Horizon Trajectories",
+          "url": "https://arxiv.org/abs/2608.04565",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2608.04565v3 Announce Type: replace-cross Abstract: LLM-based search agents are widely used for information-seeking tasks, but their reliance on external tool returns introduces a critical security risk: web content retrieved during execution is untrusted, exposing agent…"
+        },
+        {
+          "title": "Alliant targets 1 GW of new data-center contracts in six months as power demand surges",
+          "url": "https://economictimes.indiatimes.com/tech/technology/alliant-targets-1-gw-of-new-data-center-contracts-in-six-months-as-power-demand-surges/articleshow/135385487.cms",
           "source": "ET Tech",
-          "summary": "The guidance could test confidence in a stock that has more than doubled this year, as investors weigh ongoing manufacturing constraints and soft PC demand against strong demand for its AI server chips and efforts to revive growth through a costly foundry expansion."
-        },
-        {
-          "title": "Beyond AI: Bengaluru Tech Summit 2026 to spotlight new technologies, markets and opportunities",
-          "url": "https://yourstory.com/2026/10/beyond-ai-bengaluru-tech-summit-spotlight-technologies",
-          "source": "YourStory",
-          "summary": "The 29th edition of Bengaluru Tech Summit will bring together global technology leaders, investors, and entrepreneurs to explore emerging sectors and business opportunities."
-        },
-        {
-          "title": "Too much code, too little shipped: Why AI needs a software factory",
-          "url": "https://yourstory.com/2026/10/too-much-code-too-little-shipped-why-ai-needs-software-factory",
-          "source": "YourStory",
-          "summary": "Can AI run the entire software show? At TechSparks 2026, ForgeCode CEO Tushar Mathur explained how AI agents can automate software development while engineers focus on quality and results."
-        },
-        {
-          "title": "D2C brands don't need an AI team to get discovered and grow, says Shopflo",
-          "url": "https://yourstory.com/2026/10/d2c-brands-dont-need-ai-team-get-discovered-grow-shopflo",
-          "source": "YourStory",
-          "summary": "What if your next customer is an AI agent? At TechSparks 2026, Mihir Shah of Shopflo by Pine Labs explained how brands can connect product catalogues to AI shopping platforms and drive conversions."
+          "summary": "Alliant Energy expects to sign contracts for about 1 gigawatt of additional data-center demand within six months, its finance chief said on Friday, as rising AI use and growing electrification push US power demand to record highs."
         }
       ]
     }
@@ -317,18 +383,18 @@
     "devto": "https://dev.to/ace2504",
     "repos": [
       {
-        "name": "serenity",
-        "desc": "",
-        "url": "https://github.com/Ace-2504/serenity",
-        "stars": 0,
-        "language": "TypeScript"
-      },
-      {
         "name": "ai-weekly-report",
         "desc": "My personalized AI newsletter that runs on an agentic AI",
         "url": "https://github.com/Ace-2504/ai-weekly-report",
         "stars": 0,
         "language": "HTML"
+      },
+      {
+        "name": "serenity",
+        "desc": "",
+        "url": "https://github.com/Ace-2504/serenity",
+        "stars": 0,
+        "language": "TypeScript"
       },
       {
         "name": "slm-fine-tuning",
