@@ -1,0 +1,510 @@
+{
+  "daily": {
+    "date": "2026-11-02",
+    "top": {
+      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-02T13:57:53.000Z",
+      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
+    },
+    "topIndia": {
+      "title": "ESDS Q2 Profit Zooms 41% YoY To ₹31.1 Cr, Revenue Up 48%",
+      "url": "https://inc42.com/buzz/esds-q2-profit-zooms-41-yoy-to-%e2%82%b931-1-cr-revenue-up-48/",
+      "source": "Inc42",
+      "published": "2026-11-02T12:14:04.000Z",
+      "summary": "Enterprise cloud and AI company ESDS Software Solution reported a 40.7% year-on-year (YoY) increase in consolidated net profit to ₹31.1…"
+    },
+    "headlines": [
+      {
+        "title": "Stop counting tokens, start counting what ships",
+        "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+        "source": "MIT Tech Review",
+        "published": "2026-11-02T13:10:32.000Z"
+      },
+      {
+        "title": "The agentic web is here",
+        "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+        "source": "MIT Tech Review",
+        "published": "2026-11-02T09:35:19.000Z"
+      },
+      {
+        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+        "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-01T21:55:23.000Z"
+      },
+      {
+        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+        "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-01T20:57:58.000Z"
+      },
+      {
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+        "source": "TechCrunch AI",
+        "published": "2026-10-31T21:41:00.000Z"
+      },
+      {
+        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+        "source": "TechCrunch AI",
+        "published": "2026-10-31T21:36:07.000Z"
+      },
+      {
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+        "source": "TechCrunch AI",
+        "published": "2026-10-31T21:17:03.000Z"
+      },
+      {
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+        "source": "TechCrunch AI",
+        "published": "2026-10-31T16:12:55.000Z"
+      }
+    ],
+    "events": [
+      {
+        "title": "Mistral AI publicly releases Large 4, targets cybersecurity users",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users/articleshow/135390933.cms",
+        "source": "ET Tech",
+        "published": "2026-10-31T06:13:40.000Z",
+        "summary": "Mistral said the released version was an upgrade from the one unveiled three weeks ago, following testing with governments and corporate users, which helped improve its performance."
+      },
+      {
+        "title": "Nvidia's web of AI bets: smart strategy or bubble risk?",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-web-of-ai-bets-smart-strategy-or-bubble-risk/articleshow/135343465.cms",
+        "source": "ET Tech",
+        "published": "2026-10-30T04:23:50.000Z",
+        "summary": "Nvidia's $3 billion investment in Meta's share sale, announced Tuesday, is the latest addition to a portfolio of stakes, loans and guarantees that has made the chip giant what some analysts describe as the central bank of the artificial intelligence boom. Nvidia also has aroun…"
+      },
+      {
+        "title": "NVIDIA Launches Open-Weight Transcription Model for 40 Languages",
+        "url": "https://analyticsindiamag.com/ai-news/nvidia-launches-open-weight-transcription-model-for-40-languages",
+        "source": "Analytics India Mag",
+        "published": "2026-10-29T10:37:56.000Z",
+        "summary": "NVIDIA's Nemotron 3.5 Transcribe supports transcription in 40 languages with advanced features like speaker attribution and speech translation."
+      },
+      {
+        "title": "Google Announces Gemini 4 Carbon With Focus on Cybersecurity and Coding",
+        "url": "https://analyticsindiamag.com/ai-news/google-announces-gemini-4-carbon-with-focus-on-cybersecurity-and-coding",
+        "source": "Analytics India Mag",
+        "published": "2026-10-29T08:22:12.000Z",
+        "summary": "Discover Google Gemini 4 Carbon's capabilities in cybersecurity and coding, including its benchmark scores and advanced features for software vulnerability dete"
+      },
+      {
+        "title": "​​Google DeepMind Unveils Genie 4 for Real-Time World Simulation",
+        "url": "https://analyticsindiamag.com/ai-news/google-deepmind-unveils-genie-4-for-real-time-world-simulation",
+        "source": "Analytics India Mag",
+        "published": "2026-10-28T04:26:43.000Z",
+        "summary": "Genie 4 combines capabilities from Google’s Gemini models to simulate how environments, objects and people behave in response to user inputs."
+      }
+    ],
+    "people": [
+      {
+        "name": "Sam Altman",
+        "org": "OpenAI",
+        "link": "https://economictimes.indiatimes.com/tech/technology/foxconn-working-on-a-new-tie-up-with-openai-says-there-is-no-ai-bubble/articleshow/135352103.cms",
+        "article": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble",
+        "source": "ET Tech"
+      },
+      {
+        "name": "Demis Hassabis",
+        "org": "Google DeepMind",
+        "link": "https://x.com/demishassabis",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Dario Amodei",
+        "org": "Anthropic",
+        "link": "https://www.darioamodei.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Yann LeCun",
+        "org": "Meta · world models",
+        "link": "https://x.com/ylecun",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Jensen Huang",
+        "org": "NVIDIA",
+        "link": "https://nvidianews.nvidia.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Andrej Karpathy",
+        "org": "AI educator",
+        "link": "https://karpathy.ai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Sundar Pichai",
+        "org": "Google",
+        "link": "https://x.com/sundarpichai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Mira Murati",
+        "org": "Thinking Machines",
+        "link": "https://x.com/miramurati",
+        "article": null,
+        "source": "Profile"
+      }
+    ]
+  },
+  "weekly": {
+    "weekOf": "2026-10-27 to 2026-11-02",
+    "generated": "2026-11-02T14:07:32.627Z",
+    "intro": "109 AI items this week (73 India-relevant) across 9 sources.",
+    "sections": [
+      {
+        "heading": "Large Language Models",
+        "items": [
+          {
+            "title": "Google’s first data center satellite is online and writing poetry",
+            "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+            "source": "TechCrunch AI",
+            "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry."
+          },
+          {
+            "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+            "url": "https://huggingface.co/blog/mistral-large4",
+            "source": "Hugging Face",
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "heading": "Multimodal & Media",
+        "items": [
+          {
+            "title": "The agentic web is here",
+            "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+            "source": "MIT Tech Review",
+            "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be naviga…"
+          },
+          {
+            "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+            "url": "https://huggingface.co/blog/anydecisionmodel",
+            "source": "Hugging Face",
+            "summary": ""
+          },
+          {
+            "title": "Build specialized multimodal models with LFM3",
+            "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+            "source": "Hugging Face",
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "heading": "Developer Tools & Agents",
+        "items": [
+          {
+            "title": "Stop counting tokens, start counting what ships",
+            "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+            "source": "MIT Tech Review",
+            "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes…"
+          },
+          {
+            "title": "Last-minute Halloween costumes for tech nerds",
+            "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+            "source": "TechCrunch AI",
+            "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
+          },
+          {
+            "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+            "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+            "source": "TechCrunch AI",
+            "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
+          },
+          {
+            "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+            "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+            "source": "TechCrunch AI",
+            "summary": "DoorDash said that it is open to working with third-party agent makers."
+          },
+          {
+            "title": "We urgently need to monitor AI agents’ actions in real time",
+            "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+            "source": "MIT Tech Review",
+            "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed pr…"
+          }
+        ]
+      },
+      {
+        "heading": "Industry & Research",
+        "items": [
+          {
+            "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+            "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+            "source": "TechCrunch AI",
+            "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
+          },
+          {
+            "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+            "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+            "source": "TechCrunch AI",
+            "summary": "Data centers are deeply unpopular. But what if we called them something else?"
+          },
+          {
+            "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+            "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+            "source": "TechCrunch AI",
+            "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+          },
+          {
+            "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+            "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+            "source": "TechCrunch AI",
+            "summary": "Apple's new CEO defended the company's current position in the AI landscape."
+          },
+          {
+            "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+            "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+            "source": "TechCrunch AI",
+            "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door."
+          },
+          {
+            "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+            "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+            "source": "TechCrunch AI",
+            "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+          }
+        ]
+      },
+      {
+        "heading": "India & Subcontinent",
+        "items": [
+          {
+            "title": "ESDS Q2 Profit Zooms 41% YoY To ₹31.1 Cr, Revenue Up 48%",
+            "url": "https://inc42.com/buzz/esds-q2-profit-zooms-41-yoy-to-%e2%82%b931-1-cr-revenue-up-48/",
+            "source": "Inc42",
+            "summary": "Enterprise cloud and AI company ESDS Software Solution reported a 40.7% year-on-year (YoY) increase in consolidated net profit to ₹31.1…"
+          },
+          {
+            "title": "Clinics On Cloud raises $12.5M to expand microclinic network",
+            "url": "https://yourstory.com/2026/11/clinics-on-cloud-raises-125m-expand-microclinic-network",
+            "source": "YourStory",
+            "summary": "The Pune-based firm will use the funding to strengthen its artificial intelligence capabilities, expand research and development, and grow its connected microclinic network."
+          },
+          {
+            "title": "OpenAI Signs Four Agreements With Abu Dhabi Across Government, Energy And Investment",
+            "url": "https://analyticsindiamag.com/ai-news/openai-signs-four-agreements-with-abu-dhabi-across-government-energy-and-investment",
+            "source": "Analytics India Mag",
+            "summary": "ADNOC will use GPT models for operational decision-making, while Abu Dhabi is piloting AI-powered food import compliance checks."
+          },
+          {
+            "title": "From prompt engineers to tool builders: Intuit’s Vignesh Subrahmaniam on building AI that acts",
+            "url": "https://yourstory.com/2026/11/prompt-engineers-tool-builders-intuits-vignesh-subrahmaniam-building-ai-acts",
+            "source": "YourStory",
+            "summary": "At TechSparks 2026, Intuit’s Principal AI Scientist explained why reliable tools, high-quality data, and consent matter more than ever as AI moves from answering to acting"
+          },
+          {
+            "title": "Deeptech startups gain VC attention as India’s investment landscape evolves",
+            "url": "https://yourstory.com/2026/11/deeptech-startups-gain-investor-attention-as-indias-investment-landscape-evolves-vcs",
+            "source": "YourStory",
+            "summary": "During a panel discussion at TechSparks 2026, an incubator, early stage venture capital firm and a late stage investor provided interesting perspectives on the evolving investment landscape in India, particularly in the areas of artificial intelligence and deeptech."
+          },
+          {
+            "title": "Crypto’s next chapter: Regulatory sandboxes, AI co-pilots and the rise of derivatives",
+            "url": "https://yourstory.com/2026/11/cryptos-next-chapter-regulatory-sandboxes-ai-co-pilots-and-the-rise-of-derivatives",
+            "source": "YourStory",
+            "summary": "At TechSparks 2026, Rajagopal Menon of WazirX, Satish Mishra of Pi42 and SharkExchange, and Sharat Chandra of EmpowerEdge Ventures discussed how regulation, risk management and AI are reshaping crypto investing in India"
+          },
+          {
+            "title": "Pronto Founder’s Provision Labs Acquires Hardware Startup Basilisk Industries",
+            "url": "https://inc42.com/buzz/pronto-founders-provision-labs-acquires-hardware-startup-basilisk-industries/",
+            "source": "Inc42",
+            "summary": "Pronto founder Anjali Sardana’s physical AI venture Provision Labs has acquired Mumbai-based hardware startup Basilisk Industries for an undisclosed sum. …"
+          },
+          {
+            "title": "From code to content: How AI could make India the world’s next story exporter",
+            "url": "https://yourstory.com/2026/11/from-code-to-content-how-ai-could-make-india-the-worlds-next-story-exporter",
+            "source": "YourStory",
+            "summary": "Eloelo Group’s Saurabh Pandey showcased Dolphin AI, an end-to-end video production suite, and told TechSparks 2026 that falling production costs could let Indian storytellers compete for global audiences."
+          }
+        ]
+      }
+    ],
+    "careers": {
+      "note": "Demand snapshot for 2026. ML Engineer is the most in-demand AI title; agentic-AI and deep-learning skills carry the highest pay premiums; Python + one cloud is the baseline. Specialisation beats generalisation for freshers.",
+      "paths": [
+        {
+          "field": "Machine Learning Engineering",
+          "demand": "Very high",
+          "note": "#1 AI title — build, deploy & maintain models in production. Best all-round entry into AI."
+        },
+        {
+          "field": "AI / Agent Engineering (LLM apps)",
+          "demand": "Surging",
+          "note": "RAG, tool-use & multi-agent systems. ~40% of enterprise apps will embed AI agents by year-end."
+        },
+        {
+          "field": "Deep Learning / Research",
+          "demand": "High (premium pay)",
+          "note": "Neural nets for vision & speech. Highest premiums; usually needs strong maths / grad study."
+        },
+        {
+          "field": "MLOps / AI Infrastructure",
+          "demand": "High",
+          "note": "Ship & scale models on the cloud. Cloud AI certs add 20–25% to salary."
+        },
+        {
+          "field": "Data Science / Analytics",
+          "demand": "Steady",
+          "note": "Foundational, widest entry door; a reliable first step into AI."
+        },
+        {
+          "field": "Computer Vision",
+          "demand": "High",
+          "note": "Imaging, robotics, autonomous systems, medical AI."
+        },
+        {
+          "field": "NLP / LLM Engineering",
+          "demand": "Very high",
+          "note": "Powers chatbots, search & agents — the hottest application area."
+        },
+        {
+          "field": "AI Product / Solutions Architect",
+          "demand": "High (senior)",
+          "note": "5–8 yrs experience; $140k–$332k bands. Translates AI into business value."
+        },
+        {
+          "field": "AI Safety / Governance",
+          "demand": "Growing",
+          "note": "Alignment, evals, red-teaming & policy — newer but expanding fast."
+        }
+      ],
+      "fresher": [
+        {
+          "skill": "Python (NumPy, Pandas)",
+          "why": "The lingua franca of ML — non-negotiable."
+        },
+        {
+          "skill": "Maths foundations",
+          "why": "Linear algebra, probability & calculus — enough to reason about models."
+        },
+        {
+          "skill": "Core ML (scikit-learn)",
+          "why": "Regression, classification, evaluation, the ML workflow."
+        },
+        {
+          "skill": "One deep-learning framework (PyTorch)",
+          "why": "Build & train neural nets; PyTorch dominates research & jobs."
+        },
+        {
+          "skill": "LLMs: prompting + RAG basics",
+          "why": "Ship a small LLM app — the most visible skill to recruiters now."
+        },
+        {
+          "skill": "SQL + data wrangling",
+          "why": "Real AI work is mostly data; SQL is everywhere."
+        },
+        {
+          "skill": "One cloud + Git/GitHub",
+          "why": "AWS leads (~40% of postings), then Azure & GCP. Version everything."
+        },
+        {
+          "skill": "Ship a portfolio project",
+          "why": "A deployed project that solves a real problem is the #1 differentiator."
+        }
+      ],
+      "experienced": [
+        {
+          "skill": "MLOps & deployment",
+          "why": "Docker, CI/CD, monitoring, model/versioning — production is where value lives."
+        },
+        {
+          "skill": "Agentic system design",
+          "why": "Multi-agent orchestration, tool-use, evals — the surging frontier."
+        },
+        {
+          "skill": "Cloud AI at scale",
+          "why": "AWS/Azure/GCP architecture; certs add a 20–25% salary premium."
+        },
+        {
+          "skill": "LLM fine-tuning & evals",
+          "why": "Adapt, measure and harden models for a domain."
+        },
+        {
+          "skill": "Distributed training / GPU optimisation",
+          "why": "Cost & latency engineering for large models."
+        },
+        {
+          "skill": "ML system design",
+          "why": "Trade-offs across data, latency, cost & reliability at scale."
+        },
+        {
+          "skill": "Domain specialisation",
+          "why": "CV, NLP, recsys, healthcare — depth beats breadth at senior levels."
+        },
+        {
+          "skill": "AI → business translation",
+          "why": "Leading teams and tying models to measurable outcomes."
+        }
+      ]
+    },
+    "profile": {
+      "name": "Harman Singh Sandhu",
+      "handle": "Ace",
+      "blurb": "I build AI/ML projects and write about them. This site is one of them — an automated daily AI digest.",
+      "linkedin": "https://www.linkedin.com/in/harman-singh-sandhu/",
+      "github": "https://github.com/Ace-2504",
+      "devto": "https://dev.to/ace2504",
+      "repos": [
+        {
+          "name": "ai-weekly-report",
+          "desc": "My personalized AI newsletter that runs on an agentic AI",
+          "url": "https://github.com/Ace-2504/ai-weekly-report",
+          "stars": 0,
+          "language": "HTML"
+        },
+        {
+          "name": "serenity",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/serenity",
+          "stars": 0,
+          "language": "TypeScript"
+        },
+        {
+          "name": "slm-fine-tuning",
+          "desc": "Fine-tuning + eval backend for the SLM family (125M/500M/Gemma): SFT, RAFT, DPO, RLAIF, rubric-10 eval, serving.",
+          "url": "https://github.com/Ace-2504/slm-fine-tuning",
+          "stars": 0,
+          "language": "Python"
+        },
+        {
+          "name": "slm-arena-15",
+          "desc": "15-model SLM arena — side-by-side demo across the 125M/500M/Gemma family (base/QA-SFT/RAFT/DPO/RLAIF).",
+          "url": "https://github.com/Ace-2504/slm-arena-15",
+          "stars": 0,
+          "language": "TypeScript"
+        },
+        {
+          "name": "slm-arena-13",
+          "desc": "13-model SLM arena — side-by-side demo across the 125M/500M/Gemma family.",
+          "url": "https://github.com/Ace-2504/slm-arena-13",
+          "stars": 0,
+          "language": "TypeScript"
+        },
+        {
+          "name": "slm-inference-benchmarks",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/slm-inference-benchmarks",
+          "stars": 0,
+          "language": "HTML"
+        }
+      ]
+    }
+  }
+}
