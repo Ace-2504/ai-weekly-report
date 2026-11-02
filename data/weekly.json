@@ -1,11 +1,17 @@
 {
   "weekOf": "2026-10-27 to 2026-11-02",
-  "generated": "2026-11-02T14:07:32.627Z",
-  "intro": "109 AI items this week (73 India-relevant) across 9 sources.",
+  "generated": "2026-11-02T16:40:08.832Z",
+  "intro": "108 AI items this week (73 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
+        {
+          "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+          "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+          "source": "TechCrunch AI",
+          "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
+        },
         {
           "title": "Google’s first data center satellite is online and writing poetry",
           "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
@@ -65,12 +71,6 @@
           "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
         },
         {
-          "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-          "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-          "source": "TechCrunch AI",
-          "summary": "DoorDash said that it is open to working with third-party agent makers."
-        },
-        {
           "title": "We urgently need to monitor AI agents’ actions in real time",
           "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
           "source": "MIT Tech Review",
@@ -81,6 +81,24 @@
     {
       "heading": "Industry & Research",
       "items": [
+        {
+          "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+          "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+          "source": "TechCrunch AI",
+          "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\""
+        },
+        {
+          "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+          "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+          "source": "TechCrunch AI",
+          "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal."
+        },
+        {
+          "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+          "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+          "source": "TechCrunch AI",
+          "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes."
+        },
         {
           "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
           "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
@@ -98,30 +116,18 @@
           "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
           "source": "TechCrunch AI",
           "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
-        },
-        {
-          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-          "source": "TechCrunch AI",
-          "summary": "Apple's new CEO defended the company's current position in the AI landscape."
-        },
-        {
-          "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-          "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-          "source": "TechCrunch AI",
-          "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door."
-        },
-        {
-          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-          "source": "TechCrunch AI",
-          "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
         }
       ]
     },
     {
       "heading": "India & Subcontinent",
       "items": [
+        {
+          "title": "Anthropic Posts $17 Bn in Q3 Revenue, Swings to Operating Loss",
+          "url": "https://analyticsindiamag.com/ai-news/anthropic-posts-17-bn-in-q3-revenue-swings-to-operating-loss",
+          "source": "Analytics India Mag",
+          "summary": "Anthropic attributed the latest quarter’s operating loss of $567 million, partly to its reliance on short-term computing capacity."
+        },
         {
           "title": "ESDS Q2 Profit Zooms 41% YoY To ₹31.1 Cr, Revenue Up 48%",
           "url": "https://inc42.com/buzz/esds-q2-profit-zooms-41-yoy-to-%e2%82%b931-1-cr-revenue-up-48/",
@@ -163,12 +169,6 @@
           "url": "https://inc42.com/buzz/pronto-founders-provision-labs-acquires-hardware-startup-basilisk-industries/",
           "source": "Inc42",
           "summary": "Pronto founder Anjali Sardana’s physical AI venture Provision Labs has acquired Mumbai-based hardware startup Basilisk Industries for an undisclosed sum. …"
-        },
-        {
-          "title": "From code to content: How AI could make India the world’s next story exporter",
-          "url": "https://yourstory.com/2026/11/from-code-to-content-how-ai-could-make-india-the-worlds-next-story-exporter",
-          "source": "YourStory",
-          "summary": "Eloelo Group’s Saurabh Pandey showcased Dolphin AI, an end-to-end video production suite, and told TechSparks 2026 that falling production costs could let Indian storytellers compete for global audiences."
         }
       ]
     }
