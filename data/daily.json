@@ -1,88 +1,122 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "top": {
-    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-    "source": "TechCrunch AI",
-    "published": "2026-11-02T16:30:00.000Z",
-    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "source": "MIT Tech Review",
+    "published": "2026-11-03T10:43:41.000Z",
+    "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, …"
   },
   "topIndia": {
-    "title": "Anthropic Posts $17 Bn in Q3 Revenue, Swings to Operating Loss",
-    "url": "https://analyticsindiamag.com/ai-news/anthropic-posts-17-bn-in-q3-revenue-swings-to-operating-loss",
-    "source": "Analytics India Mag",
-    "published": "2026-11-02T16:06:55.000Z",
-    "summary": "Anthropic attributed the latest quarter’s operating loss of $567 million, partly to its reliance on short-term computing capacity."
+    "title": "The Enterprise AI Push For Decision Models",
+    "url": "https://inc42.com/features/the-enterprise-ai-push-for-decision-models/",
+    "source": "Inc42",
+    "published": "2026-11-03T12:16:41.000Z",
+    "summary": "The AI race has largely revolved around frontier labs and models that can write, code, analyse documents and reason through…"
   },
   "headlines": [
     {
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
       "source": "TechCrunch AI",
-      "published": "2026-11-02T16:23:21.000Z"
+      "published": "2026-11-03T07:20:00.000Z"
     },
     {
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-02T15:00:00.000Z"
+      "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses",
+      "url": "https://arxiv.org/abs/2610.41172",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T05:00:00.000Z"
     },
     {
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-02T14:00:00.000Z"
+      "title": "Beyond CLIP: Calibrated (Few-Shot) Defect Detection With System One Decision Models",
+      "url": "https://arxiv.org/abs/2610.41199",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T05:00:00.000Z"
     },
     {
-      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-02T13:57:53.000Z"
+      "title": "From Evaluation to Evolution: Benchmarking Image Editing and Evolving Image Models",
+      "url": "https://arxiv.org/abs/2610.41210",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T05:00:00.000Z"
     },
     {
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-02T13:10:32.000Z"
+      "title": "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
+      "url": "https://arxiv.org/abs/2610.41231",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T05:00:00.000Z"
     },
     {
-      "title": "The agentic web is here",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-02T09:35:19.000Z"
+      "title": "ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents",
+      "url": "https://arxiv.org/abs/2610.41272",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T05:00:00.000Z"
     },
     {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-01T21:55:23.000Z"
+      "title": "In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2610.41291",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T05:00:00.000Z"
     },
     {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-01T20:57:58.000Z"
+      "title": "ART of PIV: Agentic Real-Time Particle Image Velocimetry for Active Flow Control",
+      "url": "https://arxiv.org/abs/2610.41304",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T05:00:00.000Z"
     },
     {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-31T21:41:00.000Z"
+      "title": "Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation",
+      "url": "https://arxiv.org/abs/2610.41307",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T05:00:00.000Z"
     },
     {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-31T21:36:07.000Z"
+      "title": "GenDSR: Transferring Representations from Video Generation Models for Dynamic Spatial Reasoning",
+      "url": "https://arxiv.org/abs/2610.41314",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T05:00:00.000Z"
     },
     {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "source": "TechCrunch AI",
-      "published": "2026-10-31T21:17:03.000Z"
+      "title": "Transferring Peptide-Target Interaction Patterns to Small Molecules by Joint Guidance for Diffusion and Flow Matching",
+      "url": "https://arxiv.org/abs/2610.41322",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T05:00:00.000Z"
+    },
+    {
+      "title": "With foundation-model features, aggregator complexity does not improve cross-hospital discrimination in gastric whole-slide image classification",
+      "url": "https://arxiv.org/abs/2610.41328",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T05:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Google launches Dreambeans app in India",
+      "url": "https://yourstory.com/2026/11/google-launches-dreambeans-india-today",
+      "source": "YourStory",
+      "published": "2026-11-03T07:31:42.000Z",
+      "summary": "Dreambeans is an experimental AI-powered app that creates personalised daily story collections."
+    },
+    {
+      "title": "SimXAI: A Simple Drop-in Layer Increases Interaction Quality and Understanding in Conversational XAI",
+      "url": "https://arxiv.org/abs/2610.41856",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T05:00:00.000Z",
+      "summary": "arXiv:2610.41856v1 Announce Type: cross Abstract: Conversational explainable AI (ConvXAI) agents often use GUS-style architectures with separate modules for intent recognition, dialogue management, and template-based response generation. While faithful to the underlying XAI me…"
+    },
+    {
+      "title": "AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration",
+      "url": "https://arxiv.org/abs/2610.42001",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T05:00:00.000Z",
+      "summary": "arXiv:2610.42001v1 Announce Type: cross Abstract: As generative artificial intelligence (AI) becomes more capable and widely used, understanding when and how humans should work with these systems is becoming increasingly important. However, the empirical evidence in this space…"
+    },
+    {
+      "title": "Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability",
+      "url": "https://arxiv.org/abs/2607.18368",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T05:00:00.000Z",
+      "summary": "arXiv:2607.18368v5 Announce Type: replace Abstract: Partially observable reinforcement learning requires deciding what to retain, retrieve, and forget over time. We introduce a neuro-symbolic meta-policy that learns which symbolic memory heuristic to apply at each decision poi…"
+    },
     {
       "title": "Mistral AI publicly releases Large 4, targets cybersecurity users",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users/articleshow/135390933.cms",
@@ -110,13 +144,6 @@
       "source": "Analytics India Mag",
       "published": "2026-10-29T08:22:12.000Z",
       "summary": "Discover Google Gemini 4 Carbon's capabilities in cybersecurity and coding, including its benchmark scores and advanced features for software vulnerability dete"
-    },
-    {
-      "title": "​​Google DeepMind Unveils Genie 4 for Real-Time World Simulation",
-      "url": "https://analyticsindiamag.com/ai-news/google-deepmind-unveils-genie-4-for-real-time-world-simulation",
-      "source": "Analytics India Mag",
-      "published": "2026-10-28T04:26:43.000Z",
-      "summary": "Genie 4 combines capabilities from Google’s Gemini models to simulate how environments, objects and people behave in response to user inputs."
     }
   ],
   "people": [
