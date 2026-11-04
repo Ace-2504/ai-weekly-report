@@ -1,121 +1,100 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "top": {
-    "title": "How “reverse game theory” could keep AI agents in check",
-    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-    "source": "MIT Tech Review",
-    "published": "2026-11-03T10:43:41.000Z",
-    "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, …"
+    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+    "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+    "source": "TechCrunch AI",
+    "published": "2026-11-04T13:00:00.000Z",
+    "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
   },
   "topIndia": {
-    "title": "The Enterprise AI Push For Decision Models",
-    "url": "https://inc42.com/features/the-enterprise-ai-push-for-decision-models/",
-    "source": "Inc42",
-    "published": "2026-11-03T12:16:41.000Z",
-    "summary": "The AI race has largely revolved around frontier labs and models that can write, code, analyse documents and reason through…"
+    "title": "Frammer AI partners with Collective Newsroom to power BBC News video in India",
+    "url": "https://yourstory.com/2026/11/frammer-ai-partners-collective-newsroom-bbc-video-india",
+    "source": "YourStory",
+    "published": "2026-11-04T12:27:11.000Z",
+    "summary": "Frammer AI will power video workflows, including repurposing, for Collective Newsroom, which produces BBC content in India."
   },
   "headlines": [
     {
-      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
       "source": "TechCrunch AI",
-      "published": "2026-11-03T07:20:00.000Z"
+      "published": "2026-11-03T22:41:03.000Z"
     },
     {
-      "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses",
-      "url": "https://arxiv.org/abs/2610.41172",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-03T05:00:00.000Z"
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-03T22:19:53.000Z"
     },
     {
-      "title": "Beyond CLIP: Calibrated (Few-Shot) Defect Detection With System One Decision Models",
-      "url": "https://arxiv.org/abs/2610.41199",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-03T05:00:00.000Z"
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-03T21:43:08.000Z"
     },
     {
-      "title": "From Evaluation to Evolution: Benchmarking Image Editing and Evolving Image Models",
-      "url": "https://arxiv.org/abs/2610.41210",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-03T05:00:00.000Z"
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-03T21:05:55.000Z"
     },
     {
-      "title": "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
-      "url": "https://arxiv.org/abs/2610.41231",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-03T05:00:00.000Z"
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-03T19:34:43.000Z"
     },
     {
-      "title": "ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents",
-      "url": "https://arxiv.org/abs/2610.41272",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-03T05:00:00.000Z"
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-03T18:42:16.000Z"
     },
     {
-      "title": "In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents",
-      "url": "https://arxiv.org/abs/2610.41291",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-03T05:00:00.000Z"
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "source": "Hugging Face",
+      "published": "2026-11-03T17:15:21.000Z"
     },
     {
-      "title": "ART of PIV: Agentic Real-Time Particle Image Velocimetry for Active Flow Control",
-      "url": "https://arxiv.org/abs/2610.41304",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-03T05:00:00.000Z"
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-03T17:07:01.000Z"
     },
     {
-      "title": "Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation",
-      "url": "https://arxiv.org/abs/2610.41307",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-03T05:00:00.000Z"
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face",
+      "published": "2026-11-03T16:35:36.000Z"
     },
     {
-      "title": "GenDSR: Transferring Representations from Video Generation Models for Dynamic Spatial Reasoning",
-      "url": "https://arxiv.org/abs/2610.41314",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-03T05:00:00.000Z"
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-03T16:30:34.000Z"
     },
     {
-      "title": "Transferring Peptide-Target Interaction Patterns to Small Molecules by Joint Guidance for Diffusion and Flow Matching",
-      "url": "https://arxiv.org/abs/2610.41322",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-03T05:00:00.000Z"
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-03T15:38:27.000Z"
     },
     {
-      "title": "With foundation-model features, aggregator complexity does not improve cross-hospital discrimination in gastric whole-slide image classification",
-      "url": "https://arxiv.org/abs/2610.41328",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-03T05:00:00.000Z"
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-03T14:30:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Google launches Dreambeans app in India",
-      "url": "https://yourstory.com/2026/11/google-launches-dreambeans-india-today",
-      "source": "YourStory",
-      "published": "2026-11-03T07:31:42.000Z",
-      "summary": "Dreambeans is an experimental AI-powered app that creates personalised daily story collections."
-    },
-    {
-      "title": "SimXAI: A Simple Drop-in Layer Increases Interaction Quality and Understanding in Conversational XAI",
-      "url": "https://arxiv.org/abs/2610.41856",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-03T05:00:00.000Z",
-      "summary": "arXiv:2610.41856v1 Announce Type: cross Abstract: Conversational explainable AI (ConvXAI) agents often use GUS-style architectures with separate modules for intent recognition, dialogue management, and template-based response generation. While faithful to the underlying XAI me…"
-    },
-    {
-      "title": "AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration",
-      "url": "https://arxiv.org/abs/2610.42001",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-03T05:00:00.000Z",
-      "summary": "arXiv:2610.42001v1 Announce Type: cross Abstract: As generative artificial intelligence (AI) becomes more capable and widely used, understanding when and how humans should work with these systems is becoming increasingly important. However, the empirical evidence in this space…"
-    },
-    {
-      "title": "Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability",
-      "url": "https://arxiv.org/abs/2607.18368",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-03T05:00:00.000Z",
-      "summary": "arXiv:2607.18368v5 Announce Type: replace Abstract: Partially observable reinforcement learning requires deciding what to retain, retrieve, and forget over time. We introduce a neuro-symbolic meta-policy that learns which symbolic memory heuristic to apply at each decision poi…"
+      "title": "Google will cut off search access for students at schools that reject AI",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-will-cut-off-search-access-for-students-at-schools-that-reject-ai/articleshow/135519447.cms",
+      "source": "ET Tech",
+      "published": "2026-11-04T02:44:00.000Z",
+      "summary": "The Mountain View, California, company has been facing pushback from educators, child development experts and parents over the use of its technology in schools, with the backlash heating up since it announced in August that it had turned on its Gemini chatbot for many K-12 stu…"
     },
     {
       "title": "Mistral AI publicly releases Large 4, targets cybersecurity users",
@@ -123,13 +102,6 @@
       "source": "ET Tech",
       "published": "2026-10-31T06:13:40.000Z",
       "summary": "Mistral said the released version was an upgrade from the one unveiled three weeks ago, following testing with governments and corporate users, which helped improve its performance."
-    },
-    {
-      "title": "Nvidia's web of AI bets: smart strategy or bubble risk?",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-web-of-ai-bets-smart-strategy-or-bubble-risk/articleshow/135343465.cms",
-      "source": "ET Tech",
-      "published": "2026-10-30T04:23:50.000Z",
-      "summary": "Nvidia's $3 billion investment in Meta's share sale, announced Tuesday, is the latest addition to a portfolio of stakes, loans and guarantees that has made the chip giant what some analysts describe as the central bank of the artificial intelligence boom. Nvidia also has aroun…"
     },
     {
       "title": "NVIDIA Launches Open-Weight Transcription Model for 40 Languages",
@@ -150,9 +122,9 @@
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://economictimes.indiatimes.com/tech/technology/foxconn-working-on-a-new-tie-up-with-openai-says-there-is-no-ai-bubble/articleshow/135352103.cms",
-      "article": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble",
-      "source": "ET Tech"
+      "link": "https://analyticsindiamag.com/ai-trends/when-sam-became-ram-ahead-of-diwali",
+      "article": "When Sam Became Ram Ahead of Diwali",
+      "source": "Analytics India Mag"
     },
     {
       "name": "Demis Hassabis",

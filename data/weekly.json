@@ -1,46 +1,40 @@
 {
-  "weekOf": "2026-10-28 to 2026-11-03",
-  "generated": "2026-11-03T13:12:30.987Z",
-  "intro": "406 AI items this week (72 India-relevant) across 10 sources.",
+  "weekOf": "2026-10-29 to 2026-11-04",
+  "generated": "2026-11-04T13:26:47.282Z",
+  "intro": "115 AI items this week (78 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents",
-          "url": "https://arxiv.org/abs/2610.41291",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41291v1 Announce Type: cross Abstract: Long-horizon LLM agents play an important role in solving complex and sustained tasks, with ever-growing interaction contexts. However, these accumulated contexts will raise substantial computational cost and obscure key decisi…"
+          "title": "Anthropic is working on a system to prove AI models’ identity",
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+          "source": "TechCrunch AI",
+          "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
         },
         {
-          "title": "Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation",
-          "url": "https://arxiv.org/abs/2610.41307",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41307v1 Announce Type: cross Abstract: Multimodal indirect prompt injection embeds malicious instructions in external media that also contains information needed for the user's task. Existing defenses can block the attack yet impair the model's use of that informati…"
+          "title": "Palette: teaching a small model to build decks in your design language",
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "With foundation-model features, aggregator complexity does not improve cross-hospital discrimination in gastric whole-slide image classification",
-          "url": "https://arxiv.org/abs/2610.41328",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41328v1 Announce Type: cross Abstract: Whole-slide image classifiers are usually developed within one hospital and often go untested at unseen hospitals. We assembled 5,036 haematoxylin-and-eosin-stained gastric slides from five Korean hospitals, scanned at 20x and …"
+          "title": "Transformers Model Integration Contracts",
+          "url": "https://huggingface.co/blog/transformers-mic",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "Distilling Knowledge from Search: Decoder Model Factory for Quantum LDPC Codes",
-          "url": "https://arxiv.org/abs/2610.41398",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41398v1 Announce Type: cross Abstract: We introduce GraphMP, a learning-based message-passing decoder for quantum low-density parity-check codes that transfers without fine-tuning across code families, code sizes, physical error rates, and noise models. GraphMP uses…"
+          "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+          "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+          "source": "TechCrunch AI",
+          "summary": "The one-year-old startup is now valued at $300 million."
         },
         {
-          "title": "When Safety Checks Become Privacy Risks: A Privacy-Preserving Paradigm for LLM Agent Safety Auditing",
-          "url": "https://arxiv.org/abs/2610.41401",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41401v1 Announce Type: cross Abstract: Large language model agents interact with online services through tool calls that may access private data or perform sensitive actions. Specialized providers can supply and maintain pre-execution safety auditing capabilities fo…"
-        },
-        {
-          "title": "From Representation to Readout: Mechanistic Analysis of Membership Signals in Language Models",
-          "url": "https://arxiv.org/abs/2610.41445",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41445v1 Announce Type: cross Abstract: Membership inference aims to determine whether a particular example was included in a model's training data. Such membership signals are often broadly described as memorization, while the underlying mechanisms can involve both …"
+          "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "url": "https://huggingface.co/blog/mistral-large4",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -54,34 +48,16 @@
           "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
         },
         {
-          "title": "Beyond CLIP: Calibrated (Few-Shot) Defect Detection With System One Decision Models",
-          "url": "https://arxiv.org/abs/2610.41199",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41199v1 Announce Type: cross Abstract: Cameras and vision sensors are widely used for product and process inspection in manufacturing environments. Traditionally, this process required thousands of images of both nominal and defective products to train such models. …"
+          "title": "The agentic web is here",
+          "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+          "source": "MIT Tech Review",
+          "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be naviga…"
         },
         {
-          "title": "From Evaluation to Evolution: Benchmarking Image Editing and Evolving Image Models",
-          "url": "https://arxiv.org/abs/2610.41210",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41210v1 Announce Type: cross Abstract: Real-world image editing requires coordinating multiple visual transformations with content preservation and reference constraints, yet aggregate scores can readily obscure unmet local requirements. Effective evaluation must th…"
-        },
-        {
-          "title": "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
-          "url": "https://arxiv.org/abs/2610.41231",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41231v1 Announce Type: cross Abstract: Coarse-to-fine 3D-native generation relies heavily on the first-stage sparse structure, which determines the global orientation and overall geometry for subsequent refinement. However, existing coarse generators suffer from two…"
-        },
-        {
-          "title": "ART of PIV: Agentic Real-Time Particle Image Velocimetry for Active Flow Control",
-          "url": "https://arxiv.org/abs/2610.41304",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41304v1 Announce Type: cross Abstract: Particle image velocimetry (PIV) measures fluid motion from images of tracer particles, but its accuracy depends on choices throughout the estimation pipeline, including image preprocessing, flow estimation, and postprocessing.…"
-        },
-        {
-          "title": "GenDSR: Transferring Representations from Video Generation Models for Dynamic Spatial Reasoning",
-          "url": "https://arxiv.org/abs/2610.41314",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41314v1 Announce Type: cross Abstract: Dynamic spatial reasoning is essential for connecting visual intelligence to thephysical world, yet remains challenging for vision-language models (VLMs), which must preserve scene state while tracking how spatial relations evo…"
+          "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "url": "https://huggingface.co/blog/anydecisionmodel",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -89,81 +65,22 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "From prediction error to sparse events: Biologically inspired signed-dyadic coding for Mandarin keyword spotting",
-          "url": "https://arxiv.org/abs/2610.41381",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41381v1 Announce Type: cross Abstract: In continuous spiking keyword spotting, temporally correlated acoustic frames can repeatedly trigger memory access and neural computation at a dense input interface, even when hidden activity is sparse. Predictive processing an…"
+          "title": "Raising the quality of insights in agentic analytics",
+          "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+          "source": "MIT Tech Review",
+          "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there i…"
         },
         {
-          "title": "Latent-Lens: Visual Perception in Small Language Models Through Latent Communication",
-          "url": "https://arxiv.org/abs/2610.41751",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41751v1 Announce Type: cross Abstract: Bridging independent vision-language models (VLMs) and small language models (SLMs) in a modular multi-agent system typically forces them to exchange information as discrete text, which creates a lossy bottleneck for spatial an…"
-        },
-        {
-          "title": "SecPO: Principled Adversarial Training for Prompt Injection Security",
-          "url": "https://arxiv.org/abs/2610.41998",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41998v1 Announce Type: cross Abstract: Recognized as a top threat to AI agents, prompt injection allows instructions from untrusted data (email, documents, websites) to manipulate the agent's operation. The existing best-defended LLM, Meta-SecAlign, is trained with …"
-        },
-        {
-          "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
-          "url": "https://arxiv.org/abs/2610.42141",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.42141v1 Announce Type: cross Abstract: Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are bui…"
-        },
-        {
-          "title": "A Hybrid SMT-NRA Solver: Integrating 2D Cell-Jump-Based Local Search, MCSAT and OpenCAD",
-          "url": "https://arxiv.org/abs/2507.00557",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2507.00557v3 Announce Type: replace Abstract: In this paper, we propose a hybrid framework for Satisfiability Modulo the Theory of Nonlinear Real Arithmetic (SMT-NRA for short). First, we introduce a two-dimensional cell-jump move, called \\emph{2D-cell-jump}, generalizin…"
-        },
-        {
-          "title": "Ax-Prover: A Deep Reasoning Agentic Framework for Theorem Proving in Mathematics and Quantum Physics",
-          "url": "https://arxiv.org/abs/2510.12787",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2510.12787v5 Announce Type: replace Abstract: We present Ax-Prover, a multi-agent system for automated theorem proving in Lean that can solve problems across diverse scientific domains and operate either autonomously or collaboratively with human experts. To achieve this…"
-        }
-      ]
-    },
-    {
-      "heading": "Open Source",
-      "items": [
-        {
-          "title": "Instruction-Tuning Open-Weight Language Models for BPMN Model Generation",
-          "url": "https://arxiv.org/abs/2512.12063",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2512.12063v2 Announce Type: replace-cross Abstract: Domain models are central to software engineering, as they enable a shared understanding, guide implementation, and support automated analyses and model-driven development. Yet, despite these benefits, practitioners oft…"
-        },
-        {
-          "title": "Sparkle: Realizing Lively Instruction-Guided Video Background Replacement via Decoupled Guidance",
-          "url": "https://arxiv.org/abs/2605.06535",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2605.06535v2 Announce Type: replace-cross Abstract: In recent years, open-source efforts like Senorita-2M have propelled video editing toward natural language instruction. However, current publicly available datasets predominantly focus on local editing or style transfer…"
-        },
-        {
-          "title": "CogBattery: Human-Referenced Evaluation of Cognitive Task Behavior and Structure in Language Models",
-          "url": "https://arxiv.org/abs/2607.24999",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.24999v2 Announce Type: replace-cross Abstract: Human cognitive tasks let us compare language models with humans under controlled conditions. Yet a model can reproduce the direction of a human effect while making different errors. CogBattery evaluates 54 open-weight …"
-        },
-        {
-          "title": "Sensorium: An Open-Source Multimodal Data Collection and Curation Library for Embodied Surgical AI",
-          "url": "https://arxiv.org/abs/2610.41946",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41946v1 Announce Type: new Abstract: Embodied surgical AI requires reliable multimodal data, yet surgical data collection remains costly, difficult to repeat, and strongly dependent on the hardware setup. We present Sensorium, an open-source Python library for recor…"
+          "title": "Stop counting tokens, start counting what ships",
+          "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+          "source": "MIT Tech Review",
+          "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes…"
         },
         {
           "title": "We urgently need to monitor AI agents’ actions in real time",
           "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
           "source": "MIT Tech Review",
           "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed pr…"
-        },
-        {
-          "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "url": "https://huggingface.co/blog/mistral-large4",
-          "source": "Hugging Face",
-          "summary": ""
         }
       ]
     },
@@ -171,40 +88,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "How “reverse game theory” could keep AI agents in check",
-          "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-          "source": "MIT Tech Review",
-          "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, …"
+          "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+          "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+          "source": "TechCrunch AI",
+          "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
         },
         {
-          "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses",
-          "url": "https://arxiv.org/abs/2610.41172",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41172v1 Announce Type: cross Abstract: Retrieval-augmented generation is becoming agentic. A search harness writes queries, reads results, reformulates, and decides when to stop. This largely solves accuracy: a harness with only BM25/grep and MiniMax M3 answers 85% …"
+          "title": "Data centers are turning to old jet engines as the wait for power grows",
+          "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+          "source": "TechCrunch AI",
+          "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
         },
         {
-          "title": "ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents",
-          "url": "https://arxiv.org/abs/2610.41272",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41272v1 Announce Type: cross Abstract: Web agents are increasingly deployed to complete tasks autonomously on real websites, where adversarially injected content can induce them to perform unauthorized actions. Existing evaluations primarily use fixed attacks or foc…"
+          "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+          "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+          "source": "TechCrunch AI",
+          "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
         },
         {
-          "title": "Transferring Peptide-Target Interaction Patterns to Small Molecules by Joint Guidance for Diffusion and Flow Matching",
-          "url": "https://arxiv.org/abs/2610.41322",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41322v1 Announce Type: cross Abstract: Generating small molecules to target protein-protein interactions (PPIs) remains one of the most challenging yet high-reward frontiers in drug discovery. Unlike traditional small-molecule drugs that bind to deep, well-defined p…"
+          "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+          "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+          "source": "TechCrunch AI",
+          "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
         },
         {
-          "title": "Pinching Antennas for ISAC: Waveguide Architectures, Solutions, and Future Directions",
-          "url": "https://arxiv.org/abs/2610.41380",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41380v1 Announce Type: cross Abstract: Integrated sensing and communication (ISAC) is a core design principle for sixth-generation (6G) wireless systems, yet fixed antenna geometry limits its performance. Pinching antenna systems (PASS) guide electromagnetic waves a…"
+          "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "source": "TechCrunch AI",
+          "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
         },
         {
-          "title": "ProSearch: Benchmarking Multi-Constraint Protocol Retrieval in Experimental Science",
-          "url": "https://arxiv.org/abs/2610.41396",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.41396v1 Announce Type: cross Abstract: In AI for Science scenarios, experimental design and method reproduction require retrieving protocols that satisfy multiple interdependent constraints, yet existing benchmarks lack systematic evaluation of this capability. To a…"
+          "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+          "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+          "source": "TechCrunch AI",
+          "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
         }
       ]
     },
@@ -212,52 +129,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "The Enterprise AI Push For Decision Models",
-          "url": "https://inc42.com/features/the-enterprise-ai-push-for-decision-models/",
-          "source": "Inc42",
-          "summary": "The AI race has largely revolved around frontier labs and models that can write, code, analyse documents and reason through…"
-        },
-        {
-          "title": "China's 'Lipstick King' touts AI tokens in first for Singles' Day festival",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-lipstick-king-touts-ai-tokens-in-first-for-singles-day-festival/articleshow/135495048.cms",
-          "source": "ET Tech",
-          "summary": "The launch is the first time AI token packages have been offered as a significant consumer product category during Singles' Day, the world's largest shopping festival originally held on November 11 each year."
-        },
-        {
-          "title": "Europe's Biggest Tech Startup Cuts AI Coding Costs by 90% Using Chinese Model",
-          "url": "https://analyticsindiamag.com/ai-news/europes-biggest-tech-startup-cuts-ai-coding-costs-by-90-using-chinese-model",
-          "source": "Analytics India Mag",
-          "summary": "\"Self-hosting GLM brings our blended cost of tokens to 30 cents per million. Our invoice is now one-tenth of what we were spending on Anthropic and OpenAI,” sai"
-        },
-        {
-          "title": "Enmovil Plans to Quadruple FDE Team as Enterprise AI Hiring Moves Beyond Coding",
-          "url": "https://analyticsindiamag.com/ai-features/enmovil-plans-to-quadruple-fde-team-as-enterprise-ai-hiring-moves-beyond-coding",
-          "source": "Analytics India Mag",
-          "summary": "Enmovil's expansion addresses the need for AI across complex supply chains, where solutions must fit unique customer workflows and operational limits."
-        },
-        {
-          "title": "E2E Networks Launches Blaze To Offer Pay-Per-Token AI Inference Services",
-          "url": "https://analyticsindiamag.com/ai-news/e2e-networks-launches-blaze-to-offer-pay-per-token-ai-inference-services",
-          "source": "Analytics India Mag",
-          "summary": "The platform provides a single API to access open AI models, including NVIDIA Nemotron, Sarvam, DeepSeek and Qwen, through NVIDIA GPU infrastructure hosted in I"
-        },
-        {
-          "title": "Oracle plans to raise $20 billion through bonds and stock sales",
-          "url": "https://economictimes.indiatimes.com/tech/startups/oracle-plans-to-raise-20-billion-through-bonds-and-stock-sales/articleshow/135490162.cms",
-          "source": "ET Tech",
-          "summary": "The company said last week that it expects capital spending to peak this fiscal year and the next as it builds more cloud-computing capacity, but pledged to raise no more than $20 billion in additional financing for AI through fiscal 2030."
-        },
-        {
-          "title": "Can India’s AI Boom Reach Bharat?",
-          "url": "https://analyticsindiamag.com/ai-features/can-indias-ai-boom-reach-bharat",
-          "source": "Analytics India Mag",
-          "summary": "The divide is visible in the difference between the resources available to urban and rural students.Can India’s AI Boom Reach Bharat? Snippet: The divide is vi"
-        },
-        {
-          "title": "Google launches Dreambeans app in India",
-          "url": "https://yourstory.com/2026/11/google-launches-dreambeans-india-today",
+          "title": "Frammer AI partners with Collective Newsroom to power BBC News video in India",
+          "url": "https://yourstory.com/2026/11/frammer-ai-partners-collective-newsroom-bbc-video-india",
           "source": "YourStory",
-          "summary": "Dreambeans is an experimental AI-powered app that creates personalised daily story collections."
+          "summary": "Frammer AI will power video workflows, including repurposing, for Collective Newsroom, which produces BBC content in India."
+        },
+        {
+          "title": "NPCI Expands Beyond Payments With AI, Blockchain-Focused Subsidiary",
+          "url": "https://inc42.com/buzz/npci-expands-beyond-payments-with-ai-blockchain-focused-subsidiary/",
+          "source": "Inc42",
+          "summary": "The National Payments Corporation of India (NPCI) has set up a wholly owned subsidiary, NPCI Tech Solutions Ltd (NTSL), to…"
+        },
+        {
+          "title": "84% See AI Productivity Gains, but Only 10% Allow Agent Autonomy: TCS Study",
+          "url": "https://analyticsindiamag.com/ai-news/84-see-ai-productivity-gains-but-only-10-allow-agent-autonomy-tcs-study",
+          "source": "Analytics India Mag",
+          "summary": "Security, governance and model dependence are emerging as major concerns for businesses, even as executives report productivity gains from AI investments."
+        },
+        {
+          "title": "Snowflake Introduces Business Ontology, Cortex AI Gateway to Bring AI Agents Into Enterprise Workflows",
+          "url": "https://analyticsindiamag.com/ai-news/snowflake-introduces-business-ontology-cortex-ai-gateway-to-bring-ai-agents-into-enterprise-workflows",
+          "source": "Analytics India Mag",
+          "summary": "The new capabilities give AI agents business context, enterprise controls and the ability to execute recurring tasks autonomously."
+        },
+        {
+          "title": "ForgeCode’s Tushar Mathur wants software development to run like a factory, not a project",
+          "url": "https://yourstory.com/2026/11/forgecodes-tushar-mathur-wants-software-development-to-run-like-a-factory-not-a-project",
+          "source": "YourStory",
+          "summary": "At TechSparks 2026, ForgeCode Founder and CEO Tushar Mathur demonstrated how AI agents can manage software development from specification to deployment, while engineers focus on supervision and decision-making."
+        },
+        {
+          "title": "AMD shares jump as AI-driven data-center strength fuels growth outlook",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amd-shares-jump-as-ai-driven-data-center-strength-fuels-growth-outlook/articleshow/135534882.cms",
+          "source": "ET Tech",
+          "summary": "AMD, which recently joined the ranks of trillion-dollar companies, has gained about 126% this year and is poised to add about $58 billion in market value if premarket gains hold. The company's strong outlook highlighted growing momentum in its server processor business, signal…"
+        },
+        {
+          "title": "70% of global business leaders report rising risk exposure amid AI, geopolitical disruptions: KPMG",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/70-of-global-business-leaders-report-rising-risk-exposure-amid-ai-geopolitical-disruptions-kpmg/articleshow/135533874.cms",
+          "source": "ET Tech",
+          "summary": "According to the report, 56% of respondents said external disruptions involving geopolitical, energy, cyber, trade or climate-related factors would cause severe operational disruptions or significantly affect their organisations' costs and performance over the next three to fi…"
+        },
+        {
+          "title": "Oracle abandons $7 billion Tencent AI deal under Trump pressure: FT",
+          "url": "https://economictimes.indiatimes.com/tech/technology/oracle-abandons-7-billion-tencent-ai-deal-under-trump-pressure-ft/articleshow/135532578.cms",
+          "source": "ET Tech",
+          "summary": "US officials approached Oracle to raise concerns about the Tencent deal, the newspaper said, citing people familiar with the matter."
         }
       ]
     }
