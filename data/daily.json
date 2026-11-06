@@ -1,114 +1,142 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "top": {
-    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "title": "Underdog shows off a 32MB speech model in new demo",
+    "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
     "source": "TechCrunch AI",
-    "published": "2026-11-05T13:00:00.000Z",
-    "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems."
+    "published": "2026-11-06T13:02:16.000Z",
+    "summary": "Despite its small size, Underdog's new model can generate both speech and music."
   },
   "topIndia": {
-    "title": "Daksham Capital raises Rs 125 Cr in first close of Rs 300 Cr fund",
-    "url": "https://yourstory.com/2026/11/daksham-capital-raises-rs-125-cr-first-close-rs-300-cr-fund",
-    "source": "YourStory",
-    "published": "2026-11-05T13:15:45.000Z",
-    "summary": "The fund will invest in startups at the pre-Series A and Series A stages, with cheque sizes ranging from Rs 5 crore to Rs 20 crore. It will focus on D2C brands, consumer enablers, B2B2C businesses, supply chains and consumer AI."
+    "title": "Meta pauses planned terms updates, keeps existing rules in place",
+    "url": "https://economictimes.indiatimes.com/tech/technology/meta-pauses-planned-terms-updates-keeps-existing-rules-in-place/articleshow/135608532.cms",
+    "source": "ET Tech",
+    "published": "2026-11-06T12:57:16.000Z",
+    "summary": "Meta has paused planned updates to its Commercial Terms, Product Catalog Terms, Self-Serve Ad Terms and Ad Creative Generative AI Terms, meaning the changes will not take"
   },
   "headlines": [
     {
-      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
       "source": "TechCrunch AI",
-      "published": "2026-11-05T12:00:00.000Z"
+      "published": "2026-11-06T13:00:00.000Z"
     },
     {
-      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
-      "url": "https://arxiv.org/abs/2611.05390",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-05T05:00:00.000Z"
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-06T10:00:00.000Z"
     },
     {
-      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
-      "url": "https://arxiv.org/abs/2611.05391",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-05T05:00:00.000Z"
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-06T06:28:32.000Z"
     },
     {
-      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
-      "url": "https://arxiv.org/abs/2611.05392",
+      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+      "url": "https://arxiv.org/abs/2611.06962",
       "source": "arXiv cs.AI",
-      "published": "2026-11-05T05:00:00.000Z"
+      "published": "2026-11-06T05:00:00.000Z"
     },
     {
-      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
-      "url": "https://arxiv.org/abs/2611.05393",
+      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+      "url": "https://arxiv.org/abs/2611.06972",
       "source": "arXiv cs.AI",
-      "published": "2026-11-05T05:00:00.000Z"
+      "published": "2026-11-06T05:00:00.000Z"
     },
     {
-      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
-      "url": "https://arxiv.org/abs/2611.05394",
+      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+      "url": "https://arxiv.org/abs/2611.06977",
       "source": "arXiv cs.AI",
-      "published": "2026-11-05T05:00:00.000Z"
+      "published": "2026-11-06T05:00:00.000Z"
     },
     {
-      "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
-      "url": "https://arxiv.org/abs/2611.05450",
+      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+      "url": "https://arxiv.org/abs/2611.06984",
       "source": "arXiv cs.AI",
-      "published": "2026-11-05T05:00:00.000Z"
+      "published": "2026-11-06T05:00:00.000Z"
     },
     {
-      "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
-      "url": "https://arxiv.org/abs/2611.05459",
+      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+      "url": "https://arxiv.org/abs/2611.06989",
       "source": "arXiv cs.AI",
-      "published": "2026-11-05T05:00:00.000Z"
+      "published": "2026-11-06T05:00:00.000Z"
     },
     {
-      "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
-      "url": "https://arxiv.org/abs/2611.05512",
+      "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+      "url": "https://arxiv.org/abs/2611.06995",
       "source": "arXiv cs.AI",
-      "published": "2026-11-05T05:00:00.000Z"
+      "published": "2026-11-06T05:00:00.000Z"
     },
     {
-      "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
-      "url": "https://arxiv.org/abs/2611.05524",
+      "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
+      "url": "https://arxiv.org/abs/2611.06996",
       "source": "arXiv cs.AI",
-      "published": "2026-11-05T05:00:00.000Z"
+      "published": "2026-11-06T05:00:00.000Z"
     },
     {
-      "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
-      "url": "https://arxiv.org/abs/2611.05542",
+      "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
+      "url": "https://arxiv.org/abs/2611.07048",
       "source": "arXiv cs.AI",
-      "published": "2026-11-05T05:00:00.000Z"
+      "published": "2026-11-06T05:00:00.000Z"
     },
     {
-      "title": "Iterated creation, grading, and revision of data science projects by language models",
-      "url": "https://arxiv.org/abs/2611.05548",
+      "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
+      "url": "https://arxiv.org/abs/2611.07051",
       "source": "arXiv cs.AI",
-      "published": "2026-11-05T05:00:00.000Z"
+      "published": "2026-11-06T05:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+      "url": "https://arxiv.org/abs/2611.08428",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-06T05:00:00.000Z",
+      "summary": "arXiv:2611.08428v1 Announce Type: new Abstract: Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explor…"
+    },
+    {
+      "title": "FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning",
+      "url": "https://arxiv.org/abs/2611.08383",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-06T05:00:00.000Z",
+      "summary": "arXiv:2611.08383v1 Announce Type: cross Abstract: Federated learning servers combine client models with a fixed aggregation rule, and each rule in common use is designed for one kind of heterogeneity. We study whether a large language model (LLM) that inspects the client model…"
+    },
+    {
+      "title": "Does Explanation Correctness Matter? Linking Computational XAI Evaluation to Human Understanding",
+      "url": "https://arxiv.org/abs/2603.25251",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-06T05:00:00.000Z",
+      "summary": "arXiv:2603.25251v4 Announce Type: replace-cross Abstract: Explainable AI (XAI) methods are commonly evaluated using functional correctness metrics, also called faithfulness or fidelity, which estimate how closely an explanation reflects the model's reasoning. Higher correctnes…"
+    },
+    {
+      "title": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating/articleshow/135591045.cms",
+      "source": "ET Tech",
+      "published": "2026-11-06T02:43:29.000Z",
+      "summary": "OpenAI released GPT-6 Cyber, a model built to find and exploit security flaws, to a small group of vetted customers on Thursday, rating it \"Critical\" in cybersecurity under its safety framework."
+    },
+    {
+      "title": "Anthropic may need to cut IPO ambitions as investors balk: report",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-may-need-to-cut-ipo-ambitions-as-investors-balk-report/articleshow/135590866.cms",
+      "source": "ET Tech",
+      "published": "2026-11-06T02:34:40.000Z",
+      "summary": "Anthropic may have to accept a lower valuation than the $1.5 trillion it had been targeting for its stock market debut, after a sharp tech sell-off spooked key investors, the Wall Street Journal reported Thursday. The listing comes amid growing nervousness among investors abou…"
+    },
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-05T19:48:28.000Z",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
+    },
     {
       "title": "Google unveils $15 billion data centre investment in Malaysia",
       "url": "https://economictimes.indiatimes.com/tech/technology/google-unveils-15-billion-data-centre-investment-in-malaysia/articleshow/135559941.cms",
       "source": "ET Tech",
       "published": "2026-11-05T05:12:59.000Z",
       "summary": "Google announced plans on Wednesday to invest $15 billion in Malaysia over the next two years to build data centres and other infrastructure as demand booms for artificial intelligence services. It said the $15 billion investment will be made \"over the next two years (2027 to …"
-    },
-    {
-      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
-      "url": "https://arxiv.org/abs/2611.05393",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-05T05:00:00.000Z",
-      "summary": "arXiv:2611.05393v1 Announce Type: new Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing syst…"
-    },
-    {
-      "title": "Does Explanation Correctness Matter? Linking Computational XAI Evaluation to Human Understanding",
-      "url": "https://arxiv.org/abs/2603.25251",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-05T05:00:00.000Z",
-      "summary": "arXiv:2603.25251v3 Announce Type: replace-cross Abstract: Explainable AI (XAI) methods are commonly evaluated using functional correctness metrics, also called faithfulness or fidelity, which estimate how closely an explanation reflects the model's reasoning. Higher correctnes…"
     },
     {
       "title": "Google will cut off search access for students at schools that reject AI",

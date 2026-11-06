@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-10-30 to 2026-11-05",
-  "generated": "2026-11-05T13:40:58.148Z",
-  "intro": "467 AI items this week (73 India-relevant) across 10 sources.",
+  "weekOf": "2026-10-31 to 2026-11-06",
+  "generated": "2026-11-06T13:24:57.505Z",
+  "intro": "475 AI items this week (76 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
-          "url": "https://arxiv.org/abs/2611.05390",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decisions that were already correct. We study this as a problem of institutional j…"
+          "title": "Underdog shows off a 32MB speech model in new demo",
+          "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+          "source": "TechCrunch AI",
+          "summary": "Despite its small size, Underdog's new model can generate both speech and music."
         },
         {
-          "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
-          "url": "https://arxiv.org/abs/2611.05393",
+          "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+          "url": "https://arxiv.org/abs/2611.06977",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05393v1 Announce Type: new Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing syst…"
+          "summary": "arXiv:2611.06977v1 Announce Type: new Abstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Existing solutions pay for this in different ways: batch-invariant kernels constrain every operator, and i…"
         },
         {
-          "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
-          "url": "https://arxiv.org/abs/2611.05394",
+          "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+          "url": "https://arxiv.org/abs/2611.06989",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05394v1 Announce Type: new Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is increasingly offered as the route to cheaper, lower-latency, and more private…"
+          "summary": "arXiv:2611.06989v1 Announce Type: new Abstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestration harnesses, and systems of record. Finance receives AI cost only at settlement grain, aggregated by …"
         },
         {
-          "title": "Iterated creation, grading, and revision of data science projects by language models",
-          "url": "https://arxiv.org/abs/2611.05548",
+          "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
+          "url": "https://arxiv.org/abs/2611.06996",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05548v1 Announce Type: new Abstract: We evaluate the extent to which agentic AI models can complete an end-to-end data science project, and how this improves with feedback. A 'writer' model with specific tools creates a complete data science project including downlo…"
+          "summary": "arXiv:2611.06996v1 Announce Type: new Abstract: The policy that converts runtime estimates of an autonomous agent's condition into operational authority is rarely specified or measured. We empirically characterize the Trust Responsive Authorization Policy (TRAP), which maps an…"
         },
         {
-          "title": "AGORA: Reliability-Aware Aggregation of LLM Judges via Item-Response Theory",
-          "url": "https://arxiv.org/abs/2611.05556",
+          "title": "When Verification Is Not Agreement: Cross-Agent LLM-to-Dafny Formalization",
+          "url": "https://arxiv.org/abs/2611.07073",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05556v1 Announce Type: new Abstract: LLM-as-a-judge is a common substitute for costly human evaluation, and aggregating several judges is the standard remedy for any single judge's bias. Judge pools mix judges of very different reliability, while the human-labeled s…"
+          "summary": "arXiv:2611.07073v1 Announce Type: new Abstract: A verified Dafny postcondition certifies that a formula holds, but it does not guarantee that the result was reached through genuine independent reasoning. We introduce a cross-agent formalization protocol where a Specifier model…"
         },
         {
-          "title": "Verified but Vacuous: Three Failure Surfaces of LLM-Driven Verified Code Generation",
-          "url": "https://arxiv.org/abs/2611.05590",
+          "title": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
+          "url": "https://arxiv.org/abs/2611.07123",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05590v1 Announce Type: new Abstract: What should ``verified'' mean when evaluating LLM-generated code? Many existing pipelines report a single verification number. We argue this collapses three distinct properties measured in a conditional audit sequence: verifier a…"
+          "summary": "arXiv:2611.07123v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as automated judges for evaluating the behavior of chatbots and other AI systems. In deployment, however, their agreement with the intended human evaluation policy may degrade as…"
         }
       ]
     },
@@ -48,40 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
-          "url": "https://arxiv.org/abs/2611.05524",
+          "title": "CST-Bench: Benchmarking Counterfactual Spatial Transition Reasoning with Causal Transition On-Policy Self-Distillation",
+          "url": "https://arxiv.org/abs/2611.07541",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05524v1 Announce Type: new Abstract: We propose MA-SafeDiffuser, a multi-agent extension of SafeDiffuser that equips diffusion-based trajectory planners with finite-time diffusion invariance guarantees for joint-agent safety specifications. Building on the single-ag…"
+          "summary": "arXiv:2611.07541v1 Announce Type: new Abstract: Spatial reasoning is a fundamental capability of multimodal large language models (MLLMs), yet existing benchmarks mainly focus on static scene understanding. When objects are moved or swapped, models must infer not only spatial …"
         },
         {
-          "title": "BrainBind: Bridging Synchronized EEG and fMRI through Long-Form Naturalistic Video Representations",
-          "url": "https://arxiv.org/abs/2611.05581",
+          "title": "A Generative Foundation Model for Multimodal Tokamak Tasks",
+          "url": "https://arxiv.org/abs/2611.08153",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05581v1 Announce Type: new Abstract: Real-world vision is dynamic and scene-rich, while EEG and fMRI resolve it at complementary temporal and spatial scales. Most neural decoding systems, however, align one modality in isolation and mostly against static images or s…"
+          "summary": "arXiv:2611.08153v1 Announce Type: new Abstract: Tokamak experiments record diverse measurements, including waveforms, profiles, fields, and scalars, which are used to reconstruct the plasma, forecast its evolution, recover associated control signals, and estimate disruption ri…"
         },
         {
-          "title": "How Do Artificial Agents Make Decisions in Light of Visual Data?",
-          "url": "https://arxiv.org/abs/2611.05671",
+          "title": "The Geometry of Simulated Perspectives: Dissociating Representation and Behaviour in a Multimodal Language Model",
+          "url": "https://arxiv.org/abs/2611.08262",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05671v1 Announce Type: new Abstract: Vision-language models (VLMs) have demonstrated significant advances in reasoning with visual data, which is particularly important given that much of human knowledge is encoded visually in scientific articles and other sources. …"
+          "summary": "arXiv:2611.08262v1 Announce Type: new Abstract: Multimodal language models can simulate different observers, yet it remains unclear how assigned perspectives reshape their internal representations and whether these changes govern their judgements. Here, we investigate the repr…"
         },
         {
-          "title": "Vision Paper: Why Distributed LLM Post-Training and Decentralized Alignment Are Now Essential",
-          "url": "https://arxiv.org/abs/2611.05841",
+          "title": "RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines",
+          "url": "https://arxiv.org/abs/2611.08308",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05841v1 Announce Type: new Abstract: This vision paper argues that distributed learning, including federated and decentralized, should become a first-class paradigm in LLM post-training, not merely a privacy add-on. Current methods like RLHF and DPO rest on an invis…"
+          "summary": "arXiv:2611.08308v1 Announce Type: new Abstract: Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functions as automata, RMs expose t…"
         },
         {
-          "title": "Risk Control Certifies Rates, Not Magnitudes: An Audit of Selective Fetal Biometry",
-          "url": "https://arxiv.org/abs/2611.05851",
+          "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+          "url": "https://arxiv.org/abs/2611.08369",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05851v1 Announce Type: new Abstract: Prenatal ultrasound biometry must return a head circumference (HC) and refuse when the image cannot support one. Selective prediction trades coverage against error, but its finite-sample guarantees bound the rate of gross errors,…"
+          "summary": "arXiv:2611.08369v1 Announce Type: new Abstract: Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal less about whether a model can in…"
         },
         {
-          "title": "RECAP: Context-Aware Prediction Recycling with Request-Local and Persistent Memories for Multimodal Speculative Decoding",
-          "url": "https://arxiv.org/abs/2611.05894",
+          "title": "Learning Noise Optimization for Reward Alignment in Few-Step Generative Models",
+          "url": "https://arxiv.org/abs/2611.06255",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05894v1 Announce Type: new Abstract: Recycling a target model's own predictions offers a training-free source of proposals for speculative decoding. In vision-language models, however, existing recycling indexes predictions by the last token alone, conflating predic…"
+          "summary": "arXiv:2611.06255v1 Announce Type: cross Abstract: Reward alignment for diffusion- and flow-based generative models is often formulated over stochastic trajectories, making it less suitable for few-step deterministic generators. Initial noise optimization provides a trajectory-…"
         }
       ]
     },
@@ -89,40 +89,40 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
-          "url": "https://arxiv.org/abs/2611.05391",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05391v1 Announce Type: new Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of use. Execution harnesses often possess this information through monitors, trace…"
+          "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+          "source": "TechCrunch AI",
+          "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
         },
         {
-          "title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building",
-          "url": "https://arxiv.org/abs/2611.05620",
+          "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
+          "url": "https://arxiv.org/abs/2611.07048",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05620v1 Announce Type: new Abstract: On Replit, our agentic engineering platform, users now build entire products without writing code, through successive feature requests to an agent. Yet existing coding benchmarks evaluate single, fully specified tasks, and many a…"
+          "summary": "arXiv:2611.07048v1 Announce Type: new Abstract: Evolution has shaped intelligence for billions of years. Artificial intelligence (AI) now raises a striking possibility: intelligence may begin to direct its own evolution. As AI agents become capable of modifying and evaluating …"
         },
         {
-          "title": "Attributing Agent Failures to Their History Needs an Executed Counterfactual: Toward a Reporting Standard",
-          "url": "https://arxiv.org/abs/2611.05650",
+          "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
+          "url": "https://arxiv.org/abs/2611.07051",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05650v1 Announce Type: new Abstract: Published explanations of why long-horizon agents fail are commonly taxonomies labeled over completed trajectories: a judge reads a transcript and names the failure. We argue that a claim attributing an agent's behavior to its hi…"
+          "summary": "arXiv:2611.07051v1 Announce Type: new Abstract: Once an agent is live, teams want to know whether it is doing its job, not just whether it throws errors. Yet most evaluation is one-off: a benchmark run, a look at traces, a single score. Its conclusions neither check themselves…"
         },
         {
-          "title": "Grounded but Not Immune: Confirmation Bias in Agent-as-a-judge",
-          "url": "https://arxiv.org/abs/2611.05662",
+          "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
+          "url": "https://arxiv.org/abs/2611.07066",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05662v1 Announce Type: new Abstract: Evaluating open-ended agent tasks increasingly falls to an Agent-as-a-Judge: an evaluator handed tools and the agent's full trajectory so it can verify a result against the environment. The premise is that a judge that gathers it…"
+          "summary": "arXiv:2611.07066v1 Announce Type: new Abstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, which hinders the emergence of coordinated behaviors from trial-and-er…"
         },
         {
-          "title": "From Type to Token: Petri Nets, Individual Token Philosophy, and Individualized Causal Effects",
-          "url": "https://arxiv.org/abs/2611.05703",
+          "title": "EnvOpt: Automated Optimization for Agent Environments",
+          "url": "https://arxiv.org/abs/2611.07372",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05703v1 Announce Type: new Abstract: Structural Causal Models and Bayesian Networks are the dominant framework for representing causal relations. They are fundamentally type-level formalisms since their estimands, Average Treatment Effects and Conditional Average Tr…"
+          "summary": "arXiv:2611.07372v1 Announce Type: new Abstract: An LLM agent's cost and success depend on its model, its harness, and its environment. In addition to the widely studied directions of parameter tuning and harness optimization, we propose the third direction: optimization over s…"
         },
         {
-          "title": "Agents, Think Only When it Helps",
-          "url": "https://arxiv.org/abs/2611.05709",
+          "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
+          "url": "https://arxiv.org/abs/2611.07464",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05709v1 Announce Type: new Abstract: LLM agent distillation transfers agentic capabilities to student models by training on complete teacher trajectories that typically interleave thoughts and actions. We question how critical thought supervision is for agents' ulti…"
+          "summary": "arXiv:2611.07464v1 Announce Type: new Abstract: Language agents increasingly work for users on the open Web, and finance is where trusting them is hardest. The data must come from the Web, the strategy lives in the user's head, and correctness depends on time, so an agent can …"
         }
       ]
     },
@@ -130,40 +130,22 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "Hallucination Is Linearly Decodable from Mid-Layer Hidden States in Quantized LLMs",
-          "url": "https://arxiv.org/abs/2606.02628",
+          "title": "ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering",
+          "url": "https://arxiv.org/abs/2611.07947",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2606.02628v1 Announce Type: cross Abstract: We investigate whether open-source LLMs encode a linearly separable truthfulness signal in their hidden states, and at which network depth this signal is strongest. Across three $7$B--$8$B instruction-tuned models (Llama-3.1-8B…"
+          "summary": "arXiv:2611.07947v1 Announce Type: new Abstract: ChemE-as-Code provides an open-source environment in which AI agents built on large language models (LLMs) can carry out chemical engineering work and engineers can check it. Its calculation tools range from catalysis through pro…"
         },
         {
-          "title": "AssameseLM-E2B: An Open-Weight Assamese Language Model for Efficient Consumer-Grade Deployment",
-          "url": "https://arxiv.org/abs/2611.06170",
+          "title": "Instruction-Tuning Large Language Models with Medical Classification Data Improves ICD Coding of German Tumor Diagnoses",
+          "url": "https://arxiv.org/abs/2510.13624",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.06170v1 Announce Type: cross Abstract: While Large Language Models (LLMs) excel in high-resource languages, their performance often degrades in low-resource languages due to tokenization inefficiencies, generative instability, and linguistic interference. This paper…"
+          "summary": "arXiv:2510.13624v2 Announce Type: replace-cross Abstract: Accurate coding of tumor diagnoses with ICD-10-GM and ICD-O-3 is essential for structured cancer documentation in Germany. Smaller open-weight LLMs are appealing for privacy-preserving automation but often struggle with…"
         },
         {
-          "title": "CivBench: A Long-Horizon Benchmark for Tool-Mediated Agents in Civilization VI",
-          "url": "https://arxiv.org/abs/2609.02459",
+          "title": "AnchorRep: Defending LLMs Against Cross-Model Adversarial Transfer via Representation Repulsion",
+          "url": "https://arxiv.org/abs/2609.32602",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2609.02459v2 Announce Type: replace Abstract: We present CivBench, an open-source benchmark for evaluating language model agents in long-horizon, tool-mediated environments through the Model Context Protocol (MCP). A single episode can span over 300 turns and produces th…"
-        },
-        {
-          "title": "VCoT-SQL: Enhancing Text-to-SQL Generation through Dual Chain-of-Thought Validation Training",
-          "url": "https://arxiv.org/abs/2611.00815",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.00815v2 Announce Type: replace Abstract: Open-source LLMs provide a flexible alternative to closed-source models for Text-to-SQL but still struggle with complex queries. Finetuning with chain-of-thought (CoT) data improves reasoning, yet standard datasets lack CoT a…"
-        },
-        {
-          "title": "Open source AI is booming. Hugging Face explains who profits.",
-          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-          "source": "TechCrunch AI",
-          "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chin…"
-        },
-        {
-          "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-          "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-          "source": "TechCrunch AI",
-          "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chin…"
+          "summary": "arXiv:2609.32602v2 Announce Type: replace-cross Abstract: Adversarial attacks optimized on a single open-weight LLM can transfer to and jailbreak architecturally different models, allowing an attacker with white-box access to one model to compromise independently deployed syst…"
         }
       ]
     },
@@ -171,40 +153,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-          "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+          "title": "Physicl raises $10M to make the digital world real enough for robots",
+          "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
           "source": "TechCrunch AI",
-          "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems."
+          "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
         },
         {
-          "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-          "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-          "source": "TechCrunch AI",
-          "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company."
+          "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "source": "MIT Tech Review",
+          "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately sig…"
         },
         {
-          "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
-          "url": "https://arxiv.org/abs/2611.05392",
+          "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+          "url": "https://arxiv.org/abs/2611.06962",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05392v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke tools, integrate observations into memory, and iterate until a task is resolv…"
+          "summary": "arXiv:2611.06962v1 Announce Type: new Abstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap. We describe AutoIP, a Lean library in which classical linear regularization theory, together …"
         },
         {
-          "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
-          "url": "https://arxiv.org/abs/2611.05450",
+          "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+          "url": "https://arxiv.org/abs/2611.06972",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05450v1 Announce Type: new Abstract: As agents become more capable, they are moving beyond one-off tasks toward sustained assistance across successive user goals. Such assistance requires agents to discover how unfamiliar environments work, reuse what they learn acr…"
+          "summary": "arXiv:2611.06972v1 Announce Type: new Abstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific skills to determine whether a party should bear liability. While Large Language Models (LLMs) have shown…"
         },
         {
-          "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
-          "url": "https://arxiv.org/abs/2611.05459",
+          "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+          "url": "https://arxiv.org/abs/2611.06984",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05459v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: fin…"
+          "summary": "arXiv:2611.06984v1 Announce Type: new Abstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned resp…"
         },
         {
-          "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
-          "url": "https://arxiv.org/abs/2611.05512",
+          "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+          "url": "https://arxiv.org/abs/2611.06995",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.05512v1 Announce Type: new Abstract: AI Agents are becoming digital coworkers that can browse the web, write code, run experiments, and assist humans over extended horizons. Yet existing benchmarks fall short of real knowledge work: many rely on synthetic data or is…"
+          "summary": "arXiv:2611.06995v1 Announce Type: new Abstract: Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand these proofs requires new attention to the differences in how AI agents and humans pursue a proof-making task. We pr…"
         }
       ]
     },
@@ -212,52 +194,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Daksham Capital raises Rs 125 Cr in first close of Rs 300 Cr fund",
-          "url": "https://yourstory.com/2026/11/daksham-capital-raises-rs-125-cr-first-close-rs-300-cr-fund",
-          "source": "YourStory",
-          "summary": "The fund will invest in startups at the pre-Series A and Series A stages, with cheque sizes ranging from Rs 5 crore to Rs 20 crore. It will focus on D2C brands, consumer enablers, B2B2C businesses, supply chains and consumer AI."
-        },
-        {
-          "title": "GCCs ramp up hiring for AI, data, cybersecurity professionals; face talent shortage: Report",
-          "url": "https://economictimes.indiatimes.com/tech/information-tech/gccs-ramp-up-hiring-for-ai-data-cybersecurity-professionals-face-talent-shortage-report/articleshow/135575072.cms",
+          "title": "Meta pauses planned terms updates, keeps existing rules in place",
+          "url": "https://economictimes.indiatimes.com/tech/technology/meta-pauses-planned-terms-updates-keeps-existing-rules-in-place/articleshow/135608532.cms",
           "source": "ET Tech",
-          "summary": "India's GCCs are directing a greater share of technology recruitment towards specialists who can deploy AI, manage data and secure enterprise systems, according to the India GCC Tech Talent Landscape - Q2 FY27 Report by staffing and workforce solutions provider Quess Corp."
+          "summary": "Meta has paused planned updates to its Commercial Terms, Product Catalog Terms, Self-Serve Ad Terms and Ad Creative Generative AI Terms, meaning the changes will not take"
         },
         {
-          "title": "Amagi Q2 net profit jumps to Rs 75 Cr; revenue rises 27%",
-          "url": "https://yourstory.com/2026/11/amagi-q2-net-profit-jumps-rs-75-cr-revenue-rises-27-percent",
+          "title": "AI’s ability to find cyber flaws outpacing firms’ capacity to fix them: Palo Alto Networks' Nikesh Arora",
+          "url": "https://yourstory.com/2026/11/ai-cyber-flaws-outpacing-firms-capacity-to-fix-palo-alto-networks-nikesh-arora",
           "source": "YourStory",
-          "summary": "Amagi's revenue grew 27% year-on-year to Rs 475.82 crore. The SaaS company also launched four AI products during the quarter and plans to make selective investments while focusing on improving operating leverage and cash conversion."
+          "summary": "Nikesh Arora, Chairman and CEO of Palo Alto Networks, has called for faster and more collaborative approaches to vulnerability management."
         },
         {
-          "title": "How Pine Labs is building for the agent economy: CTO Sanjeev Kumar on trust, control and execution",
-          "url": "https://yourstory.com/2026/11/how-pine-labs-is-building-for-the-agent-economy-cto-sanjeev-kumar-on-trust-control-and-execution",
+          "title": "Smaller Language Models Could Reshape How Enterprises Deploy AI",
+          "url": "https://analyticsindiamag.com/ai-features/smaller-language-models-could-reshape-how-enterprises-deploy-ai",
+          "source": "Analytics India Mag",
+          "summary": "As enterprises explore smaller language models for specialised tasks, developers see opportunities for tighter evaluation and control. But smaller models still"
+        },
+        {
+          "title": "VeloDB’s Nitin Waghulde on why AI agents break down after the demo",
+          "url": "https://yourstory.com/2026/11/velodbs-nitin-waghulde-on-why-ai-agents-break-down-after-the-demo",
           "source": "YourStory",
-          "summary": "At TechSparks 2026, Pine Labs Chief Technology Officer, Sanjeev Kumar showcased how developers, merchants, and teams can put AI agents to work, backed by controls that keep them accountable."
+          "summary": "At TechSparks 2026, VeloDB’s Regional Director for APAC explained why AI agents that work in pilots struggle in production, and why the fix often lies in the database underneath them."
         },
         {
-          "title": "Why AI’s biggest challenge lies beneath the model",
-          "url": "https://yourstory.com/2026/11/why-ai-biggest-challenge-lies-beneath-model",
-          "source": "YourStory",
-          "summary": "At TechSparks 2026, Michael Cronin of Couchbase explained why fragmented data infrastructure remains a major barrier to enterprise AI adoption and why companies need to fix their data systems before scaling AI applications."
-        },
-        {
-          "title": "Sarvam’s Prism Enters India’s Growing AI Decision Model Race",
-          "url": "https://inc42.com/features/sarvams-prism-enters-indias-growing-ai-decision-model-race/",
+          "title": "MDR And AI: Inside The Two Acronyms That Could Shape Razorpay’s ₹6,000 Cr IPO",
+          "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
           "source": "Inc42",
-          "summary": "AI models are increasingly being built to do more than answer questions. Some are now designed to make specific decisions,…"
+          "summary": "In March this year, on the sidelines of Razorpay’s annual flagship event FTX, CEO Harshil Mathur told Inc42 that what…"
         },
         {
-          "title": "DevSparks 2026 heads to Delhi to explore agentic AI and the future of software development",
-          "url": "https://yourstory.com/2026/10/devsparks-2026-delhi-ncr-agentic-ai-developer-summit",
+          "title": "When code is cheap, trust is not: Inside the AI-era engineering roundtable",
+          "url": "https://yourstory.com/2026/11/when-code-is-cheap-trust-is-not-inside-the-ai-era-engineering-roundtable",
           "source": "YourStory",
-          "summary": "YourStory’s flagship developer summit makes its Delhi NCR debut on December 5, bringing together developers, technology leaders, startups, and enterprises for hands-on sessions on AI, cloud infrastructure, cybersecurity, and emerging technologies."
+          "summary": "In a closed-door roundtable, leaders from logistics, healthcare, telecom, fintech, and e-commerce discussed where to automate, where to keep humans in charge, and why observability can no longer be an afterthought."
         },
         {
-          "title": "India flags Chinese-linked AI tools in hacking campaign against financial firms",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-flags-chinese-linked-ai-tools-in-hacking-campaign-against-financial-firms/articleshow/135566096.cms",
-          "source": "ET Tech",
-          "summary": "India's cybersecurity agency named the hacking group behind a wave of AI-driven attacks on financial firms and identified its tools, at least two of them linked to China, adding India to a growing list of countries where"
+          "title": "Cashfree Launches ‘Checkout For Agents’ To Enable AI-Led Payments",
+          "url": "https://inc42.com/buzz/cashfree-launches-checkout-for-agents-to-enable-ai-led-payments/",
+          "source": "Inc42",
+          "summary": "Fintech soonicorn Cashfree Payments has launched ‘Checkout for Agents’, a new tool that enables AI agents to process customer payments…"
+        },
+        {
+          "title": "TCSExam: Evaluating Frontier LLMs on the Full Range of TCS Research",
+          "url": "https://arxiv.org/abs/2611.07962",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.07962v1 Announce Type: new Abstract: Can large language models (LLMs) advance theoretical computer science and resolve its long-standing open conjectures? To study progress toward this goal, we introduce TCSExam, a unified framework and benchmark covering the full r…"
         }
       ]
     }
@@ -389,11 +371,11 @@
     "devto": "https://dev.to/ace2504",
     "repos": [
       {
-        "name": "PROXY_SERVER",
-        "desc": "",
-        "url": "https://github.com/Ace-2504/PROXY_SERVER",
+        "name": "agentic-systems-engineering",
+        "desc": "AI agents on top of the systems companies already run: human approval for every entry, bank-confirmed payments, guardrails, and designs for legacy systems with no API. All data fictional.",
+        "url": "https://github.com/Ace-2504/agentic-systems-engineering",
         "stars": 0,
-        "language": "C++"
+        "language": "Jupyter Notebook"
       },
       {
         "name": "ai-weekly-report",
@@ -401,6 +383,13 @@
         "url": "https://github.com/Ace-2504/ai-weekly-report",
         "stars": 0,
         "language": "HTML"
+      },
+      {
+        "name": "PROXY_SERVER",
+        "desc": "",
+        "url": "https://github.com/Ace-2504/PROXY_SERVER",
+        "stars": 0,
+        "language": "C++"
       },
       {
         "name": "serenity",
@@ -420,13 +409,6 @@
         "name": "slm-arena-15",
         "desc": "15-model SLM arena — side-by-side demo across the 125M/500M/Gemma family (base/QA-SFT/RAFT/DPO/RLAIF).",
         "url": "https://github.com/Ace-2504/slm-arena-15",
-        "stars": 0,
-        "language": "TypeScript"
-      },
-      {
-        "name": "slm-arena-13",
-        "desc": "13-model SLM arena — side-by-side demo across the 125M/500M/Gemma family.",
-        "url": "https://github.com/Ace-2504/slm-arena-13",
         "stars": 0,
         "language": "TypeScript"
       }
