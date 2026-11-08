@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-11-01 to 2026-11-07",
-  "generated": "2026-11-07T12:03:31.942Z",
-  "intro": "110 AI items this week (71 India-relevant) across 9 sources.",
+  "weekOf": "2026-11-02 to 2026-11-08",
+  "generated": "2026-11-08T12:23:57.496Z",
+  "intro": "78 AI items this week (39 India-relevant) across 8 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -95,22 +95,34 @@
           "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
         },
         {
-          "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-          "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-          "source": "TechCrunch AI",
-          "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents."
-        },
-        {
           "title": "Securing the agentic enterprise with data lineage",
           "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
           "source": "MIT Tech Review",
           "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal…"
+        },
+        {
+          "title": "Raising the quality of insights in agentic analytics",
+          "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+          "source": "MIT Tech Review",
+          "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there i…"
         }
       ]
     },
     {
       "heading": "Industry & Research",
       "items": [
+        {
+          "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+          "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+          "source": "TechCrunch AI",
+          "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
+        },
+        {
+          "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+          "source": "TechCrunch AI",
+          "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+        },
         {
           "title": "Crusoe sells troubled Wyoming data center project to Google",
           "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -134,24 +146,18 @@
           "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
           "source": "TechCrunch AI",
           "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And ev…"
-        },
-        {
-          "title": "After the midterms, is the AI industry in for a rough two years?",
-          "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-          "source": "TechCrunch AI",
-          "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And ev…"
-        },
-        {
-          "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-          "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-          "source": "TechCrunch AI",
-          "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
         }
       ]
     },
     {
       "heading": "India & Subcontinent",
       "items": [
+        {
+          "title": "Workflow, AI, health: test your business creativity with Edition 257 of our weekly quiz!",
+          "url": "https://yourstory.com/2026/11/workflow-ai-health-business-creativity-quiz-entrepreneur-education",
+          "source": "YourStory",
+          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 256th quiz. Ready?"
+        },
         {
           "title": "VibeCode30 2026: The 30 AI-built products to watch from India",
           "url": "https://yourstory.com/2026/11/vibecode30-2026-30-ai-built-products-india-new-builders",
@@ -187,12 +193,6 @@
           "url": "https://yourstory.com/2026/11/ai-cyber-flaws-outpacing-firms-capacity-to-fix-palo-alto-networks-nikesh-arora",
           "source": "YourStory",
           "summary": "Nikesh Arora, Chairman and CEO of Palo Alto Networks, has called for faster and more collaborative approaches to vulnerability management."
-        },
-        {
-          "title": "Smaller Language Models Could Reshape How Enterprises Deploy AI",
-          "url": "https://analyticsindiamag.com/ai-features/smaller-language-models-could-reshape-how-enterprises-deploy-ai",
-          "source": "Analytics India Mag",
-          "summary": "As enterprises explore smaller language models for specialised tasks, developers see opportunities for tighter evaluation and control. But smaller models still"
         },
         {
           "title": "VeloDB’s Nitin Waghulde on why AI agents break down after the demo",
