@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-11-02 to 2026-11-08",
-  "generated": "2026-11-08T12:23:57.496Z",
-  "intro": "78 AI items this week (39 India-relevant) across 8 sources.",
+  "weekOf": "2026-11-03 to 2026-11-09",
+  "generated": "2026-11-09T14:38:56.044Z",
+  "intro": "112 AI items this week (73 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -17,12 +17,6 @@
           "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
           "source": "TechCrunch AI",
           "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
-        },
-        {
-          "title": "Claude can now analyze your spending with its new Personal Finance tool",
-          "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-          "source": "TechCrunch AI",
-          "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances."
         },
         {
           "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -58,18 +52,18 @@
           "url": "https://huggingface.co/blog/phonon-tts",
           "source": "Hugging Face",
           "summary": ""
-        },
-        {
-          "title": "The agentic web is here",
-          "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-          "source": "MIT Tech Review",
-          "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be naviga…"
         }
       ]
     },
     {
       "heading": "Developer Tools & Agents",
       "items": [
+        {
+          "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+          "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+          "source": "TechCrunch AI",
+          "summary": "Automattic aims to compete with likes of Lovable with Spacefast"
+        },
         {
           "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
           "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
@@ -99,18 +93,36 @@
           "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
           "source": "MIT Tech Review",
           "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal…"
-        },
-        {
-          "title": "Raising the quality of insights in agentic analytics",
-          "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-          "source": "MIT Tech Review",
-          "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there i…"
         }
       ]
     },
     {
       "heading": "Industry & Research",
       "items": [
+        {
+          "title": "Innovating with AI in the special chemicals industry",
+          "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+          "source": "MIT Tech Review",
+          "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For special…"
+        },
+        {
+          "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "source": "Hugging Face",
+          "summary": ""
+        },
+        {
+          "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+          "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
+        },
+        {
+          "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+          "source": "TechCrunch AI",
+          "summary": "In a memo to the company, Huang admitted that he had an affair."
+        },
         {
           "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
           "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
@@ -122,30 +134,6 @@
           "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
           "source": "TechCrunch AI",
           "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
-        },
-        {
-          "title": "Crusoe sells troubled Wyoming data center project to Google",
-          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-          "source": "TechCrunch AI",
-          "summary": "The deal highlights the challenges of developing massive AI data centers."
-        },
-        {
-          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-          "source": "TechCrunch AI",
-          "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
-        },
-        {
-          "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-          "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-          "source": "Ars Technica",
-          "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch."
-        },
-        {
-          "title": "How a Blue Wave midterm might reshape the AI industry",
-          "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-          "source": "TechCrunch AI",
-          "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And ev…"
         }
       ]
     },
@@ -153,52 +141,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Workflow, AI, health: test your business creativity with Edition 257 of our weekly quiz!",
-          "url": "https://yourstory.com/2026/11/workflow-ai-health-business-creativity-quiz-entrepreneur-education",
-          "source": "YourStory",
-          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 256th quiz. Ready?"
+          "title": "Decoding BlackBuck’s Core Trucking Model And Its New Engines",
+          "url": "https://inc42.com/resources/decoding-blackbucks-core-trucking-model-and-its-new-engines/",
+          "source": "Inc42",
+          "summary": "A truck carrying goods across India spends several days or even weeks on the road, but it’s not just the…"
         },
         {
-          "title": "VibeCode30 2026: The 30 AI-built products to watch from India",
-          "url": "https://yourstory.com/2026/11/vibecode30-2026-30-ai-built-products-india-new-builders",
-          "source": "YourStory",
-          "summary": "From healthcare and education to housing, travel, and developer tools, YourStory's inaugural VibeCode30 spotlights 30 live products showing how AI is making software development accessible to a new generation of builders."
-        },
-        {
-          "title": "USDA to launch AI tool to check crop production data after errors",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/usda-to-launch-ai-tool-to-check-crop-production-data-after-errors/articleshow/135626006.cms",
+          "title": "Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops",
+          "url": "https://economictimes.indiatimes.com/tech/technology/apple-intelligence-ai-service-registers-with-chinese-regulator-for-use-on-tablets-laptops/articleshow/135682143.cms",
           "source": "ET Tech",
-          "summary": "After the USDA discovered errors in its corn data from September, officials determined the AI tool would have flagged the problem and decided to use it on the crop production report due on November 10, USDA Under Secretary Scott Hutchins said in an interview."
+          "summary": "The cyberspace regulator in China's Shanghai said on Monday that Apple's generative AI service, Apple Intelligence, has been registered for use on tablets and laptops in China."
         },
         {
-          "title": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe",
-          "url": "https://economictimes.indiatimes.com/tech/startups/google-acquires-wyoming-data-center-site-from-ai-infrastructure-firm-crusoe/articleshow/135625592.cms",
+          "title": "Adobe’s CX Enterprise Coworker Gets Embedded Within Leading AI Platforms",
+          "url": "https://analyticsindiamag.com/ai-news/adobes-cx-enterprise-coworker-gets-embedded-within-leading-ai-platforms",
+          "source": "Analytics India Mag",
+          "summary": "The software firm said its CX Enterprise Coworker agentic AI will be embedded in ChatGPT as a plugin, Claude, Databricks Genie, Gemini for business, and Microso"
+        },
+        {
+          "title": "Sarvam AI Appoints Ex-Google Cloud India MD Sashikumar Sreedharan as President and CBO",
+          "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-appoints-ex-google-cloud-india-md-sashikumar-sreedharan-as-president-and-cbo",
+          "source": "Analytics India Mag",
+          "summary": "The appointment comes as Sarvam looks to scale its presence across enterprise and government customers, with more than 100 institutions already using its AI off"
+        },
+        {
+          "title": "EXL Acquires Aimpoint Digital, Adds 250 AI and Data Experts",
+          "url": "https://analyticsindiamag.com/ai-news/exl-acquires-aimpoint-digital-adds-250-ai-and-data-experts",
+          "source": "Analytics India Mag",
+          "summary": "The acquisition adds around 250 AI engineers, platform architects, analytics consultants, decision scientists and AI strategists to EXL’s workforce."
+        },
+        {
+          "title": "Coforge Joins SpaceX Network to Develop Industry-Specific Grok Applications",
+          "url": "https://analyticsindiamag.com/ai-news/coforge-joins-spacex-network-to-develop-industry-specific-grok-applications",
+          "source": "Analytics India Mag",
+          "summary": "Momentuum blue, Coforge’s FDE unit, will handle deployments using teams of engineers and AI agents embedded within client organisations."
+        },
+        {
+          "title": "Banks, investors grow wary of AI debt, spooked by market selloff",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/banks-investors-grow-wary-of-ai-debt-spooked-by-market-selloff/articleshow/135679930.cms",
           "source": "ET Tech",
-          "summary": "Google has acquired Crusoe's data center site in southeast Wyoming, the AI infrastructure developer said on Friday, a day after the Alphabet unit announced a $17-billion investment in the project."
+          "summary": "Some banks, which just a few weeks ago were lining up to fund AI deals, are now telling market participants they would be reluctant to finance additional deals even when they involve guarantees from the sector's marquee technology companies, according to several banking and cr…"
         },
         {
-          "title": "OpenAI gets $11 billion funding at $1.25 trillion valuation: Report",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-gets-11-billion-funding-at-1-25-trillion-valuation-report/articleshow/135624687.cms",
-          "source": "ET Tech",
-          "summary": "OpenAI completed a substantial funding round, securing $11 billion to increase its valuation to $1.25 trillion. The funding was finalized after the company scaled back its initial plans for over $30 billion. Citing market conditions, OpenAI has encountered shifting investor se…"
-        },
-        {
-          "title": "Meta pauses planned terms updates, keeps existing rules in place",
-          "url": "https://economictimes.indiatimes.com/tech/technology/meta-pauses-planned-terms-updates-keeps-existing-rules-in-place/articleshow/135608532.cms",
-          "source": "ET Tech",
-          "summary": "Meta has paused planned updates to its Commercial Terms, Product Catalog Terms, Self-Serve Ad Terms and Ad Creative Generative AI Terms, meaning the changes will not take"
-        },
-        {
-          "title": "AI’s ability to find cyber flaws outpacing firms’ capacity to fix them: Palo Alto Networks' Nikesh Arora",
-          "url": "https://yourstory.com/2026/11/ai-cyber-flaws-outpacing-firms-capacity-to-fix-palo-alto-networks-nikesh-arora",
-          "source": "YourStory",
-          "summary": "Nikesh Arora, Chairman and CEO of Palo Alto Networks, has called for faster and more collaborative approaches to vulnerability management."
-        },
-        {
-          "title": "VeloDB’s Nitin Waghulde on why AI agents break down after the demo",
-          "url": "https://yourstory.com/2026/11/velodbs-nitin-waghulde-on-why-ai-agents-break-down-after-the-demo",
-          "source": "YourStory",
-          "summary": "At TechSparks 2026, VeloDB’s Regional Director for APAC explained why AI agents that work in pilots struggle in production, and why the fix often lies in the database underneath them."
+          "title": "Beyond Hire-to-Rehire: How Workforce Data Can Turn HRTech From a Cost Centre",
+          "url": "https://analyticsindiamag.com/enterprise-ai/beyond-hire-to-rehire-how-workforce-data-can-turn-hrtech-from-a-cost-centre",
+          "source": "Analytics India Mag",
+          "summary": "Explore how AI and workforce data drive better business decisions and outcomes, evolving HRTech from a cost centre to a strategic partner."
         }
       ]
     }
@@ -330,18 +318,18 @@
     "devto": "https://dev.to/ace2504",
     "repos": [
       {
-        "name": "ai-weekly-report",
-        "desc": "My personalized AI newsletter that runs on an agentic AI",
-        "url": "https://github.com/Ace-2504/ai-weekly-report",
-        "stars": 0,
-        "language": "HTML"
-      },
-      {
         "name": "agentic-systems-engineering",
         "desc": "AI agents on top of the systems companies already run: human approval for every entry, bank-confirmed payments, guardrails, and designs for legacy systems with no API. All data fictional.",
         "url": "https://github.com/Ace-2504/agentic-systems-engineering",
         "stars": 0,
         "language": "Jupyter Notebook"
+      },
+      {
+        "name": "ai-weekly-report",
+        "desc": "My personalized AI newsletter that runs on an agentic AI",
+        "url": "https://github.com/Ace-2504/ai-weekly-report",
+        "stars": 0,
+        "language": "HTML"
       },
       {
         "name": "PROXY_SERVER",
