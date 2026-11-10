@@ -1,16 +1,22 @@
 {
-  "weekOf": "2026-11-03 to 2026-11-09",
-  "generated": "2026-11-09T16:57:55.683Z",
-  "intro": "111 AI items this week (72 India-relevant) across 9 sources.",
+  "weekOf": "2026-11-04 to 2026-11-10",
+  "generated": "2026-11-10T13:55:36.044Z",
+  "intro": "104 AI items this week (68 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Underdog shows off a 32MB speech model in new demo",
-          "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+          "title": "Google Cloud launches Gemini for healthcare.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+          "source": "Google AI Blog",
+          "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+        },
+        {
+          "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+          "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
           "source": "TechCrunch AI",
-          "summary": "Despite its small size, Underdog's new model can generate both speech and music."
+          "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
         },
         {
           "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -23,12 +29,6 @@
           "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
           "source": "Hugging Face",
           "summary": ""
-        },
-        {
-          "title": "Transformers Model Integration Contracts",
-          "url": "https://huggingface.co/blog/transformers-mic",
-          "source": "Hugging Face",
-          "summary": ""
         }
       ]
     },
@@ -36,10 +36,16 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Meta says US users can now video chat with their Muse AI avatar",
-          "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+          "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
           "source": "TechCrunch AI",
-          "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
+          "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+        },
+        {
+          "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+          "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+          "source": "TechCrunch AI",
+          "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do."
         },
         {
           "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
@@ -59,30 +65,6 @@
           "summary": "Automattic aims to compete with the likes of Lovable with Spacefast."
         },
         {
-          "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-          "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-          "source": "TechCrunch AI",
-          "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
-        },
-        {
-          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-          "source": "TechCrunch AI",
-          "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
-        },
-        {
-          "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-          "source": "TechCrunch AI",
-          "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
-        },
-        {
-          "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-          "source": "TechCrunch AI",
-          "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
-        },
-        {
           "title": "Securing the agentic enterprise with data lineage",
           "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
           "source": "MIT Tech Review",
@@ -91,43 +73,54 @@
       ]
     },
     {
+      "heading": "Open Source",
+      "items": [
+        {
+          "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+          "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+          "source": "TechCrunch AI",
+          "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide."
+        }
+      ]
+    },
+    {
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-          "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+          "title": "Otter AI can now follow conversations across 30+ languages",
+          "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
           "source": "TechCrunch AI",
-          "summary": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse."
+          "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
         },
         {
-          "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-          "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+          "title": "Anthropic reportedly plans to move forward with IPO plans",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
           "source": "TechCrunch AI",
-          "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
+          "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
         },
         {
-          "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-          "source": "Hugging Face",
-          "summary": ""
-        },
-        {
-          "title": "Innovating with AI in the special chemicals industry",
-          "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-          "source": "MIT Tech Review",
-          "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For special…"
-        },
-        {
-          "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-          "source": "Hugging Face",
-          "summary": ""
-        },
-        {
-          "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-          "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
           "source": "TechCrunch AI",
-          "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
+          "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+        },
+        {
+          "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+          "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+          "source": "TechCrunch AI",
+          "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+        },
+        {
+          "title": "The race is on to sue Nvidia",
+          "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem."
+        },
+        {
+          "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+          "source": "TechCrunch AI",
+          "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
         }
       ]
     },
@@ -135,52 +128,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Decoding BlackBuck’s Core Trucking Model And Its New Engines",
-          "url": "https://inc42.com/resources/decoding-blackbucks-core-trucking-model-and-its-new-engines/",
+          "title": "Israeli AI security startup Bay raises $50 million",
+          "url": "https://economictimes.indiatimes.com/tech/funding/israeli-ai-security-startup-bay-raises-50-million/articleshow/135711991.cms",
+          "source": "ET Tech",
+          "summary": "Bay says it addresses a primary barrier to AI adoption by \"allowing autonomous agents to perform business-critical work safely while enterprises retain control and accountability at scale\"."
+        },
+        {
+          "title": "Cognizant commits over 25,000 professionals to Anthropic's Claude delivery",
+          "url": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-commits-over-25000-professionals-to-anthropics-claude-delivery/articleshow/135711507.cms",
+          "source": "ET Tech",
+          "summary": "The group is focused on execution excellence, transformation and client success, with the scale to take AI from pilot to production across enterprises' core operations, the Nasdaq-listed IT company said."
+        },
+        {
+          "title": "Froncort.AI Raises $2.3 Mn From Google.org To Expand AI-Based Disease Surveillance",
+          "url": "https://inc42.com/buzz/froncort-ai-raises-2-3-mn-from-google-org-to-expand-ai-based-disease-surveillance/",
           "source": "Inc42",
-          "summary": "A truck carrying goods across India spends several days or even weeks on the road, but it’s not just the…"
+          "summary": "Healthcare AI startup Froncort.AI has secured $2.3 Mn (₹21.5 Cr) in fresh capital from Google’s philanthropic arm, Google.org, to scale…"
         },
         {
-          "title": "Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops",
-          "url": "https://economictimes.indiatimes.com/tech/technology/apple-intelligence-ai-service-registers-with-chinese-regulator-for-use-on-tablets-laptops/articleshow/135682143.cms",
+          "title": "Anthropic targets valuation of about $1 trillion in IPO",
+          "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-targets-valuation-of-about-1-trillion-in-ipo/articleshow/135710518.cms",
           "source": "ET Tech",
-          "summary": "The cyberspace regulator in China's Shanghai said on Monday that Apple's generative AI service, Apple Intelligence, has been registered for use on tablets and laptops in China."
+          "summary": "Anthropic has entered into agreements with partners AMD, Broadcom, Google, Micron, Microsoft, Nvidia, and TSMC, who will purchase $26.0 billion of its Class N common stock in a private placement."
         },
         {
-          "title": "Adobe’s CX Enterprise Coworker Gets Embedded Within Leading AI Platforms",
-          "url": "https://analyticsindiamag.com/ai-news/adobes-cx-enterprise-coworker-gets-embedded-within-leading-ai-platforms",
+          "title": "TSMC October Revenue Hits Record $17.81 Bn on Skyrocketing AI Chip Demand",
+          "url": "https://analyticsindiamag.com/ai-news/tsmc-october-revenue-hits-record-1781-bn-on-skyrocketing-ai-chip-demand",
           "source": "Analytics India Mag",
-          "summary": "The software firm said its CX Enterprise Coworker agentic AI will be embedded in ChatGPT as a plugin, Claude, Databricks Genie, Gemini for business, and Microso"
+          "summary": "TSMC's October revenue rose 59.7% year-on-year, as demand for advanced semiconductor manufacturing continues to drive growth, contrasting with recent volatility"
         },
         {
-          "title": "Sarvam AI Appoints Ex-Google Cloud India MD Sashikumar Sreedharan as President and CBO",
-          "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-appoints-ex-google-cloud-india-md-sashikumar-sreedharan-as-president-and-cbo",
+          "title": "Froncort.AI Gets $2.3M From Google.org to Expand AI-Based Disease Screening in India",
+          "url": "https://analyticsindiamag.com/ai-news/froncortai-gets-23m-from-googleorg-to-expand-ai-based-disease-screening-in-india",
           "source": "Analytics India Mag",
-          "summary": "The appointment comes as Sarvam looks to scale its presence across enterprise and government customers, with more than 100 institutions already using its AI off"
+          "summary": "Froncort.AI has received funding from Google.org to enhance its AI disease screening platform in India, aiding health workers in identifying risk areas."
         },
         {
-          "title": "EXL Acquires Aimpoint Digital, Adds 250 AI and Data Experts",
-          "url": "https://analyticsindiamag.com/ai-news/exl-acquires-aimpoint-digital-adds-250-ai-and-data-experts",
+          "title": "Is AI-Powered Reverse Engineering the Death of Proprietary Software?",
+          "url": "https://analyticsindiamag.com/ai-features/is-ai-powered-reverse-engineering-the-death-of-proprietary-software",
           "source": "Analytics India Mag",
-          "summary": "The acquisition adds around 250 AI engineers, platform architects, analytics consultants, decision scientists and AI strategists to EXL’s workforce."
+          "summary": "Explore how AI-powered reverse engineering challenges proprietary software norms and the implications for intellectual property in 2024."
         },
         {
-          "title": "Coforge Joins SpaceX Network to Develop Industry-Specific Grok Applications",
-          "url": "https://analyticsindiamag.com/ai-news/coforge-joins-spacex-network-to-develop-industry-specific-grok-applications",
-          "source": "Analytics India Mag",
-          "summary": "Momentuum blue, Coforge’s FDE unit, will handle deployments using teams of engineers and AI agents embedded within client organisations."
-        },
-        {
-          "title": "Banks, investors grow wary of AI debt, spooked by market selloff",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/banks-investors-grow-wary-of-ai-debt-spooked-by-market-selloff/articleshow/135679930.cms",
-          "source": "ET Tech",
-          "summary": "Some banks, which just a few weeks ago were lining up to fund AI deals, are now telling market participants they would be reluctant to finance additional deals even when they involve guarantees from the sector's marquee technology companies, according to several banking and cr…"
-        },
-        {
-          "title": "Beyond Hire-to-Rehire: How Workforce Data Can Turn HRTech From a Cost Centre",
-          "url": "https://analyticsindiamag.com/enterprise-ai/beyond-hire-to-rehire-how-workforce-data-can-turn-hrtech-from-a-cost-centre",
-          "source": "Analytics India Mag",
-          "summary": "Explore how AI and workforce data drive better business decisions and outcomes, evolving HRTech from a cost centre to a strategic partner."
+          "title": "OpenAI unveils a 'Control Room' safety feature that shuts down AI agents from going rogue in 35 seconds",
+          "url": "https://yourstory.com/2026/11/openai-unveils-control-room-feature-stops-ai-safety-security-concerns-35-seconds",
+          "source": "YourStory",
+          "summary": "OpenAI said Control Room will connect every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. It will work together with its misalignment monitoring systems."
         }
       ]
     }

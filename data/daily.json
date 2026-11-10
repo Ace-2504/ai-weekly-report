@@ -1,76 +1,129 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "top": {
-    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+    "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
     "source": "TechCrunch AI",
-    "published": "2026-11-09T16:56:54.000Z",
-    "summary": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse."
+    "published": "2026-11-10T13:00:00.000Z",
+    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide."
   },
   "topIndia": {
-    "title": "Decoding BlackBuck’s Core Trucking Model And Its New Engines",
-    "url": "https://inc42.com/resources/decoding-blackbucks-core-trucking-model-and-its-new-engines/",
-    "source": "Inc42",
-    "published": "2026-11-09T12:38:55.000Z",
-    "summary": "A truck carrying goods across India spends several days or even weeks on the road, but it’s not just the…"
+    "title": "Israeli AI security startup Bay raises $50 million",
+    "url": "https://economictimes.indiatimes.com/tech/funding/israeli-ai-security-startup-bay-raises-50-million/articleshow/135711991.cms",
+    "source": "ET Tech",
+    "published": "2026-11-10T13:15:45.000Z",
+    "summary": "Bay says it addresses a primary barrier to AI adoption by \"allowing autonomous agents to perform business-critical work safely while enterprises retain control and accountability at scale\"."
   },
   "headlines": [
     {
-      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "source": "Google AI Blog",
+      "published": "2026-11-10T13:00:00.000Z"
+    },
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
       "source": "TechCrunch AI",
-      "published": "2026-11-09T16:12:28.000Z"
+      "published": "2026-11-10T07:00:00.000Z"
     },
     {
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "source": "Hugging Face",
-      "published": "2026-11-09T15:05:57.000Z"
-    },
-    {
-      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
       "source": "TechCrunch AI",
-      "published": "2026-11-09T14:00:00.000Z"
+      "published": "2026-11-10T01:27:12.000Z"
     },
     {
-      "title": "Innovating with AI in the special chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-09T23:28:37.000Z"
+    },
+    {
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-09T22:46:09.000Z"
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-09T22:23:42.000Z"
+    },
+    {
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-09T20:09:06.000Z"
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
       "source": "MIT Tech Review",
-      "published": "2026-11-09T13:00:00.000Z"
+      "published": "2026-11-09T19:35:33.000Z"
     },
     {
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "source": "Hugging Face",
-      "published": "2026-11-09T12:34:29.000Z"
-    },
-    {
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
       "source": "TechCrunch AI",
-      "published": "2026-11-09T05:26:29.000Z"
+      "published": "2026-11-09T19:24:51.000Z"
     },
     {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
       "source": "TechCrunch AI",
-      "published": "2026-11-08T21:00:11.000Z"
+      "published": "2026-11-09T18:09:52.000Z"
     },
     {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
       "source": "TechCrunch AI",
-      "published": "2026-11-07T22:07:22.000Z"
+      "published": "2026-11-09T18:00:00.000Z"
     },
     {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-07T21:17:08.000Z"
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-09T17:05:43.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "source": "Google AI Blog",
+      "published": "2026-11-10T13:00:00.000Z",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+    },
+    {
+      "title": "OpenAI unveils a 'Control Room' safety feature that shuts down AI agents from going rogue in 35 seconds",
+      "url": "https://yourstory.com/2026/11/openai-unveils-control-room-feature-stops-ai-safety-security-concerns-35-seconds",
+      "source": "YourStory",
+      "published": "2026-11-10T11:10:42.000Z",
+      "summary": "OpenAI said Control Room will connect every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. It will work together with its misalignment monitoring systems."
+    },
+    {
+      "title": "Google Launches Two New TPUs for Enterprise Agentic AI Workloads",
+      "url": "https://analyticsindiamag.com/ai-news/google-launches-two-new-tpus-for-enterprise-agentic-ai-workloads",
+      "source": "Analytics India Mag",
+      "published": "2026-11-10T05:48:14.000Z",
+      "summary": "Google has expanded its eighth-generation Tensor Processing Unit (TPU) portfolio with two new systems, TPU 8tx and TPU 8i Max."
+    },
+    {
+      "title": "Anthropic plans IPO live stream with Dario Amodei, JPMorgan CEO Jamie Dimon",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-plans-ipo-live-stream-with-dario-amodei-jpmorgan-ceo-jamie-dimon/articleshow/135699429.cms",
+      "source": "ET Tech",
+      "published": "2026-11-10T04:38:39.000Z",
+      "summary": "The meeting is part of the marketing effort for Anthropic’s potentially record-breaking IPO. The offering is expected to formally begin marketing as soon as early Tuesday ahead of pricing and the Nasdaq debut of its shares before the US Thanksgiving holiday, Bloomberg has repo…"
+    },
+    {
+      "title": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-new-fable-mythos-models-as-competition-heats-up-ahead-of-ipo/articleshow/135697211.cms",
+      "source": "ET Tech",
+      "published": "2026-11-10T02:45:31.000Z",
+      "summary": "Anthropic on Monday unveiled two new AI models, Claude Fable 5.2 and Claude Mythos 5.2, as the OpenAI rival looks to strengthen its position in the fast-growing AI market ahead of its planned IPO."
+    },
     {
       "title": "Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops",
       "url": "https://economictimes.indiatimes.com/tech/technology/apple-intelligence-ai-service-registers-with-chinese-regulator-for-use-on-tablets-laptops/articleshow/135682143.cms",
@@ -91,34 +144,6 @@
       "source": "ET Tech",
       "published": "2026-11-07T03:37:29.000Z",
       "summary": "Google has acquired Crusoe's data center site in southeast Wyoming, the AI infrastructure developer said on Friday, a day after the Alphabet unit announced a $17-billion investment in the project."
-    },
-    {
-      "title": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating/articleshow/135591045.cms",
-      "source": "ET Tech",
-      "published": "2026-11-06T02:43:29.000Z",
-      "summary": "OpenAI released GPT-6 Cyber, a model built to find and exploit security flaws, to a small group of vetted customers on Thursday, rating it \"Critical\" in cybersecurity under its safety framework."
-    },
-    {
-      "title": "Anthropic may need to cut IPO ambitions as investors balk: report",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-may-need-to-cut-ipo-ambitions-as-investors-balk-report/articleshow/135590866.cms",
-      "source": "ET Tech",
-      "published": "2026-11-06T02:34:40.000Z",
-      "summary": "Anthropic may have to accept a lower valuation than the $1.5 trillion it had been targeting for its stock market debut, after a sharp tech sell-off spooked key investors, the Wall Street Journal reported Thursday. The listing comes amid growing nervousness among investors abou…"
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T19:48:28.000Z",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
-    },
-    {
-      "title": "Google unveils $15 billion data centre investment in Malaysia",
-      "url": "https://economictimes.indiatimes.com/tech/technology/google-unveils-15-billion-data-centre-investment-in-malaysia/articleshow/135559941.cms",
-      "source": "ET Tech",
-      "published": "2026-11-05T05:12:59.000Z",
-      "summary": "Google announced plans on Wednesday to invest $15 billion in Malaysia over the next two years to build data centres and other infrastructure as demand booms for artificial intelligence services. It said the $15 billion investment will be made \"over the next two years (2027 to …"
     }
   ],
   "people": [
@@ -139,9 +164,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://www.darioamodei.com",
-      "article": null,
-      "source": "Profile"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-plans-ipo-live-stream-with-dario-amodei-jpmorgan-ceo-jamie-dimon/articleshow/135699429.cms",
+      "article": "Anthropic plans IPO live stream with Dario Amodei, JPMorgan CEO Jamie Dimon",
+      "source": "ET Tech"
     },
     {
       "name": "Yann LeCun",
@@ -153,8 +178,8 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://economictimes.indiatimes.com/tech/technology/nvidias-jensen-huang-the-scandal-hit-ai-visionary-in-a-leather-jacket/articleshow/135676475.cms",
-      "article": "Nvidia's Jensen Huang, the scandal-hit AI visionary in a leather jacket",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-demand-unlikely-to-be-derailed-by-nvidia-ceo-controversy-taiwan-supply-chain-executives/articleshow/135697752.cms",
+      "article": "AI demand unlikely to be derailed by Nvidia CEO controversy: Taiwan supply chain executives",
       "source": "ET Tech"
     },
     {
