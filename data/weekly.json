@@ -1,34 +1,46 @@
 {
-  "weekOf": "2026-11-04 to 2026-11-10",
-  "generated": "2026-11-10T13:55:36.044Z",
-  "intro": "104 AI items this week (68 India-relevant) across 9 sources.",
+  "weekOf": "2026-11-05 to 2026-11-11",
+  "generated": "2026-11-11T13:09:30.477Z",
+  "intro": "495 AI items this week (78 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Google Cloud launches Gemini for healthcare.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-          "source": "Google AI Blog",
-          "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
-        },
-        {
-          "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-          "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-          "source": "TechCrunch AI",
-          "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
-        },
-        {
-          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-          "source": "Google AI Blog",
-          "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
-        },
-        {
-          "title": "Palette: teaching a small model to build decks in your design language",
-          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "url": "https://huggingface.co/blog/qvac/botpsy",
           "source": "Hugging Face",
           "summary": ""
+        },
+        {
+          "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+          "url": "https://arxiv.org/abs/2611.12935",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited t…"
+        },
+        {
+          "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+          "url": "https://arxiv.org/abs/2611.12936",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilitie…"
+        },
+        {
+          "title": "Tracing Psychometric Inference in Large Language Models",
+          "url": "https://arxiv.org/abs/2611.12937",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.12937v1 Announce Type: new Abstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure? We address this question using a cross-persona paradigm across 14 model variants from …"
+        },
+        {
+          "title": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
+          "url": "https://arxiv.org/abs/2611.12950",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.12950v1 Announce Type: new Abstract: Black-box LLM fingerprinting aims to determine whether a target model was derived from a source model when only the output responses to input queries are observable. One way to reveal this relationship is to perturb each query an…"
+        },
+        {
+          "title": "Agent Architecture Cost-Success Trade-offs: A Controlled Evaluation across Enterprise-Style SOPs",
+          "url": "https://arxiv.org/abs/2611.12953",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.12953v1 Announce Type: new Abstract: Enterprises increasingly use large language model agents to execute standard operating procedures (SOPs): long, branching, tool-intensive workflows. Yet there is little controlled evidence for choosing among competing agentic arc…"
         }
       ]
     },
@@ -36,22 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-          "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-          "source": "TechCrunch AI",
-          "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+          "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+          "url": "https://arxiv.org/abs/2611.12934",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing be…"
         },
         {
-          "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-          "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-          "source": "TechCrunch AI",
-          "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do."
+          "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
+          "url": "https://arxiv.org/abs/2611.12938",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.12938v1 Announce Type: new Abstract: We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language models. Using a controlled evaluation over 1,500 WebQSP and CWQ questions and six VLMs within a fixed KGQA pipeli…"
         },
         {
-          "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-          "url": "https://huggingface.co/blog/phonon-tts",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
+          "url": "https://arxiv.org/abs/2611.12958",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.12958v1 Announce Type: new Abstract: Recent advances in large models have accelerated AI for Science toward agentic science, where AI agents autonomously conduct scientific discovery. Realising this vision requires closing the loop between computational reasoning an…"
+        },
+        {
+          "title": "Seeing Is Not Believing: Counterfactual Lesion Erasure Teaches a Small Medical Vision-Language Agent to Report Only What the Image Shows",
+          "url": "https://arxiv.org/abs/2611.13006",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.13006v1 Announce Type: new Abstract: Medical vision-language models (VLMs) often report a finding because the question names it; standard benchmarks miss this. From public segmentation datasets we build counterfactual views without manual annotation: the lesion eras…"
+        },
+        {
+          "title": "APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models",
+          "url": "https://arxiv.org/abs/2611.13030",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.13030v1 Announce Type: new Abstract: Vision-language-action (VLA) policies have demonstrated strong generalization in robotic manipulation, yet processing dense visual tokens often incurs high inference latency. Visual token pruning offers a practical way to reduce …"
+        },
+        {
+          "title": "Disentangling Multimodal Rotary Positional Embedding in Vision-Language Models",
+          "url": "https://arxiv.org/abs/2611.13334",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.13334v1 Announce Type: new Abstract: Vision-language models widely adopt Multimodal Rotary Position Embedding (MRoPE), an extension of Rotary Position Embedding (RoPE) that incorporates temporal, height, and width axes to encode the spatial structure of visual token…"
         }
       ]
     },
@@ -59,16 +89,40 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-          "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-          "source": "TechCrunch AI",
-          "summary": "Automattic aims to compete with the likes of Lovable with Spacefast."
+          "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+          "url": "https://arxiv.org/abs/2611.12933",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains larg…"
         },
         {
-          "title": "Securing the agentic enterprise with data lineage",
-          "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-          "source": "MIT Tech Review",
-          "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal…"
+          "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
+          "url": "https://arxiv.org/abs/2611.12941",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.12941v1 Announce Type: new Abstract: The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competence circuit, summarized as IKC + KC + C, that decomposes an agent's real-world impact into three pathw…"
+        },
+        {
+          "title": "ChipOmni: A General-Purpose AI Agent for Electronic Design Automation",
+          "url": "https://arxiv.org/abs/2611.13020",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.13020v1 Announce Type: new Abstract: Electronic design automation (EDA) workflows remain highly fragmented, requiring engineers to coordinate heterogeneous representations, specialised software tools, and iterative verification across multiple design stages. Althoug…"
+        },
+        {
+          "title": "Trust, but verify, audit and attribute: a human-in-the-loop framework for checking AI-produced research results",
+          "url": "https://arxiv.org/abs/2611.13042",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.13042v1 Announce Type: new Abstract: Artificial intelligence (AI) systems now produce research results in bulk: in October 2026 a single laboratory released more than 700 AI-generated mathematics manuscripts, only part of them with machine-checked proofs. Such volum…"
+        },
+        {
+          "title": "Teaching the Harness: Student-Aware Skill Transfer for LLM Agents",
+          "url": "https://arxiv.org/abs/2611.13144",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.13144v1 Announce Type: new Abstract: Effective teaching requires reasoning about the learner as well as the task, a capacity that Theory of Mind describes as inferring another agent's latent state from its behavior. We ask whether a stronger LLM teaches a fixed stud…"
+        },
+        {
+          "title": "Cognitive Multi-Agent Search and Rescue: Language-Grounded Hierarchical Reinforcement Learning for Collaborative Robotics",
+          "url": "https://arxiv.org/abs/2611.13161",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.13161v1 Announce Type: new Abstract: Effective search and rescue (SAR) operations require autonomous systems capable of coordinating multiple heterogeneous agents, adapting to dynamic hazards, and aligning with human mission intent. Existing language-guided reinforc…"
         }
       ]
     },
@@ -76,10 +130,28 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+          "title": "SupplyNetPy: An Open-Source Python Library for High-Fidelity Modeling and Simulation of Arbitrary Supply Chain and Inventory Networks",
+          "url": "https://arxiv.org/abs/2607.09745",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2607.09745v2 Announce Type: replace Abstract: This paper introduces SupplyNetPy, an open-source, well-documented Python library for modeling and discrete-event simulation of supply chain networks with arbitrary multi-echelon structures. It supports multiple replenishment…"
+        },
+        {
+          "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
           "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
           "source": "TechCrunch AI",
-          "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide."
+          "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide."
+        },
+        {
+          "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "source": "Hugging Face",
+          "summary": ""
+        },
+        {
+          "title": "Decision Models in Hugging Face",
+          "url": "https://huggingface.co/blog/decision",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -87,40 +159,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Otter AI can now follow conversations across 30+ languages",
-          "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-          "source": "TechCrunch AI",
-          "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
+          "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+          "source": "Google AI Blog",
+          "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
         },
         {
-          "title": "Anthropic reportedly plans to move forward with IPO plans",
-          "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+          "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+          "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
           "source": "TechCrunch AI",
-          "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+          "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
         },
         {
-          "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-          "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-          "source": "TechCrunch AI",
-          "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+          "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
+          "url": "https://arxiv.org/abs/2611.12940",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.12940v1 Announce Type: new Abstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess, reinforcement learning has caught researchers' attention on mod…"
         },
         {
-          "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-          "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-          "source": "TechCrunch AI",
-          "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+          "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
+          "url": "https://arxiv.org/abs/2611.12942",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.12942v1 Announce Type: new Abstract: Tabular foundation models (TFMs) predict from a labelled context in a single forward pass. A recent benchmark reported that they decisively outperform tree ensembles for customer churn, but it compared them with untuned gradient-…"
         },
         {
-          "title": "The race is on to sue Nvidia",
-          "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-          "source": "TechCrunch AI",
-          "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem."
+          "title": "Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models",
+          "url": "https://arxiv.org/abs/2611.12954",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.12954v1 Announce Type: new Abstract: Recent advances in large language models (LLMs) have enabled weight-space programming (WSP), which directly generates neural network weights without gradient-based optimization. However, extending WSP to physical problems remains…"
         },
         {
-          "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-          "source": "TechCrunch AI",
-          "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+          "title": "Monitoring One Channel Is Not Communication Control: Causal Evidence for Adaptive Reallocation of Joint Message--Route Codes",
+          "url": "https://arxiv.org/abs/2611.12959",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.12959v1 Announce Type: new Abstract: Monitoring a visible channel can change how learned agents communicate without removing why communication is useful. We test this distinction in an end-to-end game where a sender and receiver learn a discrete protocol and route p…"
         }
       ]
     },
@@ -128,52 +200,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Israeli AI security startup Bay raises $50 million",
-          "url": "https://economictimes.indiatimes.com/tech/funding/israeli-ai-security-startup-bay-raises-50-million/articleshow/135711991.cms",
-          "source": "ET Tech",
-          "summary": "Bay says it addresses a primary barrier to AI adoption by \"allowing autonomous agents to perform business-critical work safely while enterprises retain control and accountability at scale\"."
-        },
-        {
-          "title": "Cognizant commits over 25,000 professionals to Anthropic's Claude delivery",
-          "url": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-commits-over-25000-professionals-to-anthropics-claude-delivery/articleshow/135711507.cms",
-          "source": "ET Tech",
-          "summary": "The group is focused on execution excellence, transformation and client success, with the scale to take AI from pilot to production across enterprises' core operations, the Nasdaq-listed IT company said."
-        },
-        {
-          "title": "Froncort.AI Raises $2.3 Mn From Google.org To Expand AI-Based Disease Surveillance",
-          "url": "https://inc42.com/buzz/froncort-ai-raises-2-3-mn-from-google-org-to-expand-ai-based-disease-surveillance/",
-          "source": "Inc42",
-          "summary": "Healthcare AI startup Froncort.AI has secured $2.3 Mn (₹21.5 Cr) in fresh capital from Google’s philanthropic arm, Google.org, to scale…"
-        },
-        {
-          "title": "Anthropic targets valuation of about $1 trillion in IPO",
-          "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-targets-valuation-of-about-1-trillion-in-ipo/articleshow/135710518.cms",
-          "source": "ET Tech",
-          "summary": "Anthropic has entered into agreements with partners AMD, Broadcom, Google, Micron, Microsoft, Nvidia, and TSMC, who will purchase $26.0 billion of its Class N common stock in a private placement."
-        },
-        {
-          "title": "TSMC October Revenue Hits Record $17.81 Bn on Skyrocketing AI Chip Demand",
-          "url": "https://analyticsindiamag.com/ai-news/tsmc-october-revenue-hits-record-1781-bn-on-skyrocketing-ai-chip-demand",
+          "title": "IBM, Microsoft Launch Agentic AI Platform With Over 6,000 AI Agents",
+          "url": "https://analyticsindiamag.com/ai-news/ibm-microsoft-launch-agentic-ai-platform-with-over-6000-ai-agents",
           "source": "Analytics India Mag",
-          "summary": "TSMC's October revenue rose 59.7% year-on-year, as demand for advanced semiconductor manufacturing continues to drive growth, contrasting with recent volatility"
+          "summary": "IBM and Microsoft have launched Imagine Enterprise, an agentic AI platform combining agents with enterprise cloud, data, and security technologies."
         },
         {
-          "title": "Froncort.AI Gets $2.3M From Google.org to Expand AI-Based Disease Screening in India",
-          "url": "https://analyticsindiamag.com/ai-news/froncortai-gets-23m-from-googleorg-to-expand-ai-based-disease-screening-in-india",
-          "source": "Analytics India Mag",
-          "summary": "Froncort.AI has received funding from Google.org to enhance its AI disease screening platform in India, aiding health workers in identifying risk areas."
-        },
-        {
-          "title": "Is AI-Powered Reverse Engineering the Death of Proprietary Software?",
-          "url": "https://analyticsindiamag.com/ai-features/is-ai-powered-reverse-engineering-the-death-of-proprietary-software",
-          "source": "Analytics India Mag",
-          "summary": "Explore how AI-powered reverse engineering challenges proprietary software norms and the implications for intellectual property in 2024."
-        },
-        {
-          "title": "OpenAI unveils a 'Control Room' safety feature that shuts down AI agents from going rogue in 35 seconds",
-          "url": "https://yourstory.com/2026/11/openai-unveils-control-room-feature-stops-ai-safety-security-concerns-35-seconds",
+          "title": "Beyond code generation: Five lessons on AI, reliability, and recovery",
+          "url": "https://yourstory.com/2026/11/code-generation-ai-reliability-recovery",
           "source": "YourStory",
-          "summary": "OpenAI said Control Room will connect every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. It will work together with its misalignment monitoring systems."
+          "summary": "At a TechSparks 2026 roundtable hosted by OPPEX, technology leaders discussed the challenges of maintaining AI-generated code, managing risk, and responding when production systems fail."
+        },
+        {
+          "title": "Beyond the model: Why context, not intelligence, is the moat for durable AI",
+          "url": "https://yourstory.com/2026/11/beyond-model-why-context-not-intelligence-moat-for-durable-ai",
+          "source": "YourStory",
+          "summary": "At TechSparks 2026, leaders from MongoDB, Pine Labs, and Spinny discussed why data, memory, workflows, and trust matter more than model access."
+        },
+        {
+          "title": "Beyond backups: Six lessons on cloud resilience, recovery, and rising AI costs",
+          "url": "https://yourstory.com/2026/11/beyond-backups-six-lessons-on-cloud-resilience-recovery-and-rising-ai-costs",
+          "source": "YourStory",
+          "summary": "How Bout India built a travel company without selling packages By refusing the cookie‑cutter tour, Himanshu Maru and his co‑founders turned personalization into a moat, earning 970+ glowing reviews and a loyal global clientele. Himanshu Maru started Bout India in 2013 with a s…"
+        },
+        {
+          "title": "NHA Selects EkaCare for AI Voice Scribe in Public Health Facilities",
+          "url": "https://analyticsindiamag.com/ai-news/nha-selects-ekacare-for-ai-voice-scribe-in-public-health-facilities",
+          "source": "Analytics India Mag",
+          "summary": "EkaCare's AI Voice Scribe will enhance documentation in public health, converting consultations into structured health records efficiently."
+        },
+        {
+          "title": "SoftBank Takes $7 Billion Hit on US AI Data Centre Investments",
+          "url": "https://analyticsindiamag.com/ai-news/softbank-takes-7-billion-hit-on-us-ai-data-centre-investments",
+          "source": "Analytics India Mag",
+          "summary": "The Japanese investment giant has written off billions of dollars after changing its plans for US data centre infrastructure, while also reporting losses linked"
+        },
+        {
+          "title": "Seed funding’s new reality check in the age of AI",
+          "url": "https://yourstory.com/2026/11/seed-fundings-new-reality-check-in-the-age-of-ai",
+          "source": "YourStory",
+          "summary": "At TechSparks 2026, investors from Snowflake for Startups, 247VC, and Endiya discussed how AI is changing seed-stage investing and why founders need to demonstrate more than a working product to secure funding."
+        },
+        {
+          "title": "Can You Trust Your ‘Instinct’ and Not ‘Muse’ Over the Risks?",
+          "url": "https://analyticsindiamag.com/ai-features/can-you-trust-your-instinct-and-not-muse-over-the-risks",
+          "source": "Analytics India Mag",
+          "summary": "AI agents today—the ones that can use your web browser and autonomously perform tasks—are getting more intuitive. But are they safe enough?"
         }
       ]
     }
