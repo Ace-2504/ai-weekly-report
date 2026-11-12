@@ -1,11 +1,17 @@
 {
-  "weekOf": "2026-11-05 to 2026-11-11",
-  "generated": "2026-11-11T13:09:30.477Z",
-  "intro": "495 AI items this week (78 India-relevant) across 10 sources.",
+  "weekOf": "2026-11-06 to 2026-11-12",
+  "generated": "2026-11-12T14:12:26.887Z",
+  "intro": "115 AI items this week (74 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
+        {
+          "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "source": "Google AI Blog",
+          "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+        },
         {
           "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
           "url": "https://huggingface.co/blog/qvac/botpsy",
@@ -13,75 +19,28 @@
           "summary": ""
         },
         {
-          "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-          "url": "https://arxiv.org/abs/2611.12935",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited t…"
+          "title": "Gemini Intelligence: New features, on more devices",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+          "source": "Google AI Blog",
+          "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
         },
         {
-          "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
-          "url": "https://arxiv.org/abs/2611.12936",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilitie…"
+          "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+          "source": "Google AI Blog",
+          "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
         },
         {
-          "title": "Tracing Psychometric Inference in Large Language Models",
-          "url": "https://arxiv.org/abs/2611.12937",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.12937v1 Announce Type: new Abstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure? We address this question using a cross-persona paradigm across 14 model variants from …"
+          "title": "Google Cloud launches Gemini for healthcare.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+          "source": "Google AI Blog",
+          "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
         },
         {
-          "title": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
-          "url": "https://arxiv.org/abs/2611.12950",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.12950v1 Announce Type: new Abstract: Black-box LLM fingerprinting aims to determine whether a target model was derived from a source model when only the output responses to input queries are observable. One way to reveal this relationship is to perturb each query an…"
-        },
-        {
-          "title": "Agent Architecture Cost-Success Trade-offs: A Controlled Evaluation across Enterprise-Style SOPs",
-          "url": "https://arxiv.org/abs/2611.12953",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.12953v1 Announce Type: new Abstract: Enterprises increasingly use large language model agents to execute standard operating procedures (SOPs): long, branching, tool-intensive workflows. Yet there is little controlled evidence for choosing among competing agentic arc…"
-        }
-      ]
-    },
-    {
-      "heading": "Multimodal & Media",
-      "items": [
-        {
-          "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-          "url": "https://arxiv.org/abs/2611.12934",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing be…"
-        },
-        {
-          "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
-          "url": "https://arxiv.org/abs/2611.12938",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.12938v1 Announce Type: new Abstract: We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language models. Using a controlled evaluation over 1,500 WebQSP and CWQ questions and six VLMs within a fixed KGQA pipeli…"
-        },
-        {
-          "title": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
-          "url": "https://arxiv.org/abs/2611.12958",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.12958v1 Announce Type: new Abstract: Recent advances in large models have accelerated AI for Science toward agentic science, where AI agents autonomously conduct scientific discovery. Realising this vision requires closing the loop between computational reasoning an…"
-        },
-        {
-          "title": "Seeing Is Not Believing: Counterfactual Lesion Erasure Teaches a Small Medical Vision-Language Agent to Report Only What the Image Shows",
-          "url": "https://arxiv.org/abs/2611.13006",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.13006v1 Announce Type: new Abstract: Medical vision-language models (VLMs) often report a finding because the question names it; standard benchmarks miss this. From public segmentation datasets we build counterfactual views without manual annotation: the lesion eras…"
-        },
-        {
-          "title": "APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models",
-          "url": "https://arxiv.org/abs/2611.13030",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.13030v1 Announce Type: new Abstract: Vision-language-action (VLA) policies have demonstrated strong generalization in robotic manipulation, yet processing dense visual tokens often incurs high inference latency. Visual token pruning offers a practical way to reduce …"
-        },
-        {
-          "title": "Disentangling Multimodal Rotary Positional Embedding in Vision-Language Models",
-          "url": "https://arxiv.org/abs/2611.13334",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.13334v1 Announce Type: new Abstract: Vision-language models widely adopt Multimodal Rotary Position Embedding (MRoPE), an extension of Rotary Position Embedding (RoPE) that incorporates temporal, height, and width axes to encode the spatial structure of visual token…"
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "source": "Google AI Blog",
+          "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
         }
       ]
     },
@@ -89,58 +48,28 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
-          "url": "https://arxiv.org/abs/2611.12933",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains larg…"
+          "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+          "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+          "source": "TechCrunch AI",
+          "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate."
         },
         {
-          "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
-          "url": "https://arxiv.org/abs/2611.12941",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.12941v1 Announce Type: new Abstract: The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competence circuit, summarized as IKC + KC + C, that decomposes an agent's real-world impact into three pathw…"
+          "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+          "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+          "source": "TechCrunch AI",
+          "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that."
         },
         {
-          "title": "ChipOmni: A General-Purpose AI Agent for Electronic Design Automation",
-          "url": "https://arxiv.org/abs/2611.13020",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.13020v1 Announce Type: new Abstract: Electronic design automation (EDA) workflows remain highly fragmented, requiring engineers to coordinate heterogeneous representations, specialised software tools, and iterative verification across multiple design stages. Althoug…"
-        },
-        {
-          "title": "Trust, but verify, audit and attribute: a human-in-the-loop framework for checking AI-produced research results",
-          "url": "https://arxiv.org/abs/2611.13042",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.13042v1 Announce Type: new Abstract: Artificial intelligence (AI) systems now produce research results in bulk: in October 2026 a single laboratory released more than 700 AI-generated mathematics manuscripts, only part of them with machine-checked proofs. Such volum…"
-        },
-        {
-          "title": "Teaching the Harness: Student-Aware Skill Transfer for LLM Agents",
-          "url": "https://arxiv.org/abs/2611.13144",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.13144v1 Announce Type: new Abstract: Effective teaching requires reasoning about the learner as well as the task, a capacity that Theory of Mind describes as inferring another agent's latent state from its behavior. We ask whether a stronger LLM teaches a fixed stud…"
-        },
-        {
-          "title": "Cognitive Multi-Agent Search and Rescue: Language-Grounded Hierarchical Reinforcement Learning for Collaborative Robotics",
-          "url": "https://arxiv.org/abs/2611.13161",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.13161v1 Announce Type: new Abstract: Effective search and rescue (SAR) operations require autonomous systems capable of coordinating multiple heterogeneous agents, adapting to dynamic hazards, and aligning with human mission intent. Existing language-guided reinforc…"
+          "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+          "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+          "source": "Ars Technica",
+          "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them."
         }
       ]
     },
     {
       "heading": "Open Source",
       "items": [
-        {
-          "title": "SupplyNetPy: An Open-Source Python Library for High-Fidelity Modeling and Simulation of Arbitrary Supply Chain and Inventory Networks",
-          "url": "https://arxiv.org/abs/2607.09745",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2607.09745v2 Announce Type: replace Abstract: This paper introduces SupplyNetPy, an open-source, well-documented Python library for modeling and discrete-event simulation of supply chain networks with arbitrary multi-echelon structures. It supports multiple replenishment…"
-        },
-        {
-          "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-          "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-          "source": "TechCrunch AI",
-          "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide."
-        },
         {
           "title": "Pay for Hugging Face Hub with your Google Cloud Account",
           "url": "https://huggingface.co/blog/hub-gcp-marketplace",
@@ -159,40 +88,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-          "source": "Google AI Blog",
-          "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
-        },
-        {
-          "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-          "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+          "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+          "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
           "source": "TechCrunch AI",
-          "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
+          "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US."
         },
         {
-          "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
-          "url": "https://arxiv.org/abs/2611.12940",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.12940v1 Announce Type: new Abstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess, reinforcement learning has caught researchers' attention on mod…"
+          "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+          "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist."
         },
         {
-          "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
-          "url": "https://arxiv.org/abs/2611.12942",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.12942v1 Announce Type: new Abstract: Tabular foundation models (TFMs) predict from a labelled context in a single forward pass. A recent benchmark reported that they decisively outperform tree ensembles for customer churn, but it compared them with untuned gradient-…"
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "source": "TechCrunch AI",
+          "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
         },
         {
-          "title": "Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models",
-          "url": "https://arxiv.org/abs/2611.12954",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.12954v1 Announce Type: new Abstract: Recent advances in large language models (LLMs) have enabled weight-space programming (WSP), which directly generates neural network weights without gradient-based optimization. However, extending WSP to physical problems remains…"
+          "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+          "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+          "source": "TechCrunch AI",
+          "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
         },
         {
-          "title": "Monitoring One Channel Is Not Communication Control: Causal Evidence for Adaptive Reallocation of Joint Message--Route Codes",
-          "url": "https://arxiv.org/abs/2611.12959",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.12959v1 Announce Type: new Abstract: Monitoring a visible channel can change how learned agents communicate without removing why communication is useful. We test this distinction in an end-to-end game where a sender and receiver learn a discrete protocol and route p…"
+          "title": "Why the data center you dread might never even be built",
+          "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+          "source": "TechCrunch AI",
+          "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may…"
+        },
+        {
+          "title": "Meta is losing its longtime head of infrastructure",
+          "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+          "source": "TechCrunch AI",
+          "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role."
         }
       ]
     },
@@ -200,52 +129,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "IBM, Microsoft Launch Agentic AI Platform With Over 6,000 AI Agents",
-          "url": "https://analyticsindiamag.com/ai-news/ibm-microsoft-launch-agentic-ai-platform-with-over-6000-ai-agents",
-          "source": "Analytics India Mag",
-          "summary": "IBM and Microsoft have launched Imagine Enterprise, an agentic AI platform combining agents with enterprise cloud, data, and security technologies."
-        },
-        {
-          "title": "Beyond code generation: Five lessons on AI, reliability, and recovery",
-          "url": "https://yourstory.com/2026/11/code-generation-ai-reliability-recovery",
+          "title": "Kutlerri.ai raises $4M to help US restaurants grow revenue and cut costs using AI agents",
+          "url": "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents",
           "source": "YourStory",
-          "summary": "At a TechSparks 2026 roundtable hosted by OPPEX, technology leaders discussed the challenges of maintaining AI-generated code, managing risk, and responding when production systems fail."
+          "summary": "Founded by former HighRadius executives Kiran Rana and Payal Tripathy, Kutlerri.ai charges restaurants a percentage of the revenue its AI agents generate or the costs they save."
         },
         {
-          "title": "Beyond the model: Why context, not intelligence, is the moat for durable AI",
-          "url": "https://yourstory.com/2026/11/beyond-model-why-context-not-intelligence-moat-for-durable-ai",
+          "title": "Norwest closes $4B fund to back AI, healthcare and financial infra",
+          "url": "https://yourstory.com/2026/11/norwest-closes-4b-fund-to-back-ai-healthcare-and-financial-infra",
           "source": "YourStory",
-          "summary": "At TechSparks 2026, leaders from MongoDB, Pine Labs, and Spinny discussed why data, memory, workflows, and trust matter more than model access."
+          "summary": "Norwest’s $4 billion fund signals a long-term bet on AI, healthcare and technology, as the investment firm looks to back businesses across markets, stages and sectors."
         },
         {
-          "title": "Beyond backups: Six lessons on cloud resilience, recovery, and rising AI costs",
-          "url": "https://yourstory.com/2026/11/beyond-backups-six-lessons-on-cloud-resilience-recovery-and-rising-ai-costs",
-          "source": "YourStory",
-          "summary": "How Bout India built a travel company without selling packages By refusing the cookie‑cutter tour, Himanshu Maru and his co‑founders turned personalization into a moat, earning 970+ glowing reviews and a loyal global clientele. Himanshu Maru started Bout India in 2013 with a s…"
-        },
-        {
-          "title": "NHA Selects EkaCare for AI Voice Scribe in Public Health Facilities",
-          "url": "https://analyticsindiamag.com/ai-news/nha-selects-ekacare-for-ai-voice-scribe-in-public-health-facilities",
+          "title": "LatentView Analytics Certified as Best Firm for AI Engineers",
+          "url": "https://analyticsindiamag.com/ai-highlights/latentview-analytics-certified-as-best-firm-for-ai-engineers",
           "source": "Analytics India Mag",
-          "summary": "EkaCare's AI Voice Scribe will enhance documentation in public health, converting consultations into structured health records efficiently."
+          "summary": "LatentView Analytics has been certified as a Best Firm for AI Engineers by Analytics India Magazine based on an independent employee survey. The recognition hig"
         },
         {
-          "title": "SoftBank Takes $7 Billion Hit on US AI Data Centre Investments",
-          "url": "https://analyticsindiamag.com/ai-news/softbank-takes-7-billion-hit-on-us-ai-data-centre-investments",
+          "title": "OpenAI Brings API Inference Residency To India To Deepen Enterprise AI Adoption",
+          "url": "https://inc42.com/buzz/openai-brings-api-inference-residency-to-india-to-deepen-enterprise-ai-adoption/",
+          "source": "Inc42",
+          "summary": "ChatGPT maker OpenAI has introduced local inference and data processing for its APIs in India, adding to its efforts to…"
+        },
+        {
+          "title": "Space Tech Startup Astrome Bags ₹64 Cr RDI Fund for AI Satellite Network",
+          "url": "https://analyticsindiamag.com/ai-news/space-tech-startup-astrome-bags-64-cr-rdi-fund-for-ai-satellite-network",
           "source": "Analytics India Mag",
-          "summary": "The Japanese investment giant has written off billions of dollars after changing its plans for US data centre infrastructure, while also reporting losses linked"
+          "summary": "The Bengaluru-based startup plans to deploy 50-kg microsatellites in low Earth orbit to detect and analyse electronic signals for national security applications"
         },
         {
-          "title": "Seed funding’s new reality check in the age of AI",
-          "url": "https://yourstory.com/2026/11/seed-fundings-new-reality-check-in-the-age-of-ai",
-          "source": "YourStory",
-          "summary": "At TechSparks 2026, investors from Snowflake for Startups, 247VC, and Endiya discussed how AI is changing seed-stage investing and why founders need to demonstrate more than a working product to secure funding."
-        },
-        {
-          "title": "Can You Trust Your ‘Instinct’ and Not ‘Muse’ Over the Risks?",
-          "url": "https://analyticsindiamag.com/ai-features/can-you-trust-your-instinct-and-not-muse-over-the-risks",
+          "title": "LatentView Analytics Certified as Best Firm for Data Engineers",
+          "url": "https://analyticsindiamag.com/ai-highlights/latentview-analytics-certified-as-best-firm-for-data-engineers",
           "source": "Analytics India Mag",
-          "summary": "AI agents today—the ones that can use your web browser and autonomously perform tasks—are getting more intuitive. But are they safe enough?"
+          "summary": "LatentView Analytics earns recognition as a top firm for data engineers, reflecting its strong workplace culture and focus on modern enterprise AI."
+        },
+        {
+          "title": "Exponentia.ai Certified as Best Firm for Data Scientists",
+          "url": "https://analyticsindiamag.com/ai-highlights/exponentia-certified-as-best-firm-for-data-scientists",
+          "source": "Analytics India Mag",
+          "summary": "Exponentia.ai has been certified as a \"Best Firm for Data Scientists\" by Analytics India Magazine (AIM), reflecting its commitment to fostering strong workplace"
+        },
+        {
+          "title": "LTM Integrates AI Tool to Fix Quantum Computing Errors on IBM",
+          "url": "https://analyticsindiamag.com/ai-news/ltm-integrates-ai-tool-to-fix-quantum-computing-errors-on-ibm",
+          "source": "Analytics India Mag",
+          "summary": "LTM's AI-QEM technology uses classical post-processing to address device-specific errors, with tests involving quantum circuits of more than 100 qubits."
         }
       ]
     }
