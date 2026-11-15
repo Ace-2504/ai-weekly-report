@@ -1,121 +1,100 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "top": {
-    "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
-    "url": "https://arxiv.org/abs/2611.14544",
-    "source": "arXiv cs.AI",
-    "published": "2026-11-14T05:00:00.000Z",
-    "summary": "arXiv:2611.14544v1 Announce Type: new Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. This framing misses the errors that matter most. A misread that yields an illeg…"
+    "title": "Where was Nvidia’s security team?",
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "source": "TechCrunch AI",
+    "published": "2026-11-15T00:08:07.000Z",
+    "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyda…"
   },
   "topIndia": {
-    "title": "Jensen Huang’s Exit Just Gave AMD and Google Their Biggest AI Opening",
-    "url": "https://analyticsindiamag.com/global-tech/jensen-huangs-exit-just-gave-amd-and-google-their-biggest-ai-opening",
-    "source": "Analytics India Mag",
-    "published": "2026-11-14T11:01:30.000Z",
-    "summary": "On the same day that Jensen Huang resigned as NVIDIA’s chief executive after 33 years at the helm of the company he co-founded, another semiconductor company CE"
+    "title": "Sebi to issue AI usage guidelines for capital markets, focus on investor protection",
+    "url": "https://yourstory.com/2026/11/sebi-issue-ai-usage-guidelines-investor-protection",
+    "source": "YourStory",
+    "published": "2026-11-15T09:39:37.000Z",
+    "summary": "The Sebi chief said the proposed guidelines would focus on establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities, and a 'human-in-the-loop' approach."
   },
   "headlines": [
     {
-      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
-      "url": "https://arxiv.org/abs/2611.14654",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z"
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-14T21:41:22.000Z"
     },
     {
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "url": "https://arxiv.org/abs/2611.14681",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z"
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-14T17:30:00.000Z"
     },
     {
-      "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
-      "url": "https://arxiv.org/abs/2611.14736",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z"
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-14T16:34:15.000Z"
     },
     {
-      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
-      "url": "https://arxiv.org/abs/2611.14765",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z"
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-13T22:43:00.000Z"
     },
     {
-      "title": "Rational Use of Time for Social Coordination in Humans and AI",
-      "url": "https://arxiv.org/abs/2611.14766",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z"
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-13T19:37:57.000Z"
     },
     {
-      "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
-      "url": "https://arxiv.org/abs/2611.14769",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z"
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-13T18:40:30.000Z"
     },
     {
-      "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
-      "url": "https://arxiv.org/abs/2611.14781",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z"
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face",
+      "published": "2026-11-13T18:00:39.000Z"
     },
     {
-      "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
-      "url": "https://arxiv.org/abs/2611.14794",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z"
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face",
+      "published": "2026-11-13T17:02:35.000Z"
     },
     {
-      "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
-      "url": "https://arxiv.org/abs/2611.14804",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z"
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-13T16:00:12.000Z"
     },
     {
-      "title": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
-      "url": "https://arxiv.org/abs/2611.14844",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z"
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-13T15:58:00.000Z"
     },
     {
-      "title": "Open Challenges and Opportunities in Human-Agent Systems",
-      "url": "https://arxiv.org/abs/2611.14846",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z"
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-13T14:44:48.000Z"
     },
     {
-      "title": "Effective Teacher Support for Reasoning Distillation",
-      "url": "https://arxiv.org/abs/2611.14850",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z"
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face",
+      "published": "2026-11-13T14:05:22.000Z"
     }
   ],
   "events": [
-    {
-      "title": "metalSPARSE: A 2:4 Semi-Structured Sparse GEMV Kernel for Apple Silicon GPUs",
-      "url": "https://arxiv.org/abs/2611.14545",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z",
-      "summary": "arXiv:2611.14545v1 Announce Type: cross Abstract: Autoregressive Large Language Models (LLMs) generate text one token at a time, and each token reads every weight from memory, so on edge devices, decoding is limited by memory bandwidth. 2:4 semi-structured sparsity keeps two o…"
-    },
-    {
-      "title": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
-      "url": "https://arxiv.org/abs/2611.17294",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z",
-      "summary": "arXiv:2611.17294v1 Announce Type: cross Abstract: On-device inference requires kernels that make effective use of local accelerators. Efficient training and evaluation of models that generate Apple Metal kernels benefit from native macOS tools and concurrent agent sessions. Th…"
-    },
-    {
-      "title": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation",
-      "url": "https://arxiv.org/abs/2606.03159",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-14T05:00:00.000Z",
-      "summary": "arXiv:2606.03159v4 Announce Type: replace-cross Abstract: As autonomous vehicle capabilities advance, the safe evaluation of driving policies in long-tail scenarios remains a critical bottleneck. In closed-loop simulation, the driving policy model actively interacts with the e…"
-    },
     {
       "title": "Google Launches Gemini 4 Hydrogen for Faster Coding and AI Workflows",
       "url": "https://analyticsindiamag.com/ai-news/google-launches-gemini-4-hydrogen-for-faster-coding-and-ai-workflows",
       "source": "Analytics India Mag",
       "published": "2026-11-13T09:24:56.000Z",
-      "summary": "Discover how Google's Gemini 4 Hydrogen enhances coding efficiency and AI workflows, outperforming previous models in key benchmarks."
+      "summary": "The new model scores higher than Gemini 4 Argon on the Artificial Analysis Intelligence benchmark."
     },
     {
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -144,6 +123,13 @@
       "source": "Google AI Blog",
       "published": "2026-11-10T13:00:00.000Z",
       "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+    },
+    {
+      "title": "Google Launches Two New TPUs for Enterprise Agentic AI Workloads",
+      "url": "https://analyticsindiamag.com/ai-news/google-launches-two-new-tpus-for-enterprise-agentic-ai-workloads",
+      "source": "Analytics India Mag",
+      "published": "2026-11-10T05:48:14.000Z",
+      "summary": "Google has expanded its eighth-generation Tensor Processing Unit (TPU) portfolio with two new systems, TPU 8tx and TPU 8i Max."
     }
   ],
   "people": [
@@ -178,9 +164,9 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://analyticsindiamag.com/global-tech/jensen-huangs-exit-just-gave-amd-and-google-their-biggest-ai-opening",
-      "article": "Jensen Huang’s Exit Just Gave AMD and Google Their Biggest AI Opening",
-      "source": "Analytics India Mag"
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "article": "Where was Nvidia’s security team?",
+      "source": "TechCrunch AI"
     },
     {
       "name": "Andrej Karpathy",
