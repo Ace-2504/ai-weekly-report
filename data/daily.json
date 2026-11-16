@@ -1,20 +1,50 @@
 {
   "date": "2026-11-16",
   "top": {
-    "title": "New Ask Maps features to help with holiday travel and prep",
-    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-    "source": "Google AI Blog",
-    "published": "2026-11-16T14:00:00.000Z",
-    "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "source": "MIT Tech Review",
+    "published": "2026-11-16T16:04:28.000Z",
+    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said i…"
   },
   "topIndia": {
-    "title": "Alibaba Launches Qwen4-Max AI Model With Focus on Security",
-    "url": "https://analyticsindiamag.com/ai-news/alibaba-launches-qwen4-max-ai-model-with-focus-on-security",
-    "source": "Analytics India Mag",
-    "published": "2026-11-16T12:19:01.000Z",
-    "summary": "The 2.4-trillion-parameter model includes a 1-million-token context window, native vision capabilities and security improvements across coding and other tasks."
+    "title": "Former Freshworks executives-founded AI startup Dreamteam raises $53M",
+    "url": "https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding",
+    "source": "YourStory",
+    "published": "2026-11-16T15:45:53.000Z",
+    "summary": "Dreamteam raised this funding from Together Fund, Accel and Premji Invest and this capital will be primarily used to enhance its tech platform"
   },
   "headlines": [
+    {
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T15:52:19.000Z"
+    },
+    {
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T15:02:34.000Z"
+    },
+    {
+      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T14:48:13.000Z"
+    },
+    {
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "source": "Google AI Blog",
+      "published": "2026-11-16T14:00:00.000Z"
+    },
+    {
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-16T13:00:00.000Z"
+    },
     {
       "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
       "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
@@ -56,36 +86,6 @@
       "url": "https://arxiv.org/abs/2611.17501",
       "source": "arXiv cs.AI",
       "published": "2026-11-16T05:00:00.000Z"
-    },
-    {
-      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
-      "url": "https://arxiv.org/abs/2611.17515",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-16T05:00:00.000Z"
-    },
-    {
-      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
-      "url": "https://arxiv.org/abs/2611.17524",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-16T05:00:00.000Z"
-    },
-    {
-      "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
-      "url": "https://arxiv.org/abs/2611.17532",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-16T05:00:00.000Z"
-    },
-    {
-      "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
-      "url": "https://arxiv.org/abs/2611.17539",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-16T05:00:00.000Z"
-    },
-    {
-      "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
-      "url": "https://arxiv.org/abs/2611.17564",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-16T05:00:00.000Z"
     }
   ],
   "events": [
@@ -116,13 +116,6 @@
       "source": "Analytics India Mag",
       "published": "2026-11-13T09:24:56.000Z",
       "summary": "The new model scores higher than Gemini 4 Argon on the Artificial Analysis Intelligence benchmark."
-    },
-    {
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T22:42:51.000Z",
-      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
     },
     {
       "title": "OpenAI Launches API Inference Residency in India",

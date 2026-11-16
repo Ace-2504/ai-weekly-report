@@ -2,20 +2,50 @@
   "daily": {
     "date": "2026-11-16",
     "top": {
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "source": "Google AI Blog",
-      "published": "2026-11-16T14:00:00.000Z",
-      "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-16T16:04:28.000Z",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said i…"
     },
     "topIndia": {
-      "title": "Alibaba Launches Qwen4-Max AI Model With Focus on Security",
-      "url": "https://analyticsindiamag.com/ai-news/alibaba-launches-qwen4-max-ai-model-with-focus-on-security",
-      "source": "Analytics India Mag",
-      "published": "2026-11-16T12:19:01.000Z",
-      "summary": "The 2.4-trillion-parameter model includes a 1-million-token context window, native vision capabilities and security improvements across coding and other tasks."
+      "title": "Former Freshworks executives-founded AI startup Dreamteam raises $53M",
+      "url": "https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding",
+      "source": "YourStory",
+      "published": "2026-11-16T15:45:53.000Z",
+      "summary": "Dreamteam raised this funding from Together Fund, Accel and Premji Invest and this capital will be primarily used to enhance its tech platform"
     },
     "headlines": [
+      {
+        "title": "Audible turns to AI to help users discover audiobooks",
+        "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-16T15:52:19.000Z"
+      },
+      {
+        "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+        "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-16T15:02:34.000Z"
+      },
+      {
+        "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+        "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-16T14:48:13.000Z"
+      },
+      {
+        "title": "New Ask Maps features to help with holiday travel and prep",
+        "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+        "source": "Google AI Blog",
+        "published": "2026-11-16T14:00:00.000Z"
+      },
+      {
+        "title": "Building AI that can work across the enterprise",
+        "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+        "source": "MIT Tech Review",
+        "published": "2026-11-16T13:00:00.000Z"
+      },
       {
         "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
         "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
@@ -57,36 +87,6 @@
         "url": "https://arxiv.org/abs/2611.17501",
         "source": "arXiv cs.AI",
         "published": "2026-11-16T05:00:00.000Z"
-      },
-      {
-        "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
-        "url": "https://arxiv.org/abs/2611.17515",
-        "source": "arXiv cs.AI",
-        "published": "2026-11-16T05:00:00.000Z"
-      },
-      {
-        "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
-        "url": "https://arxiv.org/abs/2611.17524",
-        "source": "arXiv cs.AI",
-        "published": "2026-11-16T05:00:00.000Z"
-      },
-      {
-        "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
-        "url": "https://arxiv.org/abs/2611.17532",
-        "source": "arXiv cs.AI",
-        "published": "2026-11-16T05:00:00.000Z"
-      },
-      {
-        "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
-        "url": "https://arxiv.org/abs/2611.17539",
-        "source": "arXiv cs.AI",
-        "published": "2026-11-16T05:00:00.000Z"
-      },
-      {
-        "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
-        "url": "https://arxiv.org/abs/2611.17564",
-        "source": "arXiv cs.AI",
-        "published": "2026-11-16T05:00:00.000Z"
       }
     ],
     "events": [
@@ -117,13 +117,6 @@
         "source": "Analytics India Mag",
         "published": "2026-11-13T09:24:56.000Z",
         "summary": "The new model scores higher than Gemini 4 Argon on the Artificial Analysis Intelligence benchmark."
-      },
-      {
-        "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-        "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-        "source": "TechCrunch AI",
-        "published": "2026-11-12T22:42:51.000Z",
-        "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
       },
       {
         "title": "OpenAI Launches API Inference Residency in India",
@@ -208,12 +201,18 @@
   },
   "weekly": {
     "weekOf": "2026-11-10 to 2026-11-16",
-    "generated": "2026-11-16T14:14:39.622Z",
-    "intro": "393 AI items this week (78 India-relevant) across 10 sources.",
+    "generated": "2026-11-16T16:35:43.336Z",
+    "intro": "396 AI items this week (79 India-relevant) across 10 sources.",
     "sections": [
       {
         "heading": "Large Language Models",
         "items": [
+          {
+            "title": "Building AI that can work across the enterprise",
+            "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+            "source": "MIT Tech Review",
+            "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflo…"
+          },
           {
             "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
             "url": "https://arxiv.org/abs/2611.17338",
@@ -243,18 +242,18 @@
             "url": "https://arxiv.org/abs/2611.17539",
             "source": "arXiv cs.AI",
             "summary": "arXiv:2611.17539v1 Announce Type: new Abstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic searc…"
-          },
-          {
-            "title": "LLM-Guided Cluster Lifecycle Management: Deciding When and How to Evolve Behavioral Clusters",
-            "url": "https://arxiv.org/abs/2611.17616",
-            "source": "arXiv cs.AI",
-            "summary": "arXiv:2611.17616v1 Announce Type: new Abstract: Behavioral clusters learned over user or item interactions drift as behavior evolves: some fragment into sub-behaviors, some converge, some disappear, and new patterns emerge. Two paradigms dominate the maintenance of evolving cl…"
           }
         ]
       },
       {
         "heading": "Multimodal & Media",
         "items": [
+          {
+            "title": "Audible turns to AI to help users discover audiobooks",
+            "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+            "source": "TechCrunch AI",
+            "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample."
+          },
           {
             "title": "Aligned, Conflicting, or Unspecified? A Diagnostic Benchmark for Multimodal Time Series Forecasting",
             "url": "https://arxiv.org/abs/2611.17680",
@@ -284,12 +283,6 @@
             "url": "https://arxiv.org/abs/2611.17870",
             "source": "arXiv cs.AI",
             "summary": "arXiv:2611.17870v1 Announce Type: new Abstract: Vision-language models (VLMs) can answer questions about musical scores, but their ability to recognise notation, recover its structure and interpret its musical meaning requires separate evaluation. Existing optical music recogn…"
-          },
-          {
-            "title": "Measured from the feed: the unsustainable growth of AI video generation",
-            "url": "https://arxiv.org/abs/2611.17938",
-            "source": "arXiv cs.AI",
-            "summary": "arXiv:2611.17938v1 Announce Type: new Abstract: Text-to-video generation runs at commercial scale, but its broader environmental impacts remain, to our knowledge, understudied. Providers rarely disclose video volumes or energy needs; we measured the yearly video output of two …"
           }
         ]
       },
@@ -379,6 +372,24 @@
         "heading": "Industry & Research",
         "items": [
           {
+            "title": "Building trustworthy AI by fencing it in, not predicting it",
+            "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+            "source": "MIT Tech Review",
+            "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said i…"
+          },
+          {
+            "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+            "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+            "source": "TechCrunch AI",
+            "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries."
+          },
+          {
+            "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+            "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+            "source": "TechCrunch AI",
+            "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining."
+          },
+          {
             "title": "New Ask Maps features to help with holiday travel and prep",
             "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
             "source": "Google AI Blog",
@@ -395,30 +406,24 @@
             "url": "https://arxiv.org/abs/2611.17339",
             "source": "arXiv cs.AI",
             "summary": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually shi…"
-          },
-          {
-            "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
-            "url": "https://arxiv.org/abs/2611.17341",
-            "source": "arXiv cs.AI",
-            "summary": "arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions an…"
-          },
-          {
-            "title": "Advancing Quantization for R&R Models with Microscaling Formats",
-            "url": "https://arxiv.org/abs/2611.17501",
-            "source": "arXiv cs.AI",
-            "summary": "arXiv:2611.17501v1 Announce Type: new Abstract: Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs) that frequently tolerate qu…"
-          },
-          {
-            "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
-            "url": "https://arxiv.org/abs/2611.17532",
-            "source": "arXiv cs.AI",
-            "summary": "arXiv:2611.17532v1 Announce Type: new Abstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that …"
           }
         ]
       },
       {
         "heading": "India & Subcontinent",
         "items": [
+          {
+            "title": "Former Freshworks executives-founded AI startup Dreamteam raises $53M",
+            "url": "https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding",
+            "source": "YourStory",
+            "summary": "Dreamteam raised this funding from Together Fund, Accel and Premji Invest and this capital will be primarily used to enhance its tech platform"
+          },
+          {
+            "title": "Fractal Eyes AI Acquisitions Ahead Of Enterprise AI Scale-Up",
+            "url": "https://inc42.com/buzz/fractal-eyes-ai-acquisitions-ahead-of-enterprise-ai-scale-up/",
+            "source": "Inc42",
+            "summary": "Fractal Analytics is evaluating acquisitions across healthcare, agentic AI and AI engineering as it looks to strengthen its capabilities ahead…"
+          },
           {
             "title": "Alibaba Launches Qwen4-Max AI Model With Focus on Security",
             "url": "https://analyticsindiamag.com/ai-news/alibaba-launches-qwen4-max-ai-model-with-focus-on-security",
@@ -454,18 +459,6 @@
             "url": "https://analyticsindiamag.com/ai-news/india-joins-us-led-pact-to-secure-ai-and-semiconductor-supply-chains",
             "source": "Analytics India Mag",
             "summary": "The agreement brings 10 countries together to protect critical technologies, diversify supply chains and coordinate investment in AI infrastructure amid"
-          },
-          {
-            "title": "IBM investing $3 billion annually in India, plans $10 billion global quantum push: CEO",
-            "url": "https://economictimes.indiatimes.com/tech/technology/ibm-investing-3-billion-annually-in-india-plans-10-billion-global-quantum-push-ceo/articleshow/135884070.cms",
-            "source": "ET Tech",
-            "summary": "AI could displace 10-20% of jobs over the next decade, with the business process outsourcing (BPO) industry likely to face some of the biggest reductions in employment, Krishna said, arguing that businesses and governments would need to prepare workers for changes in the natur…"
-          },
-          {
-            "title": "Jio Stops New Signups For Free Google AI Pro Subscription",
-            "url": "https://inc42.com/buzz/jio-ends-new-sign-ups-for-free-google-ai-pro-subscription/",
-            "source": "Inc42",
-            "summary": "Reliance Jio has stopped accepting new claims for its free Google AI Pro subscription, which gave eligible users up to…"
           }
         ]
       }
