@@ -1,94 +1,115 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "top": {
-    "title": "Where was Nvidia’s security team?",
-    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "source": "TechCrunch AI",
-    "published": "2026-11-15T00:08:07.000Z",
-    "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyda…"
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "source": "Google AI Blog",
+    "published": "2026-11-16T14:00:00.000Z",
+    "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
   },
   "topIndia": {
-    "title": "Sebi to issue AI usage guidelines for capital markets, focus on investor protection",
-    "url": "https://yourstory.com/2026/11/sebi-issue-ai-usage-guidelines-investor-protection",
-    "source": "YourStory",
-    "published": "2026-11-15T09:39:37.000Z",
-    "summary": "The Sebi chief said the proposed guidelines would focus on establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities, and a 'human-in-the-loop' approach."
+    "title": "Alibaba Launches Qwen4-Max AI Model With Focus on Security",
+    "url": "https://analyticsindiamag.com/ai-news/alibaba-launches-qwen4-max-ai-model-with-focus-on-security",
+    "source": "Analytics India Mag",
+    "published": "2026-11-16T12:19:01.000Z",
+    "summary": "The 2.4-trillion-parameter model includes a 1-million-token context window, native vision capabilities and security improvements across coding and other tasks."
   },
   "headlines": [
     {
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
       "source": "TechCrunch AI",
-      "published": "2026-11-14T21:41:22.000Z"
+      "published": "2026-11-16T12:30:00.000Z"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-14T17:30:00.000Z"
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-16T05:00:00.000Z"
     },
     {
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-14T16:34:15.000Z"
+      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "url": "https://arxiv.org/abs/2611.17339",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-16T05:00:00.000Z"
     },
     {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-13T22:43:00.000Z"
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "url": "https://arxiv.org/abs/2611.17340",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-16T05:00:00.000Z"
     },
     {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-13T19:37:57.000Z"
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "url": "https://arxiv.org/abs/2611.17341",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-16T05:00:00.000Z"
     },
     {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-13T18:40:30.000Z"
+      "title": "An Operationalization of Opaque Serial Depth",
+      "url": "https://arxiv.org/abs/2611.17495",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-16T05:00:00.000Z"
     },
     {
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "source": "Hugging Face",
-      "published": "2026-11-13T18:00:39.000Z"
+      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+      "url": "https://arxiv.org/abs/2611.17501",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-16T05:00:00.000Z"
     },
     {
-      "title": "XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "source": "Hugging Face",
-      "published": "2026-11-13T17:02:35.000Z"
+      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "url": "https://arxiv.org/abs/2611.17515",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-16T05:00:00.000Z"
     },
     {
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-13T16:00:12.000Z"
+      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+      "url": "https://arxiv.org/abs/2611.17524",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-16T05:00:00.000Z"
     },
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-13T15:58:00.000Z"
+      "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
+      "url": "https://arxiv.org/abs/2611.17532",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-16T05:00:00.000Z"
     },
     {
-      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-13T14:44:48.000Z"
+      "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+      "url": "https://arxiv.org/abs/2611.17539",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-16T05:00:00.000Z"
     },
     {
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face",
-      "published": "2026-11-13T14:05:22.000Z"
+      "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
+      "url": "https://arxiv.org/abs/2611.17564",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-16T05:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Is Abliteration Getting Harder? Not Uniformly: Refusal Removal by Direction-Based Ablation and ARA in Heretic on the Qwen3.8, Gemma 4, Olmo 3.1 and Mistral Small 3.2 LLMs Versus Their Predecessors",
+      "url": "https://arxiv.org/abs/2611.17846",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-16T05:00:00.000Z",
+      "summary": "arXiv:2611.17846v1 Announce Type: new Abstract: Abliteration, a fine-tuning-free weight edit, removes refusal from open-weight large language models (LLMs). The developer of Arbitrary-Rank Ablation (ARA), an optimisation-based variant, reports that direction-based abliteration…"
+    },
+    {
+      "title": "Evaluating Large Language Models for Scientific Paper Search: Retrieval Success and Inference Latency on Mac Studio and NVIDIA A100",
+      "url": "https://arxiv.org/abs/2611.17929",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-16T05:00:00.000Z",
+      "summary": "arXiv:2611.17929v1 Announce Type: new Abstract: Scientific literature search can benefit from locally deployed LLM assistants, which reduce reliance on hosted model providers while giving research teams greater control over their data and infrastructure. This work investigates…"
+    },
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T01:30:00.000Z",
+      "summary": "Apple's new app for a study will answer everyday medical questions"
+    },
     {
       "title": "Google Launches Gemini 4 Hydrogen for Faster Coding and AI Workflows",
       "url": "https://analyticsindiamag.com/ai-news/google-launches-gemini-4-hydrogen-for-faster-coding-and-ai-workflows",
@@ -123,13 +144,6 @@
       "source": "Google AI Blog",
       "published": "2026-11-10T13:00:00.000Z",
       "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
-    },
-    {
-      "title": "Google Launches Two New TPUs for Enterprise Agentic AI Workloads",
-      "url": "https://analyticsindiamag.com/ai-news/google-launches-two-new-tpus-for-enterprise-agentic-ai-workloads",
-      "source": "Analytics India Mag",
-      "published": "2026-11-10T05:48:14.000Z",
-      "summary": "Google has expanded its eighth-generation Tensor Processing Unit (TPU) portfolio with two new systems, TPU 8tx and TPU 8i Max."
     }
   ],
   "people": [
@@ -164,9 +178,9 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "article": "Where was Nvidia’s security team?",
-      "source": "TechCrunch AI"
+      "link": "https://inc42.com/buzz/the-nvidia-fallout-weekly-funding-rundown-more/",
+      "article": "The NVIDIA Fallout, Weekly Funding Rundown & More",
+      "source": "Inc42"
     },
     {
       "name": "Andrej Karpathy",
