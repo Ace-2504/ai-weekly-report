@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-11-10 to 2026-11-16",
-  "generated": "2026-11-16T16:35:43.336Z",
-  "intro": "396 AI items this week (79 India-relevant) across 10 sources.",
+  "weekOf": "2026-11-11 to 2026-11-17",
+  "generated": "2026-11-17T15:06:58.696Z",
+  "intro": "139 AI items this week (98 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -13,34 +13,34 @@
           "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflo…"
         },
         {
-          "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-          "url": "https://arxiv.org/abs/2611.17338",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity inter…"
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
-          "url": "https://arxiv.org/abs/2611.17340",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool compl…"
+          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
-          "url": "https://arxiv.org/abs/2611.17515",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcr…"
+          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+          "source": "Google AI Blog",
+          "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
         },
         {
-          "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
-          "url": "https://arxiv.org/abs/2611.17524",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17524v1 Announce Type: new Abstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolida…"
+          "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "source": "Google AI Blog",
+          "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
         },
         {
-          "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
-          "url": "https://arxiv.org/abs/2611.17539",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17539v1 Announce Type: new Abstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic searc…"
+          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -48,40 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
+          "title": "Research Reports",
+          "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+          "source": "MIT Tech Review",
+          "summary": "To access a report, click on the corresponding image below."
+        },
+        {
+          "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+          "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+          "source": "TechCrunch AI",
+          "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March."
+        },
+        {
+          "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+          "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+          "source": "TechCrunch AI",
+          "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
+        },
+        {
+          "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+          "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+          "source": "TechCrunch AI",
+          "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
+        },
+        {
           "title": "Audible turns to AI to help users discover audiobooks",
           "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
           "source": "TechCrunch AI",
           "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample."
         },
         {
-          "title": "Aligned, Conflicting, or Unspecified? A Diagnostic Benchmark for Multimodal Time Series Forecasting",
-          "url": "https://arxiv.org/abs/2611.17680",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17680v1 Announce Type: new Abstract: Artificial Intelligence of Things (AIoT) systems increasingly combine sensed time series with external text such as expert reports and news, yet how reliably models use text that agrees or conflicts with the sensed history remain…"
-        },
-        {
-          "title": "Cross-Linguistic Acoustic Biomarkers of Cognitive Impairment Across Interactive and Single-Speaker Speech Tasks",
-          "url": "https://arxiv.org/abs/2611.17710",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17710v1 Announce Type: new Abstract: Multilingual dementia detection is essential for scalable and equitable screening. In recent years, automated speech analysis has emerged as a promising approach for supporting dementia detection by enabling non-invasive and scal…"
-        },
-        {
-          "title": "AutoRL: A Multi-Agent System towards Autonomous Reinforcement Learning",
-          "url": "https://arxiv.org/abs/2611.17790",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17790v1 Announce Type: new Abstract: Recursive self-improvement (RSI) is one of the most promising paths toward an AI singularity for superintelligence. Achieving this vision requires AI systems to undertake the full training pipeline for iterative improvement. Rein…"
-        },
-        {
-          "title": "Vision-as-a-Tool: Visual Harness for Multimodal Agentic Coding",
-          "url": "https://arxiv.org/abs/2611.17797",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17797v1 Announce Type: new Abstract: Multimodal agentic coding requires robust visual reasoning to analyze observations and evaluate generated artifacts. Current frameworks largely rely on a Thinking-with-Images paradigm, where agents depend on their intrinsic visio…"
-        },
-        {
-          "title": "OmniScore-Bench: Evaluating Vision-Language Models on Musical Score Reading",
-          "url": "https://arxiv.org/abs/2611.17870",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17870v1 Announce Type: new Abstract: Vision-language models (VLMs) can answer questions about musical scores, but their ability to recognise notation, recover its structure and interpret its musical meaning requires separate evaluation. Existing optical music recogn…"
+          "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+          "url": "https://huggingface.co/blog/3d-lora-finetuning",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -89,40 +89,28 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "An Operationalization of Opaque Serial Depth",
-          "url": "https://arxiv.org/abs/2611.17495",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17495v1 Announce Type: new Abstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize a measure that serves as a proxy for the amount of unver…"
+          "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+          "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+          "source": "Ars Technica",
+          "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to."
         },
         {
-          "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
-          "url": "https://arxiv.org/abs/2611.17610",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17610v1 Announce Type: new Abstract: Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary em…"
+          "title": "California state AG sues OpenAI over rogue agent incidents",
+          "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+          "source": "TechCrunch AI",
+          "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
         },
         {
-          "title": "Generated Evaluation Suites as Diversity-Driven Search for Real Agent Regressions",
-          "url": "https://arxiv.org/abs/2611.17632",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17632v1 Announce Type: new Abstract: Generating an evaluation suite from an agent's specification is diversity-driven search: a generator fills a descriptor space (requirements $\\times$ personas $\\times$ scenario kinds), and the suite it emits is an archive, then sc…"
+          "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+          "source": "TechCrunch AI",
+          "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
         },
         {
-          "title": "What LLM Agents See and What Users Say",
-          "url": "https://arxiv.org/abs/2611.17639",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17639v1 Announce Type: new Abstract: Before an LLM agent cancels a reservation or deletes a folder for a user, what stops it from acting on a false assumption: what its tools show, or what the user says? In this work, we study this gap with presupposition theory fro…"
-        },
-        {
-          "title": "Learn then Bet: Learning Interpretable Rules for Reliable Agent Intervention",
-          "url": "https://arxiv.org/abs/2611.17662",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17662v1 Announce Type: new Abstract: Autonomous agents now run for hundreds of steps with little or no human supervision. In practice, practitioners use runtime monitors such as turn limits and keyword filters to decide when a run should be stopped, upgraded, or ass…"
-        },
-        {
-          "title": "A Spectral Framework for Universal Proxy Regularization in Model Merging",
-          "url": "https://arxiv.org/abs/2611.17728",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17728v1 Announce Type: new Abstract: Model merging constructs multi-task models without expensive joint training but often suffers from parameter interference. Some solutions mitigate this by constraining finetuning using data from the other tasks to be merged, viol…"
+          "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+          "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+          "source": "Ars Technica",
+          "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them."
         }
       ]
     },
@@ -130,40 +118,16 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "Is Abliteration Getting Harder? Not Uniformly: Refusal Removal by Direction-Based Ablation and ARA in Heretic on the Qwen3.8, Gemma 4, Olmo 3.1 and Mistral Small 3.2 LLMs Versus Their Predecessors",
-          "url": "https://arxiv.org/abs/2611.17846",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17846v1 Announce Type: new Abstract: Abliteration, a fine-tuning-free weight edit, removes refusal from open-weight large language models (LLMs). The developer of Arbitrary-Rank Ablation (ARA), an optimisation-based variant, reports that direction-based abliteration…"
+          "title": "The open-source movement wants Jensen Huang back",
+          "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+          "source": "MIT Tech Review",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable si…"
         },
         {
-          "title": "TotalSegmentator Aorta Report: Automated Aortic Diameter Measurement at 11 Standardized Landmarks on CT Images",
-          "url": "https://arxiv.org/abs/2611.17968",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17968v1 Announce Type: new Abstract: Purpose: To develop and evaluate a fully automated, open-source tool that measures aortic diameters at 11 standardized landmarks from the aortic annulus to the bifurcation on any CT image, following current guideline recommendati…"
-        },
-        {
-          "title": "GraphScent: Calibrating Directional Relevance Signals for Bounded-Context Code Localization",
-          "url": "https://arxiv.org/abs/2611.17527",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17527v1 Announce Type: cross Abstract: Running open-weight language models locally on a single consumer GPU requires replacing expanding multi-turn exploration histories with short, stateless code inspections. Stateless repository localization, however, hinges on a …"
-        },
-        {
-          "title": "Agent-written heuristics versus commercial solvers on unsolved job-shop benchmark instances",
-          "url": "https://arxiv.org/abs/2611.17682",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17682v1 Announce Type: cross Abstract: Commercial solvers are the standard tool for difficult scheduling problems. We study whether a frontier large language model, used as a coding agent with open-source tools only, can match them in quality and speed. We report ev…"
-        },
-        {
-          "title": "TorchTPU - A Hybrid Eager/Compiled Architecture for Native PyTorch Execution on TPU",
-          "url": "https://arxiv.org/abs/2610.24161",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.24161v5 Announce Type: replace Abstract: TorchTPU is an open-source collaboration between Google and Meta that introduces a native and principled PyTorch backend for Google TPUs. It enables seamless out-of-the-box model execution and TPU migration while delivering i…"
-        },
-        {
-          "title": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
-          "url": "https://arxiv.org/abs/2611.10123",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.10123v2 Announce Type: replace-cross Abstract: Can a language model report a pain state it represents? Recent work reported a linear pain direction in open-weight models that, when amplified, leads fine-tuned models to choose actions that delete a user's photographs…"
+          "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "url": "https://huggingface.co/blog/openrouter",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -171,40 +135,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Building trustworthy AI by fencing it in, not predicting it",
-          "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-          "source": "MIT Tech Review",
-          "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said i…"
-        },
-        {
-          "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-          "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+          "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
           "source": "TechCrunch AI",
-          "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries."
+          "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round."
         },
         {
-          "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-          "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+          "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+          "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
           "source": "TechCrunch AI",
-          "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining."
+          "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business."
         },
         {
-          "title": "New Ask Maps features to help with holiday travel and prep",
-          "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-          "source": "Google AI Blog",
-          "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
-        },
-        {
-          "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-          "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+          "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+          "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
           "source": "TechCrunch AI",
-          "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs."
+          "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said."
         },
         {
-          "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-          "url": "https://arxiv.org/abs/2611.17339",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually shi…"
+          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+          "source": "TechCrunch AI",
+          "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+        },
+        {
+          "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+          "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer."
+        },
+        {
+          "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+          "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+          "source": "Ars Technica",
+          "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say."
         }
       ]
     },
@@ -212,52 +176,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Former Freshworks executives-founded AI startup Dreamteam raises $53M",
-          "url": "https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding",
+          "title": "The best of AI is yet to come, say experts at Bengaluru Tech Summit",
+          "url": "https://yourstory.com/2026/11/the-best-of-ai-is-yet-to-come-say-experts-at-bengaluru-tech-summit",
           "source": "YourStory",
-          "summary": "Dreamteam raised this funding from Together Fund, Accel and Premji Invest and this capital will be primarily used to enhance its tech platform"
+          "summary": "During a panel discussion, Karnataka Home and IT Minister Priyank Kharge, Infosys co-founder S Gopalakrishnan, Biocon Group Chairperson Kiran Mazumdar Shaw, and Accel India's founding partner Prashanth Prakash stressed the potential of AI to create solutions with population-sc…"
         },
         {
-          "title": "Fractal Eyes AI Acquisitions Ahead Of Enterprise AI Scale-Up",
-          "url": "https://inc42.com/buzz/fractal-eyes-ai-acquisitions-ahead-of-enterprise-ai-scale-up/",
+          "title": "Claude Outpaces ChatGPT, Gemini In India Adoption",
+          "url": "https://inc42.com/buzz/claude-outpaces-chatgpt-gemini-in-india-adoption/",
           "source": "Inc42",
-          "summary": "Fractal Analytics is evaluating acquisitions across healthcare, agentic AI and AI engineering as it looks to strengthen its capabilities ahead…"
+          "summary": "Anthropic’s AI bot Claude is close on the heels of Indian AI market leader ChatGPT, with the former’s adoption outpacing…"
         },
         {
-          "title": "Alibaba Launches Qwen4-Max AI Model With Focus on Security",
-          "url": "https://analyticsindiamag.com/ai-news/alibaba-launches-qwen4-max-ai-model-with-focus-on-security",
+          "title": "HCLTech Partners With Transformer Co-Author-Led Cohere to Target Sovereign AI Markets",
+          "url": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
           "source": "Analytics India Mag",
-          "summary": "The 2.4-trillion-parameter model includes a 1-million-token context window, native vision capabilities and security improvements across coding and other tasks."
+          "summary": "HCLTech and Cohere will initially focus on insurance, financial services, and manufacturing, offering solutions designed to meet data residency and regulatory"
         },
         {
-          "title": "Delhi's Bharat Semi Raises $24 Mn to Develop AI Image Sensors",
-          "url": "https://analyticsindiamag.com/ai-news/delhis-bharat-semi-raises-24-mn-to-develop-ai-image-sensors",
+          "title": "How AI could reshape jobs, investing, and wealth creation in India",
+          "url": "https://yourstory.com/2026/11/how-ai-could-reshape-jobs-investing-and-wealth-creation-in-india",
+          "source": "YourStory",
+          "summary": "At TechSparks 2026, Angel One Group CEO Ambarish Kenghe discussed how AI could change the nature of work, make investing more accessible, and create opportunities in healthcare, transportation, fintech and beyond."
+        },
+        {
+          "title": "Dreamteam Raises $53 Mn To Build AI-Native CRM With AI Teammates",
+          "url": "https://analyticsindiamag.com/ai-news/dreamteam-raises-53-mn-to-build-ai-native-crm-with-ai-teammates",
           "source": "Analytics India Mag",
-          "summary": "The Delhi-based startup plans to begin commercial production in 2027, targeting customers across the US and other markets."
+          "summary": "The company is building an AI-native customer relationship management platform with four AI teammates designed to automate sales operations and maintain shared"
         },
         {
-          "title": "Inside CtrlS’s Massive 4.4 GW Bet on India’s AI and Data Centre Boom",
-          "url": "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom",
+          "title": "Karnataka aims to become global hub for frontier technologies: DK Shivakumar",
+          "url": "https://yourstory.com/2026/11/karnataka-global-hub-frontier-technologies-dk-shivakumar",
+          "source": "YourStory",
+          "summary": "Karnataka Chief Minister DK Shivakumar said the strong technology ecosystem in the State gives it the advantage to lead in areas such as AI, biotech, semiconductor and robotics."
+        },
+        {
+          "title": "Sarvam AI Opens Token Factory To Run Global AI Models On Indian Servers",
+          "url": "https://inc42.com/buzz/sarvam-ai-opens-token-factory-to-run-global-ai-models-on-indian-servers/",
+          "source": "Inc42",
+          "summary": "AI unicorn Sarvam AI has opened Token Factory to developers and enterprises, giving them access to its own and global…"
+        },
+        {
+          "title": "Accenture, Google Cloud to Expand AI Education Across 1,000 Indian Institutions",
+          "url": "https://analyticsindiamag.com/ai-news/accenture-and-google-cloud-partner-to-expand-ai-education-across-1000-indian-institutions",
           "source": "Analytics India Mag",
-          "summary": "CrtlS currently operates 19 data centres and plans to establish more than 20 edge data centres across tier-2 and tier-3 cities."
-        },
-        {
-          "title": "Karnataka Bets on Physical AI, Deeptech at Bengaluru Tech Summit 2026",
-          "url": "https://analyticsindiamag.com/ai-news/karnataka-bets-on-physical-ai-deeptech-at-bengaluru-tech-summit-2026",
-          "source": "Analytics India Mag",
-          "summary": "Bengaluru Tech Summit 2026 aims to extend AI adoption beyond enterprise software into agriculture, biotechnology, gaming, industrial systems, and e-governance."
-        },
-        {
-          "title": "Fractal in talks with up to 25 AI startups for acquisitions, CEO says",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/fractal-in-talks-with-up-to-25-ai-startups-for-acquisitions-ceo-says/articleshow/135886057.cms",
-          "source": "ET Tech",
-          "summary": "Enterprise AI firm Fractal Analytics is actively talking to 20 to 25 startups to potentially acquire them, its CEO told Reuters, as it seeks to deepen its vertical-specific capabilities and gain early access to frontier AI models."
-        },
-        {
-          "title": "India Joins US-Led Pact to Secure AI and Semiconductor Supply Chains",
-          "url": "https://analyticsindiamag.com/ai-news/india-joins-us-led-pact-to-secure-ai-and-semiconductor-supply-chains",
-          "source": "Analytics India Mag",
-          "summary": "The agreement brings 10 countries together to protect critical technologies, diversify supply chains and coordinate investment in AI infrastructure amid"
+          "summary": "The collaboration will introduce AI Labs, industry-aligned learning programmes, and certifications covering generative AI, agentic AI, and AI engineering."
         }
       ]
     }

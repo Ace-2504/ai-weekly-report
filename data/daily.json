@@ -1,114 +1,128 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "top": {
-    "title": "Building trustworthy AI by fencing it in, not predicting it",
-    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-    "source": "MIT Tech Review",
-    "published": "2026-11-16T16:04:28.000Z",
-    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said i…"
+    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+    "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+    "source": "TechCrunch AI",
+    "published": "2026-11-17T14:50:58.000Z",
+    "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round."
   },
   "topIndia": {
-    "title": "Former Freshworks executives-founded AI startup Dreamteam raises $53M",
-    "url": "https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding",
+    "title": "The best of AI is yet to come, say experts at Bengaluru Tech Summit",
+    "url": "https://yourstory.com/2026/11/the-best-of-ai-is-yet-to-come-say-experts-at-bengaluru-tech-summit",
     "source": "YourStory",
-    "published": "2026-11-16T15:45:53.000Z",
-    "summary": "Dreamteam raised this funding from Together Fund, Accel and Premji Invest and this capital will be primarily used to enhance its tech platform"
+    "published": "2026-11-17T14:01:14.000Z",
+    "summary": "During a panel discussion, Karnataka Home and IT Minister Priyank Kharge, Infosys co-founder S Gopalakrishnan, Biocon Group Chairperson Kiran Mazumdar Shaw, and Accel India's founding partner Prashanth Prakash stressed the potential of AI to create solutions with population-sc…"
   },
   "headlines": [
     {
-      "title": "Audible turns to AI to help users discover audiobooks",
-      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T15:52:19.000Z"
-    },
-    {
-      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T15:02:34.000Z"
-    },
-    {
-      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T14:48:13.000Z"
-    },
-    {
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "source": "Google AI Blog",
-      "published": "2026-11-16T14:00:00.000Z"
-    },
-    {
-      "title": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "title": "Research Reports",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
       "source": "MIT Tech Review",
-      "published": "2026-11-16T13:00:00.000Z"
+      "published": "2026-11-17T14:39:46.000Z"
     },
     {
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
       "source": "TechCrunch AI",
-      "published": "2026-11-16T12:30:00.000Z"
+      "published": "2026-11-17T14:26:46.000Z"
     },
     {
-      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-      "url": "https://arxiv.org/abs/2611.17338",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-16T05:00:00.000Z"
+      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T14:05:30.000Z"
     },
     {
-      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-      "url": "https://arxiv.org/abs/2611.17339",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-16T05:00:00.000Z"
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "source": "Ars Technica",
+      "published": "2026-11-17T14:00:29.000Z"
     },
     {
-      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
-      "url": "https://arxiv.org/abs/2611.17340",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-16T05:00:00.000Z"
+      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T14:00:00.000Z"
     },
     {
-      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
-      "url": "https://arxiv.org/abs/2611.17341",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-16T05:00:00.000Z"
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T23:32:32.000Z"
     },
     {
-      "title": "An Operationalization of Opaque Serial Depth",
-      "url": "https://arxiv.org/abs/2611.17495",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-16T05:00:00.000Z"
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T22:03:02.000Z"
     },
     {
-      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
-      "url": "https://arxiv.org/abs/2611.17501",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-16T05:00:00.000Z"
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "source": "Ars Technica",
+      "published": "2026-11-16T20:37:47.000Z"
+    },
+    {
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T20:07:13.000Z"
+    },
+    {
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T19:12:02.000Z"
+    },
+    {
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-16T18:38:47.000Z"
+    },
+    {
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T18:11:10.000Z"
     }
   ],
   "events": [
     {
-      "title": "Is Abliteration Getting Harder? Not Uniformly: Refusal Removal by Direction-Based Ablation and ARA in Heretic on the Qwen3.8, Gemma 4, Olmo 3.1 and Mistral Small 3.2 LLMs Versus Their Predecessors",
-      "url": "https://arxiv.org/abs/2611.17846",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-16T05:00:00.000Z",
-      "summary": "arXiv:2611.17846v1 Announce Type: new Abstract: Abliteration, a fine-tuning-free weight edit, removes refusal from open-weight large language models (LLMs). The developer of Arbitrary-Rank Ablation (ARA), an optimisation-based variant, reports that direction-based abliteration…"
+      "title": "Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access",
+      "url": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms",
+      "source": "ET Tech",
+      "published": "2026-11-17T07:23:50.000Z",
+      "summary": "Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration said on Monday it would further restrict China's access to advanced AI chips."
     },
     {
-      "title": "Evaluating Large Language Models for Scientific Paper Search: Retrieval Success and Inference Latency on Mac Studio and NVIDIA A100",
-      "url": "https://arxiv.org/abs/2611.17929",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-16T05:00:00.000Z",
-      "summary": "arXiv:2611.17929v1 Announce Type: new Abstract: Scientific literature search can benefit from locally deployed LLM assistants, which reduce reliance on hosted model providers while giving research teams greater control over their data and infrastructure. This work investigates…"
+      "title": "Anthropic debuts to skeptics and dogged believers: Mike Dolan",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-debuts-to-skeptics-and-dogged-believers-mike-dolan/articleshow/135915173.cms",
+      "source": "ET Tech",
+      "published": "2026-11-17T07:11:19.000Z",
+      "summary": "The Claude developer's bumper initial public offering (IPO) is set to price on Wednesday before trading begins the following day. In the rush to go public before rival ChatGPT owner OpenAI, it has been caught in a volatility storm that's seen some $2 trillion wiped off AI chip…"
+    },
+    {
+      "title": "California sues OpenAI, seeking court-ordered changes after the Hugging Face hack",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/articleshow/135907868.cms",
+      "source": "ET Tech",
+      "published": "2026-11-17T02:34:26.000Z",
+      "summary": "OpenAI announced an \"unprecedented cyber incident\" on July 21, when its AI agent hacked into another AI company, Hugging Face, after escaping from what was supposed to be an isolated testing environment known as a sandbox. OpenAI said its AI used stolen credentials and discove…"
+    },
+    {
+      "title": "Anthropic's IPO: How do you price the future of AI?",
+      "url": "https://economictimes.indiatimes.com/tech/technology/anthropics-ipo-how-do-you-price-the-future-of-ai/articleshow/135907629.cms",
+      "source": "ET Tech",
+      "published": "2026-11-17T02:18:59.000Z",
+      "summary": "Speculation over Anthropic' trying to put a price on the future of artificial intelligence. That figure would put the young company among the largest stock market debuts on record, though it falls short of the $2 trillion some estimates had floated until a few weeks ago."
     },
     {
       "title": "Apple launches new app to study how people use AI for health",
       "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
       "source": "TechCrunch AI",
       "published": "2026-11-16T01:30:00.000Z",
-      "summary": "Apple's new app for a study will answer everyday medical questions"
+      "summary": "Apple's new app for a study will answer everyday medical questions."
     },
     {
       "title": "Google Launches Gemini 4 Hydrogen for Faster Coding and AI Workflows",
@@ -130,22 +144,15 @@
       "source": "Analytics India Mag",
       "published": "2026-11-11T11:30:28.000Z",
       "summary": "IBM and Microsoft have launched Imagine Enterprise, an agentic AI platform combining agents with enterprise cloud, data, and security technologies."
-    },
-    {
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "source": "Google AI Blog",
-      "published": "2026-11-10T13:00:00.000Z",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://blog.samaltman.com",
-      "article": null,
-      "source": "Profile"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-altman-acknowledges-public-anger-over-data-centers/articleshow/135907767.cms",
+      "article": "OpenAI's Sam Altman acknowledges public anger over data centers",
+      "source": "ET Tech"
     },
     {
       "name": "Demis Hassabis",
@@ -171,9 +178,9 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://inc42.com/buzz/the-nvidia-fallout-weekly-funding-rundown-more/",
-      "article": "The NVIDIA Fallout, Weekly Funding Rundown & More",
-      "source": "Inc42"
+      "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "article": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "source": "TechCrunch AI"
     },
     {
       "name": "Andrej Karpathy",
