@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-11-11 to 2026-11-17",
-  "generated": "2026-11-17T15:06:58.696Z",
-  "intro": "139 AI items this week (98 India-relevant) across 10 sources.",
+  "weekOf": "2026-11-12 to 2026-11-18",
+  "generated": "2026-11-18T14:45:43.741Z",
+  "intro": "445 AI items this week (90 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "Building AI that can work across the enterprise",
-          "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-          "source": "MIT Tech Review",
-          "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflo…"
+          "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+          "url": "https://arxiv.org/abs/2611.21832",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy sa…"
         },
         {
-          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Language Models Can Rewrite Their Own Weights",
+          "url": "https://arxiv.org/abs/2611.21885",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.21885v1 Announce Type: new Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit…"
         },
         {
-          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+          "url": "https://arxiv.org/abs/2611.21925",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple…"
         },
         {
-          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-          "source": "Google AI Blog",
-          "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
+          "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+          "url": "https://arxiv.org/abs/2611.21946",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.21946v1 Announce Type: new Abstract: A reasoning model that has reached a correct answer can lose it by continuing to think. Deciding whether to stop means comparing two probabilities at the same point of a chain: that the answer the model would give if stopped now …"
         },
         {
-          "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-          "source": "Google AI Blog",
-          "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+          "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+          "url": "https://arxiv.org/abs/2611.22033",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22033v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous shopping agents that process multimodal product listings (consisting of visual and text data) and recommend purchases on behalf of consumers. Naturally, one mig…"
         },
         {
-          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "url": "https://huggingface.co/blog/qvac/botpsy",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "EvoDisco: Strategy Discovery for Evolving Agent Memory",
+          "url": "https://arxiv.org/abs/2611.22102",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22102v1 Announce Type: new Abstract: Large language model agents accumulate experience in memory, and how that memory evolves during interaction is as important as what it stores. Recent methods update memory online, yet both the operators that transform memory and …"
         }
       ]
     },
@@ -48,40 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Research Reports",
-          "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-          "source": "MIT Tech Review",
-          "summary": "To access a report, click on the corresponding image below."
+          "title": "LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model",
+          "url": "https://arxiv.org/abs/2611.22131",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22131v1 Announce Type: new Abstract: Whole image embeddings can under represent small objects and local attributes that distinguish relevant images for localized queries. We present LoCaR, a training free framework for localized text to image retrieval with frozen v…"
         },
         {
-          "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-          "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-          "source": "TechCrunch AI",
-          "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March."
+          "title": "CorrectCast: Selective Multimodal Context for Scale-Aware Residual Correction in Precipitation Nowcasting",
+          "url": "https://arxiv.org/abs/2611.22178",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22178v1 Announce Type: new Abstract: Precipitation nowcasting models suffer from errors in intensity, location, and spatial structure. Addressing these errors by retraining nowcaster backbones can be computationally expensive and requires architecture-specific modif…"
         },
         {
-          "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-          "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-          "source": "TechCrunch AI",
-          "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
+          "title": "A Visual Information Extraction System Using Multimodal Large Language Models for Scanned Cognitive and Behavioral Assessments",
+          "url": "https://arxiv.org/abs/2611.22252",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22252v1 Announce Type: new Abstract: Objective. Paper-based assessments are common in patient care, but handwriting and scanning artifacts make these forms difficult to process at scale. This study proposes a modular, multimodal LLM-based system with human oversight…"
         },
         {
-          "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-          "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-          "source": "TechCrunch AI",
-          "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
+          "title": "Towards Physics-Constrained Rectified Flow for Climate Downscaling: What Projections Can Certify?",
+          "url": "https://arxiv.org/abs/2611.22283",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22283v1 Announce Type: new Abstract: Statistical downscaling restores the regional detail behind flooding and crop stress, but diffusion and flow-matching generators can produce sharp fields that break the conservation laws of their coarse input. Physics-Constrained…"
         },
         {
-          "title": "Audible turns to AI to help users discover audiobooks",
-          "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-          "source": "TechCrunch AI",
-          "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample."
+          "title": "PACD: Provenance-Aware Consensus Decoding for Mitigating Cross-Modal Hallucinations in Omnimodal Large Language Models",
+          "url": "https://arxiv.org/abs/2611.22456",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22456v1 Announce Type: new Abstract: Omnimodal large language models (Omni-LLMs) integrate audio, video, and text for multimodal reasoning, yet remain vulnerable to cross-modal hallucinations, where one modality improperly influences predictions about another. Exist…"
         },
         {
-          "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "url": "https://huggingface.co/blog/3d-lora-finetuning",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "RehearsalBench: Can AI Predict What Happens When You Change a Company?",
+          "url": "https://arxiv.org/abs/2611.22480",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22480v1 Announce Type: new Abstract: Organizations increasingly ask AI systems what will happen if they change how they operate: which work to automate, which team to resize, what a voice agent will do to waiting times. We introduce RehearsalBench, a benchmark that …"
         }
       ]
     },
@@ -89,28 +89,40 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-          "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-          "source": "Ars Technica",
-          "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to."
+          "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+          "url": "https://arxiv.org/abs/2611.21799",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors.…"
         },
         {
-          "title": "California state AG sues OpenAI over rogue agent incidents",
-          "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-          "source": "TechCrunch AI",
-          "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
+          "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+          "url": "https://arxiv.org/abs/2611.21950",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.21950v1 Announce Type: new Abstract: AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspect and redirect ongoing work remains a central design challenge. We present DiscoveryAgent, a domain-agnostic, scie…"
         },
         {
-          "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-          "source": "TechCrunch AI",
-          "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
+          "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
+          "url": "https://arxiv.org/abs/2611.21978",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.21978v1 Announce Type: new Abstract: Large language models are moving from isolated assistants toward autonomous agents that can plan, use tools, and coordinate with others, motivating an emerging Agentic Web of independently developed agents and services. Realizing…"
         },
         {
-          "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-          "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-          "source": "Ars Technica",
-          "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them."
+          "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
+          "url": "https://arxiv.org/abs/2611.22017",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22017v1 Announce Type: new Abstract: Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are now shipped by every major agent harness, yet the evidence for how much they help comes almost entirely from setti…"
+        },
+        {
+          "title": "What Does an Agent Need? Bundle-Aware Agent Resource Composition",
+          "url": "https://arxiv.org/abs/2611.22030",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22030v1 Announce Type: new Abstract: An agent resource's value depends on its backbone and companion resources and is known only after execution. Token-based generators remain tied to their training catalog, while independent resource scoring misses complementaritie…"
+        },
+        {
+          "title": "Can You Undo It? Reversibility Classes for AI Agent Actions",
+          "url": "https://arxiv.org/abs/2611.22075",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22075v1 Announce Type: new Abstract: Tool-using AI agents change files, databases, access rights and public information, yet permission to call a tool does not establish whether a mistake can be undone. We present Reversibility Classes, a declared five-level vocabul…"
         }
       ]
     },
@@ -118,16 +130,40 @@
       "heading": "Open Source",
       "items": [
         {
-          "title": "The open-source movement wants Jensen Huang back",
-          "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-          "source": "MIT Tech Review",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable si…"
+          "title": "Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)",
+          "url": "https://arxiv.org/abs/2611.22148",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22148v1 Announce Type: new Abstract: Open-weight language models are widely observed to get worse the longer they generate. Often, attempts to fix this involve more training. At high temperature, The sampler, i.e. the rule that picks the next token out of the model'…"
         },
         {
-          "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-          "url": "https://huggingface.co/blog/openrouter",
-          "source": "Hugging Face",
-          "summary": ""
+          "title": "Fine-Grained Japanese Clinical Named Entity Recognition: A Controlled Comparison of BERT and Open-Weight Large Language Models",
+          "url": "https://arxiv.org/abs/2611.22219",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22219v1 Announce Type: new Abstract: Background: Generative large language models (LLMs) offer an alternative to encoder-based clinical named entity recognition (NER), but their performance on fine-grained Japanese extraction tasks and sensitivity to generation sett…"
+        },
+        {
+          "title": "AutoE2E: Don't speak - Language free end-to-end autonomy A Real-Time Driving Model for L2++ ADAS and L4 Robotaxis",
+          "url": "https://arxiv.org/abs/2611.22374",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22374v1 Announce Type: new Abstract: AutoE2E is an open-source end-to-end driving model developed by the Autoware Foundation Robotaxi Working Group. It introduces a temporal bird's-eye-view (BEV) architecture that combines multi-camera perception, HD-map information…"
+        },
+        {
+          "title": "Watermark Evidence under Open-Weight LLM Modification: Exact Bounds for Low-Rank Output Watermarks",
+          "url": "https://arxiv.org/abs/2611.21702",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.21702v1 Announce Type: cross Abstract: Open-weight language models can continue generating after their released weights are modified, while a watermark verifier still scores outputs against the original base and marked models. We study how such modifications change …"
+        },
+        {
+          "title": "NS-Gym: A Comprehensive and Open-Source Simulation Framework for Non-Stationary Markov Decision Processes",
+          "url": "https://arxiv.org/abs/2501.09646",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2501.09646v2 Announce Type: replace Abstract: Many real-world applications require decision-making where the environmental dynamics evolve over time. These non-stationary environments pose significant challenges to traditional decision-making models, which typically assu…"
+        },
+        {
+          "title": "Mingbird: A Local-First Agent Harness Enabling Small Open Models to Complete Real Tasks",
+          "url": "https://arxiv.org/abs/2610.02001",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2610.02001v2 Announce Type: replace Abstract: Small open-weight language models now run on a laptop, but they fail at multi-step work in ways a large model does not: they stop with the files missing, repeat one action until the budget ends, and report success without che…"
         }
       ]
     },
@@ -135,40 +171,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-          "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+          "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
           "source": "TechCrunch AI",
-          "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round."
+          "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained."
         },
         {
-          "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-          "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+          "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+          "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
           "source": "TechCrunch AI",
-          "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business."
+          "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market."
         },
         {
-          "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-          "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-          "source": "TechCrunch AI",
-          "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said."
+          "title": "This smell startup says its AI nose is as good as a human’s",
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "source": "MIT Tech Review",
+          "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training d…"
         },
         {
-          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-          "source": "TechCrunch AI",
-          "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+          "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+          "url": "https://arxiv.org/abs/2611.21682",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus p…"
         },
         {
-          "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-          "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-          "source": "TechCrunch AI",
-          "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer."
+          "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+          "url": "https://arxiv.org/abs/2611.21827",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehicle itself. With a modern network (ConvNeXt-Small, 3 seed…"
         },
         {
-          "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-          "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-          "source": "Ars Technica",
-          "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say."
+          "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
+          "url": "https://arxiv.org/abs/2611.21948",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.21948v1 Announce Type: new Abstract: The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold undue influence over the policymaking process, due in part to their information advantage in developing these techn…"
         }
       ]
     },
@@ -176,52 +212,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "The best of AI is yet to come, say experts at Bengaluru Tech Summit",
-          "url": "https://yourstory.com/2026/11/the-best-of-ai-is-yet-to-come-say-experts-at-bengaluru-tech-summit",
-          "source": "YourStory",
-          "summary": "During a panel discussion, Karnataka Home and IT Minister Priyank Kharge, Infosys co-founder S Gopalakrishnan, Biocon Group Chairperson Kiran Mazumdar Shaw, and Accel India's founding partner Prashanth Prakash stressed the potential of AI to create solutions with population-sc…"
-        },
-        {
-          "title": "Claude Outpaces ChatGPT, Gemini In India Adoption",
-          "url": "https://inc42.com/buzz/claude-outpaces-chatgpt-gemini-in-india-adoption/",
+          "title": "Humyn Labs Raises $47 Mn To Collect Training Data For Robots",
+          "url": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/",
           "source": "Inc42",
-          "summary": "Anthropic’s AI bot Claude is close on the heels of Indian AI market leader ChatGPT, with the former’s adoption outpacing…"
+          "summary": "Physical AI startup Humyn Labs has raised $47 Mn (about ₹439 Cr) to expand its data collection and robot deployment…"
         },
         {
-          "title": "HCLTech Partners With Transformer Co-Author-Led Cohere to Target Sovereign AI Markets",
-          "url": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
-          "source": "Analytics India Mag",
-          "summary": "HCLTech and Cohere will initially focus on insurance, financial services, and manufacturing, offering solutions designed to meet data residency and regulatory"
-        },
-        {
-          "title": "How AI could reshape jobs, investing, and wealth creation in India",
-          "url": "https://yourstory.com/2026/11/how-ai-could-reshape-jobs-investing-and-wealth-creation-in-india",
+          "title": "Apollo, Microsoft turn to AI to help hospitals learn from medical errors",
+          "url": "https://yourstory.com/2026/11/apollo-microsoft-turn-to-ai-to-help-hospitals-learn-from-medical-errors",
           "source": "YourStory",
-          "summary": "At TechSparks 2026, Angel One Group CEO Ambarish Kenghe discussed how AI could change the nature of work, make investing more accessible, and create opportunities in healthcare, transportation, fintech and beyond."
+          "summary": "The partnership aims to turn fragmented hospital records into faster incident reviews and shared lessons."
         },
         {
-          "title": "Dreamteam Raises $53 Mn To Build AI-Native CRM With AI Teammates",
-          "url": "https://analyticsindiamag.com/ai-news/dreamteam-raises-53-mn-to-build-ai-native-crm-with-ai-teammates",
-          "source": "Analytics India Mag",
-          "summary": "The company is building an AI-native customer relationship management platform with four AI teammates designed to automate sales operations and maintain shared"
-        },
-        {
-          "title": "Karnataka aims to become global hub for frontier technologies: DK Shivakumar",
-          "url": "https://yourstory.com/2026/11/karnataka-global-hub-frontier-technologies-dk-shivakumar",
+          "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
+          "url": "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026",
           "source": "YourStory",
-          "summary": "Karnataka Chief Minister DK Shivakumar said the strong technology ecosystem in the State gives it the advantage to lead in areas such as AI, biotech, semiconductor and robotics."
+          "summary": "$85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital."
         },
         {
-          "title": "Sarvam AI Opens Token Factory To Run Global AI Models On Indian Servers",
-          "url": "https://inc42.com/buzz/sarvam-ai-opens-token-factory-to-run-global-ai-models-on-indian-servers/",
+          "title": "Hitachi Systems India Sets Up Bengaluru GDC to Tackle Frontier AI Risks",
+          "url": "https://analyticsindiamag.com/ai-news/hitachi-systems-india-sets-up-bengaluru-gdc-to-tackle-frontier-ai-risks",
+          "source": "Analytics India Mag",
+          "summary": "The centre will serve customers across Asia Pacific and the Middle East, offering services covering AI agent security, vulnerability remediation and security"
+        },
+        {
+          "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+          "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "source": "TechCrunch AI",
+          "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
+        },
+        {
+          "title": "Sarvam’s move to host Chinese AI models triggers debate",
+          "url": "https://yourstory.com/2026/11/sarvams-move-to-host-chinese-ai-models-triggers-debate",
+          "source": "YourStory",
+          "summary": "Sarvam’s decision to host Chinese AI models on Indian infrastructure has ignited a debate over AI sovereignty, public funding and India's ambitions to develop homegrown frontier technology."
+        },
+        {
+          "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
+          "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
           "source": "Inc42",
-          "summary": "AI unicorn Sarvam AI has opened Token Factory to developers and enterprises, giving them access to its own and global…"
+          "summary": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv…"
         },
         {
-          "title": "Accenture, Google Cloud to Expand AI Education Across 1,000 Indian Institutions",
-          "url": "https://analyticsindiamag.com/ai-news/accenture-and-google-cloud-partner-to-expand-ai-education-across-1000-indian-institutions",
-          "source": "Analytics India Mag",
-          "summary": "The collaboration will introduce AI Labs, industry-aligned learning programmes, and certifications covering generative AI, agentic AI, and AI engineering."
+          "title": "Botsync raises $11M to expand industrial automation",
+          "url": "https://yourstory.com/2026/11/botsync-raises-11m-to-expand-industrial-automation",
+          "source": "YourStory",
+          "summary": "Botsync has raised $11 million led by IvyCap Ventures to advance its AI-powered industrial automation platform, improve robotics capabilities and expand its presence in India and global markets."
         }
       ]
     }

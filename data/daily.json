@@ -1,94 +1,115 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "top": {
-    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-    "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+    "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+    "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
     "source": "TechCrunch AI",
-    "published": "2026-11-17T14:50:58.000Z",
-    "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round."
+    "published": "2026-11-18T13:00:00.000Z",
+    "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained."
   },
   "topIndia": {
-    "title": "The best of AI is yet to come, say experts at Bengaluru Tech Summit",
-    "url": "https://yourstory.com/2026/11/the-best-of-ai-is-yet-to-come-say-experts-at-bengaluru-tech-summit",
-    "source": "YourStory",
-    "published": "2026-11-17T14:01:14.000Z",
-    "summary": "During a panel discussion, Karnataka Home and IT Minister Priyank Kharge, Infosys co-founder S Gopalakrishnan, Biocon Group Chairperson Kiran Mazumdar Shaw, and Accel India's founding partner Prashanth Prakash stressed the potential of AI to create solutions with population-sc…"
+    "title": "Humyn Labs Raises $47 Mn To Collect Training Data For Robots",
+    "url": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/",
+    "source": "Inc42",
+    "published": "2026-11-18T13:22:25.000Z",
+    "summary": "Physical AI startup Humyn Labs has raised $47 Mn (about ₹439 Cr) to expand its data collection and robot deployment…"
   },
   "headlines": [
     {
-      "title": "Research Reports",
-      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-18T12:00:00.000Z"
+    },
+    {
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
       "source": "MIT Tech Review",
-      "published": "2026-11-17T14:39:46.000Z"
+      "published": "2026-11-18T10:20:30.000Z"
     },
     {
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-17T14:26:46.000Z"
+      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.21682",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-18T05:00:00.000Z"
     },
     {
-      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-17T14:05:30.000Z"
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "url": "https://arxiv.org/abs/2611.21799",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-18T05:00:00.000Z"
     },
     {
-      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-      "source": "Ars Technica",
-      "published": "2026-11-17T14:00:29.000Z"
+      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+      "url": "https://arxiv.org/abs/2611.21827",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-18T05:00:00.000Z"
     },
     {
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-17T14:00:00.000Z"
+      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+      "url": "https://arxiv.org/abs/2611.21832",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-18T05:00:00.000Z"
     },
     {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T23:32:32.000Z"
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-18T05:00:00.000Z"
     },
     {
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T22:03:02.000Z"
+      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+      "url": "https://arxiv.org/abs/2611.21925",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-18T05:00:00.000Z"
     },
     {
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-      "source": "Ars Technica",
-      "published": "2026-11-16T20:37:47.000Z"
+      "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+      "url": "https://arxiv.org/abs/2611.21946",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-18T05:00:00.000Z"
     },
     {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T20:07:13.000Z"
+      "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
+      "url": "https://arxiv.org/abs/2611.21948",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-18T05:00:00.000Z"
     },
     {
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T19:12:02.000Z"
+      "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+      "url": "https://arxiv.org/abs/2611.21950",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-18T05:00:00.000Z"
     },
     {
-      "title": "The open-source movement wants Jensen Huang back",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-16T18:38:47.000Z"
-    },
-    {
-      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T18:11:10.000Z"
+      "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
+      "url": "https://arxiv.org/abs/2611.21978",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-18T05:00:00.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Can AI Help Explain AI? Effects of Multimodal LLM-Generated Explanations on Perceived Understanding and Perceived Trust in XAI Visualizations",
+      "url": "https://arxiv.org/abs/2611.21638",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-18T05:00:00.000Z",
+      "summary": "arXiv:2611.21638v1 Announce Type: cross Abstract: Explainable artificial intelligence (XAI) aims to make machine learning models understandable, yet many XAI visualizations remain difficult for end-users to interpret. Here, we evaluate whether augmenting XAI outputs with textu…"
+    },
+    {
+      "title": "OpenAI launches GPT-6.2 Astra, Sol with focus on professional work and cost efficiency",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-6-2-astra-sol-with-focus-on-professional-work-and-cost-efficiency/articleshow/135947489.cms",
+      "source": "ET Tech",
+      "published": "2026-11-18T03:36:57.000Z",
+      "summary": "OpenAI has launched two new artificial intelligence models, GPT-6.2 Astra and GPT-6.2 Sol, with improved capabilities for professional and everyday tasks, while aiming to reduce the cost of using advanced AI tools for businesses and developers."
+    },
+    {
+      "title": "\"Parlay tech advances into real outcomes\": Microsoft CEO Satya Nadella unveils new models for coding, cybersecurity",
+      "url": "https://economictimes.indiatimes.com/tech/technology/parlay-tech-advances-into-real-outcomes-microsoft-ceo-satya-nadella-unveils-new-models-for-coding-cybersecurity/articleshow/135946214.cms",
+      "source": "ET Tech",
+      "published": "2026-11-18T02:40:15.000Z",
+      "summary": "Nadella highlighted how the company plans to provide nearly every layer of the technology businesses will need to build, deploy and manage increasingly autonomous AI systems."
+    },
     {
       "title": "Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access",
       "url": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms",
@@ -118,32 +139,11 @@
       "summary": "Speculation over Anthropic' trying to put a price on the future of artificial intelligence. That figure would put the young company among the largest stock market debuts on record, though it falls short of the $2 trillion some estimates had floated until a few weeks ago."
     },
     {
-      "title": "Apple launches new app to study how people use AI for health",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T01:30:00.000Z",
-      "summary": "Apple's new app for a study will answer everyday medical questions."
-    },
-    {
       "title": "Google Launches Gemini 4 Hydrogen for Faster Coding and AI Workflows",
       "url": "https://analyticsindiamag.com/ai-news/google-launches-gemini-4-hydrogen-for-faster-coding-and-ai-workflows",
       "source": "Analytics India Mag",
       "published": "2026-11-13T09:24:56.000Z",
       "summary": "The new model scores higher than Gemini 4 Argon on the Artificial Analysis Intelligence benchmark."
-    },
-    {
-      "title": "OpenAI Launches API Inference Residency in India",
-      "url": "https://analyticsindiamag.com/ai-news/openai-launches-api-inference-residency-in-india",
-      "source": "Analytics India Mag",
-      "published": "2026-11-12T08:02:14.000Z",
-      "summary": "The move could help financial services firms and other regulated businesses meet data localisation requirements while deploying OpenAI applications."
-    },
-    {
-      "title": "IBM, Microsoft Launch Agentic AI Platform With Over 6,000 AI Agents",
-      "url": "https://analyticsindiamag.com/ai-news/ibm-microsoft-launch-agentic-ai-platform-with-over-6000-ai-agents",
-      "source": "Analytics India Mag",
-      "published": "2026-11-11T11:30:28.000Z",
-      "summary": "IBM and Microsoft have launched Imagine Enterprise, an agentic AI platform combining agents with enterprise cloud, data, and security technologies."
     }
   ],
   "people": [
@@ -178,8 +178,8 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-      "article": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "article": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
       "source": "TechCrunch AI"
     },
     {
