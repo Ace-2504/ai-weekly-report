@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-11-12 to 2026-11-18",
-  "generated": "2026-11-18T14:45:43.741Z",
-  "intro": "445 AI items this week (90 India-relevant) across 10 sources.",
+  "weekOf": "2026-11-13 to 2026-11-19",
+  "generated": "2026-11-19T14:52:49.337Z",
+  "intro": "528 AI items this week (88 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -16,7 +16,7 @@
           "title": "Language Models Can Rewrite Their Own Weights",
           "url": "https://arxiv.org/abs/2611.21885",
           "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.21885v1 Announce Type: new Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit…"
+          "summary": "arXiv:2611.21885v2 Announce Type: new Abstract: A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends. We show a third way: to our knowledge for the fir…"
         },
         {
           "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
@@ -89,6 +89,12 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
+          "title": "Superhuman pushes its Go assistant everywhere",
+          "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+          "source": "TechCrunch AI",
+          "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail"
+        },
+        {
           "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
           "url": "https://arxiv.org/abs/2611.21799",
           "source": "arXiv cs.AI",
@@ -117,12 +123,6 @@
           "url": "https://arxiv.org/abs/2611.22030",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2611.22030v1 Announce Type: new Abstract: An agent resource's value depends on its backbone and companion resources and is known only after execution. Token-based generators remain tied to their training catalog, while independent resource scoring misses complementaritie…"
-        },
-        {
-          "title": "Can You Undo It? Reversibility Classes for AI Agent Actions",
-          "url": "https://arxiv.org/abs/2611.22075",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.22075v1 Announce Type: new Abstract: Tool-using AI agents change files, databases, access rights and public information, yet permission to call a tool does not establish whether a mistake can be undone. We present Reversibility Classes, a declared five-level vocabul…"
         }
       ]
     },
@@ -171,24 +171,6 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
-          "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-          "source": "TechCrunch AI",
-          "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained."
-        },
-        {
-          "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-          "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-          "source": "TechCrunch AI",
-          "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market."
-        },
-        {
-          "title": "This smell startup says its AI nose is as good as a human’s",
-          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-          "source": "MIT Tech Review",
-          "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training d…"
-        },
-        {
           "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
           "url": "https://arxiv.org/abs/2611.21682",
           "source": "arXiv cs.AI",
@@ -205,6 +187,24 @@
           "url": "https://arxiv.org/abs/2611.21948",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2611.21948v1 Announce Type: new Abstract: The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold undue influence over the policymaking process, due in part to their information advantage in developing these techn…"
+        },
+        {
+          "title": "KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants",
+          "url": "https://arxiv.org/abs/2611.21998",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.21998v1 Announce Type: new Abstract: Personal assistants accumulate months of conversations, but today's long-term memory stacks put derivation or selection between a question and its evidence. In a system-level comparison on LongMemEval, two commercial assistants s…"
+        },
+        {
+          "title": "On Formal Counterfactual Explanations",
+          "url": "https://arxiv.org/abs/2611.22010",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22010v1 Announce Type: new Abstract: Counterfactual explanations are often seen as counterfactual conditionals under closest-world semantics, requiring one to reason over all minimally distant counterexamples. In contrast, formal XAI typically relies on feature-base…"
+        },
+        {
+          "title": "A Hybrid Exact-Heuristic Solver for the Integrated Passenger and Parcel Transportation Problem",
+          "url": "https://arxiv.org/abs/2611.22043",
+          "source": "arXiv cs.AI",
+          "summary": "arXiv:2611.22043v2 Announce Type: new Abstract: We describe the solver we submitted to the second round of the SOICT 2026 contest on the Integrated Passenger and Parcel Transportation problem, a selective pickup-and-delivery routing problem with time windows, open routes and h…"
         }
       ]
     },
@@ -212,52 +212,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Humyn Labs Raises $47 Mn To Collect Training Data For Robots",
-          "url": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/",
-          "source": "Inc42",
-          "summary": "Physical AI startup Humyn Labs has raised $47 Mn (about ₹439 Cr) to expand its data collection and robot deployment…"
-        },
-        {
-          "title": "Apollo, Microsoft turn to AI to help hospitals learn from medical errors",
-          "url": "https://yourstory.com/2026/11/apollo-microsoft-turn-to-ai-to-help-hospitals-learn-from-medical-errors",
-          "source": "YourStory",
-          "summary": "The partnership aims to turn fragmented hospital records into faster incident reviews and shared lessons."
-        },
-        {
-          "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
-          "url": "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026",
-          "source": "YourStory",
-          "summary": "$85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital."
-        },
-        {
-          "title": "Hitachi Systems India Sets Up Bengaluru GDC to Tackle Frontier AI Risks",
-          "url": "https://analyticsindiamag.com/ai-news/hitachi-systems-india-sets-up-bengaluru-gdc-to-tackle-frontier-ai-risks",
+          "title": "Karnataka Sees ₹1,050 Cr Deeptech Investment From 24 VCs",
+          "url": "https://analyticsindiamag.com/ai-news/karnataka-sees-1050-cr-deep-tech-investment-from-24-vcs",
           "source": "Analytics India Mag",
-          "summary": "The centre will serve customers across Asia Pacific and the Middle East, offering services covering AI agent security, vulnerability remediation and security"
+          "summary": "This marked an increase from the ₹400 crore commitment made towards Karnataka AI and deeptech startups at last year's Bengaluru Tech Summit."
         },
         {
-          "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-          "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-          "source": "TechCrunch AI",
-          "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
+          "title": "Infosys Expands AI Footprint in Japan With Telecom JV",
+          "url": "https://analyticsindiamag.com/ai-news/infosys-joins-ntt-docomo-metaverse-venture-as-ai-partner",
+          "source": "Analytics India Mag",
+          "summary": "Tnfosys will acquire a 10.1% stake in the Japanese venture, which will focus on digital twins, immersive experiences, and virtual commerce."
         },
         {
-          "title": "Sarvam’s move to host Chinese AI models triggers debate",
-          "url": "https://yourstory.com/2026/11/sarvams-move-to-host-chinese-ai-models-triggers-debate",
+          "title": "Karnataka Hosts Nearly Half of India's AI CoEs: Zinnov-KDEM Report",
+          "url": "https://analyticsindiamag.com/ai-news/karnataka-hosts-nearly-half-of-indias-ai-centres-of-excellence-zinnov-kdem-report-says",
+          "source": "Analytics India Mag",
+          "summary": "Karnataka has over 120 AI/ML Centres of Excellence across more than 100 GCCs, supported by 111,000 AI/ML professionals, according to the report."
+        },
+        {
+          "title": "Karnataka emerges as India's GCC powerhouse with 1,088 centres, says Kharge",
+          "url": "https://yourstory.com/2026/11/karnataka-accounts-for-51-of-indias-gccs-says-new-report",
           "source": "YourStory",
-          "summary": "Sarvam’s decision to host Chinese AI models on Indian infrastructure has ignited a debate over AI sovereignty, public funding and India's ambitions to develop homegrown frontier technology."
+          "summary": "Karnataka hosts 51% of India's GCCs and 43% of its GCC AI talent. Minister Priyank Kharge unveiled a new Zinnov-KDEM report at Bengaluru Tech Summit 2026."
         },
         {
-          "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
-          "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
-          "source": "Inc42",
-          "summary": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv…"
+          "title": "Google's New Gemini 4 Neon Outperforms Claude Opus 5.5 on Several Benchmarks",
+          "url": "https://analyticsindiamag.com/ai-news/googles-new-gemini-4-neon-outperforms-claude-opus-55-on-several-benchmarks",
+          "source": "Analytics India Mag",
+          "summary": "Google's Gemini 4 model family continues its element-based naming convention, with Carbon, Hydrogen, Argon, and now, Neon."
         },
         {
-          "title": "Botsync raises $11M to expand industrial automation",
-          "url": "https://yourstory.com/2026/11/botsync-raises-11m-to-expand-industrial-automation",
+          "title": "America is Flooding AI With Billions. Indian Startups are Fighting for Survival",
+          "url": "https://analyticsindiamag.com/ai-startups/america-is-flooding-ai-with-billions-indian-startups-are-fighting-for-survival",
+          "source": "Analytics India Mag",
+          "summary": "As global venture capital concentrates around American AI companies, Indian startups face a tougher fundraising environment, with investors demanding stronger"
+        },
+        {
+          "title": "Adhiraj Chauhan wins ‘Young AI Entrepreneur’ at the ET AI Awards 2026 for breakthroughs spanning mental healthcare to marine robotics",
+          "url": "https://economictimes.indiatimes.com/tech/technology/adhiraj-chauhan-wins-young-ai-entrepreneur-at-the-et-ai-awards-2026-for-breakthroughs-spanning-mental-healthcare-to-marine-robotics/articleshow/135987369.cms",
+          "source": "ET Tech",
+          "summary": "Young entrepreneur earns recognition, standing out among startups, MSMEs and established enterprises for AI innovations advancing mental healthcare, digital twins and environmental conservation."
+        },
+        {
+          "title": "InPrime Finserv raises Rs 101 Cr in Series B round led by FMO",
+          "url": "https://yourstory.com/2026/11/inprime-finserv-raises-rs-101-cr-in-series-b-round-led-by-fmo",
           "source": "YourStory",
-          "summary": "Botsync has raised $11 million led by IvyCap Ventures to advance its AI-powered industrial automation platform, improve robotics capabilities and expand its presence in India and global markets."
+          "summary": "InPrime will use the funding to expand its reach and improve its technology stack, especially in AI use cases."
         }
       ]
     }
@@ -389,6 +389,13 @@
     "devto": "https://dev.to/ace2504",
     "repos": [
       {
+        "name": "wsp-study",
+        "desc": "Weight-space programming on a 125M legal QA model: pre-registered gates, honest negatives, final frozen eval",
+        "url": "https://github.com/Ace-2504/wsp-study",
+        "stars": 0,
+        "language": "Python"
+      },
+      {
         "name": "ai-weekly-report",
         "desc": "My personalized AI newsletter that runs on an agentic AI",
         "url": "https://github.com/Ace-2504/ai-weekly-report",
@@ -422,13 +429,6 @@
         "url": "https://github.com/Ace-2504/slm-fine-tuning",
         "stars": 0,
         "language": "Python"
-      },
-      {
-        "name": "slm-arena-15",
-        "desc": "15-model SLM arena — side-by-side demo across the 125M/500M/Gemma family (base/QA-SFT/RAFT/DPO/RLAIF).",
-        "url": "https://github.com/Ace-2504/slm-arena-15",
-        "stars": 0,
-        "language": "TypeScript"
       }
     ]
   }
