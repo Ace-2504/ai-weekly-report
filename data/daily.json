@@ -1,100 +1,142 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "top": {
-    "title": "Superhuman pushes its Go assistant everywhere",
-    "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+    "title": "Six AI-powered gadgets that could make your home office smarter",
+    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
     "source": "TechCrunch AI",
-    "published": "2026-11-19T14:00:00.000Z",
-    "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail"
+    "published": "2026-11-20T14:00:00.000Z",
+    "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
   },
   "topIndia": {
-    "title": "Karnataka Sees ₹1,050 Cr Deeptech Investment From 24 VCs",
-    "url": "https://analyticsindiamag.com/ai-news/karnataka-sees-1050-cr-deep-tech-investment-from-24-vcs",
-    "source": "Analytics India Mag",
-    "published": "2026-11-19T14:05:43.000Z",
-    "summary": "This marked an increase from the ₹400 crore commitment made towards Karnataka AI and deeptech startups at last year's Bengaluru Tech Summit."
+    "title": "Anthropic’s Nasdaq Debut Sparks Buying Rush Among Indian Retail Investors",
+    "url": "https://inc42.com/buzz/anthropics-nasdaq-debut-sparks-buying-rush-among-indian-retail-investors/",
+    "source": "Inc42",
+    "published": "2026-11-20T13:42:49.000Z",
+    "summary": "Indian retail investors rushed to buy and trade Anthropic shares following its Nasdaq debut yesterday, with the Claude maker drawing…"
   },
   "headlines": [
     {
-      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
-      "url": "https://arxiv.org/abs/2611.21682",
+      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+      "url": "https://arxiv.org/abs/2611.23322",
       "source": "arXiv cs.AI",
-      "published": "2026-11-19T05:00:00.000Z"
+      "published": "2026-11-20T05:00:00.000Z"
     },
     {
-      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-      "url": "https://arxiv.org/abs/2611.21799",
+      "title": "Training Language Models for Introspective Oversight",
+      "url": "https://arxiv.org/abs/2611.23365",
       "source": "arXiv cs.AI",
-      "published": "2026-11-19T05:00:00.000Z"
+      "published": "2026-11-20T05:00:00.000Z"
     },
     {
-      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
-      "url": "https://arxiv.org/abs/2611.21827",
+      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+      "url": "https://arxiv.org/abs/2611.23375",
       "source": "arXiv cs.AI",
-      "published": "2026-11-19T05:00:00.000Z"
+      "published": "2026-11-20T05:00:00.000Z"
     },
     {
-      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-      "url": "https://arxiv.org/abs/2611.21832",
+      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+      "url": "https://arxiv.org/abs/2611.23398",
       "source": "arXiv cs.AI",
-      "published": "2026-11-19T05:00:00.000Z"
+      "published": "2026-11-20T05:00:00.000Z"
     },
     {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "url": "https://arxiv.org/abs/2611.21885",
+      "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+      "url": "https://arxiv.org/abs/2611.23410",
       "source": "arXiv cs.AI",
-      "published": "2026-11-19T05:00:00.000Z"
+      "published": "2026-11-20T05:00:00.000Z"
     },
     {
-      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
-      "url": "https://arxiv.org/abs/2611.21925",
+      "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+      "url": "https://arxiv.org/abs/2611.23445",
       "source": "arXiv cs.AI",
-      "published": "2026-11-19T05:00:00.000Z"
+      "published": "2026-11-20T05:00:00.000Z"
     },
     {
-      "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
-      "url": "https://arxiv.org/abs/2611.21946",
+      "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+      "url": "https://arxiv.org/abs/2611.23454",
       "source": "arXiv cs.AI",
-      "published": "2026-11-19T05:00:00.000Z"
+      "published": "2026-11-20T05:00:00.000Z"
     },
     {
-      "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
-      "url": "https://arxiv.org/abs/2611.21948",
+      "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+      "url": "https://arxiv.org/abs/2611.23456",
       "source": "arXiv cs.AI",
-      "published": "2026-11-19T05:00:00.000Z"
+      "published": "2026-11-20T05:00:00.000Z"
     },
     {
-      "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
-      "url": "https://arxiv.org/abs/2611.21950",
+      "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+      "url": "https://arxiv.org/abs/2611.23476",
       "source": "arXiv cs.AI",
-      "published": "2026-11-19T05:00:00.000Z"
+      "published": "2026-11-20T05:00:00.000Z"
     },
     {
-      "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
-      "url": "https://arxiv.org/abs/2611.21978",
+      "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+      "url": "https://arxiv.org/abs/2611.23480",
       "source": "arXiv cs.AI",
-      "published": "2026-11-19T05:00:00.000Z"
+      "published": "2026-11-20T05:00:00.000Z"
     },
     {
-      "title": "KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants",
-      "url": "https://arxiv.org/abs/2611.21998",
+      "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+      "url": "https://arxiv.org/abs/2611.23483",
       "source": "arXiv cs.AI",
-      "published": "2026-11-19T05:00:00.000Z"
+      "published": "2026-11-20T05:00:00.000Z"
     },
     {
-      "title": "On Formal Counterfactual Explanations",
-      "url": "https://arxiv.org/abs/2611.22010",
+      "title": "BOS Summary: The First Token Matters",
+      "url": "https://arxiv.org/abs/2611.23508",
       "source": "arXiv cs.AI",
-      "published": "2026-11-19T05:00:00.000Z"
+      "published": "2026-11-20T05:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Can AI Help Explain AI? Effects of Multimodal LLM-Generated Explanations on Perceived Understanding and Perceived Trust in XAI Visualizations",
-      "url": "https://arxiv.org/abs/2611.21638",
+      "title": "Anthropic’s Nasdaq Debut Sparks Buying Rush Among Indian Retail Investors",
+      "url": "https://inc42.com/buzz/anthropics-nasdaq-debut-sparks-buying-rush-among-indian-retail-investors/",
+      "source": "Inc42",
+      "published": "2026-11-20T13:42:49.000Z",
+      "summary": "Indian retail investors rushed to buy and trade Anthropic shares following its Nasdaq debut yesterday, with the Claude maker drawing…"
+    },
+    {
+      "title": "YourStory launches voice AI hackathon with Rs 8 lakh prize pool in collaboration with Google Cloud India",
+      "url": "https://yourstory.com/2026/11/hack2skill-yourstory-launches-voice-ai-hackathon-with-rs-8-lakh-prize-pool-in-collaboration-with-google-cloud-india",
+      "source": "YourStory",
+      "published": "2026-11-20T07:30:43.000Z",
+      "summary": "Virtual hackathon invites working professionals to build voice AI prototypes using Gemini Enterprise and the Google Cloud AI stack."
+    },
+    {
+      "title": "Meta$^n$: Recursive Self-Improvement through Emergent Depth",
+      "url": "https://arxiv.org/abs/2608.24735",
       "source": "arXiv cs.AI",
-      "published": "2026-11-19T05:00:00.000Z",
-      "summary": "arXiv:2611.21638v1 Announce Type: cross Abstract: Explainable artificial intelligence (XAI) aims to make machine learning models understandable, yet many XAI visualizations remain difficult for end-users to interpret. Here, we evaluate whether augmenting XAI outputs with textu…"
+      "published": "2026-11-20T05:00:00.000Z",
+      "summary": "arXiv:2608.24735v2 Announce Type: replace Abstract: Self-improving LLM agents refine answers, not the process that produces those answers. Systems that add a meta-level hold that level fixed, and those that edit themselves must leave part of their own editing machinery untouch…"
+    },
+    {
+      "title": "Meta-RL with Bayesian Linear Task Models",
+      "url": "https://arxiv.org/abs/2512.20974",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-20T05:00:00.000Z",
+      "summary": "arXiv:2512.20974v5 Announce Type: replace-cross Abstract: Deep Bayesian reinforcement learning adapts to unseen tasks by inferring latent transition and reward models, but existing methods typically rely on variational posteriors and evidence lower bounds, introducing approxim…"
+    },
+    {
+      "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029",
+      "url": "https://economictimes.indiatimes.com/tech/startups/google-picks-bezos-blue-origin-to-launch-ai-computing-satellites-in-2029/articleshow/136012234.cms",
+      "source": "ET Tech",
+      "published": "2026-11-20T03:52:25.000Z",
+      "summary": "Companies including Elon Musk's SpaceX and startup Starcloud are exploring data centers in orbit as growing AI use drives demand for computing capacity and strains infrastructure supporting facilities on the ground."
+    },
+    {
+      "title": "Anthropic's $1.5 trillion debut rewrites venture capital's playbook",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-1-5-trillion-debut-rewrites-venture-capitals-playbook/articleshow/136010952.cms",
+      "source": "ET Tech",
+      "published": "2026-11-20T02:58:04.000Z",
+      "summary": "The AI lab's shares began trading on the Nasdaq on Thursday at a $1.5 trillion valuation, delivering multibillion-dollar windfalls to venture investors at a moment when the industry needs fresh liquidity to fund more bets on AI companies. The stock closed at $97.17, up 17% fro…"
+    },
+    {
+      "title": "Meta to price Muse Charm gadget at $300: The Information",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-to-price-muse-charm-gadget-at-300-the-information/articleshow/136009999.cms",
+      "source": "ET Tech",
+      "published": "2026-11-20T01:59:06.000Z",
+      "summary": "The device that carries the viral Muse AI agent into the real world was unveiled in September by chief executive Mark Zuckerberg during the company's annual conference. Muse Charm underscores Meta's broader push to reduce its reliance on Apple and Google's operating systems by…"
     },
     {
       "title": "OpenAI launches GPT-6.2 Astra, Sol with focus on professional work and cost efficiency",
@@ -102,57 +144,15 @@
       "source": "ET Tech",
       "published": "2026-11-18T03:36:57.000Z",
       "summary": "OpenAI has launched two new artificial intelligence models, GPT-6.2 Astra and GPT-6.2 Sol, with improved capabilities for professional and everyday tasks, while aiming to reduce the cost of using advanced AI tools for businesses and developers."
-    },
-    {
-      "title": "\"Parlay tech advances into real outcomes\": Microsoft CEO Satya Nadella unveils new models for coding, cybersecurity",
-      "url": "https://economictimes.indiatimes.com/tech/technology/parlay-tech-advances-into-real-outcomes-microsoft-ceo-satya-nadella-unveils-new-models-for-coding-cybersecurity/articleshow/135946214.cms",
-      "source": "ET Tech",
-      "published": "2026-11-18T02:40:15.000Z",
-      "summary": "Nadella highlighted how the company plans to provide nearly every layer of the technology businesses will need to build, deploy and manage increasingly autonomous AI systems."
-    },
-    {
-      "title": "Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access",
-      "url": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms",
-      "source": "ET Tech",
-      "published": "2026-11-17T07:23:50.000Z",
-      "summary": "Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration said on Monday it would further restrict China's access to advanced AI chips."
-    },
-    {
-      "title": "Anthropic debuts to skeptics and dogged believers: Mike Dolan",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-debuts-to-skeptics-and-dogged-believers-mike-dolan/articleshow/135915173.cms",
-      "source": "ET Tech",
-      "published": "2026-11-17T07:11:19.000Z",
-      "summary": "The Claude developer's bumper initial public offering (IPO) is set to price on Wednesday before trading begins the following day. In the rush to go public before rival ChatGPT owner OpenAI, it has been caught in a volatility storm that's seen some $2 trillion wiped off AI chip…"
-    },
-    {
-      "title": "California sues OpenAI, seeking court-ordered changes after the Hugging Face hack",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/articleshow/135907868.cms",
-      "source": "ET Tech",
-      "published": "2026-11-17T02:34:26.000Z",
-      "summary": "OpenAI announced an \"unprecedented cyber incident\" on July 21, when its AI agent hacked into another AI company, Hugging Face, after escaping from what was supposed to be an isolated testing environment known as a sandbox. OpenAI said its AI used stolen credentials and discove…"
-    },
-    {
-      "title": "Anthropic's IPO: How do you price the future of AI?",
-      "url": "https://economictimes.indiatimes.com/tech/technology/anthropics-ipo-how-do-you-price-the-future-of-ai/articleshow/135907629.cms",
-      "source": "ET Tech",
-      "published": "2026-11-17T02:18:59.000Z",
-      "summary": "Speculation over Anthropic' trying to put a price on the future of artificial intelligence. That figure would put the young company among the largest stock market debuts on record, though it falls short of the $2 trillion some estimates had floated until a few weeks ago."
-    },
-    {
-      "title": "Google Launches Gemini 4 Hydrogen for Faster Coding and AI Workflows",
-      "url": "https://analyticsindiamag.com/ai-news/google-launches-gemini-4-hydrogen-for-faster-coding-and-ai-workflows",
-      "source": "Analytics India Mag",
-      "published": "2026-11-13T09:24:56.000Z",
-      "summary": "The new model scores higher than Gemini 4 Argon on the Artificial Analysis Intelligence benchmark."
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-      "article": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-      "source": "TechCrunch AI"
+      "link": "https://blog.samaltman.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Demis Hassabis",
@@ -164,9 +164,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://www.darioamodei.com",
-      "article": null,
-      "source": "Profile"
+      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "article": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "source": "TechCrunch AI"
     },
     {
       "name": "Yann LeCun",
@@ -178,9 +178,9 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://economictimes.indiatimes.com/tech/technology/us-lawmakers-seek-microsoft-briefing-on-reported-ai-deal-talks-with-bytedance/articleshow/135977207.cms",
-      "article": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance",
-      "source": "ET Tech"
+      "link": "https://analyticsindiamag.com/global-tech/nvidias-crisis-has-only-just-begun-and-theres-no-jensen-charm-to-save-it",
+      "article": "NVIDIA's Crisis Has Only Just Begun, and There's No Jensen Charm to Save It",
+      "source": "Analytics India Mag"
     },
     {
       "name": "Andrej Karpathy",
