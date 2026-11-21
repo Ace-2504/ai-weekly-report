@@ -1,94 +1,101 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "top": {
-    "title": "Six AI-powered gadgets that could make your home office smarter",
-    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-    "source": "TechCrunch AI",
-    "published": "2026-11-20T14:00:00.000Z",
-    "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "source": "Ars Technica",
+    "published": "2026-11-20T20:59:08.000Z",
+    "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
   },
   "topIndia": {
-    "title": "Anthropic’s Nasdaq Debut Sparks Buying Rush Among Indian Retail Investors",
-    "url": "https://inc42.com/buzz/anthropics-nasdaq-debut-sparks-buying-rush-among-indian-retail-investors/",
+    "title": "Sarvam’s Token Factory Raises India’s AI Inference Stakes",
+    "url": "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/",
     "source": "Inc42",
-    "published": "2026-11-20T13:42:49.000Z",
-    "summary": "Indian retail investors rushed to buy and trade Anthropic shares following its Nasdaq debut yesterday, with the Claude maker drawing…"
+    "published": "2026-11-21T11:57:54.000Z",
+    "summary": "Sarvam AI’s latest announcement of its Token Factory has brought a new layer of India’s artificial intelligence (AI) infrastructure ecosystem…"
   },
   "headlines": [
     {
-      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
-      "url": "https://arxiv.org/abs/2611.23322",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-20T05:00:00.000Z"
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-20T19:53:41.000Z"
     },
     {
-      "title": "Training Language Models for Introspective Oversight",
-      "url": "https://arxiv.org/abs/2611.23365",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-20T05:00:00.000Z"
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-20T19:32:08.000Z"
     },
     {
-      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-      "url": "https://arxiv.org/abs/2611.23375",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-20T05:00:00.000Z"
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-20T18:15:15.000Z"
     },
     {
-      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-      "url": "https://arxiv.org/abs/2611.23398",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-20T05:00:00.000Z"
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-20T17:40:01.000Z"
     },
     {
-      "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
-      "url": "https://arxiv.org/abs/2611.23410",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-20T05:00:00.000Z"
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-20T14:55:44.000Z"
     },
     {
-      "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
-      "url": "https://arxiv.org/abs/2611.23445",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-20T05:00:00.000Z"
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-20T14:00:00.000Z"
     },
     {
-      "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
-      "url": "https://arxiv.org/abs/2611.23454",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-20T05:00:00.000Z"
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-20T00:56:01.000Z"
     },
     {
-      "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
-      "url": "https://arxiv.org/abs/2611.23456",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-20T05:00:00.000Z"
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-20T00:43:50.000Z"
     },
     {
-      "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
-      "url": "https://arxiv.org/abs/2611.23476",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-20T05:00:00.000Z"
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face",
+      "published": "2026-11-20T00:00:00.000Z"
     },
     {
-      "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
-      "url": "https://arxiv.org/abs/2611.23480",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-20T05:00:00.000Z"
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face",
+      "published": "2026-11-20T00:00:00.000Z"
     },
     {
-      "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
-      "url": "https://arxiv.org/abs/2611.23483",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-20T05:00:00.000Z"
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-19T21:58:06.000Z"
     },
     {
-      "title": "BOS Summary: The First Token Matters",
-      "url": "https://arxiv.org/abs/2611.23508",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-20T05:00:00.000Z"
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-19T21:42:31.000Z"
     }
   ],
   "events": [
+    {
+      "title": "Google announces $5M funding for IIT Kharagpur for advanced AI research",
+      "url": "https://yourstory.com/2026/11/google-announces-5m-funding-for-iit-kharagpur-for-advanced-ai-research",
+      "source": "YourStory",
+      "published": "2026-11-21T08:23:27.000Z",
+      "summary": "The funding will support the institute's researchers and students across three core pillars: advanced AI research, educational opportunities, and AI capacity building."
+    },
     {
       "title": "Anthropic’s Nasdaq Debut Sparks Buying Rush Among Indian Retail Investors",
       "url": "https://inc42.com/buzz/anthropics-nasdaq-debut-sparks-buying-rush-among-indian-retail-investors/",
@@ -102,20 +109,6 @@
       "source": "YourStory",
       "published": "2026-11-20T07:30:43.000Z",
       "summary": "Virtual hackathon invites working professionals to build voice AI prototypes using Gemini Enterprise and the Google Cloud AI stack."
-    },
-    {
-      "title": "Meta$^n$: Recursive Self-Improvement through Emergent Depth",
-      "url": "https://arxiv.org/abs/2608.24735",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-20T05:00:00.000Z",
-      "summary": "arXiv:2608.24735v2 Announce Type: replace Abstract: Self-improving LLM agents refine answers, not the process that produces those answers. Systems that add a meta-level hold that level fixed, and those that edit themselves must leave part of their own editing machinery untouch…"
-    },
-    {
-      "title": "Meta-RL with Bayesian Linear Task Models",
-      "url": "https://arxiv.org/abs/2512.20974",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-20T05:00:00.000Z",
-      "summary": "arXiv:2512.20974v5 Announce Type: replace-cross Abstract: Deep Bayesian reinforcement learning adapts to unseen tasks by inferring latent transition and reward models, but existing methods typically rely on variational posteriors and evidence lower bounds, introducing approxim…"
     },
     {
       "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029",
@@ -144,6 +137,13 @@
       "source": "ET Tech",
       "published": "2026-11-18T03:36:57.000Z",
       "summary": "OpenAI has launched two new artificial intelligence models, GPT-6.2 Astra and GPT-6.2 Sol, with improved capabilities for professional and everyday tasks, while aiming to reduce the cost of using advanced AI tools for businesses and developers."
+    },
+    {
+      "title": "\"Parlay tech advances into real outcomes\": Microsoft CEO Satya Nadella unveils new models for coding, cybersecurity",
+      "url": "https://economictimes.indiatimes.com/tech/technology/parlay-tech-advances-into-real-outcomes-microsoft-ceo-satya-nadella-unveils-new-models-for-coding-cybersecurity/articleshow/135946214.cms",
+      "source": "ET Tech",
+      "published": "2026-11-18T02:40:15.000Z",
+      "summary": "Nadella highlighted how the company plans to provide nearly every layer of the technology businesses will need to build, deploy and manage increasingly autonomous AI systems."
     }
   ],
   "people": [
@@ -178,9 +178,9 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://analyticsindiamag.com/global-tech/nvidias-crisis-has-only-just-begun-and-theres-no-jensen-charm-to-save-it",
-      "article": "NVIDIA's Crisis Has Only Just Begun, and There's No Jensen Charm to Save It",
-      "source": "Analytics India Mag"
+      "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "article": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "source": "TechCrunch AI"
     },
     {
       "name": "Andrej Karpathy",

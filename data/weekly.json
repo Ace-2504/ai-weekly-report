@@ -1,46 +1,46 @@
 {
-  "weekOf": "2026-11-14 to 2026-11-20",
-  "generated": "2026-11-20T14:33:34.448Z",
-  "intro": "478 AI items this week (74 India-relevant) across 10 sources.",
+  "weekOf": "2026-11-15 to 2026-11-21",
+  "generated": "2026-11-21T13:52:21.783Z",
+  "intro": "108 AI items this week (65 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
         {
-          "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-          "url": "https://arxiv.org/abs/2611.23398",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downti…"
+          "title": "Apple may be developing its own AI agent that runs your Mac",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "source": "TechCrunch AI",
+          "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
         },
         {
-          "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
-          "url": "https://arxiv.org/abs/2611.23476",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23476v1 Announce Type: new Abstract: Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory. Recursive self-improvement (RSI) adapts this harness from experience without weight updates, yet self-editing with…"
+          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
-          "url": "https://arxiv.org/abs/2611.23480",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23480v1 Announce Type: new Abstract: Purpose. To evaluate the diagnostic accuracy and image navigation behavior of vision-language model (VLM) agents under varying exploration strategies. Materials and Methods. In this retrospective study, six VLMs read 100 emergenc…"
+          "title": "Google gives Gemini the ability to use your Mac for you",
+          "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+          "source": "TechCrunch AI",
+          "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
         },
         {
-          "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
-          "url": "https://arxiv.org/abs/2611.23509",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23509v1 Announce Type: new Abstract: Automated agent design searches for executable architectures that improve LLM-based agent performance, with evolutionary methods using language-model crossover to recombine promising mechanisms for task decomposition, model coord…"
+          "title": "Introducing Tool Retrieval in the Gemini API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+          "source": "Google AI Blog",
+          "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API."
         },
         {
-          "title": "BeFit: Shifting Complexity from Weights to Bernstein Activations for Resource-Constrained Sensing",
-          "url": "https://arxiv.org/abs/2611.23520",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23520v1 Announce Type: new Abstract: Time-series sensing increasingly relies on neural networks, yet deployment on resource-constrained microcontrollers remains challenging. Aggressive model compression can reduce accuracy, while restricting weights to multiplicatio…"
+          "title": "The Gemini app is now available on lower-memory Android devices.",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+          "source": "Google AI Blog",
+          "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
         },
         {
-          "title": "FACET - Facet Aware Contrastive Embeddings for Traits- Big Five Estimation from Life Narratives",
-          "url": "https://arxiv.org/abs/2611.23560",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23560v1 Announce Type: new Abstract: Personality is only weakly and inconsistently signaled by written language, and existing text-based methods typically combine language-model and psycholinguistic representations at the input or decision level. It remains open whe…"
+          "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "url": "https://huggingface.co/blog/rumble-2-flash",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -48,40 +48,16 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
-          "url": "https://arxiv.org/abs/2611.23410",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested…"
+          "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+          "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+          "source": "TechCrunch AI",
+          "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure."
         },
         {
-          "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
-          "url": "https://arxiv.org/abs/2611.23445",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23445v2 Announce Type: new Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces catastrophic accuracy collapse. While mixed-precision recovery stra…"
-        },
-        {
-          "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
-          "url": "https://arxiv.org/abs/2611.23483",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23483v1 Announce Type: new Abstract: Agentic multimodal large language models (MLLMs) that think with images interleave reasoning with zoom-in tool calls. However, this sequential loop is slow, and its answers carry no reliability score. Prior speculation of tokens,…"
-        },
-        {
-          "title": "BOS Summary: The First Token Matters",
-          "url": "https://arxiv.org/abs/2611.23508",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23508v1 Announce Type: new Abstract: Large vision-language models (LVLMs) and language models (LLMs) often exhibit attention sinks, whereby particular positions, such as the beginning-of-sequence (BOS) token, receive a disproportionate share of attention. Under stan…"
-        },
-        {
-          "title": "Searching the Pareto Front: Multi-Objective Retrieval for Heterogeneous Scientific Modalities",
-          "url": "https://arxiv.org/abs/2611.23639",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23639v1 Announce Type: new Abstract: In cosmology, surveys span different sky regions and wavelength ranges, resulting in uneven modality coverage across observational datasets. Such heterogeneity can be addressed through either multimodal foundation models (FMs), w…"
-        },
-        {
-          "title": "Continual Tool-Space Extension Learning for Multimodal Agents",
-          "url": "https://arxiv.org/abs/2611.23810",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23810v1 Announce Type: new Abstract: Multimodal agents largely rely on generic tools such as cropping, search, and code execution, leaving specialist vision models outside their tool space. However, bringing such a model into an already trained agent is not straight…"
+          "title": "Research Reports",
+          "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+          "source": "MIT Tech Review",
+          "summary": "To access a report, click on the corresponding image below."
         }
       ]
     },
@@ -89,58 +65,40 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-          "url": "https://arxiv.org/abs/2611.23375",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from classical and stochastic thermo…"
+          "title": "The most misunderstood graph in AI just got a major update",
+          "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+          "source": "MIT Tech Review",
+          "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to …"
         },
         {
-          "title": "Receiver-Conditioned Clarification for Multi-Agent Food Assistance",
-          "url": "https://arxiv.org/abs/2611.23572",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23572v1 Announce Type: new Abstract: Food insecurity creates a pressing need for guidance that helps households find usable food resources and assess food choices in light of their circumstances. Such guidance must connect eligibility requirements, practical access …"
+          "title": "These tech outages are giving Y2K, AI agent style",
+          "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+          "source": "TechCrunch AI",
+          "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
         },
         {
-          "title": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
-          "url": "https://arxiv.org/abs/2611.23588",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23588v1 Announce Type: new Abstract: Enterprise LLM agents operate in dynamic environments where foundation models evolve rapidly, workflows update frequently, and deployments need to satisfy accuracy and cost requirements. We propose ARISE (Agent Refinement through…"
+          "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+          "source": "TechCrunch AI",
+          "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them."
         },
         {
-          "title": "RefinementGuard: Counterexample-Directed Semantic Qualification for Hidden Agent-Tool Execution",
-          "url": "https://arxiv.org/abs/2611.23611",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23611v1 Announce Type: new Abstract: Tool runtimes can lower an agent-selected operation into a hidden parallel graph, reducing latency and context while risking semantic mistranslation. We introduce RefinementGuard: translation validation for hidden, effectful agen…"
+          "title": "Superhuman pushes its Go assistant everywhere",
+          "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+          "source": "TechCrunch AI",
+          "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail."
         },
         {
-          "title": "Evaluating Governed LLM-Driven ML Experimentation: Lifecycle, Provenance, and Failure Metrics",
-          "url": "https://arxiv.org/abs/2611.23678",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23678v1 Announce Type: new Abstract: Autonomous agents that run ML experiments are usually judged by the best score they reach. That score says nothing about how it was reached: whether the agent stayed within the files it was allowed to edit, whether failed trials …"
-        },
-        {
-          "title": "KnowMe Paper Radar: Lightweight Discovery of Promising Papers in the Age of Autoresearch",
-          "url": "https://arxiv.org/abs/2611.23702",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23702v1 Announce Type: new Abstract: The growing volume of topically similar papers makes it difficult to identify new work that can offer useful research insights or methodological guidance. We present KnowMe Paper Radar, a lightweight discovery tool that combines …"
+          "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+          "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+          "source": "Ars Technica",
+          "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to."
         }
       ]
     },
     {
       "heading": "Open Source",
       "items": [
-        {
-          "title": "MANGO Arena: Same Seeds, Different Chains Evaluating LLM Agents in a Disrupted Supply Chain",
-          "url": "https://arxiv.org/abs/2611.23613",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23613v1 Announce Type: cross Abstract: We introduce MANGO Arena, an open-source testbed in which four LLM agents each run one company in a serial supply chain adapted from MANGO, a classroom factory-management game. The environment enforces hard rules (a truck limit…"
-        },
-        {
-          "title": "The Effectiveness and Durability of Pretraining Data Filtering in Protein Language Models",
-          "url": "https://arxiv.org/abs/2610.26651",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2610.26651v2 Announce Type: replace-cross Abstract: Pretraining filtering is one of the most common safeguards for open-weight language models. Here we study its effectiveness, durability and scalability using the ESM-2 family of protein language models. We find that fil…"
-        },
         {
           "title": "The open-source movement wants Jensen Huang back",
           "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
@@ -159,40 +117,40 @@
       "heading": "Industry & Research",
       "items": [
         {
+          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "source": "Ars Technica",
+          "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
+        },
+        {
+          "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+          "source": "TechCrunch AI",
+          "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
+        },
+        {
+          "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+          "source": "TechCrunch AI",
+          "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
+        },
+        {
+          "title": "Chips can survive the space environment — can their financing?",
+          "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+          "source": "TechCrunch AI",
+          "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
+        },
+        {
+          "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+          "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+          "source": "TechCrunch AI",
+          "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in …"
+        },
+        {
           "title": "Six AI-powered gadgets that could make your home office smarter",
           "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
           "source": "TechCrunch AI",
           "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
-        },
-        {
-          "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
-          "url": "https://arxiv.org/abs/2611.23322",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows. Bargaining…"
-        },
-        {
-          "title": "Training Language Models for Introspective Oversight",
-          "url": "https://arxiv.org/abs/2611.23365",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking the assistant follow-up questions about its actions is unreliable, since models…"
-        },
-        {
-          "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
-          "url": "https://arxiv.org/abs/2611.23454",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23454v1 Announce Type: new Abstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient cohort identification, and domain-adapted retrieval models. However, real cl…"
-        },
-        {
-          "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
-          "url": "https://arxiv.org/abs/2611.23456",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23456v1 Announce Type: new Abstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challenging. Generated questions must satisfy multiple constraints: mathematical corr…"
-        },
-        {
-          "title": "LProp: Propagating Latent Uncertainty through Evidence-Conditioned Belief Revision in LLM Agents",
-          "url": "https://arxiv.org/abs/2611.23564",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.23564v1 Announce Type: new Abstract: When LLM agents pass intermediate judgments downstream without uncertainty, later decisions may treat tentative assumptions as facts. Effective uncertainty propagation must preserve information for correction and update inherited…"
         }
       ]
     },
@@ -200,52 +158,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
+          "title": "Sarvam’s Token Factory Raises India’s AI Inference Stakes",
+          "url": "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/",
+          "source": "Inc42",
+          "summary": "Sarvam AI’s latest announcement of its Token Factory has brought a new layer of India’s artificial intelligence (AI) infrastructure ecosystem…"
+        },
+        {
+          "title": "Scaler Cofounder Anshuman Singh Unveils AI Training Data Venture Arcfront",
+          "url": "https://inc42.com/buzz/scaler-cofounder-anshuman-singh-unveils-ai-training-data-venture-arcfront/",
+          "source": "Inc42",
+          "summary": "Tech upskilling platform Scaler’s cofounder Anshuman Singh has unveiled Arcfront, an AI research and training data venture that turns records…"
+        },
+        {
+          "title": "Google announces $5M funding for IIT Kharagpur for advanced AI research",
+          "url": "https://yourstory.com/2026/11/google-announces-5m-funding-for-iit-kharagpur-for-advanced-ai-research",
+          "source": "YourStory",
+          "summary": "The funding will support the institute's researchers and students across three core pillars: advanced AI research, educational opportunities, and AI capacity building."
+        },
+        {
+          "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai/articleshow/136045658.cms",
+          "source": "ET Tech",
+          "summary": "Levent Alpoge, a member of the company's technical staff, made the announcement Friday by way of a four-page explanation posted on his website. He said that he believes by working with Claude, he has found a proof of the Riemann Hypothesis."
+        },
+        {
+          "title": "Databricks in early talks to raise funds at $225 billion valuation: WSJ",
+          "url": "https://economictimes.indiatimes.com/tech/startups/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj/articleshow/136044631.cms",
+          "source": "ET Tech",
+          "summary": "Databricks is in early talks to raise several billion dollars in a new round that would value the data and artificial intelligence software company at about $225 billion, the Wall Street Journal reported on Friday, citing people familiar with the matter."
+        },
+        {
+          "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
+          "url": "https://economictimes.indiatimes.com/tech/technology/oracle-says-openai-infrastructure-deal-is-fully-funded-after-final-capital-raise/articleshow/136044027.cms",
+          "source": "ET Tech",
+          "summary": "Oracle said on Friday that its infrastructure contract with OpenAI is fully funded following a final capital raise earlier this month. Shares of Oracle rose as much as 3.3% in after"
+        },
+        {
+          "title": "Fintechs Bear The Brunt As Yes Bank Upgrades AI Safeguards",
+          "url": "https://inc42.com/buzz/fintechs-bear-the-brunt-as-yes-bank-upgrades-ai-safeguards/",
+          "source": "Inc42",
+          "summary": "Fintech platforms have emerged as an unlikely collateral damage as Yes Bank strengthens its defences against AI-driven cyberattacks. Sources told…"
+        },
+        {
           "title": "Anthropic’s Nasdaq Debut Sparks Buying Rush Among Indian Retail Investors",
           "url": "https://inc42.com/buzz/anthropics-nasdaq-debut-sparks-buying-rush-among-indian-retail-investors/",
           "source": "Inc42",
           "summary": "Indian retail investors rushed to buy and trade Anthropic shares following its Nasdaq debut yesterday, with the Claude maker drawing…"
-        },
-        {
-          "title": "Goa Wants to Train 50,000 Graduates in AI Skills",
-          "url": "https://analyticsindiamag.com/ai-news/goa-cabinet-approves-ai-policy-2026-puts-60-towards-skilling",
-          "source": "Analytics India Mag",
-          "summary": "The 2026–2029 roadmap includes a Konkani language model, a dedicated AI research centre, and support for startups and MSME adoption."
-        },
-        {
-          "title": "Forget Organic Growth, AI is Forcing Mid-Cap Indian IT to Reinvent M&A Playbook",
-          "url": "https://analyticsindiamag.com/it-services/ai-is-forcing-mid-tier-indian-it-companies-to-rethink-their-competitive-advantage",
-          "source": "Analytics India Mag",
-          "summary": "Acquisitions have given mid-tier IT firms access to specialist skills, technology, and customers. Their Q2 results show how these deals are shaping their"
-        },
-        {
-          "title": "Logic Pursuits Certified as Best Firm for Data Engineers",
-          "url": "https://analyticsindiamag.com/ai-highlights/logic-pursuits-certified-as-best-firm-for-data-engineers",
-          "source": "Analytics India Mag",
-          "summary": "Analytics India Magazine certifies Logic Pursuits as a Best Firm for Data Engineers, highlighting its cloud-native capabilities, global delivery model, and"
-        },
-        {
-          "title": "Why Banks Are Betting on AI Orchestration Over Autonomy",
-          "url": "https://analyticsindiamag.com/ai-highlights/why-banks-are-betting-on-ai-orchestration-over-autonomy",
-          "source": "Analytics India Mag",
-          "summary": "The financial services industry places the onus not on a technology's ability to automate a task, but on whether there is sufficient reason and flexibility to"
-        },
-        {
-          "title": "Spacetech firm SatSure raises Rs 60 Cr from Antariksh fund",
-          "url": "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund",
-          "source": "YourStory",
-          "summary": "SatSure’s Rs 60 crore investment from India’s dedicated spacetech fund will support satellite development, AI capabilities and global expansion as the country’s private space industry continues to gather momentum."
-        },
-        {
-          "title": "NVIDIA's Crisis Has Only Just Begun, and There's No Jensen Charm to Save It",
-          "url": "https://analyticsindiamag.com/global-tech/nvidias-crisis-has-only-just-begun-and-theres-no-jensen-charm-to-save-it",
-          "source": "Analytics India Mag",
-          "summary": "NVIDIA, without Jensen Huang, now has to deal with slowing AI infrastructure spending, tighter export controls, resistance to data centre expansion, hyperscaler"
-        },
-        {
-          "title": "Soket AI Secures $4 Mn as it Rolls Out EKA-1 Model",
-          "url": "https://analyticsindiamag.com/ai-news/soket-ai-secures-usd-4-million-as-it-rolls-out-its-eka-1-model",
-          "source": "Analytics India Mag",
-          "summary": "Soket AI launched EKA-1, a 26-billion-parameter foundation model under Project EKA, its flagship sovereign AI initiative focused on math, code, and reasoning."
         }
       ]
     }
@@ -377,16 +335,16 @@
     "devto": "https://dev.to/ace2504",
     "repos": [
       {
-        "name": "wsp-study",
-        "desc": "Weight-space programming on a 125M legal QA model: pre-registered gates, honest negatives, final frozen eval",
-        "url": "https://github.com/Ace-2504/wsp-study",
+        "name": "ai-weekly-report",
+        "desc": "My personalized AI newsletter that runs on an agentic AI",
+        "url": "https://github.com/Ace-2504/ai-weekly-report",
         "stars": 0,
         "language": "HTML"
       },
       {
-        "name": "ai-weekly-report",
-        "desc": "My personalized AI newsletter that runs on an agentic AI",
-        "url": "https://github.com/Ace-2504/ai-weekly-report",
+        "name": "wsp-study",
+        "desc": "Weight-space programming on a 125M legal QA model: pre-registered gates, honest negatives, final frozen eval",
+        "url": "https://github.com/Ace-2504/wsp-study",
         "stars": 0,
         "language": "HTML"
       },
