@@ -1,20 +1,44 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "top": {
-    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-    "source": "Ars Technica",
-    "published": "2026-11-20T20:59:08.000Z",
-    "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "source": "TechCrunch AI",
+    "published": "2026-11-21T21:37:10.000Z",
+    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
   },
   "topIndia": {
-    "title": "Sarvam’s Token Factory Raises India’s AI Inference Stakes",
-    "url": "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/",
-    "source": "Inc42",
-    "published": "2026-11-21T11:57:54.000Z",
-    "summary": "Sarvam AI’s latest announcement of its Token Factory has brought a new layer of India’s artificial intelligence (AI) infrastructure ecosystem…"
+    "title": "From Raye to Coldplay, How AI Scalpers are Pricing You Out of Concert Tickets",
+    "url": "https://analyticsindiamag.com/ai-features/from-raye-to-coldplay-how-ai-scalpers-are-pricing-you-out-of-concert-tickets",
+    "source": "Analytics India Mag",
+    "published": "2026-11-22T05:30:00.000Z",
+    "summary": "AI is making ticket fraud easier—from fake bookings to automated bulk purchases—pushing platforms to strengthen ticket verification and resale safeguards."
   },
   "headlines": [
+    {
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-21T21:07:42.000Z"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-21T17:00:00.000Z"
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-21T16:00:00.000Z"
+    },
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T20:59:08.000Z"
+    },
     {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
       "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
@@ -50,42 +74,6 @@
       "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
       "source": "TechCrunch AI",
       "published": "2026-11-20T14:00:00.000Z"
-    },
-    {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-20T00:56:01.000Z"
-    },
-    {
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-20T00:43:50.000Z"
-    },
-    {
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "source": "Hugging Face",
-      "published": "2026-11-20T00:00:00.000Z"
-    },
-    {
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "source": "Hugging Face",
-      "published": "2026-11-20T00:00:00.000Z"
-    },
-    {
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-19T21:58:06.000Z"
-    },
-    {
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-19T21:42:31.000Z"
     }
   ],
   "events": [
@@ -95,20 +83,6 @@
       "source": "YourStory",
       "published": "2026-11-21T08:23:27.000Z",
       "summary": "The funding will support the institute's researchers and students across three core pillars: advanced AI research, educational opportunities, and AI capacity building."
-    },
-    {
-      "title": "Anthropic’s Nasdaq Debut Sparks Buying Rush Among Indian Retail Investors",
-      "url": "https://inc42.com/buzz/anthropics-nasdaq-debut-sparks-buying-rush-among-indian-retail-investors/",
-      "source": "Inc42",
-      "published": "2026-11-20T13:42:49.000Z",
-      "summary": "Indian retail investors rushed to buy and trade Anthropic shares following its Nasdaq debut yesterday, with the Claude maker drawing…"
-    },
-    {
-      "title": "YourStory launches voice AI hackathon with Rs 8 lakh prize pool in collaboration with Google Cloud India",
-      "url": "https://yourstory.com/2026/11/hack2skill-yourstory-launches-voice-ai-hackathon-with-rs-8-lakh-prize-pool-in-collaboration-with-google-cloud-india",
-      "source": "YourStory",
-      "published": "2026-11-20T07:30:43.000Z",
-      "summary": "Virtual hackathon invites working professionals to build voice AI prototypes using Gemini Enterprise and the Google Cloud AI stack."
     },
     {
       "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029",
@@ -178,8 +152,8 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "article": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "article": "A tale of two Nvidias",
       "source": "TechCrunch AI"
     },
     {
