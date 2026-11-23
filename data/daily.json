@@ -1,88 +1,107 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "top": {
-    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+    "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
     "source": "TechCrunch AI",
-    "published": "2026-11-21T21:37:10.000Z",
-    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+    "published": "2026-11-23T16:39:10.000Z",
+    "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC."
   },
   "topIndia": {
-    "title": "From Raye to Coldplay, How AI Scalpers are Pricing You Out of Concert Tickets",
-    "url": "https://analyticsindiamag.com/ai-features/from-raye-to-coldplay-how-ai-scalpers-are-pricing-you-out-of-concert-tickets",
+    "title": "Anthropic Meets the Brutal Wall Street",
+    "url": "https://analyticsindiamag.com/global-tech/anthropic-meets-the-brutal-wall-street",
     "source": "Analytics India Mag",
-    "published": "2026-11-22T05:30:00.000Z",
-    "summary": "AI is making ticket fraud easier—from fake bookings to automated bulk purchases—pushing platforms to strengthen ticket verification and resale safeguards."
+    "published": "2026-11-23T15:19:40.000Z",
+    "summary": "Anthropic’s revenue has grown over 13x YoY. Its spending, meanwhile, continues to climb. Positive investor sentiment rests largely on the next opportunity."
   },
   "headlines": [
     {
-      "title": "A tale of two Nvidias",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
       "source": "TechCrunch AI",
-      "published": "2026-11-21T21:07:42.000Z"
+      "published": "2026-11-23T15:04:01.000Z"
     },
     {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
       "source": "TechCrunch AI",
-      "published": "2026-11-21T17:00:00.000Z"
+      "published": "2026-11-23T14:43:03.000Z"
     },
     {
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
       "source": "TechCrunch AI",
-      "published": "2026-11-21T16:00:00.000Z"
+      "published": "2026-11-23T14:21:59.000Z"
     },
     {
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "source": "Ars Technica",
-      "published": "2026-11-20T20:59:08.000Z"
+      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+      "url": "https://arxiv.org/abs/2611.26663",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-23T05:00:00.000Z"
     },
     {
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-20T19:53:41.000Z"
+      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+      "url": "https://arxiv.org/abs/2611.26717",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-23T05:00:00.000Z"
     },
     {
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-20T19:32:08.000Z"
+      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+      "url": "https://arxiv.org/abs/2611.26722",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-23T05:00:00.000Z"
     },
     {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-20T18:15:15.000Z"
+      "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
+      "url": "https://arxiv.org/abs/2611.26782",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-23T05:00:00.000Z"
     },
     {
-      "title": "Chips can survive the space environment — can their financing?",
-      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-20T17:40:01.000Z"
+      "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
+      "url": "https://arxiv.org/abs/2611.26794",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-23T05:00:00.000Z"
     },
     {
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-20T14:55:44.000Z"
+      "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
+      "url": "https://arxiv.org/abs/2611.26797",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-23T05:00:00.000Z"
     },
     {
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "source": "TechCrunch AI",
-      "published": "2026-11-20T14:00:00.000Z"
+      "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
+      "url": "https://arxiv.org/abs/2611.26870",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-23T05:00:00.000Z"
+    },
+    {
+      "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
+      "url": "https://arxiv.org/abs/2611.26903",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-23T05:00:00.000Z"
+    },
+    {
+      "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
+      "url": "https://arxiv.org/abs/2611.26906",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-23T05:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Google announces $5M funding for IIT Kharagpur for advanced AI research",
-      "url": "https://yourstory.com/2026/11/google-announces-5m-funding-for-iit-kharagpur-for-advanced-ai-research",
-      "source": "YourStory",
-      "published": "2026-11-21T08:23:27.000Z",
-      "summary": "The funding will support the institute's researchers and students across three core pillars: advanced AI research, educational opportunities, and AI capacity building."
+      "title": "MetaRigor: From Agentic Automation to Verifiable End-to-End Meta-Analysis Through Scientific Decision Boundaries",
+      "url": "https://arxiv.org/abs/2611.27713",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-23T05:00:00.000Z",
+      "summary": "arXiv:2611.27713v1 Announce Type: new Abstract: Automated meta-analysis requires not only accurate numerical extraction but also the consistent preservation of result identity across stages, including the associated study, comparison, population, outcome, time point, and analy…"
+    },
+    {
+      "title": "NoiseRater: Meta-Learned Noise Valuation for Diffusion Model Training",
+      "url": "https://arxiv.org/abs/2605.08144",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-23T05:00:00.000Z",
+      "summary": "arXiv:2605.08144v3 Announce Type: replace-cross Abstract: Training a diffusion model involves two sources of randomness for each data sample: the timestep and the Gaussian noise realization. The timestep has been studied extensively through scheduling and weighting, whereas th…"
     },
     {
       "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029",
@@ -111,22 +130,15 @@
       "source": "ET Tech",
       "published": "2026-11-18T03:36:57.000Z",
       "summary": "OpenAI has launched two new artificial intelligence models, GPT-6.2 Astra and GPT-6.2 Sol, with improved capabilities for professional and everyday tasks, while aiming to reduce the cost of using advanced AI tools for businesses and developers."
-    },
-    {
-      "title": "\"Parlay tech advances into real outcomes\": Microsoft CEO Satya Nadella unveils new models for coding, cybersecurity",
-      "url": "https://economictimes.indiatimes.com/tech/technology/parlay-tech-advances-into-real-outcomes-microsoft-ceo-satya-nadella-unveils-new-models-for-coding-cybersecurity/articleshow/135946214.cms",
-      "source": "ET Tech",
-      "published": "2026-11-18T02:40:15.000Z",
-      "summary": "Nadella highlighted how the company plans to provide nearly every layer of the technology businesses will need to build, deploy and manage increasingly autonomous AI systems."
     }
   ],
   "people": [
     {
       "name": "Sam Altman",
       "org": "OpenAI",
-      "link": "https://blog.samaltman.com",
-      "article": null,
-      "source": "Profile"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric/articleshow/136087667.cms",
+      "article": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+      "source": "ET Tech"
     },
     {
       "name": "Demis Hassabis",
@@ -138,9 +150,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "article": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "source": "TechCrunch AI"
+      "link": "https://www.darioamodei.com",
+      "article": null,
+      "source": "Profile"
     },
     {
       "name": "Yann LeCun",
@@ -152,8 +164,8 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "article": "A tale of two Nvidias",
+      "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "article": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
       "source": "TechCrunch AI"
     },
     {
