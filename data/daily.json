@@ -1,11 +1,11 @@
 {
   "date": "2026-11-23",
   "top": {
-    "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-    "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+    "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
     "source": "TechCrunch AI",
-    "published": "2026-11-23T16:39:10.000Z",
-    "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC."
+    "published": "2026-11-23T18:12:22.000Z",
+    "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
   },
   "topIndia": {
     "title": "Anthropic Meets the Brutal Wall Street",
@@ -15,6 +15,42 @@
     "summary": "Anthropic’s revenue has grown over 13x YoY. Its spending, meanwhile, continues to climb. Positive investor sentiment rests largely on the next opportunity."
   },
   "headlines": [
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-23T17:36:08.000Z"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face",
+      "published": "2026-11-23T17:20:37.000Z"
+    },
+    {
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-23T17:14:23.000Z"
+    },
+    {
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI Blog",
+      "published": "2026-11-23T17:00:00.000Z"
+    },
+    {
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-23T16:57:40.000Z"
+    },
+    {
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-23T16:39:10.000Z"
+    },
     {
       "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
       "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
@@ -48,42 +84,6 @@
     {
       "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
       "url": "https://arxiv.org/abs/2611.26722",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-23T05:00:00.000Z"
-    },
-    {
-      "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
-      "url": "https://arxiv.org/abs/2611.26782",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-23T05:00:00.000Z"
-    },
-    {
-      "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
-      "url": "https://arxiv.org/abs/2611.26794",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-23T05:00:00.000Z"
-    },
-    {
-      "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
-      "url": "https://arxiv.org/abs/2611.26797",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-23T05:00:00.000Z"
-    },
-    {
-      "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
-      "url": "https://arxiv.org/abs/2611.26870",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-23T05:00:00.000Z"
-    },
-    {
-      "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
-      "url": "https://arxiv.org/abs/2611.26903",
-      "source": "arXiv cs.AI",
-      "published": "2026-11-23T05:00:00.000Z"
-    },
-    {
-      "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
-      "url": "https://arxiv.org/abs/2611.26906",
       "source": "arXiv cs.AI",
       "published": "2026-11-23T05:00:00.000Z"
     }
@@ -164,8 +164,8 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-      "article": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "article": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
       "source": "TechCrunch AI"
     },
     {

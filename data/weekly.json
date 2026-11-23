@@ -1,11 +1,17 @@
 {
   "weekOf": "2026-11-17 to 2026-11-23",
-  "generated": "2026-11-23T16:46:41.036Z",
-  "intro": "462 AI items this week (72 India-relevant) across 10 sources.",
+  "generated": "2026-11-23T18:50:53.747Z",
+  "intro": "464 AI items this week (72 India-relevant) across 10 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
+        {
+          "title": "A more tailored Google Search that’s uniquely yours",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+          "source": "Google AI Blog",
+          "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode."
+        },
         {
           "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
           "url": "https://arxiv.org/abs/2611.26717",
@@ -35,12 +41,6 @@
           "url": "https://arxiv.org/abs/2611.26968",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2611.26968v1 Announce Type: new Abstract: A financial report drafted by an LLM can state every number correctly but still go beyond its input, adding judgments and causes that no one supplied. We call these additions unsupported framing and find them far more often in LL…"
-        },
-        {
-          "title": "Run One, Get Two: Near-Free Streaming Safety Checks for Local LLMs",
-          "url": "https://arxiv.org/abs/2611.26975",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.26975v1 Announce Type: new Abstract: Local LLM assistants decode for one user at a time, so decoding is bound by memory bandwidth and leaves compute idle. Streaming safety checks today trade accuracy against cost. A dedicated guard model is accurate but nearly doubl…"
         }
       ]
     },
@@ -152,12 +152,6 @@
           "url": "https://arxiv.org/abs/2608.15012",
           "source": "arXiv cs.AI",
           "summary": "arXiv:2608.15012v2 Announce Type: replace-cross Abstract: The offensive capability of large language models (LLMs) has crossed from research demonstration into documented reality. Frontier models have autonomously breached real production systems, and open-weight models now de…"
-        },
-        {
-          "title": "The open-source movement wants Jensen Huang back",
-          "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-          "source": "MIT Tech Review",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable si…"
         }
       ]
     },
@@ -165,40 +159,40 @@
       "heading": "Industry & Research",
       "items": [
         {
+          "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+          "source": "TechCrunch AI",
+          "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
+        },
+        {
+          "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+          "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+          "source": "MIT Tech Review",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing…"
+        },
+        {
+          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "url": "https://huggingface.co/blog/allenai/robotrack",
+          "source": "Hugging Face",
+          "summary": ""
+        },
+        {
+          "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal."
+        },
+        {
+          "title": "Jensen Huang isn’t out of the woods yet",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+          "source": "TechCrunch AI",
+          "summary": "It’s safe to say no one expected this. Monday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a subordinate and one with a woman tied to Chinese intelligence services. With so much of the AI i…"
+        },
+        {
           "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
           "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
           "source": "TechCrunch AI",
           "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC."
-        },
-        {
-          "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-          "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-          "source": "TechCrunch AI",
-          "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation."
-        },
-        {
-          "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-          "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-          "source": "TechCrunch AI",
-          "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round."
-        },
-        {
-          "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-          "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-          "source": "TechCrunch AI",
-          "summary": "The stunning reversal was supported by senior officials in the U.S. government."
-        },
-        {
-          "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
-          "url": "https://arxiv.org/abs/2611.26794",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.26794v1 Announce Type: new Abstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&E with cell phenotypes from multiplex immunofluorescence (mIF…"
-        },
-        {
-          "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
-          "url": "https://arxiv.org/abs/2611.26797",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Mem…"
         }
       ]
     },
@@ -383,18 +377,18 @@
     "devto": "https://dev.to/ace2504",
     "repos": [
       {
-        "name": "qengine",
-        "desc": "",
-        "url": "https://github.com/Ace-2504/qengine",
-        "stars": 0,
-        "language": "C++"
-      },
-      {
         "name": "ai-weekly-report",
         "desc": "My personalized AI newsletter that runs on an agentic AI",
         "url": "https://github.com/Ace-2504/ai-weekly-report",
         "stars": 0,
         "language": "HTML"
+      },
+      {
+        "name": "qengine",
+        "desc": "",
+        "url": "https://github.com/Ace-2504/qengine",
+        "stars": 0,
+        "language": "C++"
       },
       {
         "name": "wsp-study",
