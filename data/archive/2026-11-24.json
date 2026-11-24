@@ -1,0 +1,555 @@
+{
+  "daily": {
+    "date": "2026-11-24",
+    "top": {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "source": "Hugging Face",
+      "published": "2026-11-24T16:34:13.000Z",
+      "summary": ""
+    },
+    "topIndia": {
+      "title": "CrowdStrike to Buy Zscaler for $44 Bn as AI Raises Stakes for Cyber Defence",
+      "url": "https://analyticsindiamag.com/ai-news/crowdstrike-to-buy-zscaler-for-44-billion-as-ai-raises-stakes-for-cyber-defence",
+      "source": "Analytics India Mag",
+      "published": "2026-11-24T11:50:21.000Z",
+      "summary": "The deal will combine endpoint and network security businesses, giving CrowdStrike access to Zscaler's customer base and expanding its presence in enterprise"
+    },
+    "headlines": [
+      {
+        "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+        "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-24T16:10:00.000Z"
+      },
+      {
+        "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+        "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-24T16:02:37.000Z"
+      },
+      {
+        "title": "How Gemini is changing the game for Golden State's organization and fans.",
+        "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+        "source": "Google AI Blog",
+        "published": "2026-11-24T16:00:00.000Z"
+      },
+      {
+        "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+        "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-24T15:51:07.000Z"
+      },
+      {
+        "title": "Raising the stakes for enterprise networks with AI modernization",
+        "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+        "source": "MIT Tech Review",
+        "published": "2026-11-24T15:15:16.000Z"
+      },
+      {
+        "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+        "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+        "source": "Ars Technica",
+        "published": "2026-11-24T12:30:05.000Z"
+      },
+      {
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-23T22:05:50.000Z"
+      },
+      {
+        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-23T22:02:05.000Z"
+      },
+      {
+        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+        "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-23T21:47:41.000Z"
+      },
+      {
+        "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+        "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-23T21:25:42.000Z"
+      },
+      {
+        "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+        "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-23T20:38:53.000Z"
+      },
+      {
+        "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+        "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-23T19:14:46.000Z"
+      }
+    ],
+    "events": [
+      {
+        "title": "OpenAI, Cisco Launch Open-Source Security Tool in Wake of Outages",
+        "url": "https://analyticsindiamag.com/ai-news/openai-and-cisco-launch-shirudo-to-protect-linux-systems-from-exploits",
+        "source": "Analytics India Mag",
+        "published": "2026-11-24T11:37:26.000Z",
+        "summary": "Shirudo uses temporary safeguards to block exploits while allowing legitimate requests through, without taking services offline."
+      },
+      {
+        "title": "Google Launches Initiative to Support Indian Startups With AI, Cloud Infra",
+        "url": "https://analyticsindiamag.com/ai-news/google-launches-momentum-initiative-to-support-indias-startups",
+        "source": "Analytics India Mag",
+        "published": "2026-11-24T10:30:34.000Z",
+        "summary": "The initiative will provide Indian founders access to Google's AI models, cloud infrastructure, engineering expertise, and global platforms."
+      },
+      {
+        "title": "Anthropic launches Claude Ship to help developers ship code faster",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-claude-ship-to-help-developers-ship-code-faster/articleshow/136123696.cms",
+        "source": "ET Tech",
+        "published": "2026-11-24T07:58:22.000Z",
+        "summary": "Anthropic said on Monday it has launched Claude Ship to help developers ship code faster by reviewing changes, fixing problems and deciding which ones can be added to the main code based on rules set by a team."
+      },
+      {
+        "title": "NVIDIA reinstates Jensen Huang as CEO; Sarvam unveils upgraded model amid Token Factory row",
+        "url": "https://yourstory.com/2026/11/nvidia-reinstates-jensen-huang-as-ceo-sarvam-unveils-upgraded-model",
+        "source": "YourStory",
+        "published": "2026-11-24T02:00:00.000Z",
+        "summary": "Nvidia has reinstated co-founder Jensen Huang as its president, CEO, and board director, less than two weeks after his resignation from the company. In other news, Sarvam’s new AI model promises better performance at a lower cost."
+      },
+      {
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "source": "TechCrunch AI",
+        "published": "2026-11-23T22:05:50.000Z",
+        "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+      },
+      {
+        "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029",
+        "url": "https://economictimes.indiatimes.com/tech/startups/google-picks-bezos-blue-origin-to-launch-ai-computing-satellites-in-2029/articleshow/136012234.cms",
+        "source": "ET Tech",
+        "published": "2026-11-20T03:52:25.000Z",
+        "summary": "Companies including Elon Musk's SpaceX and startup Starcloud are exploring data centers in orbit as growing AI use drives demand for computing capacity and strains infrastructure supporting facilities on the ground."
+      },
+      {
+        "title": "Anthropic's $1.5 trillion debut rewrites venture capital's playbook",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-1-5-trillion-debut-rewrites-venture-capitals-playbook/articleshow/136010952.cms",
+        "source": "ET Tech",
+        "published": "2026-11-20T02:58:04.000Z",
+        "summary": "The AI lab's shares began trading on the Nasdaq on Thursday at a $1.5 trillion valuation, delivering multibillion-dollar windfalls to venture investors at a moment when the industry needs fresh liquidity to fund more bets on AI companies. The stock closed at $97.17, up 17% fro…"
+      },
+      {
+        "title": "Meta to price Muse Charm gadget at $300: The Information",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-to-price-muse-charm-gadget-at-300-the-information/articleshow/136009999.cms",
+        "source": "ET Tech",
+        "published": "2026-11-20T01:59:06.000Z",
+        "summary": "The device that carries the viral Muse AI agent into the real world was unveiled in September by chief executive Mark Zuckerberg during the company's annual conference. Muse Charm underscores Meta's broader push to reduce its reliance on Apple and Google's operating systems by…"
+      }
+    ],
+    "people": [
+      {
+        "name": "Sam Altman",
+        "org": "OpenAI",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric/articleshow/136087667.cms",
+        "article": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+        "source": "ET Tech"
+      },
+      {
+        "name": "Demis Hassabis",
+        "org": "Google DeepMind",
+        "link": "https://x.com/demishassabis",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Dario Amodei",
+        "org": "Anthropic",
+        "link": "https://www.darioamodei.com",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Yann LeCun",
+        "org": "Meta · world models",
+        "link": "https://x.com/ylecun",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Jensen Huang",
+        "org": "NVIDIA",
+        "link": "https://economictimes.indiatimes.com/tech/technology/jensen-huangs-nvidia-return-sparks-relief-for-battered-ai-trade-but-questions-remain/articleshow/136123261.cms",
+        "article": "Jensen Huang's Nvidia return sparks relief for battered AI trade, but questions remain",
+        "source": "ET Tech"
+      },
+      {
+        "name": "Andrej Karpathy",
+        "org": "AI educator",
+        "link": "https://karpathy.ai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Sundar Pichai",
+        "org": "Google",
+        "link": "https://x.com/sundarpichai",
+        "article": null,
+        "source": "Profile"
+      },
+      {
+        "name": "Mira Murati",
+        "org": "Thinking Machines",
+        "link": "https://x.com/miramurati",
+        "article": null,
+        "source": "Profile"
+      }
+    ]
+  },
+  "weekly": {
+    "weekOf": "2026-11-18 to 2026-11-24",
+    "generated": "2026-11-24T16:40:56.748Z",
+    "intro": "111 AI items this week (68 India-relevant) across 9 sources.",
+    "sections": [
+      {
+        "heading": "Large Language Models",
+        "items": [
+          {
+            "title": "How Gemini is changing the game for Golden State's organization and fans.",
+            "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+            "source": "Google AI Blog",
+            "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news."
+          },
+          {
+            "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+            "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+            "source": "TechCrunch AI",
+            "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+          },
+          {
+            "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+            "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+            "source": "TechCrunch AI",
+            "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+          },
+          {
+            "title": "A more tailored Google Search that’s uniquely yours",
+            "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+            "source": "Google AI Blog",
+            "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode."
+          },
+          {
+            "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+            "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+            "source": "Hugging Face",
+            "summary": ""
+          },
+          {
+            "title": "Introducing Tool Retrieval in the Gemini API",
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+            "source": "Google AI Blog",
+            "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API."
+          }
+        ]
+      },
+      {
+        "heading": "Multimodal & Media",
+        "items": [
+          {
+            "title": "The Gemini app is now available on lower-memory Android devices.",
+            "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+            "source": "Google AI Blog",
+            "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
+          },
+          {
+            "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+            "url": "https://huggingface.co/blog/rumble-2-flash",
+            "source": "Hugging Face",
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "heading": "Developer Tools & Agents",
+        "items": [
+          {
+            "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+            "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+            "source": "Ars Technica",
+            "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers."
+          },
+          {
+            "title": "The most misunderstood graph in AI just got a major update",
+            "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+            "source": "MIT Tech Review",
+            "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to …"
+          }
+        ]
+      },
+      {
+        "heading": "Industry & Research",
+        "items": [
+          {
+            "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+            "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+            "source": "Hugging Face",
+            "summary": ""
+          },
+          {
+            "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+            "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+            "source": "TechCrunch AI",
+            "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
+          },
+          {
+            "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+            "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+            "source": "TechCrunch AI",
+            "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
+          },
+          {
+            "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+            "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+            "source": "TechCrunch AI",
+            "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips."
+          },
+          {
+            "title": "Raising the stakes for enterprise networks with AI modernization",
+            "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+            "source": "MIT Tech Review",
+            "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more…"
+          },
+          {
+            "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+            "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+            "source": "TechCrunch AI",
+            "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+          }
+        ]
+      },
+      {
+        "heading": "India & Subcontinent",
+        "items": [
+          {
+            "title": "CrowdStrike to Buy Zscaler for $44 Bn as AI Raises Stakes for Cyber Defence",
+            "url": "https://analyticsindiamag.com/ai-news/crowdstrike-to-buy-zscaler-for-44-billion-as-ai-raises-stakes-for-cyber-defence",
+            "source": "Analytics India Mag",
+            "summary": "The deal will combine endpoint and network security businesses, giving CrowdStrike access to Zscaler's customer base and expanding its presence in enterprise"
+          },
+          {
+            "title": "OpenAI, Cisco Launch Open-Source Security Tool in Wake of Outages",
+            "url": "https://analyticsindiamag.com/ai-news/openai-and-cisco-launch-shirudo-to-protect-linux-systems-from-exploits",
+            "source": "Analytics India Mag",
+            "summary": "Shirudo uses temporary safeguards to block exploits while allowing legitimate requests through, without taking services offline."
+          },
+          {
+            "title": "Google Launches Initiative to Support Indian Startups With AI, Cloud Infra",
+            "url": "https://analyticsindiamag.com/ai-news/google-launches-momentum-initiative-to-support-indias-startups",
+            "source": "Analytics India Mag",
+            "summary": "The initiative will provide Indian founders access to Google's AI models, cloud infrastructure, engineering expertise, and global platforms."
+          },
+          {
+            "title": "Cashfree Enables AI Agents in India to Pay From Wallet on Behalf of Users",
+            "url": "https://analyticsindiamag.com/ai-news/cashfree-launches-wallet-letting-ai-agents-pay-for-indian-users",
+            "source": "Analytics India Mag",
+            "summary": "Users keep control, as Cashfree Wallet lets AI agents pay bills within set budgets without ever seeing card or bank details."
+          },
+          {
+            "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
+            "url": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/",
+            "source": "Inc42",
+            "summary": "Enterprise AI startup AidenAI has raised $32 Mn (₹297.1 Cr) in a Series A funding round led by growth investment…"
+          },
+          {
+            "title": "Ex-Sequoia Investor Sudhanshu Mishra Launches Agentic AI Startup Demi AI",
+            "url": "https://inc42.com/buzz/ex-sequoia-investor-sudhanshu-mishra-launches-agentic-ai-startup-demi-ai/",
+            "source": "Inc42",
+            "summary": "Former Sequoia Capital India investor Sudhanshu Mishra has launched an agentic AI startup called Demi.AI in the US, seeking to…"
+          },
+          {
+            "title": "Anthropic Introduces Claude Ship to Bring AI Agents Into Code Approval",
+            "url": "https://analyticsindiamag.com/ai-news/anthropics-claude-ship-brings-ai-agents-into-code-approval",
+            "source": "Analytics India Mag",
+            "summary": "The new suite of AI tools can review code, fix errors and approve routine changes based on rules set by development teams."
+          },
+          {
+            "title": "Anthropic launches Claude Ship to help developers ship code faster",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-claude-ship-to-help-developers-ship-code-faster/articleshow/136123696.cms",
+            "source": "ET Tech",
+            "summary": "Anthropic said on Monday it has launched Claude Ship to help developers ship code faster by reviewing changes, fixing problems and deciding which ones can be added to the main code based on rules set by a team."
+          }
+        ]
+      }
+    ],
+    "careers": {
+      "note": "Demand snapshot for 2026. ML Engineer is the most in-demand AI title; agentic-AI and deep-learning skills carry the highest pay premiums; Python + one cloud is the baseline. Specialisation beats generalisation for freshers.",
+      "paths": [
+        {
+          "field": "Machine Learning Engineering",
+          "demand": "Very high",
+          "note": "#1 AI title — build, deploy & maintain models in production. Best all-round entry into AI."
+        },
+        {
+          "field": "AI / Agent Engineering (LLM apps)",
+          "demand": "Surging",
+          "note": "RAG, tool-use & multi-agent systems. ~40% of enterprise apps will embed AI agents by year-end."
+        },
+        {
+          "field": "Deep Learning / Research",
+          "demand": "High (premium pay)",
+          "note": "Neural nets for vision & speech. Highest premiums; usually needs strong maths / grad study."
+        },
+        {
+          "field": "MLOps / AI Infrastructure",
+          "demand": "High",
+          "note": "Ship & scale models on the cloud. Cloud AI certs add 20–25% to salary."
+        },
+        {
+          "field": "Data Science / Analytics",
+          "demand": "Steady",
+          "note": "Foundational, widest entry door; a reliable first step into AI."
+        },
+        {
+          "field": "Computer Vision",
+          "demand": "High",
+          "note": "Imaging, robotics, autonomous systems, medical AI."
+        },
+        {
+          "field": "NLP / LLM Engineering",
+          "demand": "Very high",
+          "note": "Powers chatbots, search & agents — the hottest application area."
+        },
+        {
+          "field": "AI Product / Solutions Architect",
+          "demand": "High (senior)",
+          "note": "5–8 yrs experience; $140k–$332k bands. Translates AI into business value."
+        },
+        {
+          "field": "AI Safety / Governance",
+          "demand": "Growing",
+          "note": "Alignment, evals, red-teaming & policy — newer but expanding fast."
+        }
+      ],
+      "fresher": [
+        {
+          "skill": "Python (NumPy, Pandas)",
+          "why": "The lingua franca of ML — non-negotiable."
+        },
+        {
+          "skill": "Maths foundations",
+          "why": "Linear algebra, probability & calculus — enough to reason about models."
+        },
+        {
+          "skill": "Core ML (scikit-learn)",
+          "why": "Regression, classification, evaluation, the ML workflow."
+        },
+        {
+          "skill": "One deep-learning framework (PyTorch)",
+          "why": "Build & train neural nets; PyTorch dominates research & jobs."
+        },
+        {
+          "skill": "LLMs: prompting + RAG basics",
+          "why": "Ship a small LLM app — the most visible skill to recruiters now."
+        },
+        {
+          "skill": "SQL + data wrangling",
+          "why": "Real AI work is mostly data; SQL is everywhere."
+        },
+        {
+          "skill": "One cloud + Git/GitHub",
+          "why": "AWS leads (~40% of postings), then Azure & GCP. Version everything."
+        },
+        {
+          "skill": "Ship a portfolio project",
+          "why": "A deployed project that solves a real problem is the #1 differentiator."
+        }
+      ],
+      "experienced": [
+        {
+          "skill": "MLOps & deployment",
+          "why": "Docker, CI/CD, monitoring, model/versioning — production is where value lives."
+        },
+        {
+          "skill": "Agentic system design",
+          "why": "Multi-agent orchestration, tool-use, evals — the surging frontier."
+        },
+        {
+          "skill": "Cloud AI at scale",
+          "why": "AWS/Azure/GCP architecture; certs add a 20–25% salary premium."
+        },
+        {
+          "skill": "LLM fine-tuning & evals",
+          "why": "Adapt, measure and harden models for a domain."
+        },
+        {
+          "skill": "Distributed training / GPU optimisation",
+          "why": "Cost & latency engineering for large models."
+        },
+        {
+          "skill": "ML system design",
+          "why": "Trade-offs across data, latency, cost & reliability at scale."
+        },
+        {
+          "skill": "Domain specialisation",
+          "why": "CV, NLP, recsys, healthcare — depth beats breadth at senior levels."
+        },
+        {
+          "skill": "AI → business translation",
+          "why": "Leading teams and tying models to measurable outcomes."
+        }
+      ]
+    },
+    "profile": {
+      "name": "Harman Singh Sandhu",
+      "handle": "Ace",
+      "blurb": "I build AI/ML projects and write about them. This site is one of them — an automated daily AI digest.",
+      "linkedin": "https://www.linkedin.com/in/harman-singh-sandhu/",
+      "github": "https://github.com/Ace-2504",
+      "devto": "https://dev.to/ace2504",
+      "repos": [
+        {
+          "name": "agentic-systems-engineering",
+          "desc": "AI agents on top of the systems companies already run: human approval for every entry, bank-confirmed payments, guardrails, and designs for legacy systems with no API. All data fictional.",
+          "url": "https://github.com/Ace-2504/agentic-systems-engineering",
+          "stars": 0,
+          "language": "Jupyter Notebook"
+        },
+        {
+          "name": "ai-weekly-report",
+          "desc": "My personalized AI newsletter that runs on an agentic AI",
+          "url": "https://github.com/Ace-2504/ai-weekly-report",
+          "stars": 0,
+          "language": "HTML"
+        },
+        {
+          "name": "qengine",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/qengine",
+          "stars": 0,
+          "language": "C++"
+        },
+        {
+          "name": "wsp-study",
+          "desc": "Weight-space programming on a 125M legal QA model: pre-registered gates, honest negatives, final frozen eval",
+          "url": "https://github.com/Ace-2504/wsp-study",
+          "stars": 0,
+          "language": "HTML"
+        },
+        {
+          "name": "PROXY_SERVER",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/PROXY_SERVER",
+          "stars": 0,
+          "language": "C++"
+        },
+        {
+          "name": "serenity",
+          "desc": "",
+          "url": "https://github.com/Ace-2504/serenity",
+          "stars": 0,
+          "language": "TypeScript"
+        }
+      ]
+    }
+  }
+}

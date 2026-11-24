@@ -1,11 +1,29 @@
 {
-  "weekOf": "2026-11-17 to 2026-11-23",
-  "generated": "2026-11-23T18:50:53.747Z",
-  "intro": "464 AI items this week (72 India-relevant) across 10 sources.",
+  "weekOf": "2026-11-18 to 2026-11-24",
+  "generated": "2026-11-24T16:40:56.748Z",
+  "intro": "111 AI items this week (68 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
       "items": [
+        {
+          "title": "How Gemini is changing the game for Golden State's organization and fans.",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+          "source": "Google AI Blog",
+          "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news."
+        },
+        {
+          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "source": "TechCrunch AI",
+          "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+        },
+        {
+          "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+          "source": "TechCrunch AI",
+          "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+        },
         {
           "title": "A more tailored Google Search that’s uniquely yours",
           "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
@@ -13,34 +31,16 @@
           "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode."
         },
         {
-          "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
-          "url": "https://arxiv.org/abs/2611.26717",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We s…"
+          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "source": "Hugging Face",
+          "summary": ""
         },
         {
-          "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
-          "url": "https://arxiv.org/abs/2611.26782",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.26782v1 Announce Type: new Abstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it cen- tral to materials design and discovery. Yet an MD study requires an expe…"
-        },
-        {
-          "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
-          "url": "https://arxiv.org/abs/2611.26906",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.26906v1 Announce Type: new Abstract: Large language model (LLM) theorem solvers differ in both proving capability and inference cost. Applying an expensive solver to every subgoal wastes computation when cheaper models are sufficient, while always starting from the …"
-        },
-        {
-          "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
-          "url": "https://arxiv.org/abs/2611.26910",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.26910v1 Announce Type: new Abstract: LLM agents are expected to improve themselves from their own experience across episodes, with fixed weights. Self-improvement in an embodied world cannot be read from one measure. Existing benchmarks measure task progress, world-…"
-        },
-        {
-          "title": "Right Numbers, Wrong Story: When LLMs Narrate Financial Changes Beyond Their Inputs",
-          "url": "https://arxiv.org/abs/2611.26968",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.26968v1 Announce Type: new Abstract: A financial report drafted by an LLM can state every number correctly but still go beyond its input, adding judgments and causes that no one supplied. We call these additions unsupported framing and find them far more often in LL…"
+          "title": "Introducing Tool Retrieval in the Gemini API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+          "source": "Google AI Blog",
+          "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API."
         }
       ]
     },
@@ -48,40 +48,16 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
-          "url": "https://arxiv.org/abs/2611.26903",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.26903v1 Announce Type: new Abstract: Partial-edit deepfake localization aims to identify manipulated regions within otherwise authentic speech. Recent systems report strong overall results, but aggregate scores do not reveal whether this performance holds across dif…"
+          "title": "The Gemini app is now available on lower-memory Android devices.",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+          "source": "Google AI Blog",
+          "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
         },
         {
-          "title": "Dynamic Token Merging for Efficient Vision-Language Models",
-          "url": "https://arxiv.org/abs/2611.27064",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.27064v1 Announce Type: new Abstract: Vision-language models (VLMs) represent each image with hundreds of visual tokens, which can make inference costly even when a prompt depends on only part of the image. Dynamic Token Merging (DTM), introduced in MrT5 for byte-lev…"
-        },
-        {
-          "title": "Bel: Step-Level Policy Improvement of Visual Agents Without Training",
-          "url": "https://arxiv.org/abs/2611.27222",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.27222v1 Announce Type: new Abstract: A visual agent acts on what it sees: it taps and types on a screen, or points on a camera image to show a robot where to act. One wrong step can fail its task, yet the right action is often among its own samples, passed over by i…"
-        },
-        {
-          "title": "WePM: Hierarchical Conflict Reconciliation for Unified MLLMs",
-          "url": "https://arxiv.org/abs/2611.27365",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.27365v1 Announce Type: new Abstract: Bringing multimodal intelligence from the cloud to users' devices keeps sensitive data local and reduces inference cost, but deploying a specialized model per capability duplicates vision-language capacity under tight memory and …"
-        },
-        {
-          "title": "When Are Images Needed in Multimodal Machine Translation? Text-Only Routing for On-Demand Visual Context",
-          "url": "https://arxiv.org/abs/2611.27712",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.27712v1 Announce Type: new Abstract: Image-guided multimodal machine translation (MMT) leverages visual context to resolve translation-relevant uncertainty. However, prevailing systems either process images unconditionally or apply gating only after visual encoding,…"
-        },
-        {
-          "title": "Recoverable Symbols, Unstable Execution: Auditing Internal Pathways and Decision Identity in Visual State Tracking",
-          "url": "https://arxiv.org/abs/2611.27715",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.27715v1 Announce Type: new Abstract: Visual features can retain every symbol a task needs while a model built on them still changes its answer when irrelevant parts of the image change. We study this gap in visual state tracking, where a recurrent executor reads a s…"
+          "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "url": "https://huggingface.co/blog/rumble-2-flash",
+          "source": "Hugging Face",
+          "summary": ""
         }
       ]
     },
@@ -89,69 +65,16 @@
       "heading": "Developer Tools & Agents",
       "items": [
         {
-          "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
-          "url": "https://arxiv.org/abs/2611.26663",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human beha…"
+          "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+          "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+          "source": "Ars Technica",
+          "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers."
         },
         {
-          "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-          "url": "https://arxiv.org/abs/2611.26722",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models. Supervised fine-tuning (SFT) optimises for p…"
-        },
-        {
-          "title": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
-          "url": "https://arxiv.org/abs/2611.26966",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.26966v1 Announce Type: new Abstract: Tool-using AI agents propose actions whose authorization and external effects cannot be inferred from generated text alone. We study an execution boundary that separates agent proposals from business-controlled authority, context…"
-        },
-        {
-          "title": "Actions Speak Louder than Words: Stateful Privacy Sniffing of LLM Agents via Behavioral Covert Channels in Web Interactions",
-          "url": "https://arxiv.org/abs/2611.27046",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.27046v1 Announce Type: new Abstract: LLM agents increasingly rely on Web interaction, issuing searches, following links, and reading pages, to complete complex user tasks. Since each action is driven by the agent's private context, including the user's prompt, dialo…"
-        },
-        {
-          "title": "Decision Models Are General-Purpose Process Reward Models",
-          "url": "https://arxiv.org/abs/2611.27068",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.27068v1 Announce Type: new Abstract: Reinforcement learning (RL) from verifiable outcomes gives a language agent one reward per episode: every step is credited alike, and nothing about the task is learned when all rollouts fail. The last mile, step-level credit, usu…"
-        },
-        {
-          "title": "CoEvoBench: Can LLMs Drive Recursive Co-Evolution of Agentic Systems?",
-          "url": "https://arxiv.org/abs/2611.27116",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.27116v1 Announce Type: new Abstract: The performance of an LLM agent depends on both its model and its harness, the code that mediates its interaction with tools and environments. Can LLM researchers drive this co-evolution as a recursive improvement process, decidi…"
-        }
-      ]
-    },
-    {
-      "heading": "Open Source",
-      "items": [
-        {
-          "title": "From Manufacturing Event Logs to Simulation: Enabling SMEs with Agentic AI for SimPy Simulation Generation",
-          "url": "https://arxiv.org/abs/2611.27483",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.27483v1 Announce Type: new Abstract: High expertise and cost barriers exclude small and medium-sized enterprises from discrete-event simulation (DES). We introduce GenAI4SimPy, a multi-agent framework powered by Qwen 3.6 (27B), an open-weight large language model, t…"
-        },
-        {
-          "title": "Cleave: Severing Guardrails and Auditing Spectral Coupling in Open-Weight LLMs",
-          "url": "https://arxiv.org/abs/2611.27426",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2611.27426v1 Announce Type: cross Abstract: Open-weight Large Language Models (LLMs) are widely downloaded for their strong coding and reasoning capabilities and deployed locally beyond the provider's control. To prevent misuse, developers embed safety guardrails into th…"
-        },
-        {
-          "title": "Fool's Gold: Defensive Deception Against Safety-Removal Attacks on Open-Weight Models",
-          "url": "https://arxiv.org/abs/2608.17202",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.17202v3 Announce Type: replace Abstract: Safety alignment in open-weight language models is trivially removable: abliteration projects a refusal-mediating direction out of the weights in minutes, and no release-time defense we are aware of prevents it durably. What …"
-        },
-        {
-          "title": "SYSEVOLVE: Safe, Autonomous Attack-Defense Co-evolution for Evolving Cyber Defense",
-          "url": "https://arxiv.org/abs/2608.15012",
-          "source": "arXiv cs.AI",
-          "summary": "arXiv:2608.15012v2 Announce Type: replace-cross Abstract: The offensive capability of large language models (LLMs) has crossed from research demonstration into documented reality. Frontier models have autonomously breached real production systems, and open-weight models now de…"
+          "title": "The most misunderstood graph in AI just got a major update",
+          "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+          "source": "MIT Tech Review",
+          "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to …"
         }
       ]
     },
@@ -159,40 +82,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-          "source": "TechCrunch AI",
-          "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
-        },
-        {
-          "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-          "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-          "source": "MIT Tech Review",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing…"
-        },
-        {
-          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "url": "https://huggingface.co/blog/allenai/robotrack",
+          "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
           "source": "Hugging Face",
           "summary": ""
         },
         {
-          "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+          "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
           "source": "TechCrunch AI",
-          "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal."
+          "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
         },
         {
-          "title": "Jensen Huang isn’t out of the woods yet",
-          "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+          "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+          "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
           "source": "TechCrunch AI",
-          "summary": "It’s safe to say no one expected this. Monday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a subordinate and one with a woman tied to Chinese intelligence services. With so much of the AI i…"
+          "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
         },
         {
-          "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-          "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+          "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+          "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
           "source": "TechCrunch AI",
-          "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC."
+          "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips."
+        },
+        {
+          "title": "Raising the stakes for enterprise networks with AI modernization",
+          "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+          "source": "MIT Tech Review",
+          "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more…"
+        },
+        {
+          "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+          "source": "TechCrunch AI",
+          "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
         }
       ]
     },
@@ -200,52 +123,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "Anthropic Meets the Brutal Wall Street",
-          "url": "https://analyticsindiamag.com/global-tech/anthropic-meets-the-brutal-wall-street",
+          "title": "CrowdStrike to Buy Zscaler for $44 Bn as AI Raises Stakes for Cyber Defence",
+          "url": "https://analyticsindiamag.com/ai-news/crowdstrike-to-buy-zscaler-for-44-billion-as-ai-raises-stakes-for-cyber-defence",
           "source": "Analytics India Mag",
-          "summary": "Anthropic’s revenue has grown over 13x YoY. Its spending, meanwhile, continues to climb. Positive investor sentiment rests largely on the next opportunity."
+          "summary": "The deal will combine endpoint and network security businesses, giving CrowdStrike access to Zscaler's customer base and expanding its presence in enterprise"
         },
         {
-          "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
-          "url": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn",
-          "source": "YourStory",
-          "summary": "Early-stage funding led the investment mix. Mumbai overtook Bengaluru to become the city with the largest funding during the period."
-        },
-        {
-          "title": "Haleon Puts People and Judgement at Heart of Data, AI Transformation at Cypher 2026",
-          "url": "https://analyticsindiamag.com/ai-highlights/haleon-puts-people-and-judgement-at-heart-of-data-ai-transformation-at-cypher-2026",
+          "title": "OpenAI, Cisco Launch Open-Source Security Tool in Wake of Outages",
+          "url": "https://analyticsindiamag.com/ai-news/openai-and-cisco-launch-shirudo-to-protect-linux-systems-from-exploits",
           "source": "Analytics India Mag",
-          "summary": "Richard Moule and Sharmila Senthilraja share how capability, confidence, and accountable decision-making can help organisations move from AI deployment to"
+          "summary": "Shirudo uses temporary safeguards to block exploits while allowing legitimate requests through, without taking services offline."
         },
         {
-          "title": "How Nvidia's billion-dollar turnaround in China is threatened by Huang's exit",
-          "url": "https://economictimes.indiatimes.com/tech/technology/how-nvidias-billion-dollar-turnaround-in-china-is-threatened-by-huangs-exit/articleshow/136101891.cms",
-          "source": "ET Tech",
-          "summary": "Nvidia products used to run AI models powering everything from business software to humanoid robots have found growing demand in China from universities, companies and research institutes, even as the US chipmaker's most advanced AI processors remain largely off limits, accord…"
+          "title": "Google Launches Initiative to Support Indian Startups With AI, Cloud Infra",
+          "url": "https://analyticsindiamag.com/ai-news/google-launches-momentum-initiative-to-support-indias-startups",
+          "source": "Analytics India Mag",
+          "summary": "The initiative will provide Indian founders access to Google's AI models, cloud infrastructure, engineering expertise, and global platforms."
         },
         {
-          "title": "Beyond tickets: How LightSprint.ai is building a multiplayer software factory where PMs and designers ship with engineers",
-          "url": "https://yourstory.com/2026/11/lightsprintai-software-factory-pms-designers-engineers",
-          "source": "YourStory",
-          "summary": "AI made writing code faster. It did not make it easier for the people closest to customers to change the product. LightSprint.ai, part of NetApp Excellerator's Cohort 15, is changing that."
+          "title": "Cashfree Enables AI Agents in India to Pay From Wallet on Behalf of Users",
+          "url": "https://analyticsindiamag.com/ai-news/cashfree-launches-wallet-letting-ai-agents-pay-for-indian-users",
+          "source": "Analytics India Mag",
+          "summary": "Users keep control, as Cashfree Wallet lets AI agents pay bills within set budgets without ever seeing card or bank details."
         },
         {
-          "title": "Data Security Startup Matters.AI Nets ₹115 Cr From Tanglin Venture Partners, Others",
-          "url": "https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/",
+          "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
+          "url": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/",
           "source": "Inc42",
-          "summary": "AI-native data security platform Matters.AI (formerly OptiQ.AI) has raised ₹115 Cr ($12.0 Mn) in a pre-Series A funding round led…"
+          "summary": "Enterprise AI startup AidenAI has raised $32 Mn (₹297.1 Cr) in a Series A funding round led by growth investment…"
         },
         {
-          "title": "Matters.AI Raises $12 Million Pre-Series A to Boost Data Security Platform & US Expansion",
-          "url": "https://analyticsindiamag.com/ai-news/mattersai-raises-12-million-pre-series-a-to-boost-data-security-platform-and-us-expansion",
-          "source": "Analytics India Mag",
-          "summary": "The Bengaluru-based cybersecurity startup will use the capital to develop its data security platform and expand its sales operations in North America."
+          "title": "Ex-Sequoia Investor Sudhanshu Mishra Launches Agentic AI Startup Demi AI",
+          "url": "https://inc42.com/buzz/ex-sequoia-investor-sudhanshu-mishra-launches-agentic-ai-startup-demi-ai/",
+          "source": "Inc42",
+          "summary": "Former Sequoia Capital India investor Sudhanshu Mishra has launched an agentic AI startup called Demi.AI in the US, seeking to…"
         },
         {
-          "title": "L&T Technology Services Launches AI Toolchain for Software-Defined Vehicles",
-          "url": "https://analyticsindiamag.com/ai-news/lt-technology-services-launches-ai-toolchain-for-software-defined-vehicles",
+          "title": "Anthropic Introduces Claude Ship to Bring AI Agents Into Code Approval",
+          "url": "https://analyticsindiamag.com/ai-news/anthropics-claude-ship-brings-ai-agents-into-code-approval",
           "source": "Analytics India Mag",
-          "summary": "The platform combines 250 AI agents with rule-based automation across 12 engineering domains, while early pilots point to higher engineering capacity."
+          "summary": "The new suite of AI tools can review code, fix errors and approve routine changes based on rules set by development teams."
+        },
+        {
+          "title": "Anthropic launches Claude Ship to help developers ship code faster",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-claude-ship-to-help-developers-ship-code-faster/articleshow/136123696.cms",
+          "source": "ET Tech",
+          "summary": "Anthropic said on Monday it has launched Claude Ship to help developers ship code faster by reviewing changes, fixing problems and deciding which ones can be added to the main code based on rules set by a team."
         }
       ]
     }
@@ -377,6 +300,13 @@
     "devto": "https://dev.to/ace2504",
     "repos": [
       {
+        "name": "agentic-systems-engineering",
+        "desc": "AI agents on top of the systems companies already run: human approval for every entry, bank-confirmed payments, guardrails, and designs for legacy systems with no API. All data fictional.",
+        "url": "https://github.com/Ace-2504/agentic-systems-engineering",
+        "stars": 0,
+        "language": "Jupyter Notebook"
+      },
+      {
         "name": "ai-weekly-report",
         "desc": "My personalized AI newsletter that runs on an agentic AI",
         "url": "https://github.com/Ace-2504/ai-weekly-report",
@@ -396,13 +326,6 @@
         "url": "https://github.com/Ace-2504/wsp-study",
         "stars": 0,
         "language": "HTML"
-      },
-      {
-        "name": "agentic-systems-engineering",
-        "desc": "AI agents on top of the systems companies already run: human approval for every entry, bank-confirmed payments, guardrails, and designs for legacy systems with no API. All data fictional.",
-        "url": "https://github.com/Ace-2504/agentic-systems-engineering",
-        "stars": 0,
-        "language": "Jupyter Notebook"
       },
       {
         "name": "PROXY_SERVER",
