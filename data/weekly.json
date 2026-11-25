@@ -1,7 +1,7 @@
 {
-  "weekOf": "2026-11-18 to 2026-11-24",
-  "generated": "2026-11-24T16:40:56.748Z",
-  "intro": "111 AI items this week (68 India-relevant) across 9 sources.",
+  "weekOf": "2026-11-19 to 2026-11-25",
+  "generated": "2026-11-25T16:24:39.737Z",
+  "intro": "108 AI items this week (70 India-relevant) across 9 sources.",
   "sections": [
     {
       "heading": "Large Language Models",
@@ -17,12 +17,6 @@
           "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
           "source": "TechCrunch AI",
           "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
-        },
-        {
-          "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-          "source": "TechCrunch AI",
-          "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
         },
         {
           "title": "A more tailored Google Search that’s uniquely yours",
@@ -41,6 +35,12 @@
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
           "source": "Google AI Blog",
           "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API."
+        },
+        {
+          "title": "The Gemini app is now available on lower-memory Android devices.",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+          "source": "Google AI Blog",
+          "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
         }
       ]
     },
@@ -48,22 +48,40 @@
       "heading": "Multimodal & Media",
       "items": [
         {
-          "title": "The Gemini app is now available on lower-memory Android devices.",
-          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-          "source": "Google AI Blog",
-          "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
-        },
-        {
-          "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-          "url": "https://huggingface.co/blog/rumble-2-flash",
+          "title": "An Indic Voice Agent with CUGA",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
           "source": "Hugging Face",
           "summary": ""
+        },
+        {
+          "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+          "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+          "source": "TechCrunch AI",
+          "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated."
         }
       ]
     },
     {
       "heading": "Developer Tools & Agents",
       "items": [
+        {
+          "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
+        },
+        {
+          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+          "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+          "source": "TechCrunch AI",
+          "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+        },
+        {
+          "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+          "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+          "source": "TechCrunch AI",
+          "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
+        },
         {
           "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
           "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
@@ -82,40 +100,40 @@
       "heading": "Industry & Research",
       "items": [
         {
-          "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-          "source": "Hugging Face",
-          "summary": ""
-        },
-        {
-          "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-          "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+          "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
           "source": "TechCrunch AI",
-          "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
+          "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power and a finished building matter more than a pitch d…"
         },
         {
-          "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-          "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+          "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
           "source": "TechCrunch AI",
-          "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
+          "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler."
         },
         {
-          "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-          "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-          "source": "TechCrunch AI",
-          "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips."
-        },
-        {
-          "title": "Raising the stakes for enterprise networks with AI modernization",
-          "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+          "title": "AI is straining America’s open records systems",
+          "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
           "source": "MIT Tech Review",
-          "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more…"
+          "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure…"
         },
         {
-          "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+          "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+          "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
           "source": "TechCrunch AI",
-          "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+          "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the …"
+        },
+        {
+          "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+          "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+          "source": "TechCrunch AI",
+          "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
+        },
+        {
+          "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+          "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+          "source": "TechCrunch AI",
+          "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
         }
       ]
     },
@@ -123,52 +141,52 @@
       "heading": "India & Subcontinent",
       "items": [
         {
-          "title": "CrowdStrike to Buy Zscaler for $44 Bn as AI Raises Stakes for Cyber Defence",
-          "url": "https://analyticsindiamag.com/ai-news/crowdstrike-to-buy-zscaler-for-44-billion-as-ai-raises-stakes-for-cyber-defence",
-          "source": "Analytics India Mag",
-          "summary": "The deal will combine endpoint and network security businesses, giving CrowdStrike access to Zscaler's customer base and expanding its presence in enterprise"
+          "title": "Karnataka names 47 startup winners under ELEVATE 2026",
+          "url": "https://yourstory.com/2026/11/karnataka-names-47-startup-winners-under-elevate-2026",
+          "source": "YourStory",
+          "summary": "The list includes Agribotic Systems, Arthaveda, Arys Garage, Aviominds Global, Carnad Engineering, Ganesis Semiconductors, Gridflow Technologies, Insulin Yogi, Jatayu Saga, Pravaaha Biotech, Prakashikam Space, VIVIDSILICON, Wayve Electric, XALES AI, and others."
         },
         {
-          "title": "OpenAI, Cisco Launch Open-Source Security Tool in Wake of Outages",
-          "url": "https://analyticsindiamag.com/ai-news/openai-and-cisco-launch-shirudo-to-protect-linux-systems-from-exploits",
-          "source": "Analytics India Mag",
-          "summary": "Shirudo uses temporary safeguards to block exploits while allowing legitimate requests through, without taking services offline."
-        },
-        {
-          "title": "Google Launches Initiative to Support Indian Startups With AI, Cloud Infra",
-          "url": "https://analyticsindiamag.com/ai-news/google-launches-momentum-initiative-to-support-indias-startups",
-          "source": "Analytics India Mag",
-          "summary": "The initiative will provide Indian founders access to Google's AI models, cloud infrastructure, engineering expertise, and global platforms."
-        },
-        {
-          "title": "Cashfree Enables AI Agents in India to Pay From Wallet on Behalf of Users",
-          "url": "https://analyticsindiamag.com/ai-news/cashfree-launches-wallet-letting-ai-agents-pay-for-indian-users",
-          "source": "Analytics India Mag",
-          "summary": "Users keep control, as Cashfree Wallet lets AI agents pay bills within set budgets without ever seeing card or bank details."
-        },
-        {
-          "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
-          "url": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/",
+          "title": "Beyond Its Sovereignty Bet, What’s Sarvam Really Mining?",
+          "url": "https://inc42.com/features/beyond-its-sovereignty-bet-whats-sarvam-really-mining/",
           "source": "Inc42",
-          "summary": "Enterprise AI startup AidenAI has raised $32 Mn (₹297.1 Cr) in a Series A funding round led by growth investment…"
+          "summary": "Last week, Sarvam AI found itself in the eye of a storm. The poster child of India’s sovereign AI ambitions…"
         },
         {
-          "title": "Ex-Sequoia Investor Sudhanshu Mishra Launches Agentic AI Startup Demi AI",
-          "url": "https://inc42.com/buzz/ex-sequoia-investor-sudhanshu-mishra-launches-agentic-ai-startup-demi-ai/",
+          "title": "What Jensen Huang’s NVIDIA Return Means For India’s AI Players",
+          "url": "https://inc42.com/buzz/what-jensen-huangs-nvidia-return-means-for-indias-ai-players/",
           "source": "Inc42",
-          "summary": "Former Sequoia Capital India investor Sudhanshu Mishra has launched an agentic AI startup called Demi.AI in the US, seeking to…"
+          "summary": "Jensen Huang’s return as NVIDIA CEO has eased concerns over leadership continuity at a key supplier to India’s AI ecosystem.…"
         },
         {
-          "title": "Anthropic Introduces Claude Ship to Bring AI Agents Into Code Approval",
-          "url": "https://analyticsindiamag.com/ai-news/anthropics-claude-ship-brings-ai-agents-into-code-approval",
+          "title": "AI Trading in India Promises Smarter Investment Bets—At a Steep New Risk",
+          "url": "https://analyticsindiamag.com/ai-features/ai-trading-in-india-promises-smarter-investment-betsat-a-steep-new-risk",
           "source": "Analytics India Mag",
-          "summary": "The new suite of AI tools can review code, fix errors and approve routine changes based on rules set by development teams."
+          "summary": "AI-powered stock discovery tools are minimising the effort involved in research. However, building a financial chatbot comes with a significant challenge"
         },
         {
-          "title": "Anthropic launches Claude Ship to help developers ship code faster",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-claude-ship-to-help-developers-ship-code-faster/articleshow/136123696.cms",
-          "source": "ET Tech",
-          "summary": "Anthropic said on Monday it has launched Claude Ship to help developers ship code faster by reviewing changes, fixing problems and deciding which ones can be added to the main code based on rules set by a team."
+          "title": "[Update] Anthropic Rolls Out Claude Duet In India After US Launch",
+          "url": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/",
+          "source": "Inc42",
+          "summary": "Update | November 25, 2026, 18:50 IST Anthropic has expanded the research preview of Claude Duet, its AI-powered work assistant,…"
+        },
+        {
+          "title": "Nexent Capital launches $1B fund focused on AI & data centres investments",
+          "url": "https://yourstory.com/2026/11/nexent-capital-launches-1-billion-fund-focused-on-ai-data-centres-investments",
+          "source": "YourStory",
+          "summary": "The fund will deploy the capital in various modes such as private equity, credit and public equity."
+        },
+        {
+          "title": "Wipro to Onboard BP's 3,000-Member Finance Team in AI Transformation Deal",
+          "url": "https://analyticsindiamag.com/ai-news/bp-to-transfer-3000-finance-employees-to-wipro-in-strategic-partnership",
+          "source": "Analytics India Mag",
+          "summary": "The arrangement covers finance teams in India, Hungary and Malaysia, with the new operating model expected to take effect in 2027."
+        },
+        {
+          "title": "Anthropic Brings Claude Duet AI Agent to India",
+          "url": "https://analyticsindiamag.com/ai-news/anthropic-brings-claude-duet-ai-agent-to-india",
+          "source": "Analytics India Mag",
+          "summary": "Claude Duet is available through a waitlist for Pro, Max, and Ultra subscribers in India, while Team users get access through a public beta."
         }
       ]
     }
@@ -300,18 +318,18 @@
     "devto": "https://dev.to/ace2504",
     "repos": [
       {
-        "name": "agentic-systems-engineering",
-        "desc": "AI agents on top of the systems companies already run: human approval for every entry, bank-confirmed payments, guardrails, and designs for legacy systems with no API. All data fictional.",
-        "url": "https://github.com/Ace-2504/agentic-systems-engineering",
-        "stars": 0,
-        "language": "Jupyter Notebook"
-      },
-      {
         "name": "ai-weekly-report",
         "desc": "My personalized AI newsletter that runs on an agentic AI",
         "url": "https://github.com/Ace-2504/ai-weekly-report",
         "stars": 0,
         "language": "HTML"
+      },
+      {
+        "name": "agentic-systems-engineering",
+        "desc": "AI agents on top of the systems companies already run: human approval for every entry, bank-confirmed payments, guardrails, and designs for legacy systems with no API. All data fictional.",
+        "url": "https://github.com/Ace-2504/agentic-systems-engineering",
+        "stars": 0,
+        "language": "Jupyter Notebook"
       },
       {
         "name": "qengine",
