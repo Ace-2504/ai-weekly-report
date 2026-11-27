@@ -1,107 +1,107 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "top": {
-    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-    "source": "Hugging Face",
-    "published": "2026-11-26T11:37:17.000Z",
-    "summary": ""
+    "title": "Context Scaling: A New Frontier of AI Scaling",
+    "url": "https://arxiv.org/abs/2611.33160",
+    "source": "arXiv cs.AI",
+    "published": "2026-11-27T05:00:00.000Z",
+    "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor rea…"
   },
   "topIndia": {
-    "title": "NITES seeks policy framework to ringfence IT workers from AI job displacement",
-    "url": "https://yourstory.com/2026/11/nites-seeks-policy-framework-ringfence-it-workers-ai-job-displacement",
-    "source": "YourStory",
-    "published": "2026-11-26T15:03:22.000Z",
-    "summary": "The Nascent Information Technology Employees Senate (NITES) is for technology moving forward the industry but not with leaving workforce behind"
+    "title": "From Alibaba to BharatGen, 10 Small Language Models That Rivalled LLMs in 2026",
+    "url": "https://analyticsindiamag.com/ai-features/from-alibaba-to-bharatgen-10-small-language-models-that-rivalled-llms-in-2026",
+    "source": "Analytics India Mag",
+    "published": "2026-11-27T13:30:00.000Z",
+    "summary": "From Google DeepMind's Gemma 4 E2B and E4B to BharatGen Param 2, 10 small language models released in 2026 that are primed to become enterprise workhorses."
   },
   "headlines": [
     {
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "source": "Hugging Face",
-      "published": "2026-11-26T05:05:36.000Z"
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-27T05:00:00.000Z"
     },
     {
-      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
-      "url": "https://arxiv.org/abs/2611.31284",
+      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+      "url": "https://arxiv.org/abs/2611.33165",
       "source": "arXiv cs.AI",
-      "published": "2026-11-26T05:00:00.000Z"
+      "published": "2026-11-27T05:00:00.000Z"
     },
     {
-      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
-      "url": "https://arxiv.org/abs/2611.31301",
+      "title": "General-Purpose Decision Models for AI Configuration Tuning",
+      "url": "https://arxiv.org/abs/2611.33190",
       "source": "arXiv cs.AI",
-      "published": "2026-11-26T05:00:00.000Z"
+      "published": "2026-11-27T05:00:00.000Z"
     },
     {
-      "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
-      "url": "https://arxiv.org/abs/2611.31329",
+      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+      "url": "https://arxiv.org/abs/2611.33263",
       "source": "arXiv cs.AI",
-      "published": "2026-11-26T05:00:00.000Z"
+      "published": "2026-11-27T05:00:00.000Z"
     },
     {
-      "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
-      "url": "https://arxiv.org/abs/2611.31345",
+      "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+      "url": "https://arxiv.org/abs/2611.33303",
       "source": "arXiv cs.AI",
-      "published": "2026-11-26T05:00:00.000Z"
+      "published": "2026-11-27T05:00:00.000Z"
     },
     {
-      "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
-      "url": "https://arxiv.org/abs/2611.31346",
+      "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+      "url": "https://arxiv.org/abs/2611.33304",
       "source": "arXiv cs.AI",
-      "published": "2026-11-26T05:00:00.000Z"
+      "published": "2026-11-27T05:00:00.000Z"
     },
     {
-      "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
-      "url": "https://arxiv.org/abs/2611.31347",
+      "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
+      "url": "https://arxiv.org/abs/2611.33322",
       "source": "arXiv cs.AI",
-      "published": "2026-11-26T05:00:00.000Z"
+      "published": "2026-11-27T05:00:00.000Z"
     },
     {
-      "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
-      "url": "https://arxiv.org/abs/2611.31424",
+      "title": "Confidence scores for gated automation of large language models",
+      "url": "https://arxiv.org/abs/2611.33394",
       "source": "arXiv cs.AI",
-      "published": "2026-11-26T05:00:00.000Z"
+      "published": "2026-11-27T05:00:00.000Z"
     },
     {
-      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
-      "url": "https://arxiv.org/abs/2611.31427",
+      "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+      "url": "https://arxiv.org/abs/2611.33402",
       "source": "arXiv cs.AI",
-      "published": "2026-11-26T05:00:00.000Z"
+      "published": "2026-11-27T05:00:00.000Z"
     },
     {
-      "title": "Taxi: Analyzing Agents at (Real) Scale",
-      "url": "https://arxiv.org/abs/2611.31457",
+      "title": "Collaborative Language Models for Semantic IoT Data Processing: Validation through Zero-Shot Human Activity Recognition",
+      "url": "https://arxiv.org/abs/2611.33411",
       "source": "arXiv cs.AI",
-      "published": "2026-11-26T05:00:00.000Z"
+      "published": "2026-11-27T05:00:00.000Z"
     },
     {
-      "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
-      "url": "https://arxiv.org/abs/2611.31475",
+      "title": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
+      "url": "https://arxiv.org/abs/2611.33470",
       "source": "arXiv cs.AI",
-      "published": "2026-11-26T05:00:00.000Z"
+      "published": "2026-11-27T05:00:00.000Z"
     },
     {
-      "title": "Evaluating Frontier-Model Agent Skills with Open-Weight Models in a Science Gateway",
-      "url": "https://arxiv.org/abs/2611.31480",
+      "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+      "url": "https://arxiv.org/abs/2611.33497",
       "source": "arXiv cs.AI",
-      "published": "2026-11-26T05:00:00.000Z"
+      "published": "2026-11-27T05:00:00.000Z"
     }
   ],
   "events": [
     {
-      "title": "Multi-agent System for Automatic Discovery of Pareto-optimal Meta-solvers for PDEs",
-      "url": "https://arxiv.org/abs/2611.31611",
+      "title": "MetaDecomp: Adaptive Task Decomposition via Meta-Learned Procedural Memory",
+      "url": "https://arxiv.org/abs/2611.33822",
       "source": "arXiv cs.AI",
-      "published": "2026-11-26T05:00:00.000Z",
-      "summary": "arXiv:2611.31611v1 Announce Type: new Abstract: Designing linear solvers for discretized partial differential equations requires problem-specific expertise. We present a multi-agent framework, in which language-model agents propose, critique, implement, and evaluate solver con…"
+      "published": "2026-11-27T05:00:00.000Z",
+      "summary": "arXiv:2611.33822v1 Announce Type: new Abstract: Reusing past experience in long-horizon tasks requires more than storing successful procedures: Language agents must distinguish which procedures apply and what work remains as execution progresses. We introduce MetaDecomp, an in…"
     },
     {
-      "title": "MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing",
-      "url": "https://arxiv.org/abs/2611.33119",
+      "title": "Towards Faithful Agentic XAI: A Verification Method and an Open-World Benchmark for Better Model Faithfulness",
+      "url": "https://arxiv.org/abs/2605.27879",
       "source": "arXiv cs.AI",
-      "published": "2026-11-26T05:00:00.000Z",
-      "summary": "arXiv:2611.33119v1 Announce Type: new Abstract: Large language models (LLMs) can generate parallel programs, but their correctness and performance depend strongly on the instructions that guide generation. We present \\textsc{MetaFORGE}, an execution-grounded meta-learning fram…"
+      "published": "2026-11-27T05:00:00.000Z",
+      "summary": "arXiv:2605.27879v2 Announce Type: replace Abstract: Explainable AI (XAI) helps users interpret model behavior and identify potential faults. Agentic XAI systems use Large Language Models (LLMs) to make explanations more accessible through natural-language interaction, but they…"
     },
     {
       "title": "Ex-xAI Team Has Launched a New Startup to Do the Impossible—Predict the Future",
@@ -150,9 +150,9 @@
     {
       "name": "Dario Amodei",
       "org": "Anthropic",
-      "link": "https://inc42.com/buzz/anthropic-ceo-accuses-rivals-of-using-human-control-slogans-without-tackling-ai-risks/",
-      "article": "Anthropic CEO Accuses Rivals Of Using ‘Human Control’ Slogans Without Tackling AI Risks",
-      "source": "Inc42"
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-chief-dario-amodei-denies-wanting-humans-to-surrender-free-will-to-ai/articleshow/136178073.cms",
+      "article": "Anthropic chief Dario Amodei denies wanting humans to 'surrender' free will to AI",
+      "source": "ET Tech"
     },
     {
       "name": "Yann LeCun",
@@ -164,9 +164,9 @@
     {
       "name": "Jensen Huang",
       "org": "NVIDIA",
-      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "article": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "source": "TechCrunch AI"
+      "link": "https://economictimes.indiatimes.com/tech/tech-bytes/women-express-frustration-concern-over-nvidia-boss-jensen-huangs-return/articleshow/136210795.cms",
+      "article": "Women express frustration, concern over Nvidia boss Jensen Huang's return",
+      "source": "ET Tech"
     },
     {
       "name": "Andrej Karpathy",
